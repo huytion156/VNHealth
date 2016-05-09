@@ -1,0 +1,108 @@
+﻿I.Đặc điểm
++ Đông máu thường khu trú ở một vùng nhất định là nhờ sự phối hợp của luồng máu và các chất ức chế đông máu đang lưu hành, đặc biệt là kháng trombin III. Nếu kích thích gây đông máu quá mạnh, các cơ chế kiểm soát có thể bị hỏng, dẫn tới hội chứng đông máu rải rác trong lòng mạch (DIC)
+
++ Mức kháng trombin III có thể thấp ở DIC vì tăng tiêu thụ kết hợp với giảm tổng hợp.
+
++ DIC có thể như là hệ quả của việc có mặt trombin trong tuần hoàn (bình thường chỉ hạn chế đối với một vùng được định vi).
+- Trombin tác động chuyển fibrinogen thành fibrin monome, hình thành kết tụ tiểu cầu, kich hoat yếu tố V và VIII, và hoat hoa plasminogen tổ chức, sinh ra Plasmin.
+- Plasmin quay lại phân chia fibrin, phát sinh những sản phẩm fibrin cấp thấp, và rồi thì ức chế yếu tố V và VIII.
++ Như vây, trombin hoạt hoá quá mức làm giảm fibrinogen-huyết, giảm tiểu cầu, tiêu thụ cạn kiệt các yếu tố đông máu, và phân hủy fibrin...
+
++ DIC có thể gây ra bởi một số bệnh hiểm nguy, như nhiễm trùng máu (đặc biệt với vi khuẩn gram âm và có thể với bất kỳ truyền nhiễm do vi khuẩn hay nấm lan rộng), vết thương, khi mổ nặng (đặc biệt là bỏng và vết thương đầu) tai biến sản (tắc dịch ối, sảy thai nhiễm khuẩn huyết, lưu thai), ung thư (bệnh bạch cầu cấp, ung thư tuyến nhầy), và các ca phản ứng truyền máu tan máu nặng.
+
+
+II.Chẩn đoán
+1. 3 tiêu chuẩn của CMDT 2005
++ Bệnh nghiêm trọng bên dưới.
++ Thiếu máu huyết tán vi mạch có thể hiện diện.
++ Giảm fibrinogen huyết, giảm tiểu cầu, những sản phẩm phân giải fibrin, và thời gian protrombin kéo dài.
+
+2. Tiêu chuẩn thực tiễn (TpHCM)
++ Lâm sàng:
+  Xuất huyết, hoại tử đầu chi, rối loạn chức năng gan, thận, phổi…
+
+
++ Xét nghiệm: (5 XN đầu là phổ biến, đủ điều kiện để kết luận)
+- Tiểu cầu < 90.000/mm3
+- PT (Quick time) kéo dài (gấp đôi chứng)
+- aPTT kéo dài (gấp đôi chứng)
+- Fibrinogen < 1- 2g/l
+- Nghiệm pháp rượu +
+- TT (thời gian thrombin) kéo dài
+- AT III < 70%)
+- FDPs (sản phẩm hóa giáng của Fibrin tăng > 5mcg/l hoặc các sản phẩm hóa giáng đặc hiệu của tiêu hủy fibrin D-dimer > 0.5ng/l.
+
+3. Tham khảo
+a. Những sản phẩm phân giải fibrin là nhạy cảm nhất cho XN phát hiện DIC;
+ tuy nhiên, không có tham số XN đơn độc để chẩn đoán DIC, và những kết quả tìm được có thể rất biến thiên.
+ Lập lại các XN đông máu có thể định giá nhịp độ và độ sâu của yếu tố tiêu thụ hay thay thế.
+
+b. Phết máu Ngoại vi:
+- Bằng chứng của tan huyết mao quản với những mảnh vỡ hồng cầu và giảm tiểu cầu.
+- Đếm tiểu cầu gần như bình thường nhiều lần thì có thể loại trừ chẩn đoán DIC cấp.
+
+III.Triệu chứng:
+1. Lâm sàng
++ DIC dẫn tới cả chảy máu + tắc động mach. chảy máu nhìn chung lớn hơn nhiều so với tắc động mach, nhưng về sau có thể vượt trội nếu đông máu hoạt hoá mạnh hơn so với huỷ fibrin.
+
+
++ Chảy máu có thể xuất hiện tại bất kỳ chỗ nào, nhưng chảy máu tự động và rỉ rả tại nơi chọc tĩnh mạch hay các vết thương - là những đầu mối quan trọng hướng tới chẩn đoán. Chảy máu Dạ dày-ruột và đường niệu hay gặp...
+
+
++Tắc động mach có thể biểu lộ bởi thiếu máu cục bộ và hoại tử, khi nặng thì hoại tử vỏ tụy thượng thận xuất huyet có thể xuất hiện.
+
++ DIC cũng xuất hiện thứ phát do thiếu máu huyết tán vi mạch.
+
++ DIC bán cấp được thấy chủ yếu ở bệnh nhân ung thu và được biểu lộ chủ yếu như thromboses tĩnh mạch nông và sâu có định kỳ (Hội chứng Trousseau).
+
+2. Xét nghiệm
+- DIC sản xuất một phức hợp đông máu bệnh lý với đặc điểm điển hình là giảm fibrinogen-huyết, sản phẩm phân hủy fibrin tăng, giảm tiểu cầu và pt kéo dài. Chất nhị trùng - D (D-dimer) là nhạy cảm nhất.
+
+- Tất cả các sản phẩm phân hủy fibrin đều bi làm sạch bởi gan và như vậy có thể tăng lên trong loạn chức năng gan.
+
+- Giảm fibrinogen-huyết là đặc điểm chẩn đoán CLS quan trọng khác, vi chỉ một số it rối loạn khác làm giảm nó (Giảm fibrinogen-huyết bẩm sinh, bệnh gan ác tính). Thời gian bán hủy fibrinogen xấp xỉ là 4 ngày, một mức fibrinogen xuống độc lập sẽ xác nhận chẩn đoán DIC.
+
+- Những xét nghiệm khác là ít thay đổi. ptT có thể không kéo dài. Xấp xỉ 25% trường hợp thiếu máu huyết tán vi mạch có mặt, và những hồng cầu phân mảnh được nhìn thấy trên phết máu ngoại vi.
+
+- Mức kháng trombin III có thể giảm mạnh. Khi phân hủy fibrin được kich hoạt, mức plasminogen và a2- kháng plasmin có thể thấp.
+
+- DIC hơi nặng (bán cấp) có kết quả xét nghiệm rất khác nhau. giảm tiểu cầu và D-chat nhị trùng tăng thường là những bất thường duy nhất. Mức fibrinogen bình thường, và ptT có thể bình thường.
+
+3. Phân biệt
+- Bệnh Gan có thể kéo dài cả hai pt và ptT, nhưng mức fibrinogen thường bình thường, và đếm tiểu cầu thường bình thường hay chỉ hơi giảm. Tuy nhiên, bệnh gan nặng có thể khó để phân biệt với DIC. thiếu hụt vitamin K sẽ không ảnh hưởng đến mức fibrinogen hay tiểu cầu và sẽ hoàn toàn được sữa chữa bởi bổ xung vitamin K.
+
+- Nhiễm trùng máu làm giảm tiểu cầu và thiếu máu cục bộ, và bệnh đông máu có thể có mặt bởi vì thiếu hụt vitamin K. Tuy nhiên, trong những trường hợp này, mức chất fibrinogen sẽ vẫn bình thường.
+
+- Bệnh TTP cũng có thể có sốt và ITP. Tuy nhiên, fibrinogen và những XN đông máu khác sẽ vẫn bình thường.
+
+IV.Điều trị
+1. Trọng tâm ban đầu
+- Cần phải chẩn đoán và điều trị bệnh nền tảng gây ra DIC ( vd, Nhiễm trùng máu ...).
+- Trong nhiều trường hợp, DIC sẽ chỉ thấy bất thường về xét nghiệm nhưng biểu thị lâm sàng thì nhẹ, và trường hợp này không yêu cầu điều trị đặc biệt.
+-  DIC nặng xu thế giảm đông thì cho các yếu tố đông máu.
+- DIC nặng có xu thế tăng đông thì cho Heparin.
+- DIC nặng kèm shock phải bù dịch và truyền máu đầy đủ.
+- Nếu bệnh nhân có nguy có cao chảy máu hay chảy máu cấp với bằng chứng hoá sinh của DIC: Truyền fibrinogen với 10 đơn vị của cryoprecipitate. Truyền yếu tố đông máu với 2-4 dv plasma đông lạnh.
+- Nếu truyền thay thế bằng fibrinogen và tiểu cầu: phải XN k.tra sau 30-60' đã truyền, và mỗi 4-6 giờ để xác định liều hiệu quả.
+
+2. Heparin
+- Vai tro heparin trong điều trị DIC còn gây bàn cãi.
+- Khi chỉ định: một liều 500-750U/h thường là đủ. Hoặc bắt đầu bằng liều thấp 5-10dv/kg/giờ. Heparin không thể có hiệu quả nếu nhưng mức kháng trombin III giảm trầm trọng. Trong dùng heparin, không cần thiết kéo dài ptT. Chữa bệnh thành công khi mức fibrinogen được nâng lên, sản phẩm phân hủy fibrin giảm trong 1-2 ngày.
+- Khi nguyên nhân gây ra DIC có thể đảo ngược nhanh chóng (như trong những trường hợp sản khoa), điều trị thay thế một mình có thể chỉ định. 
+- Trong một số trường hợp, khi bất kỳ thuốc tăng chảy máu loại nào cũng không thể chấp nhận (nhưng trong phẫu thần kinh), liệu trình
+heparin là chống chỉ định. Tuy nhiên, khi DIC là nghiêm trọng vi hệ quả của bệnh nặng và nguyên nhân nằm bên dưới không nhanh chóng có thể đảo ngược, heparin có thể có ích.
+- Một chỉ định rõ ràng để dùng heparin là có tắc động mạch, có bằng chứng của sự giáng hạ fibrin (thí dụ hoại tử da, bệnh huyết khối tắc tính mach). 
+
+3. Điều trị thay thế
+- Truyền tiểu cầu cần dùng để bảo đảm tiểu cầu > 30,000/uL, và 50,000/uL nếu khả dĩ.
+- Fibrinogen được thay thế bởi cryoprecipitate, với mục tiêu cho tới mức fibrinogen trong huyết tương đạt 150mg/dL.
+- Một đơn vị cryoprecipitate thường nâng mức fibrinogen lên 6-8mg/dL, Vì thế 15 đv cryoprecipitate sẽ nâng mức từ 50 đến 150mg/dL.
+- Thiếu yếu tố đông máu cần yêu cầu thay thế với plasma frozen lạnh.
+
+4. Axit aminocaproic:
+- Trong một số trường hợp, khi DIC là tai biến bởi phân hủy fibrin quá mức, kết hợp heparin và liệu trình thay thế có thể không thích hợp để kiểm soát chảy máu.
+- Trong những trường hợp này, E - Axit aminocaproic, 1 G IV/h được thêm vào để giảm bớt nhịp độ phân hủy fibrin, nâng mức fibrinogen, và kiểm soát chảy máu.
+- E - axit aminocaproic không nên dùng mà không có heparin trong DIC vì nguy cơ của tắc động mạch.
+
+V.Tiên lượng
++ Tuy thuốc mức độ nặng của bệnh cơ sở

@@ -1,0 +1,180 @@
+﻿I.Đại cương
+1.Malaria
+là một bệnh lây thường gặp ở các nước sống giữa khoảng 60 độ vĩ Bắc và 40 độ vĩ Nam như Nam Mỹ, Phi Châu, Đông Nam Á.
+
+Bệnh do ký sinh trùng Plasmodium gây nên và được truyền từ người này sang người khác qua vết đốt của muỗi Anopheles.
+Ngày nay có khoảng 2 tỷ 700 triệu người sống trong vùng dịch tễ sốt rét
+và khoảng 400 triệu người sốt rét hàng năm trong đó có khoảng 2 triệu người chết
+
+2. Tác nhân gây bệnh
+a. Loài Plasmodium
+Có chừng 140 loài Plasmodium, nhưng chỉ 4 loài gây bệnh cho người
+là P.falciparum,
+
+Plasmodium falciparum là nguyên nhân gây sốt rét nặng và tử vong.
+Ở nước ta P. falciparum 70 - 80% P. malariae 1%
+P. vivax 20 - 29% P. ovale (nước ta không có, ở châu Phi).
+
+b.Chu trình phát triển
+Plasmodium phát triển 2 giai đoạn:
+giai đoạn hữu tính ở muỗi, giai đoạn vô tính ở người.
++ Giai đoạn hữu tính
+Muỗi Anopheles cái đốt người mang ký sinh trùng sốt rét hút máu, vào trong dạ dày muỗi máu được tiêu hoá.
+Nếu hồng cầu có giao tử đực và giao tử cái (gametocytes),
+
+khi hồng cầu bị hủy sẽ phóng thích ra dạng các phôi tử (gametes),
+các phôi tử phối hợp nhau để thành hợp tử (zygotes);
+hợp tử phát triển thành noãn động (ockinites) rồi nang (ocytes),
+nang bám chặt vào thành dạ dày để lớn lên rồi thành các tế bào hình kim được gọi là thoa trùng (sporozoites),
+
+chúng đến thực quản rồi khu trú ở tuyến nước bọt muỗi, khi muỗi đốt chúng sẽ vào cơ thể người.
+Giai đoạn này ngắn hay dài tùy vào nhiệt độ môi trường, muỗi và loại ký sinh trùng, trung bình khoảng 7-21 ngày.
+
++ Giai đoạn vô tính: có 2 chu kỳ.
+* Chu kỳ ngoại hồng cầu:
+30 phút sau khi vào cơ thể, các thoa trùng xâm nhập vào tế bào gan,
+phát triển thành thể tư dưỡng (trophozoites), rồi thể phân liệt (schizontes),
+chúng phá vỡ tế bào gan và thành các tiết trùng còn gọi là tiểu thể hoa cúc (merozoites) vào máu để xâm nhập hồng cầu.
+Chu kỳ này dài 5-7 ngày với P. falciparum, 10 -15 ngày với P. vivax .
+- Đối với các tiểu thể hoa cúc của P. falciparum sau khi vào máu không tồn tại trong gan nữa, cho nên không gây ra tái phát xa.
+- Đối với các tiểu thể hoa cúc của P. vivax một số vào máu một số còn tồn tại trong tế bào gan (còn gọi là thể ngủ) song song với chu kỳ hồng cầu, gây các đợt tái phát xa.
+
+* Chu kỳ hồng cầu:
+Các tiểu thể hoa cúc vào máu sẽ xâm nhập hồng cầu,
+rồi phát triển thành tư dưỡng, rồi thể phân liệt, rồi thành tiểu thể hoa cúc.
+Các tiểu thể hoa cúc phá vỡ hồng cầu (gây sốt) rồi vào máu
+và xâm nhập hồng cầu khác tạo một chu kỳ mới
+và cứ thế ngày một tràn ngập nhiều hơn trong máu nếu không điều trị.
+Chu kỳ này thay đổi
+24 - 48 giờ cho P. falciparum (cơn sốt cách nhật ác tính);
+36-48 giờ cho P. vivax (cơn sốt cách nhật lành tính)
+
+3.Vectơ truyền bệnh:
+Muỗi Anopheles cái là vectơ truyền bệnh và là vật chủ tạm thời.
+Trên thế giới, có chừng 60/400 loài có thể truyền bệnh sốt rét.
+Nước ta có 4/50 loài truyền bệnh:
+- A. minimus: ở vùng nước chảy núi rừng sâu trong cả nước.
+
+- A. dirus (balabacensis): vùng rừng từ ranh giới Nghệ An, Thanh Hóa vào miền Nam
+
+- A. sundaicus: Vùng biển nước lợ Nam bộ.
+
+- A. subpictus: Di Linh, Lâm Đồng
+
+
+Nhìn chung, những loài muỗi này sống ở vùng núi, vừa ở trong nhà, vừa ở ngoài trời.
+Sinh sản nhiều về mùa mưa, và rất dễ đề kháng với các thuốc diệt muỗi thường dùng như malathion, DDT.
+Anopheles cái đốt và hút máu người, rồi đậu một nơi để tiêu hóa và chờ trứng chín, bay tìm chỗ đẻ, sau đó bay đi tìm mồi (Anopheles thường hoạt động vào nửa đêm về sáng 22giờ - 4giờ).
+Mỗi lần muỗi đẻ chừng 100 - 200 trứng, trứng phát triển thành bọ gậy - lăng quăng- rồi muỗi trưởng thành.
+Ở nhiệt độ tối ưu 20 -300C, muỗi Anopheles sống chừng 4 tuần lễ, thời gian này đủ cho Plasmodium có thể hoàn chỉnh chu kỳ hữu tính ở muỗi (khoảng 10 -16 ngày).
+Điều này giúp cho Anopheles trở thành trung gian truyền bệnh và vật chủ tạm thời.
+
+II. Dịch tễ
+1. Đường lây truyền
+Bệnh sốt rét lây truyền qua nhiều đường
+- Muỗi đốt là chủ yếu
+- Truyền máu bị nhiễm ký sinh trùng.
+- Dùng chung kim chích có dính máu mang KSTSR không tiệt trùng (rất hiếm, ở người sử dụng ma túy),
+- Qua nhau thai ở mẹ có KSTSR (+) đã được mô tả ở một số nước.
+
+2. Các yếu tố nguy cơ
+a. Môi trường tự nhiên & sinh học
+- Nhiệt độ môi trường: tối ưu 20 - 300C
+- Độ ẩm môi trường: > 50%
+- Mùa: trước, trong, sau mùa mưa (nước ta từ tháng 4 - 10 hàng năm)
+- Vị trí địa lý: núi đồi, cao nguyên, rừng rậm hoặc ven biển nước lợ, phù hợp với điều kiện sinh thái của vectơ
+- Sự nhậy cảm của vectơ đối với hóa chất đang sử dụng
+
+b.Yếu tố kinh tế - xã hội
+- Tuổi và giới: mọi lứa tuổi và mọi giới đều có khả năng mắc bệnh 
+- Phong tục tập quán: thói quen ngủ không có màn, ngủ rẫy của đồng bào dân tộc, di chuyển địa điểm sống hoặc hành hương trong mùa lễ hội.
+- Mức sống: nghèo nàn, lạc hậu, thiếu ăn, dinh dưỡng kém, ăn ở tạm bợ.
+- Nghề nghiệp: nghề nghiệp dễ tiếp xúc vectơ như lao động vùng rừng núi, khách du lịch.
+- Những hoạt động có khả năng tăng sốt rét: đào hồ ao, phát triển thủy lợi, thủy điện, khai hoang rừng tre nứa để lại gốc
+- Các yếu tố làm dễ cho bệnh nặng: phụ nữ có thai, trẻ em, người cao tuổi, nghiện ma túy, suy giảm miễn dịch
+
+III. Miễn dịch sốt rét
+Trong 30 năm qua, do tìm kiếm vắc xin hiệu lực mà miễn dịch sốt rét được nghiên cứu sâu hơn.
+1. Miễn dịch tự nhiên
+- Người không mắc bệnh do các loài Plasmodium ở chim, bò sát và gặm nhấm.
+- Người có HbF, HbS và HbC (homozygous C) có miễn dịch tự nhiên với P. falciparum.
+- Người Phi châu và Mỹ da đen thiếu kháng nguyên hồng cầu nhóm Duffy - là yếu tố kháng tự nhiên với P. vivax nên hiếm bị nhiễm P. vivax.
+
+2.Miễn dịch thụ đắc
+- Đáp ứng miễn dịch thu được khi mắc sốt rét có 2 tính chất chính là tính ghi nhớ và tính đặc hiệu.
+Lần đầu tiên tiếp xúc với KSTSR hệ thống miễn dịch ghi lại các thông tin.
+Khi tiếp xúc lần 2, hệ miễn dịch đáp ứng là nhờ thông tin ghi nhận vào lần đầu.
+Ở vùng dịch tễ sốt rét, trẻ con dưới 6 tháng tuổi được miễn dịch thụ động qua nhau thai từ mẹ, trong thời gian này nếu trẻ nhiễm KSTSR thì không có triệu chứng lâm sàng do cơ thể có kháng thể và trẻ tự tạo được kháng thể, sau 6 tháng trẻ hết kháng thể của mẹ bảo vệ thì có thể tự chống đỡ với bệnh được.
+
+- Sự nhiễm KST liên tục sẽ tạo cho cơ thể một đáp ứng miễn dịch đối với sốt rét mà người ta gọi là hiện tượng tiền miễn dịch (premunition).
+Trong lần sơ nhiễm vai trò miễn dịch chủ yếu là hiện tượng thực bào.
+Trong lần tái nhiễm, miễn dịch tế bào trở nên rầm rộ hơn, mạnh mẽ hơn nhờ các lympho T đã được mẫn cảm với kháng nguyên từ trước.
+Ngoài ra còn có sự đóng góp tích cực của các Lympho B ghi nhớ, vai trò của kháng thể, nhất là IgG, IgM và IgA.
+Tuy nhiên IgG tăng cao hơn IgA và tồn tại lâu hơn.
+Trong huyết thanh, nồng độ IgG cao sẽ chống lại các tiểu thể hoa cúc xâm nhập hồng cầu, do đó KST dễ dàng bị các đại thực bào tiêu diệt.
+
+- Để có tình trạng miễn dịch này, hệ liên võng nội mô cơ thể phải hoạt động hết sức tích cực, phản ánh trên lâm sàng là gan, lách lớn.
+Lách có một vai trò đặc biệt trong bệnh sốt rét, lách là nơi tập trung và diệt các hồng cầu bị nhiễm KSTSR, nhờ các Lympho T và Lympho B cùng các chất gây độc tế bào khác.
+
+- Nhờ có hiện tượng tiền miễn dịch, lượng KSTSR sẽ duy trì ở mức thấp trong một thời gian dài, mà không có triệu chứng lâm sàng.
+Miễn dịch đặc hiệu cho từng loài Plasmodium.
+
+- Quá trình hình thành miễn dịch này đòi hỏi một thời gian khá dài phải vài năm và đòi hỏi phải tái nhiễm liên tục.
+Do đó nếu không tái nhiễm để kích thích miễn dịch thì tính miễn dịch sẽ giảm dần và xuất hiện triệu chứng lâm sàng (gặp ở người ra khỏi vùng dịch tễ sốt rét).
+Miễn dịch cũng giảm ở người mang bệnh ác tính, cắt lách, suy gan hoặc mang thai...
+Như vậy, miễn dịch thụ đắc trong sốt rét là miễn dịch không bền.
+
+IV. KST SR kháng thuốc
+1. Xác định nhạy và kháng thuốc
++Nhạy cảm:
+- Sau 48 giờ điều trị, mật độ ký sinh trùng giảm 75% so với ngày đầu,
+- rồi sạch hẳn vào ngày 6 – 7, không xuất hiện lại trong 28 ngày sau điều trị.
+
++Kháng:
+- Độ I (RI): sạch ký sinh trùng như trường hợp nhạy cảm, nhưng xuất hiện lại trong 28 ngày.
+- Độ II (RII): mật đô ký sinh trùng giảm 75% sau 48 giờ, nhưng không hết hẳn trong tuần đầu.
+- Độ III (RIII): mật độ ký sinh trùng không giảm mà tăng trong 48 giờ đầu, hoặc giảm < 75%
+
+2. Kháng thuốc trên thế giới
+Hầu hết các vùng sốt rét lưu hành trên thế giới có ký sinh trùng kháng thuốc ở các mức độ khác nhau
+(73/95 quốc gia và lãnh thổ, theo thông báo của WHO,1994).
+
++Plasmodium falciparum kháng thuốc
+- Kháng với quinin được phát hiện 1910 ở Brazil.
+- Kháng với Proguanil và pyrimethamin từ đầu những năm 1950.
+- Kháng với Chloroquine 1960 ở biên giới Columbia và Venezuela, tiếp đến Thái lan năm 1961.
+- Kháng với Amodiaquin 1961 ở Brazil. Fancidar ở Thái lan 1980.
+- Kháng với Mefloquin ở Thái lan năm 1982 và tăng nhanh về sau, và có kháng chéo với halofantrin.
+- Kháng với Artemisinin và dẫn chất chỉ thấy trên mô hình động vật thí nghiệm 1985 (P. Bergei).
+
++ Plasmodium vivax kháng thuốc
+- Kháng với Fansidar được thông báo năm 1979. 
+- Kháng với Chloroquin được thông báo lần đầu 1989.
+- Kháng với Amodiaquin đã gặp (thông báo 1996).
+- Kháng quinin hoặc mefloquin chưa thấy thông báo
+ 
+3 Nguyên nhân kháng thuốc
+a.Nguyên nhân chủ yếu
+- Áp lực thuốc: dùng nhiều một loại thuốc trong thời gian dài ở cộng đồng rộng sẽ tạo điều kiện KSTSR biến dị, hoặc thích nghi dần gây ra kháng thuốc, ngừng dùng tăng lên.
+- Hiện tượng kháng có thể mất đi sau một thời giaư: làm các chủng kháng thuốc lan ra.
+- Di biến động dân cư
+
+b.Hậu quả kháng thuốc
+- Khó điều trị tiệt căn
+- Bệnh sốt rét dễ diễn tiến nặng
+- Khó khăn phòng các vụ dịch sốt rét ất tốn kém
+- Chi phí điều trị và phòng bệnh chống kháng thuốc
+
+4. Biện pháp phòng
+a. Ngừa kháng
+- Hướng dẫn và giám sát điều trị đúng liều tại cơ sở - Truyền thông cộng đồng biết tự chẩn đoán và hướng dẫn điều trị đủ liều
+thuốc - Tăng cường kiểm tra KST ở bệnh nhân và điều trị tiệt căn, đủ liều, không áp
+dụng điều trị phỏng đoán liều
+- Lựa chọn phác đồ nhạy cảm, dùng đủ
+- Giám sát ký sinh trùng kháng thuốc.
+
+b.Biện pháp xử trí đối với ký sinh trùng kháng thuốc
+- Tìm phác đồ chống kháng (tối ưu là phối hợp thuốc)
+- Quản lý tốt nguồn bệnh, tránh mầm bệnh kháng thuốc lan truyền
+- Đẩy mạnh điều trị tiệt căn, ngừng dùng thuốc bị kháng
+- Nghiên cứu sãn xuất thuốc mới.

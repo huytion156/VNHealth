@@ -1,0 +1,94 @@
+﻿1. Nguyên nhân và triệu chứng
+     -Thuật ngữ "nhiễm độc tuyến giáp" liên quan tới các bệnh với biểu hiệṇ lâm sàng có liên hệ với T4 hay T3 huyết thanh cao quá mức (còn gọi là tăng năng tuyến giáp).
+     - Bướu giáp & tiểu đường là hai bệnh nội tiết hay gặp nhất cả trong bệnh nội khoa & trong pt.
+     - Là trạng thái bệnh lý biểu hiện bằng sự phì đại lan toả hoặc một phần nhu mô tuyến giáp, có thể kèm theo cường giáp hoặc không.
+     - Tuyến giáp bình thường chỉ 30 g (không sờ thấy); máu tới nhiều (5 lít/giờ); nằm cạnh nhiều cơ quan quan trọng (động tĩnh mạch cảnh, dây TK phế vị…); khi bướu lớn có thể làm lệch vẹo hoặc chèn, làm mỏng cả khí quản…
+     - Trẻ em cắt tuyến – ngừng phát triển; tiết canxitonine (làm hạ canxi máu), tiết thyroxine – ra ngoại biên T4 90% & T3 10% (T3 mạnh hơn T4 5-6 lần; chúng có vai trò trong biến duỡng sinh năng lượng, phát triển hình thể, tăng trưởng cơ quan, chuyển hoá đường-đạm-mỡ-muối nước, lợi tiểu & dẫn truyền trong tim…).
+  *Triệu chứng, dấu hiệu
+    * Bướu cổ:
+     + Bướu tỏa lan, nhẵn, không đau, có thể có tiếng thổi hoặc rung mưu.
+     + Bướu mạch là một trong các dấu hiệu lâm sàng đặc trưng của Basedow.
+    * Các dấu hiệu mắt:
+     + Bệnh mắt thể hiện trên lâm sàng vào khoảng 20-40%, thường gồm có phù kết mạc, viêm kết mạc và lồi nhe.
+     + Sự thấm tế bào limpho cấp sau ổ mắt xuất hiện khoảng 5-10% và tăng áp lực gây lồi mắt (xác định bằng thước Hertel - bình thường < 12 mm, lồi rõ > 22mm).
+     + Các biểu hiện co cơ mi trên:
+           - Dấu hiệu Stellwag: mi mắt nhắm không kín.
+           - Dấu hiệu Dalrymple: co cơ mi trên gây hở khe mi.
+           - Dấu hiệu Von Graefe: mát đòng vận giữa nhãn cầu và mi trên.
+           - Dâu hiệu Moebius: giảm hội tụ nhãn cầu gây nhìn đôi do liệt cơ vận nhãn.
+     + Thần kinh thị̀ giác có thể bị ép trong những trường hợp cấp tính. Giác mạc khô có thể do không nhắm kín mắt nổi. 
+     + Chứng nhìn đôi thường có thể gây ra bởi kèm bệnh nhược cơ năng. Mức kháng thể kháng  Axetylcholinesteraza nâng lên 36% trong số những bệnh nhân như vậy, và u tuyến ức có mặt trong 9%.
+    * Các dấu hiệu cường giáp:
+     +Các dấu hiệu tim mạch
+          - Hay hồi hộp & có thể hay gặp chứng đau thắt ngực.
+          - Có thể có dấu hiệu nhìn chằm chằm và khó nắm vững từ khó, chứng tim đập nhanh hay rung tâm nhi, run ngón tay, da ẩm & ấm,
+          - Các rối loạn vận mạch: cơn bốc hỏa, vã mồ hôi, sợ nóng.
+          - Nhịp tim nhanh thường xuyên > 100 lần/phút ngay cả khi nghỉ ngơi.
+          - Có thể rối loạn nhịp từ ngoại tâm thu tới loạn nhịp hoàn toàn.
+          - Nghe TTT, HA tâm thu tăng, tâm trương b.thường.
+     + Gầy
+          - Thường gặp và xuất hiện sớm
+          - Gầy nhanh, nhiều (giảm 3-20 kg/trong vài tuần) trong khi vẫn ngon miệng-chán ăn rất ít gặp.
+     + Thần kinh - cơ
+          - Bệnh nhân hay than phiền vì dễ nóng nảy, hay thao thức, không chịu được nóng và tăng nhiều mồ hôi, dễ mệt mỏi, yếu, hay chuột rút, gầy giảm cân nhanh.
+          - Run rõ đầu chi & yếu gốc chi, rõ khi leo thang hay ngồi xổm rồi đứng dậy (dấu hiệu ghế đẩu-Signe du Tabouret)
+          - Liệt chu ky - giảm kali-huyết xuất hiện trong khoảng 15%, thường xuất hiện bất ngờ với chứng liệt.
+     + Tiêu hóa - sinh dục
+          - Tiêu chảy là triệu chứng thường gặp, đôi khi có tiêu chảy phân mỡ
+          - Phụ nữ thì kinh nguyệt thường không đều.
+          - Vú to ở nam giới (40%)
+     + Các dấu hiệu khác
+          - Tăng phản xạ, tóc tốt, bong móng và đôi khi suy tim.
+          - Nhiễm độc giáp kinh nien có thể gây ra loãng xương. Đôi khi có chứng ngón tay hình chuỳ hay hình dùi trống.
+          - Bệnh da của những phần mô mềm (phù niêm vùng trước xương chày) xuất hiện trong khoảng 3%.
+          - Chứng ngón tay, chân dùi trống trong bệnh tuyến giáp là một phản ứng cốt mô cực đoan của xương, đa số bệnh nhân là người nghiện thuốc. Sự có mặt của chứng ngón tay, chân dùi trống trong bệnh tuyến giáp là một chỉ định nặng của tính tự miễn dịch; đa số những bệnh nhân này có độ chuẩn huyết thanh globulin miễn dịch cao có tính khích thích tuyến giáp.
+
+
+2. Cách chữa trị thông thường
+  Những phương pháp dùng để điều trị nhiễm độc tuyến giáp sẽ thay đổi theo nguyên nhân và độ nặng của tăng năng tuyến giáp, tuổi cuả bệnh nhân của hoàn cảnh lâm sàng, và cả sự ao ước của bệnh nhân.
+    A.Bệnh Basedow:Cơ bản có 3 pp: nội khoa - ngoại khoa - phóng xạ
+     * Nội khoa
+      1.Các thuốc chẹn beta
+        - Propranolol, Atenolol 
+        - Cơ chế: Làm giảm hiệu quả của hormon tuyến giáp trên hệ thống adrenergic (giảm nhịp nhanh); ức chế chuyển T4 thành T3 ở ngoại vi.
+       2.Kháng giáp tổng hợp (khỏi hẳn 60-70%; 40% tái phát cần điều trị lại)
+       - Este của Thiourea & dẫn chất của Imidazol
+       - Cơ chế tác dụng: Ức chế sự hữu cơ hóa của iod, ức chế sự kết hợp giữa môn-iodothyroxin và diiodothyroxin.
+       - Chỉ định dùng: Thể nhẹ, trung bing, thể có biến chứng tim không mổ được, trước Điều trị iod phóng xạ và ngoại khoa
+       - Chống chỉ định: tăng nhạy cảm với thuốc, bướu chìm hoặc lạc chỗ.
+       - Tác dụng phụ: Rối loạn tiêu hóa; ban đỏ ngoài da vào ngày thứ 10; giảm bạch cầu (ngừng dùng khi BC <3000/ml); viêm gan do thuốc
+      3. Iod:
+      - Ức chế hình thành iod hữu cơ từ vô cơ, ức chế giải phóng hormon tuyến giáp từ kho dự trữ, giảm tưới máu và cho phép tổ chức tuyến giáp nghỉ.
+      - Chỉ định: Basedow nhẹ, trung bình. Chuẩn bị pt. Cơn nhiễm độc giáp cấp.
+      - Liều dùng: Lugol 5%, 30-60 giọt/ngày chia 3 lần tùy trường hợp (20 giọt = 1ml = 50mg); tg tác dụng 10-15 ngày.
+      * Phóng xạ: Radioactive iodine (131I)
+      * Phẫu thuật (Thyroid surgery)
+
+3. Thông tin thêm
+  Điều trị tai biến
+     1. Tai biến mắt (Graves' ophthalmopathy)
+     2. Tai biến tim mạch 
+       a.Nhịp nhanh xoang (Sinus tachycardia)
+       b.Rung nhĩ (Atrial fibrillation)
+        (1) Digoxin
+        (2) Beta Blockers
+        (3) Anticoagulants
+       c. Suy tim (Heart failure)
+       d.Apathetic hyperthyroidism
+     3. Bão giáp (Thyroid crisis hoặcr "storm")
+       + Tai biến này ngày nay hiếm gặp, là dạng tột bậc cuả nhiễm độc tuyến giáp, có thể xuất hiện khi stress quá căng thẳng, giải phẫu vào tuyến giáp, hay điều trị RAII
+        - được biểu lộ bởi mê sảng
+        - tim đập nhanh khốc liệt
+        - nôn, tiêu chảy, mất nước
+        - đa số trường hợp bệnh sốt rất cao.
+       + Tỷ lệ chết còn khá cao.
+       + Điều trị:
+        - Thiourea (ví dụ, Propylthiouracil, 150-250mg cứ 6 giờ một lần, Hay methimazole, 15-25mg cứ 6 giờ một lần).
+        - Lugol (10 thìa ba lần hàng ngày đường miệng) hay Iodua natri (1g tĩnh mạch chậm).Natri Ipodate (500mg/ngày uống).Có thể có ich nếu bắt đầu 1 giờ sau khi dùng liều đầu tiên cuả thiourea.
+        - Propranolol cho thận trọng khi có suy tim; cho liều 0.5-2mg tĩnh mạch cứ 4 giờ một lần hay 20-120mg uống cứ 6 giờ một lần.
+        - Hydrococtyson được cho liều 50mg cứ 6 giờ một lần, giảm liều nhanh khi hoàn cảnh lâm sàng tiến bộ.
+        - Aspirin được tránh do nó đổi chỗ cho T4 từ TBG
+        - Điều trị với I131 hay phẫu thuật nên trì hoãn cho đến khi bệnh nhân về bình giáp (euthyroid).  4. Tăng năng tuyến giáp và sự mang thai
+      5.Graves' dermopathy
+      6. Liệt giảm kali chu kỳ do nhiễm độc giáp (Thyrotoxic hypokalemic periodic paralysis)
+

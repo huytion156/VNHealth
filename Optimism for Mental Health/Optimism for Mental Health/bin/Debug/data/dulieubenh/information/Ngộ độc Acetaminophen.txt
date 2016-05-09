@@ -1,0 +1,63 @@
+﻿I.Tổng quan
+     +Paracetamol là tên thường gọi của acetaminophen, là thuốc giảm đau thường dùng, được kê đơn hay mua tự do không cần đơn thuốc. Do thường phối hợp với codein, propofan...cho nên không được bỏ qua chẩn đoán ngộ độc acetaminophen trước bệnh cảnh ngộ độc cấp opi.
+
+     +Chuyển hóa chủ yếu sau khi uống thuốc bởi glucuronidation và sulphate sunfat, với một phần nhỏ được chuyển hóa qua hệ thống men P450 thành một chất trung gian có phản ứng độc tính cao. Chất độc trung gian này bình thường được giải độc bởi glutation tế bào. Thời gian bán hủy là 2 giờ. Quá 4 giờ sau uống là đã có dấu hiệu tổn thương gan.
+
+     +Ngộ độc cấp do dùng quá liều (> 140 mg/kg, hay 7g cho một người lớn trung bình), glutation trong tế bào gan suy giảm nhanh chóng đến cạn kiệt và chất trung gian có phản ứng độc tính cao tấn công những protein tế bào khác, gây ra hoại tử.
+
+     +Bệnh nhân có P450 luôn tăng cường hoạt động, như những người nghiện rượu kinh niên và những bệnh nhân thường dùng thuốc chống động kinh, là những người dễ bị ngộ độc nhất (và trẻ em), đồng thời cũng luôn tăng nguy cơ của việc phát triển độc tính hại gan.
+
+     +Độc tính với gan có thể cũng xuất hiện sau khi dùng acetaminophen quá liều một cách thường xuyên, ví dụ dùng hai hay ba loại acetaminophen chứa trong những sản phẩm trùng nhau hay cố ý vượt hơn liều tối đa khuyến cáo là 4 g/ngày.
+
+II. Triệu chứng
+     +Sau khi uống liều độc,
+          - Có thể buồn nôn hay nôn mửa ra,
+          - Nhưng thường là không triệu chứng cho đến 24 - 48 giờ sau khi uống,
+          - Cho tới khi mức aminotransferase gan bắt đầu tăng.
+
+     +Với nhiễm độc cấp nặng,
+          - Hoại tử gan bùng nổ có thể xuất hiện,
+          - Tiến triển suy gan cấp ở ngày thứ 3 đến ngày thứ 6
+          - Kết quả là vàng da, bệnh não gan, suy thận, và chết.
+
+     +Đôi khi, sau uống lượng lớn (vd, mức huyết thanh quá 400-500 mg/ L)
+          - Có thể gây ra hôn mê, huyết áp thấp và nhiễm toan chuyển hóa cấp mà không liên quan tới tổn thương gan.
+
+     +Chẩn đoán nhiễm độc cấp trầm trọng sau uống liều cao là dựa trên cơ sở đo mức acetaminophen huyết thanh.
+          - Đơn giản cần biết: nguy cơ chắc chắn nếu ở nồng độ 200mg/L đo ở giờ thứ 4 và 50mg/L ở giờ thứ 12 (1mg/L = 6,66 Mmol/L).
+          - Sơ đồ Rumark BH & Matthew H (Pediatrics 1975;55:871) cho phép dự báo nguy cơ độc và không độc.
+          - XN SGOT, SGPT, bilirubin, creatinine, tỷ lệ prothrombin phải làm ngay và làm lại sau 12h.
+
+     + Các XN nồng độ thường không hữu ích ở BN đã dùng liều cao kinh niên.
+
+III. Điều trị
+     1. Cấp cứu
+          + Dùng than hoạt 20g khi mới uống 1-2 giờ.
+               - Mặc dù than uống vào có thể làm ảnh hưởng sự hấp thụ thuốc giải độc acetylcysteine, nhưng không có ý nghĩa lâm sàng quan trọng.
+          + Rửa dạ dày nếu sớm (<2 giờ sau uống)
+
+     2. Đặc trị
+          +Nếu mức acetaminophen huyết thanh trên mức độc (trên toán đồ),
+               - Liều nạp của N - acetylcysteine, 140 mg/kg bằng đường uống, sau đó bởi 70 mg/kg mỗi 4 giờ.
+               - Dạng dùng là Mucomyst, Flumucid...200mg/gói (uống quá nhiều)/ vì tổng liều 1330mg/kg/72 giờ.
+               - Pha loãng thành dung dịch 5% với nước, nước quả hay nước xôđa.
+               - Dạng khí dung Mucomyst 1g/ống dùng tiện lợi hơn
+
+          +Cho thuốc đường tĩnh mạch.
+               - Nếu nôn ra ảnh hưởng đường uống acetylcysteine,
+               - Fluimucil 5g/ông pha trong gluco 5%,
+               - Pha liều 150mg/kg trong 250ml DW5% truyền 15-30';
+               - Sau đó liều 50mg/kg pha trong 500ml DW5% truyền 4 giờ;
+               - Tiếp 100mg/kg pha trong 1000ml DW5% truyền trong 20 giờ.
+               - Trẻ em liều 300mg/kg/ngày...
+  
+          + Acetadote là N-acetylcysteine dùng đường tĩnh mạch; đây là phương pháp được ưu tiên ở Châu Âu và Canada, dạng dùng ngoài đường tiêu hóa (Acetadote) mới được FDA cho sử dụng ở Mỹ.
+
+          + Ở Mỹ - đa số dùng acetylcysteine đường uống cho đến 72 giờ điều trị.
+               - Tuy nhiên, những phác đồ khác đã trình diễn thành công trong vòng 20-48 giờ điều trị.
+               - Nhiều khuyến cáo điều trị chỉ cho đến 36 giờ sau uống vào, và N-acetylcysteine có thể được ngừng nếu transaminaza gan bình thường.
+               - Điều trị Với N - Acetylcysteine có hiệu quả nhất nếu bắt đầu trong vòng 8-10 giờ sau khi uống.
+               - Phụ nữ có thai cũng không chống chỉ định.
+
+          + Nếu thời gian chính xác của sự uống vào không rõ hay nếu bệnh nhân trong nhóm nguy cơ cao nhiễm độc gan (vd, Người nghiện rượu, bệnh an, cảm ứng P450 do dùng thuốc kinh niên), phải bắt đầu sử dụng Nacetylcysteine ở nồng độ thấp hơn (Tức là, ở mức toán đồ thấp hơn; trong một số báo cáo, mức 100 mg/L lúc 4 giờ được gợi ý cho những bệnh nhân nguy cơ rất cao).
+

@@ -1,0 +1,80 @@
+﻿I. Định nghĩa
+          + Là cơn suy mạch vành cấp thoáng qua, điện tim thay đổi trong cơn
+  (trở lại bình thường khi hết cơn là dấu hiệu quan trọng nhất)
+
+     a, Tính chất, đặc điểm
+          + Đau sau xương ức, kiều đau thắt lan lên cổ, hàm, tay, cổ tay. Hết đau ngay sau ngưng gắng sức, hoặc sau dùng trinitrin (dưới 15 phút).
+          + Cơn điển hình ngắn, tính chất đau không thay đổi với trước, nếu lần đầu xảy ra cần phân biệt với cơn đau thắt ngực không ổn định (UA)
+
+     b, Phân loại (thể đau)
+* Có 3 nhóm cơ bản:
+          + Ổn định (stable angina): hay gặp sau gắng sức, hay gặp nhất.
+          + Biến thể (variant angina): 'ngược đời', đau lúc nghỉ, gắng sức không đau, do co mạch vành, ST chênh lên là đặc trưng, không ngẽn mạch & chẹn beta không tác dụng.
+          + Không ổn định (Unstable angina): xem UA; xảy ra bất cứ lúc nào, ST chênh xuống (1/4 có chênh lên liên quan co mạch vành)...
+
+II. Chẩn đoán LS & CLS
+          + Đột ngột sau lạnh, gắng sức, cảm xúc
+          + Đau sau xương ức, lan lên vai, xuống cánh tay, lên hàm (h3)(h4)
+          + Kéo dài vài giây đến vài phút
+          + Không khó thở nhiều, HA bình thường
+          + Dùng trinitrin đỡ nhanh
+          + ECG: 50% thấy T âm, dẹt hay nhọn; ST chênh ở một số chuyển đạo; NTT; block AV, block trong thất; Ngoài cơn điện tim bình thường.
+          + Các Marker tim bình thường
+          + Phân biệt với Bệnh tim khác (cơ tim, sa van...); Bệnh phổi (viêm, tràn khí..); bệnh TK-cơ (viem sụn..); Tâm thần;Tiêu hoá...
+
+          + Có thể dùng bộ câu hỏi ROSE rất đơn giản để chẩn đoán đau thắt ngực - với tiêu chuẩn:
+               - (1) Có đau, khó chịu ở ngực.
+               - (2) Đau ngực khi lên dốc, cả lúc đi bình thường.
+               - (3) Khi đau phải đứng lại hay đi châm lại.
+               - (4) Dừng lại thì dịu bớt đau.
+               - (5) Cơn đau dịu bớt dưới 10 phút.
+               - (6) Đau ở một hay nhiều vị trí sau: trên/giữa x.ức; dưới x.ức; trước ngực trái; tay trái, chỗ khác.
+
+          + Theo Ngô Văn Hùng BVĐK Tỉnh Đăkăk / HN Nội khoa 6 / 4.2009 - Tỷ lệ tổn thương ĐMV ở bệnh nhân có HCCH là 61,9%, trong đó nam chiếm tỷ lệ 38,46%, nữ chiếm 61.54%. Tổn thương ĐMV tăng dần theo tuổi, chiếm 81,3% ở nhóm tuổi 61-75.
+
+III.Điều trị & Xử trí
+          + Tại gia đình, CSBD:
+               - Trinitrin SL hay xịt; sau cơn có thể dán Nitriderm (path); hay Risodan 3mg SL
+               - Nằm nghỉ, ổn định tinh thần, không di chuyển lúc bị cơn đau.
+               - Chuyển B.viện nếu tiếp tục đau, nhưng vào lúc đỡ cơn đau, vận chuyển nhẹ nhàng.
+
+          + Tại HC-CC:
+               + Điều trị ngay
+                    -Thở Oxy, B1 0, 1 IM ...
+                    - Trinitrin(nitroglycerin) 0, 5mg SL, do đau sau 1 phút, kéo dài 30 phút. Có thể truyền IV liều 1-2mg/h
+                    - Risordan(Isosorbide dinitrate) 3-5-10mg, SL 3mg, td sau 5', kéo dài 2h.
+                    - Phối hợp chẹn beta phù hợp (propranolon, Timolol, Atenolol)
+                    - Chẹn Canxi, thường chọn 1 trong 3 thuốc là Diltiazem(Tildiem), Nifedipine(Adalat), Verapamil (Isoptin)
+                    - Heparin truyền IV
+
+               + Chống đau
+                    - Aspirin 100-250mg PO
+                    - Morphin 2mg IV
+
+               + Ngừa tái phát: dùng một trong các thuốc sau mỗi ngày:
+                    - Tenormin 50mg 1-2 viên
+                    - Sectral 200 x 1-2v
+                    - Tildiem 60mg x 4v
+                    - Isoptin 120mg x 2-4v;
+                    - Amlor 5mg x 1v;
+                    - Nifedipin 10mg x 4-6v
+                    - Risordan LP 40-60mg
+                    - Vastarel 20mg x 3v
+
+          + Theo Ts.Bs. Phạm Mạnh Hùng; Đại Học Y Hà nội - Báo cáo ở HN Nội khoa Toàn quốc 4/2009.
+Chiến lược điều trị tối ưu bệnh động mạch vành mạn tính dựa trên cân nhắc cụ thể từng bệnh nhân:
+               - Điều trị nội khoa vẫn là cơ bản và là lựa chọn bắt đầu cũng như phối hợp.
+               - Bệnh nhân bị tổn thương một nhánh ĐMV không khống chế được bằng nội khoa: ưu tiên can thiệp qua da.
+               - Bệnh nhân bị nhiều nhánh không khống chế được nội khoa, nguy cơ vừa đến cao: cân nhắc can thiệp hoặc phẫu thuật cầu nối.
+
+IV.XN cần làm
+               -CPK-MB; GOT
+               - Điện tim gắng sức, Holter 24h
+               - Chụp vành...
+          - Chỉ định chụp ĐMV (theo khuyến cáo AHA/ACC 2007); Có chỉ định chụp ĐMV khi:
+               + Bệnh nhân có mức đau ngực rõ (CCS III – IV) và không khống chế được triệu chứng với điều trị nội khoa tối ưu
+               + Bệnh nhân có nguy cơ cao theo phân tầng nguy cơ trên các thăm dò không chảy máu
+               + Bệnh nhân có đau thắt ngực mà sống sót sau cấp cứu ngừng tuần hoàn hoặc được biết có rối loạn nhịp trầm trọng
+               + Bệnh nhân đau thắt ngực có kèm theo dấu hiệu của suy tim
+               + Bệnh nhân đang chuẩn bị cho phẫu thuật mạch máu lớn
+               +Bệnh nhân đau thắt ngực mà nghề nghiệp hoặc lối sống có những nguy cơ bất thường (phi công, diễn viên xiếc…)

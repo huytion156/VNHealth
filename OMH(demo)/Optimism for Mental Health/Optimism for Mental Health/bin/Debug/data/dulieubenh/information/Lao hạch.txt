@@ -1,0 +1,19 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Lao hạch là một loại lao ít nguy hiểm, không gây tử vong, nhưng khá phổ biến và diễn biến kéo dài, gây trở ngại trong sinh hoạt, thường để lại nhiều di chứng, những sẹo dị dạng. Việc chẩn đoán lao hạch trong nhiều trường hợp thường không chính xác và việc điều trị thường không chu đáo vì hay bị coi nhẹ.
+     _Có hai thể lao hạch chính: lao hạch khí phế, biểu hiện của lao sơ nhiễm gặp chủ yếu ở trẻ nhỏ và lao hạch ngoại vi, một loại lao ngoài phổi thuộc thời kì sau sơ nhiễm của quá trình nhiễm lao, có thể gặp ở mọi lứa tuổi.
+     _Người ta mắc lao hạch vì 2 lí do: vi khuẩn và cơ địa.
+        +Về vi khuẩn: Mycobactérum là căn nguyên của lao hạch với các chứng lao người, lao bò hoặc cả không điển hình.
+        +Vai trò của cơ địa cũng quan trọng không kém vi khuẩn và mối tương quan miễn dịch - dị ứng ở đây cũng có tính chất quyết định không kém so với các thể lao khác.
+
+2. Cách chữa trị thông thường
+     _Tuy là một thể lao nhẹ, nhưng việc điều trị lao hạch cũng phải tuân thủ các nguyên tắc của chữa lao nói chung và gồm các nội dung toàn thân, tại chỗ, nội khoa, ngoại khoa, đặc hiệu và không đặc hiệu.
+     _Đối với mọi trường hợp, cần xác định một phác đồ điều trị bằng thuốc hoá học chu đáo ngay từ đầu, căn cứ phân loại chẩn đoán đã nói trên. Tuỳ giai đoạn, tính chất thương tổn, tại chỗ và toàn thân (có hoặc không kèm các thể lao khác, cũ hoặc đang phát triển) mà lựa chọn những phương pháp thích hợp.
+     _Có thể dùng phối hợp chỉ 2 loại thuốc hoá học (không bao giờ dùng một loại để chcữa lao) cho những thể nhẹ nhưng cũng có khi phải 3 - 4 loại cho thể nặng hơn, Ngoài ra, cần lưu ý tính chất hoá lí của thuốc chữa lao, vốn có tác dụng khác nhau đối với các trạng thái phát triển khác nhau của vi khuẩn.
+     _Thông thường có thể dùng INH và pyrazinamid hoặc streptomycin, Phối hợp cả 3 loại khi bệnh nặng hơn. Trong lao hạch, ít có hình thành hang mà chủ yếu là sự phát triển của tổ chức bã đậu, do đó, rifampicin có hiệu lực hơn so với các loại thuốc chống lao khác và có thể dùng phổ biến hơn. Streptomycin là loại thuốc chỉ thích hợp khi vi khuẩn sinh sản nhanh.
+     _Thời gian điều trị không nên dưới 6 tháng trong đó có 2 hoặc 3 tháng dùng thuốc hằng ngày.
+     _Đối với những hạch đã vỡ miệng, cần phối hợp điều trị tại chỗ. Trong những trường hợp hạch loét nhỏ, có thể rắc rifampicin, streptomycin, băng nhẹ để tránh bội nhiễm, lau rửa hàng ngày hoặc 2, 3 ngày/lần tuỳ từng trường hợp. Khi hạch loét to, phải xử trí bằng phẫu thuật. Theo kinh nghiệm nhiều năm tại Viện lao và bệnh phổi (Đỗ Ngọc Đức), cần nạo vét sạch các tổ chức có thương tổn, có trường hợp phải 2 - 3 lần can thiệp, sau đó kết hợp với rắc kháng sinh tại chỗ.
+
+3. Cách phòng tránh
+     _Đối với trẻ em, tiêm BCG một cách gây nhiễm lao “chủ động”, sẽ giúp làm giảm khả năng mắc lao hạch sau sơ nhiễm. Ngoài ra tránh tiếp xúc với nguồn lây, tăng cường dinh dưỡng và loại trừ các căn nguyên khác gây viêm hạch (các nhiễm khuẩn vùng đầu, cổ, răng, họng, tai, v.v...) đều có tác dụng dự phòng.
+     _Đối với người lớn ở Việt Nam đa số đã nhiễm vi khuẩn lao, cần chú ý loại trừ các nguyên nhân làm mất thế quân bình vi khuẩn - cơ thể, suy giảm khả năng đề kháng về vật chất (lao động, sinh hoạt) cũng như về tinh thần.
+

@@ -1,0 +1,59 @@
+﻿A.Phân loại lâm sàng:
+* Viêm thị thần kinh nhãn cầu.
+* Viêm thị thần kinh hậu nhãn cầu.
+
+1.Viêm thị thần kinh nhãn cầu:
+a.Đặc điểm - Chẩn đoán
+- Thường xảy ra ở người trẻ, khởi phát nhanh vài ngày, 1 mắt hoặc 2 mắt.
+- Thị lực giảm nhanh và đến mức thấp trong vòng một tuần sau khởi phát, giảm sắc giác.
+- Đau nhức mỏi mắt, nhất là khi chuyển động nhãn cầu.
+- Khám:
++ Đồng tử giãn to hoặc vừa do thị lực giảm.
++ Đáy mắt: gai thị cương tụ, bờ hơi lồi (không quá 2D).
+- Động mạch bình thường, tĩnh mạch giãn to nhưng không uốn khúc.
+- Có thể có xuất huyết quanh gai hoặc dịch rõ.
+- Thị trường: thu hẹp nhiều chu biên, đồng tâm, ám điểm trung tâm.
+b.Tiến triển
+- Cấp/2-3 tuần, triệu chứng chức năng nặng → 1 tháng sau hồi phục một phần hoặc hoàn toàn.
+- Diễn tiến bán cấp, mãn → teo gai.
+c.Chẩn đoán phân biệt
+c.1. Ứ phù gai: triệu chứng thị lực có thể rõ rệt nhưng chức năng chưa rối loạn.
+c.2. Viêm võng mạc thần kinh do cao huyết áp: gặp ở người già hoặc người trẻ có tổn thương tim thận; đáy mắt có xuất tiết, xuất huyết.
+c.3. Viêm tắc tĩnh mạch trung tâm võng mạc: thường 1 mắt, thị lực giảm đột ngột, võng mạc phù nhiều, tĩnh mạch giãn to cong queo.
+
+2.Viêm thị thần kinh hậu nhãn cầu:
+a.Viêm cấp.
+b. Viêm mãn (thường do nhiễm độc).
+- Đặc điểm của bệnh ở giai đoạn: mâu thuẫn triệu chứng chức năng rất nặng và triệu chứng thực thể không có hoặc rất nhẹ (bờ gai mờ nhẹ).
+- Sau 3-4 tuần, gai thị bạc màu:  
+  Thái dương.
+   Hoàn toàn.
+- Sau khoảng 1 tháng, thị lực phục hồi, ám điểm trung tâm thu hẹp hoặc mất đi.
+- Tiên lượng: thị lực sụt tăng đột ngột nhiều → khả năng phục hồi càng nhanh và hoàn toàn.
+c.Chẩn đoán phân biệt viêm thị thần kinh hậu nhãn cầu:
+- Co thắt động mạch trung tâm võng mạc: thị lực giảm đột ngột, động mạch  võng mạc thu nhỏ, có bao quanh mạch máu, phù lớp nông võng mạc.
+- Tắc động mạch trung tâm võng mạc: thị lực giảm đột ngột, có thể mù, hình ảnh đáy mắt dặc biệt: võng mạc đục trắng như sữa, động mạch co nhỏ, tĩnh mạch bình thường, hoàng điểm anh đào.
+
+B.Nguyên nhân gây viêm thị TK hậu nhãn cầu:
+1.Bệnh ở mắt: viêm màng bồ đào, viêm toàn nhãn, viêm hốc mắt.
+2.Ổ nhiễm khuẩn lân cận: (xoang - tai mũi họng - răng). Hoặc sau nhiễm khuẩn cấp: cúm, khớp, sốt phát ban, sốt rét, nhiễm trùng huyết, nhiễm trùng hệ thần kinh (viêm màng não) hoặc sau nhiễm trùng mạn tính.
+3.Bệnh chuyển hóa: đái tháo đường (diabete), tê phù, thiếu vitamin A, thời kỳ có thai.
+4.Dị ứng: thức ăn, tiêm huyết thanh.
+5.Nhiễm độc: thuốc ngủ, quinin, chì, thuốc lá.
+
+C.Điều trị:
+1.Tìm & điều trị nguyên nhân
++ Khám nội khoa, chuyên khoa.
++ Xét nghiệm tìm nguyên nhân:
+ - CTM, VSS.
+ - Phim Hirzt và Blondeau.
+ - Đường máu, nước tiểu toàn phần.
+ - Xét nghiệm khớp, chức năng gan.
++ Điều trị nguyên nhân.
+2.Nguyên tắc xử trí:
++ Giải quyết rối loạn tuần hoàn ở dây thần kinh bằng dùng thuốc chống rối loạn thẩm thấu mao mạch: Vitamin pp, Divascol.
++ Bảo vệ thần kinh bằng Vitamin B1, B12, B6, C.
++ Chống nhiễm trùng.
++ Chống viêm, chống dị ứng.
+ - Corticoid toàn thân, tại chổ.
+ - Calci chlorua 0, 5g tiêm tĩnh mạch.

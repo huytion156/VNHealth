@@ -1,0 +1,771 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1EDE5CCD-6FF3-47E2-B927-FE741539FD3F}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VNHealth</RootNamespace>
+    <AssemblyName>VNHealthDT</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>VNHealthDT.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>VNHealth.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <ExpressionBlendVersion>5.0.40218.0</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Bitmap.cs" />
+    <Compile Include="BMIcal.xaml.cs">
+      <DependentUpon>BMIcal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="chuandoanbenh.xaml.cs">
+      <DependentUpon>chuandoanbenh.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="clock.xaml.cs">
+      <DependentUpon>clock.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExtendedSplashScreen.xaml.cs">
+      <DependentUpon>ExtendedSplashScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Geo\AngleConverter.cs" />
+    <Compile Include="Geo\DistanceConverter.cs" />
+    <Compile Include="Geo\DistanceUnit.cs" />
+    <Compile Include="Geo\GeoConstants.cs" />
+    <Compile Include="Geo\IAngleConverter.cs" />
+    <Compile Include="Geo\IBearingCalculator.cs" />
+    <Compile Include="Geo\IDistanceCalculator.cs" />
+    <Compile Include="Geo\IDistanceConverter.cs" />
+    <Compile Include="Geo\IRhumbBearingCalculator.cs" />
+    <Compile Include="Geo\IRhumbDistanceCalculator.cs" />
+    <Compile Include="Geo\Position.cs" />
+    <Compile Include="Geo\PositionHandler.cs" />
+    <Compile Include="GridUtils.cs" />
+    <Compile Include="infomation.xaml.cs">
+      <DependentUpon>infomation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IS.xaml.cs">
+      <DependentUpon>IS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ketnoichuyengia.xaml.cs">
+      <DependentUpon>ketnoichuyengia.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PivotPage1.xaml.cs">
+      <DependentUpon>PivotPage1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="run.xaml.cs">
+      <DependentUpon>run.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="thongtinbenh.xaml.cs">
+      <DependentUpon>thongtinbenh.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="BMIcal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="chuandoanbenh.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="clock.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExtendedSplashScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="infomation.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="IS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ketnoichuyengia.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="PivotPage1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="run.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="thongtinbenh.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="data\dulieubenh\picture\Thumbs.db" />
+    <None Include="picture\Thumbs.db" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Toolkit.Content\Thumbs.db" />
+    <None Include="VNHealth_2014_10_31_14_32_25.sap" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="10476012_525983064191092_733275277_n.png" />
+    <Content Include="1432011173324603.jpg" />
+    <Content Include="406878.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\AppBar\back.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\AppBar\feature.search.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="chucnang1.png" />
+    <Content Include="chucnang2.png" />
+    <Content Include="data\bangmachuin.txt" />
+    <Content Include="data\bangmachuthuong.txt" />
+    <Content Include="data\chuandoan\beo.txt" />
+    <Content Include="data\chuandoan\chuan.txt" />
+    <Content Include="data\chuandoan\duoichuan.txt" />
+    <Content Include="data\chuandoan\ratbeo.txt" />
+    <Content Include="data\chuandoan\thuacan.txt" />
+    <Content Include="data\dulieubenh\menu.txt" />
+    <Content Include="data\dulieubenh\picture\1.jpg" />
+    <Content Include="data\dulieubenh\picture\10.jpg" />
+    <Content Include="data\dulieubenh\picture\100.jpg" />
+    <Content Include="data\dulieubenh\picture\101.jpg" />
+    <Content Include="data\dulieubenh\picture\102.jpg" />
+    <Content Include="data\dulieubenh\picture\103.jpg" />
+    <Content Include="data\dulieubenh\picture\104.jpg" />
+    <Content Include="data\dulieubenh\picture\105.jpg" />
+    <Content Include="data\dulieubenh\picture\106.jpg" />
+    <Content Include="data\dulieubenh\picture\107.jpg" />
+    <Content Include="data\dulieubenh\picture\108.jpg" />
+    <Content Include="data\dulieubenh\picture\109.jpg" />
+    <Content Include="data\dulieubenh\picture\11.jpg" />
+    <Content Include="data\dulieubenh\picture\110.jpg" />
+    <Content Include="data\dulieubenh\picture\111.jpg" />
+    <Content Include="data\dulieubenh\picture\112.jpg" />
+    <Content Include="data\dulieubenh\picture\113.jpg" />
+    <Content Include="data\dulieubenh\picture\114.jpg" />
+    <Content Include="data\dulieubenh\picture\115.jpg" />
+    <Content Include="data\dulieubenh\picture\116.jpg" />
+    <Content Include="data\dulieubenh\picture\117.jpg" />
+    <Content Include="data\dulieubenh\picture\118.jpg" />
+    <Content Include="data\dulieubenh\picture\119.jpg" />
+    <Content Include="data\dulieubenh\picture\12.jpg" />
+    <Content Include="data\dulieubenh\picture\120.jpg" />
+    <Content Include="data\dulieubenh\picture\121.jpg" />
+    <Content Include="data\dulieubenh\picture\122.JPG" />
+    <Content Include="data\dulieubenh\picture\123.jpg" />
+    <Content Include="data\dulieubenh\picture\124.jpg" />
+    <Content Include="data\dulieubenh\picture\125.jpg" />
+    <Content Include="data\dulieubenh\picture\126.jpg" />
+    <Content Include="data\dulieubenh\picture\127.jpg" />
+    <Content Include="data\dulieubenh\picture\128.jpg" />
+    <Content Include="data\dulieubenh\picture\129.jpg" />
+    <Content Include="data\dulieubenh\picture\13.jpg" />
+    <Content Include="data\dulieubenh\picture\130.jpg" />
+    <Content Include="data\dulieubenh\picture\131.jpg" />
+    <Content Include="data\dulieubenh\picture\132.jpg" />
+    <Content Include="data\dulieubenh\picture\133.jpg" />
+    <Content Include="data\dulieubenh\picture\134.jpg" />
+    <Content Include="data\dulieubenh\picture\135.jpg" />
+    <Content Include="data\dulieubenh\picture\136.jpg" />
+    <Content Include="data\dulieubenh\picture\137.jpg" />
+    <Content Include="data\dulieubenh\picture\138.jpg" />
+    <Content Include="data\dulieubenh\picture\139.jpg" />
+    <Content Include="data\dulieubenh\picture\14.jpg" />
+    <Content Include="data\dulieubenh\picture\140.jpg" />
+    <Content Include="data\dulieubenh\picture\141.jpg" />
+    <Content Include="data\dulieubenh\picture\142.JPG" />
+    <Content Include="data\dulieubenh\picture\143.jpg" />
+    <Content Include="data\dulieubenh\picture\144.JPG" />
+    <Content Include="data\dulieubenh\picture\145.jpg" />
+    <Content Include="data\dulieubenh\picture\146.jpg" />
+    <Content Include="data\dulieubenh\picture\147.jpg" />
+    <Content Include="data\dulieubenh\picture\148.jpg" />
+    <Content Include="data\dulieubenh\picture\149.jpg" />
+    <Content Include="data\dulieubenh\picture\15.jpg" />
+    <Content Include="data\dulieubenh\picture\150.jpg" />
+    <Content Include="data\dulieubenh\picture\151.jpg" />
+    <Content Include="data\dulieubenh\picture\152.jpg" />
+    <Content Include="data\dulieubenh\picture\153.jpg" />
+    <Content Include="data\dulieubenh\picture\154.jpg" />
+    <Content Include="data\dulieubenh\picture\155.jpg" />
+    <Content Include="data\dulieubenh\picture\156.jpg" />
+    <Content Include="data\dulieubenh\picture\157.jpg" />
+    <Content Include="data\dulieubenh\picture\158.jpg" />
+    <Content Include="data\dulieubenh\picture\159.jpg" />
+    <Content Include="data\dulieubenh\picture\16.jpg" />
+    <Content Include="data\dulieubenh\picture\160.jpg" />
+    <Content Include="data\dulieubenh\picture\161.jpg" />
+    <Content Include="data\dulieubenh\picture\162.jpg" />
+    <Content Include="data\dulieubenh\picture\163.jpg" />
+    <Content Include="data\dulieubenh\picture\164.jpg" />
+    <Content Include="data\dulieubenh\picture\165.jpg" />
+    <Content Include="data\dulieubenh\picture\166.jpg" />
+    <Content Include="data\dulieubenh\picture\167.jpg" />
+    <Content Include="data\dulieubenh\picture\168.jpg" />
+    <Content Include="data\dulieubenh\picture\169.jpg" />
+    <Content Include="data\dulieubenh\picture\17.jpg" />
+    <Content Include="data\dulieubenh\picture\170.jpg" />
+    <Content Include="data\dulieubenh\picture\171.jpg" />
+    <Content Include="data\dulieubenh\picture\172.jpg" />
+    <Content Include="data\dulieubenh\picture\173.jpg" />
+    <Content Include="data\dulieubenh\picture\174.jpg" />
+    <Content Include="data\dulieubenh\picture\175.jpg" />
+    <Content Include="data\dulieubenh\picture\176.jpg" />
+    <Content Include="data\dulieubenh\picture\177.jpg" />
+    <Content Include="data\dulieubenh\picture\178.jpg" />
+    <Content Include="data\dulieubenh\picture\179.jpg" />
+    <Content Include="data\dulieubenh\picture\18.jpg" />
+    <Content Include="data\dulieubenh\picture\180.jpg" />
+    <Content Include="data\dulieubenh\picture\181.jpg" />
+    <Content Include="data\dulieubenh\picture\182.jpg" />
+    <Content Include="data\dulieubenh\picture\183.jpg" />
+    <Content Include="data\dulieubenh\picture\184.jpg" />
+    <Content Include="data\dulieubenh\picture\185.jpg" />
+    <Content Include="data\dulieubenh\picture\186.jpg" />
+    <Content Include="data\dulieubenh\picture\187.jpg" />
+    <Content Include="data\dulieubenh\picture\188.jpg" />
+    <Content Include="data\dulieubenh\picture\189.jpg" />
+    <Content Include="data\dulieubenh\picture\19.jpg" />
+    <Content Include="data\dulieubenh\picture\190.jpg" />
+    <Content Include="data\dulieubenh\picture\191.jpg" />
+    <Content Include="data\dulieubenh\picture\192.jpg" />
+    <Content Include="data\dulieubenh\picture\193.jpg" />
+    <Content Include="data\dulieubenh\picture\194.jpg" />
+    <Content Include="data\dulieubenh\picture\195.jpg" />
+    <Content Include="data\dulieubenh\picture\196.jpg" />
+    <Content Include="data\dulieubenh\picture\197.jpg" />
+    <Content Include="data\dulieubenh\picture\198.jpg" />
+    <Content Include="data\dulieubenh\picture\199.jpg" />
+    <Content Include="data\dulieubenh\picture\2.jpg" />
+    <Content Include="data\dulieubenh\picture\20.jpg" />
+    <Content Include="data\dulieubenh\picture\200.jpg" />
+    <Content Include="data\dulieubenh\picture\201.JPG" />
+    <Content Include="data\dulieubenh\picture\202.jpg" />
+    <Content Include="data\dulieubenh\picture\203.jpg" />
+    <Content Include="data\dulieubenh\picture\204.jpg" />
+    <Content Include="data\dulieubenh\picture\205.jpg" />
+    <Content Include="data\dulieubenh\picture\206.jpg" />
+    <Content Include="data\dulieubenh\picture\207.jpg" />
+    <Content Include="data\dulieubenh\picture\208.jpg" />
+    <Content Include="data\dulieubenh\picture\209.jpg" />
+    <Content Include="data\dulieubenh\picture\21.jpg" />
+    <Content Include="data\dulieubenh\picture\210.jpg" />
+    <Content Include="data\dulieubenh\picture\211.jpg" />
+    <Content Include="data\dulieubenh\picture\212.JPG" />
+    <Content Include="data\dulieubenh\picture\213.jpg" />
+    <Content Include="data\dulieubenh\picture\214.jpg" />
+    <Content Include="data\dulieubenh\picture\215.jpg" />
+    <Content Include="data\dulieubenh\picture\216.jpg" />
+    <Content Include="data\dulieubenh\picture\217.jpg" />
+    <Content Include="data\dulieubenh\picture\218.jpg" />
+    <Content Include="data\dulieubenh\picture\219.jpg" />
+    <Content Include="data\dulieubenh\picture\22.jpg" />
+    <Content Include="data\dulieubenh\picture\220.jpg" />
+    <Content Include="data\dulieubenh\picture\221.jpg" />
+    <Content Include="data\dulieubenh\picture\222.jpg" />
+    <Content Include="data\dulieubenh\picture\223.jpg" />
+    <Content Include="data\dulieubenh\picture\224.jpg" />
+    <Content Include="data\dulieubenh\picture\225.jpg" />
+    <Content Include="data\dulieubenh\picture\226.jpg" />
+    <Content Include="data\dulieubenh\picture\227.jpg" />
+    <Content Include="data\dulieubenh\picture\228.jpg" />
+    <Content Include="data\dulieubenh\picture\229.jpg" />
+    <Content Include="data\dulieubenh\picture\23.jpg" />
+    <Content Include="data\dulieubenh\picture\230.jpg" />
+    <Content Include="data\dulieubenh\picture\231.jpg" />
+    <Content Include="data\dulieubenh\picture\232.JPG" />
+    <Content Include="data\dulieubenh\picture\24.JPG" />
+    <Content Include="data\dulieubenh\picture\25.jpg" />
+    <Content Include="data\dulieubenh\picture\26.jpg" />
+    <Content Include="data\dulieubenh\picture\27.jpg" />
+    <Content Include="data\dulieubenh\picture\28.jpg" />
+    <Content Include="data\dulieubenh\picture\29.jpg" />
+    <Content Include="data\dulieubenh\picture\3.jpg" />
+    <Content Include="data\dulieubenh\picture\30.jpg" />
+    <Content Include="data\dulieubenh\picture\31.jpg" />
+    <Content Include="data\dulieubenh\picture\32.jpg" />
+    <Content Include="data\dulieubenh\picture\33.jpg" />
+    <Content Include="data\dulieubenh\picture\34.jpg" />
+    <Content Include="data\dulieubenh\picture\35.jpg" />
+    <Content Include="data\dulieubenh\picture\36.jpg" />
+    <Content Include="data\dulieubenh\picture\37.jpg" />
+    <Content Include="data\dulieubenh\picture\38.jpg" />
+    <Content Include="data\dulieubenh\picture\39.jpg" />
+    <Content Include="data\dulieubenh\picture\4.jpg" />
+    <Content Include="data\dulieubenh\picture\40.jpg" />
+    <Content Include="data\dulieubenh\picture\41.jpg" />
+    <Content Include="data\dulieubenh\picture\42.jpg" />
+    <Content Include="data\dulieubenh\picture\43.jpg" />
+    <Content Include="data\dulieubenh\picture\44.jpg" />
+    <Content Include="data\dulieubenh\picture\45.jpg" />
+    <Content Include="data\dulieubenh\picture\46.jpg" />
+    <Content Include="data\dulieubenh\picture\47.jpg" />
+    <Content Include="data\dulieubenh\picture\48.JPG" />
+    <Content Include="data\dulieubenh\picture\49.jpg" />
+    <Content Include="data\dulieubenh\picture\5.jpg" />
+    <Content Include="data\dulieubenh\picture\50.jpg" />
+    <Content Include="data\dulieubenh\picture\51.jpg" />
+    <Content Include="data\dulieubenh\picture\52.jpg" />
+    <Content Include="data\dulieubenh\picture\53.jpg" />
+    <Content Include="data\dulieubenh\picture\54.jpg" />
+    <Content Include="data\dulieubenh\picture\55.jpg" />
+    <Content Include="data\dulieubenh\picture\56.jpg" />
+    <Content Include="data\dulieubenh\picture\57.jpg" />
+    <Content Include="data\dulieubenh\picture\58.jpg" />
+    <Content Include="data\dulieubenh\picture\59.jpg" />
+    <Content Include="data\dulieubenh\picture\6.jpg" />
+    <Content Include="data\dulieubenh\picture\60.jpg" />
+    <Content Include="data\dulieubenh\picture\61.jpg" />
+    <Content Include="data\dulieubenh\picture\62.jpg" />
+    <Content Include="data\dulieubenh\picture\63.jpg" />
+    <Content Include="data\dulieubenh\picture\64.jpg" />
+    <Content Include="data\dulieubenh\picture\65.jpg" />
+    <Content Include="data\dulieubenh\picture\66.jpg" />
+    <Content Include="data\dulieubenh\picture\67.jpg" />
+    <Content Include="data\dulieubenh\picture\68.jpg" />
+    <Content Include="data\dulieubenh\picture\69.jpg" />
+    <Content Include="data\dulieubenh\picture\7.jpg" />
+    <Content Include="data\dulieubenh\picture\70.jpg" />
+    <Content Include="data\dulieubenh\picture\71.jpg" />
+    <Content Include="data\dulieubenh\picture\72.jpg" />
+    <Content Include="data\dulieubenh\picture\73.jpg" />
+    <Content Include="data\dulieubenh\picture\74.jpg" />
+    <Content Include="data\dulieubenh\picture\75.jpg" />
+    <Content Include="data\dulieubenh\picture\76.jpg" />
+    <Content Include="data\dulieubenh\picture\77.jpg" />
+    <Content Include="data\dulieubenh\picture\78.jpg" />
+    <Content Include="data\dulieubenh\picture\79.JPG" />
+    <Content Include="data\dulieubenh\picture\8.JPG" />
+    <Content Include="data\dulieubenh\picture\80.jpg" />
+    <Content Include="data\dulieubenh\picture\81.jpg" />
+    <Content Include="data\dulieubenh\picture\82.jpg" />
+    <Content Include="data\dulieubenh\picture\83.JPG" />
+    <Content Include="data\dulieubenh\picture\84.jpg" />
+    <Content Include="data\dulieubenh\picture\85.jpg" />
+    <Content Include="data\dulieubenh\picture\86.jpg" />
+    <Content Include="data\dulieubenh\picture\87.jpg" />
+    <Content Include="data\dulieubenh\picture\88.jpg" />
+    <Content Include="data\dulieubenh\picture\89.jpg" />
+    <Content Include="data\dulieubenh\picture\9.jpg" />
+    <Content Include="data\dulieubenh\picture\90.JPG" />
+    <Content Include="data\dulieubenh\picture\91.jpg" />
+    <Content Include="data\dulieubenh\picture\92.jpg" />
+    <Content Include="data\dulieubenh\picture\93.jpg" />
+    <Content Include="data\dulieubenh\picture\94.jpg" />
+    <Content Include="data\dulieubenh\picture\95.jpg" />
+    <Content Include="data\dulieubenh\picture\96.jpg" />
+    <Content Include="data\dulieubenh\picture\97.jpg" />
+    <Content Include="data\dulieubenh\picture\98.jpg" />
+    <Content Include="data\dulieubenh\picture\99.jpg" />
+    <Content Include="data\dulieubenh\thongtinbenh\1.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\10.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\100.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\101.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\102.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\103.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\104.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\105.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\106.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\107.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\108.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\109.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\11.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\110.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\111.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\112.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\113.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\114.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\115.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\116.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\117.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\118.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\119.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\12.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\120.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\121.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\122.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\123.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\124.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\125.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\126.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\127.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\128.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\129.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\13.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\130.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\131.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\132.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\133.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\134.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\135.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\136.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\137.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\138.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\139.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\14.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\140.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\141.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\142.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\143.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\144.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\145.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\146.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\147.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\148.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\149.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\15.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\150.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\151.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\152.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\153.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\154.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\155.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\156.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\157.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\158.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\159.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\16.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\160.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\161.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\162.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\163.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\164.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\165.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\166.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\167.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\168.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\169.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\17.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\170.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\171.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\172.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\173.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\174.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\175.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\176.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\177.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\178.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\179.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\18.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\180.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\181.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\182.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\183.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\184.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\185.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\186.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\187.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\188.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\189.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\19.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\190.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\191.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\192.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\193.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\194.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\195.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\196.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\197.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\198.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\199.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\2.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\20.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\200.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\201.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\202.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\203.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\204.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\205.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\206.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\207.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\208.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\209.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\21.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\210.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\211.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\212.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\213.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\214.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\215.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\216.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\217.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\218.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\219.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\22.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\220.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\221.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\222.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\223.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\224.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\225.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\226.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\227.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\228.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\229.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\23.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\230.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\231.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\232.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\24.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\25.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\26.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\27.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\28.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\29.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\3.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\30.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\31.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\32.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\33.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\34.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\35.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\36.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\37.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\38.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\39.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\4.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\40.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\41.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\42.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\43.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\44.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\45.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\46.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\47.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\48.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\49.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\5.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\50.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\51.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\52.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\53.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\54.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\55.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\56.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\57.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\58.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\59.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\6.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\60.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\61.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\62.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\63.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\64.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\65.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\66.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\67.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\68.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\69.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\7.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\70.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\71.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\72.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\73.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\74.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\75.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\76.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\77.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\78.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\79.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\8.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\80.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\81.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\82.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\83.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\84.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\85.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\86.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\87.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\88.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\89.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\9.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\90.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\91.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\92.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\93.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\94.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\95.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\96.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\97.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\98.txt" />
+    <Content Include="data\dulieubenh\thongtinbenh\99.txt" />
+    <Content Include="data\hechuyengia\tapluat.txt" />
+    <Content Include="data\hechuyengia\tenbenh.txt" />
+    <Content Include="data\hechuyengia\trieuchung.txt" />
+    <Content Include="picture\ExtendedSplashScreen.jpg" />
+    <Content Include="picture\chucnang1.png" />
+    <Content Include="picture\chucnang2.png" />
+    <Content Include="picture\chucnang3.png" />
+    <Content Include="picture\chucnang4.png" />
+    <Content Include="picture\chucnang5.png" />
+    <Content Include="picture\chucnang6.png" />
+    <Content Include="picture\icon.png" />
+    <Content Include="picture\logotruong.png" />
+    <Content Include="Plus-icon.png" />
+    <Content Include="starcreen.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Cancel.png" />
+    <Content Include="Toolkit.Content\ApplicationBar.Check.png" />
+    <Content Include="Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Interactions, Version=3.9.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Maps, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Phone.Controls.Toolkit">
+      <HintPath>D:\VNHealth4WP\VNHealth4WP\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Interactivity, Version=3.9.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="10344960_517269338395798_2021949550_n.jpg" />
+    <Resource Include="ads.png" />
+    <Resource Include="adsf.png" />
+    <Resource Include="chucnang6.png" />
+    <Resource Include="chucnang7.png" />
+    <Resource Include="free-blue-background.jpg" />
+    <Resource Include="images.jpg" />
+    <Resource Include="img837_hinh1.jpg" />
+    <Resource Include="running.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

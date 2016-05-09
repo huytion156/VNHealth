@@ -1,0 +1,484 @@
+﻿Tổng quan
++ Tai biến mạch máu não là một bệnh xảy ra khi việc cung cấp máu lên một phần bộ não bị đột ngột ngừng trệ.
+- Tai biến mạch máu não có hai loại:  tắc hoặc vỡ mạch máu trong não.
+- Do các triệu chứng thần kinh trung ương biểu hiện nhanh sau vài phút, nên TBMN còn được gọi là đột quỵ não.(đột quỵ = ngay lập tức, đột ngột, không chuẩn bị...)
+- Là bệnh của hệ thần kinh phổ biến nhất hiện nay, nó có tần suất xuất hiện là 1,5/1000 người/năm; tần suất này ở tuổi >75 lên đến 10/1000 người/năm.
+
++ Tầng thiếu máu não cục bộ ~ vùng nửa tối nửa sáng :
+- trong vài giây tới vài phút khi mất tưới máu tới một phần não, một tầng (nối tiếp) thiếu máu sẽ tiếp tục phát triển nếu không bị cản trở, gây ra một vùng tổn thương do thiếu máu bao vây xung quanh trung tâm tổn thương đã hoại tử, đó là vùng thiếu máu não cục bộ tiềm tàng nửa tối nửa sáng.
+-bảo vệ vùng nửa tối nửa sáng: mục đích chính của trị liệu trong đột quị cấp do thiếu máu não cục bộ (và cả xuất huyết) là bảo vệ vùng này, điều này có thể hoàn thành bởi việc giới hạn tính khắc nghiệt của vùng tổn thương thiếu máu não cục bộ (bảo vệ thần kinh) hoặc giảm bớt thời gian thiếu máu não cục bộ; hoặc hồi phục lưu lượng máu tới vùng tổn thương.
+
++ Nguyên nhân
+- Tắc mạch máu não (nhồi máu não, thiếu máu não cục bộ):
+ . do cục máu đông tại chỗ, do xơ vữa động mạch (chẳng hạn xuất phát từ động mạch cảnh),
+ . huyết tắc do bệnh tim (rung nhĩ, nhồi máu cơ tim).
+- Vỡ mạch máu não (xuất huyết não, chảy máu não):
+ . tăng huyết áp,
+ . chấn thương,
+ . vỡ phình động mạch não.
+- Nguyên nhân ít gặp:
+ . giảm huyết áp (tụt huyết áp đột ngột hơn 40 mmHg),
+ . viêm đ.mạch, viêm tắc t.mạch, thuyên tắc xoang t.mạch.
+ . Ở người trẻ: bệnh tiểu cầu, chảy máu dưới màng nhện, dị dạng động mạch cảnh.
+
+* Dịch tễ:
++ Nghiên cứu mới đây về TBMN tại 35 bệnh viện ở 10 nước khu vực Đông Nam Á, Hội thần kinh học các nước ĐNA cho biết một số đặc điểm sau:
+- Tuổi trung bình của bệnh nhân là 62, với tỷ lệ 58% là nam giới.
+- Các bệnh cảnh phổ biến là:
+ . Thiếu máu não cục bộ (65,4%),
+ . Chảy máu não (21,3%)
+ . Chảy máu dưới nhện (3,1%),
+ . TBMN không rõ loại(10%).
+- Tử vong thường xảy ra khoảng 12 ngày sau khi bệnh nhân vào viện đối với tai biến thiếu máu não, và sau khoảng 6 ngày đối với chảy máu não.
+- Tỷ lệ tử vong nhiều nhất là do nguyên nhân chảy máu não (29,8%) và chảy máu dưới nhện (28,9%), sau đó là do thiếu máu não cục bộ (8,8%).
+
++ 2006 - William J. Schwartz, theo dõi 5 năm ở quận Iwate - Nhật, về thời gian khởi phát đột quỵ đối với gần 13000 bệnh nhân đã từng bị thiếu máu cục bộ lần đầu (7575), xuất huyết nội sọ lần đầu (3852) hoặc xuất huyết dưới màng nhện (1530). Tất cả được chẩn đoán bằng CT scan hoặc MRI:
+- Thời điểm cao nhất để triệu chứng khởi phát được nhận biết xảy ra vào buổi sáng (6h – 8h sáng) đối với nhồi máu và xuất huyết não.
+- Thời điểm đỉnh cao thứ 2 xuất hiện vào buổi xế chiều và đầu buổi tối (4 giờ chiều –8 giờ tối).
+- Khởi phát đột quị lúc thức giấc chiếm 20% tất cả các trường hợp nhồi máu.
+
++ Theo Bs CkII Đinh Văn Thắng / HN Nội khoa Toàn quốc 4.2009 BC về TBMN 1998-2007 ở Bv Thanh Nhàn HN:
+- 10 năm có 7892 Bn TBMMN, chiếm 4,24% số BN toàn bệnh viện
+- Trên 50 tuổi chiếm 83,1%. Nam chiếm 62,54%, nữ 37,46%.
+- NMN 69,7%, XHN 28,3%, XHDN 2,0%
+- 64,2% XHN ở bao trong và nhân xám trung ương, 21,7% ở thuỳ não, 9,0% XH màng não.
+- Hồi phục hoàn toàn 4,1%. Di chứng từ nhẹ đến nặng 84,3%. Tử vong tại bệnh viện 11,6%.
+
++ Yếu tố nguy cơ
+- tăng huyết áp (63,5%),
+- nghiện thuốc lá (từ 10,4 đến 58,9% tùy theo từng nước),
+- thiếu máu cơ tim (16,1%),
+- bệnh van tim (3,4%),
+- có tiền sử TBMN (27,4%) v.v..
+
+HN Nội khoa Toàn quốc 4.2009
+Trong báo cáo "Một số yếu tố nguy cơ tim mạch trên Bệnh Nhân đột quỵ tại bệnh viện 354" Bs.Vũ Hà Nga Sơn; Bs Quản Thu Thuỷ, thống kê Tỷ lệ các YTNC tim mạch trên bệnh nhân đột quỵ là:
+- THA: 78.4%. RLCH Lipid: 49.4%, ĐTĐ: 26.9%, Suy tim: 11.3% và Rung nhĩ: 8.1%.
+- Tỷ lệ bệnh nhân tử vong và xin về do quá nặng ở nhóm Suy tim và ĐTĐ cao nhất là 30.6% và 20.9%.
+- Các yếu tố liên quan chặt chẽ đến tỷ lệ tử vong trên bệnh nhân đột quỵ là suy tim OR= 3.35 và ĐTĐ OR=2.12
+
+II.Triệu chứng lâm sàng
++ Biểu hiện lâm sàng
+- Do tắc mạch hoặc do vỡ mạch khó có thể phân biệt,
+- Để chẩn đoán nguyên nhân phải dựa vào các yếu tố tiền căn, bệnh có sẵn và xét nghiệm cận lâm sàng (MRI, CT scan).
+- Trong trường hợp điển hình, các triệu chứng xuất hiện đột ngột, tiến triển chỉ trong vài giờ (hoặc vài ngày).
+- Trên lý thuyết, các triệu chứng thần kinh khu trú tương ứng với khu vực tưới máu của động mạch bị tổn thương,
+- Thực tế do các động mạch thông nối với nhau, nên có sự cấp máu bù bởi các động mạch còn nguyên, thường làm nhòe các triệu chứng.
+
++ Tổn thương trong bán cầu đại não  (50%) hay gặp:
+- liệt đối bên, khởi đầu là liệt mềm, dần dần diễn tiến đến liệt cứng;
+- giảm cảm giác đối bên;
+- giảm thị lực cùng bên;
+- nói khó.
+
++ Tổn thương thân não (25%):
+- triệu chứng đa dạng, có thể gây liệt tứ chi, rối loạn thị giác,
+- hội chứng khóa trong (tỉnh, hiểu nhưng do liệt, không làm gì được).
+
++ Tổn thương khiếm khuyết (25%):
+- nhiều điểm nhồi máu nhỏ quanh hạch nền, bao trong, đồi thị và cầu não.
+- người bệnh vẫn ý thức, các triệu chứng có thể chỉ liên quan tới vận động hoặc cảm giác hoặc cả hai, có khi có triệu chứng thất điều.
+
+*Tương quan động mạch tổn thương:
++Lấp bít-xuất huyết ở động mạch não giữa (MCA):
+- thường dẫn tới liệt đối bên, mất cảm giác đối bên, liệt vận nhãn cùng bên (mù nửa thị trường) và thường nhìn chằm chằm về bên bị thương tổn.
+- mất nhận thức (Agnosia) là thường gặp nếu thương tổn xuất hiện trong bán cầu trội, kết quả là mất ngôn ngữ (aphasia) tiếp thu hoặc diễn giải.
+- Từ MCA cung cấp các sợi vân động chi trong nên yếu tay và mặt là thường xấu hơn so bị ở chi dưới.
+
++Lấp bít-xuất huyết ở động mạch não trước:
+- chủ yếu ảnh hưởng chức năng thùy trán, dẫn đến biến đổi tình trạng tinh thần, làm suy yếu khả năng phân tích,
+- yếu đối bên chi dưới, giảm cảm giác và dáng đi mất đồng vận.
+
++Lấp bít-xuất huyết ở động mạch não sau:
+- ảnh hưởng thị lực và tư duy, dẫn đến bán manh (hemianopsia) đồng bên, mù vỏ,
+- mất nhận thức trực quan, thay đổi tình trạng tinh thần và làm suy yếu kí ức.
+
++Lấp bít-xuất huyết ở động mạch đốt sống thân nền (vertebrobasilar):
+- là khó phát hiện vì gây ra những tổn thương cả các dây thần kinh sọ, tiểu não và thân não;
+- gây chóng mặt (vertigo), nystagmus, nhìn đôi, tổn thương thị trường,
+- loạn-giảm và mất cảm giác ở mặt, ngất và chứng vận động khó khăn.
+- mất nhận cảm đau và nhiệt độ cùng phía ở mặt và khác phía ở thân.
+III.Chẩn đoán:
+Nghi ngờ đột quị nếu bệnh nhân có:
+a, Triệu chứng vận động/cảm giác
++ Triệu chứng yếu liệt nửa người, giảm cảm giác nửa người, bán manh (có hoặc không có rối loạn ngôn ngữ).
++ Hoặc: tổn thương dây sọ một bên (nhìn đôi, mất cảm giác nửa mặt, liệt dây 7 TW, khó nuốt)
++ Và triệu chứng vận động và cảm giác nửa người đối diện như liệt nửa người, giảm cảm giác, mất phối hợp động tác nửa người (có hoặc không có rối loạn vận ngôn).
+
+b, Triệu chứng khu trú:
++ Bán cầu ưu thế:
+  Mất vận ngôn, loạn vận ngôn, liệt nửa người, giảm cảm giác, bán manh và liệt vận nhãn bên phải, mất viết, mù đọc và mất khả năng tính toán.
+
++ Bán cầu không ưu thế:
+  Không nhận thức nửa người trái, liệt nửa người, giảm cảm giác, bán manh nửa người trái, rối loạn định hướng không gian.
+
++ Thân não:
+  Liệt hoặc rối loạn cảm giác có thể cả tứ chi hoặc bên đối diện, thất điều, loạn vận ngôn, nystagmus, liệt vận nhãn, mất thị trường cả 2 bên.
+
++ Đột quị ổ nhỏ ở thân não hoặc dưới vỏ:
+  Liệt dây 7 TW và/hoặc yếu chi một bên, hoặc giảm cảm giác nửa mặt, hoặc giảm cảm giác ở chi mà không có rối loạn chức năng phía trên vỏ não.
+
+c, Khám xét lâm sàng
++ Phải nhanh chóng, khám không kéo dài quá 5-10 phút.
+
++ Phát hiện có hay không:
+ - Chấn thương đầu và cổ.
+ - Tiếng thổi ở tim. Tiếng thổi ở động mạch cảnh.
+ - Cứng gáy. Hôn mê (chảy máu não, chảy máu dưới nhện).
+ - Sốt (viêm màng não).
+
++ BN hôn mê, xem có:
+ - Co giật
+ - Chảy máu
+ - Giảm Oxy máu
+ - Tăng áp lực nội sọ
+ - Đột quị thân não.
+
+d, Khám xét thần kinh
++ Nhanh chóng bằng thang điểm Glasgow.
+
++ Nếu cần tính điểm đột quị như SSS hoặc
+   NIHSS, Stroke European...  
+
++ Bệnh sử: (bao gồm tài liệu về bệnh nhân)
+ - Thời gian khởi phát triệu chứng đầu tiên, những than phiền / triệu chứng chính.
+ - Điều trị trước đây. Có điều trị tại bệnh viện trước đây. Thuốc đang dùng của bệnh nhân.
+ - Yếu tố nguy cơ: tăng huyết áp, tiểu đường, tăng lipid máu, nghẽn động mạch ngoại vi, bệnh mạch vành, nhồi máu cơ tim, loạn nhịp tim, rối loạn đông máu.
+  
+e, Các xét nghiệm chẩn đoán cấp cứu:
++ Mục đích:
+ - Xác định đột quị (+)
+ - Phân loại (+)
+ - Nguyên nhân có thể có (+)
+ - theo dõi diễn biến (+)
+ - hướng điều trị (theo hướng tốt nhất)
+
++ Làm CT lần 1 không cản quang nhanh chóng để phân biệt:
+ - Chảy máu/nhũn não/U não/Phù não/Não nước/Giảm tỉ trọng/Tăng tỉ trọng?: MRI ngay? Chụp động mạch bằng MRI?
+ - Chú ý: Nếu có triệu chứng giảm tỉ trọng sớm = cần phân biệt với tỉ trọng chất trắng, phân biệt ranh giới não-tủy (đặc biệt ở thùy đảo).
+ - Xem thuộc vùng phân bố chính của động mạch nào.
+ -  Phân biệt với hạch nền não .
+ - Phù não: cần xem chèn đẩy não thất mà không có lệch đường giữa/Lệch đường giữa/Mất rãnh não.
+
++ CT lần 2 sau 24 giờ: cần làm nếu
+ - Sau điều tri thuốc chống đông.
+ - Bệnh nhân có diễn biến xấu đi (đột quị tiến triển).
+ - Trước khi dùng thuốc chống đông sớm ở bệnh nhân có rung nhĩ (dưới 36 giờ)
+ - Triệu chứng CT lần 1 không rõ ràng (nếu cần CT có cản quang hoặc MRI)
+
++ CT lần 3 sau 1 tuần: nếu
+ - Trước dùng thuốc chống đông muộn ở BN có rung nhĩ.
+ - Triệu chứng CT lần 2 không rõ ràng (nếu cần CT có cản quang hoặc MRI).
+ - Bệnh nhân đột quị chảy máu.
+ - Bệnh nhân có phù não trên CT lần 2.
+
+* Tham khảo CT Scanner não
++ Xét nghiệm hô hấp và tuần hoàn:
+  Nhanh chóng nhằm loại trừ hoặc kết luận có bệnh phổi hoặc tim (tràn dịch, phù phổi, rung nhĩ, kích thước tim…)
+
++ ECG:
+  Nhanh chóng nhằm tìm Rung nhĩ và/hoặc loạn nhịp khác
+
++ Xét nghiệm máu:
+  Tế bào máu. Xét nghiệm đông máu. Điện giải đồ.
+  Glucemia. Chức năng thận, gan. Khí máu.
+
++ Xét nghiệm chẩn đoán hỗ trợ: (nếu cần)
+  Doppler-Siêu âm sọ, tim, chụp động mạch và chọc sống thắt lưng. .
+  T3, T4, TSH, Cholesterol, HDL, Triglycerides, xét nghiệm nước tiểu.
+  Xét nghiệm huyết thanh đánh giá viêm động mạch.
+  Chức năng tiểu cầu.
+1. Điều trị giai đoạn cấp (cơ bản)
+a. Xử trí cấp cứu ban đầu
+* Cần phải đưa ngay người bệnh vào viện
+ - Để được chẩn đoán và điều trị thích hợp.
+ - Đối với người bị tai biến, thời gian là vàng,
+ - mạch vỡ hay máu đông phải được xử lý thật nhanh để đề phòng các biến chứng như liệt toàn thân, bại não, v.v.
+
+* Khi có các triệu chứng sau-cần phải chú ý, và đưa đến bệnh viện ngay lập tức:
++ Các triệu chứng xảy ra đột ngột
+ - Đột ngột thấy tê cứng ở mặt, tay hoặc chân đặc biệt là tê cứng nửa người
+ - Đột ngột nhìn không rõ (Thị lực giảm sút)
+ - Đột ngột không cử động được chân tay  (Mất phối hợp điều khiển chân tay)
+ - Đột ngột không nói được hoặc không hiểu được người khác nói
+ - Đầu đau dữ dội
+
++ Phụ nữ hay có các biểu hiện đặc trưng sau:
+ - Đột ngột đau ở mặt hoặc chân
+ - Đột ngột bị nấc
+ - Đột ngột cảm thấy buồn nôn
+ - Đột ngột cảm thấy mệt
+ - Đột ngột tức ngực
+ - Đột ngột khó thở
+ - Tim đập nhanh bất thường
+
++ Ghi chú: nhấn mạnh chữ đột ngột để chỉ các triệu chứng xảy ra bất thường, không do các yếu tố bên ngoài.
+
+* Những việc có thể làm trước khi xe cấp cứu tới
+- Để người bệnh nằm xuống, và nói chuyện với người bệnh để họ bình tĩnh.
+- Nên để bệnh nhân trong tư thế thoải mái. Nới lỏng quần áo.
+- Bảo thở sâu. Thở chậm và sâu giúp bệnh nhân bình tĩnh và đưa máu lên não nhiều hơn.
+- Giữ đầu mát và thân ấm. Nếu có đá lạnh, có thể chấm nhẹ qua đầu người bệnh để giữ mát. Bọc đá trong khăn để không quá lạnh. Giữ mát đầu để giảm phản ứng phù nề khi tai biến và có thể giúp người bệnh đỡ cảm thấy đau đầu. Giữ thân ấm bằng áo khoác hoặc chăn sẽ giảm được nguy cơ co giật (sốc).
+- Nếu đã ngưng thở: thực hiện hô hấp nhân tạo (CPR), nếu cần phải dùng miệng thổi hơi vào miệng BN (hô hấp miệng-miệng).
+
++ Không được
+- Cố di chuyển đầu, cổ bệnh nhân, trong nhiều tai nạn, đầu hoặc cổ có thể bị gãy hoặc bị thương.
+- Ép cho bệnh nhân ăn hoặc uống, tai biến khiến cho BN không thể nuốt và sẽ gây nghẹn.
+- Cho dùng aspirin, mặc dù nó có thể làm giảm cục máu đông trong trường hợp tai biến tắc động mạch, nhưng cũng có thể gây chảy máu trong nếu là tai biến vỡ mạch máu. Nếu người bệnh đã uống aspirin trong ngày, cần phải báo với bác sỹ cấp cứu.
+
+b. Điều trị cơ bản ở Bv:
+* Bất kỳ quyết định điều trị nào đều phải thực hiện nhanh chóng. Sự chậm trễ sẽ dẫn tới tiên lượng xấu. Phác đồ chung:
+b1.Thở O2 qua mũi:
++ 2 - 4 l/phút, mục đích nâng độ bão hòa O2 từ 95-100%.
++ Chỉ định đặt ống nội khí quản: thở nhanh > 30 l/phút, pCO2 >50mmHg, PO2 <50 mmHg.
++ Cân nhắc chỉ định khi bệnh nhân già yếu, tổn thương thần kinh nặng, khuyết tật trước đó.
+
+b2.Dịch truyền:
++ Từ 1,5 - 2 l/ngày, dịch Ringer lactate, Không dùng dịch Glucose.
++ Nếu có thể truyền dịch theo áp lực tĩnh mạch TƯ.
+
+b3.BN có tăng huyết áp:
++ Duy trì HAmin 130 mmHg, HAmax <220 mmHg.
++ Chú ý HA thường tự xuống sau 24 - 48 giờ,
++ Không hạ HA xuống nhanh quá, có thể dùng Nifedipine dưới lưỡi.
+
+b4.P.đồ Heidelberg để kiểm soát HA ở bệnh nhân đột quị:
++ HA max < 220 và HA min < 120 mmHg:  không điều trị.
++ HA max > 220 và/hoặc HA min > 120 mmHg:
+   Urapidil, xem xét dùng Clonipine liều 0, 075mg SC, nếu cao kéo dài dùng thêm Enalapril.l.
++ HA min >220 mmHg, HA max chỉ tăng trung bình:
+   Nitroglycerine 5mg tĩnh mạch hoặc 10mg đường uống.
+
+b5.BN có HA thấp:
++ Truyền dịch tăng cung lượng tim.
++ Dùng Dopamine hoặc Dobutamine.
+
+b6.Sốt:
++ Dùng sớm metamizole (Novalgin) hoặc paracetamol.
++ Dùng kháng sinh nếu có biểu hiện nhiễm trùng.
+
+b7.Tăng Glucose máu:
++ Nên đưa Glucose máu về bình thường
++ dùng sớm Insulin tác dụng nhanh (Actrapid) và kiểm tra Glucose máu thường xuyên.
+
+b8.Bảo vệ tế bào não:
++ Trong giai đoạn cấp, truyền 30-50ml Cerebrolysin trong 10-15',
++ cho pha loãng trong 50 ml NaCl 0,9%, truyền hàng ngày, dùng liên tục trong 20 ngày.
++ Trong giai đoạn phục hồi có thể dùng với liều thấp.
+
+b9.Ngừa huyết khối tĩnh mạch sâu:
++ Cho 5000 UI Heparin dưới da mỗi 24 giờ,
++ Sau đó cho xen kẽ Heparin trọng lượng p.tử thấp 5000 UI/12 giờ.
++ Băng ép chi, xoa bóp vận động tránh ứ trệ...
+
+b10.Ngăn ngừa biến chứng hô hấp:
++ Nuốt khó gặp 13 -71%, thường p.hồi sau tuần đầu tiên.
++ Nên đặt nằm ở tư thế 45 độ, giai đoạn đầu thức ăn mềm, dễ tiêu hóa, ăn ít một và từ từ.
+
+b11.Đánh giá hôn mê:
++ Bằng thang điểm Glasgow.
++ Tiến hành đánh giá cả ngôn ngữ, độ mềm của lưỡi, phản xạ hầu họng, phản xạ ho.
+
+b12.Đánh giá khả năng nuốt:
++ Làm test tại giường khi bệnh nhân nuốt khó:
+ - cho bệnh nhân uống 1 thìa canh nước, 3 lần, sau đó uống 60 ml nước bằng ly.
+ - Nếu bệnh nhân ho hơn 1 lần trong 1 phút là nuốt khó.
+ - Nếu nuốt khó kéo dài thì tập nuốt bằng băng video, chế độ điều trị ngôn ngữ sớm.
++ Thông mũi sớm trong tuần đầu tiên (nguy cơ cao ngừng hô hấp).
+ 
+
+b13.Nấc & điều trị nấc
+2.Phòng & Điều trị biến chứng:
+  Là nguyên nhân hay gây tử vong nhất ở giai đoạn cấp và kéo dài thời gian nằm viện.
+  Các biến chứng gặp từ 60-95% các trường hợp.
+
+a.Điều trị biến chứng không phải TK
+a1. Biến chứng tim mạch:
++ Loạn nhịp 3-20%; Nhồi máu cơ tim 1 %
+ - 1/3 BN đột quị có triệu chứng bệnh mạch vành -tim,
+ - có đến 20% BN có loạn nhịp (như cơn nhịp nhanh kịch phát trên thất),
+ - xấp xỉ 50% BN có rối loạn tái khử cực trên ECG.
+
++ Do vậy, ECG cấp cứu là rất cần thiết, và tiếp tục theo dõi bằng ECG Monitoring,
+
++ Đồng thời tham khảo ý kiến bác sỹ tim mạch sớm nếu cần (cho Digitalis, thuốc chống loạn nhịp…)
+
+a2. Huyết khối tĩnh mạch sâu (DVT):
++ Huyết khối tĩnh mạch sâu (DVT) 2-42%
+ - Phòng ngừa. Nếu nghi ngờ DVT cần Doppler,
+ - chụp nhấp nháy đồ (scintigraphy), D-dimer test,
+ - tham khảo Bs chuyên khoa tim mạch.
+
++ Điều trị bao gồm: phác đồ Heparin, vật lý trị liệu.
+
+a3. Huyết khối động mạch phổi (PE):
++ Huyết khối mạch phổi 1-3 %;
+ - phòng ngừa: nếu nghi ngờ PE tiến hành chụp XQ ngực,
+ - chụp mạch nhấp nháy đồ, Doppler mạch, đo khí máu đ.mạch và
+ - tham khảo Bs chuyên khoa phổi.
+
++ Điều trị bằng Heparin.
+
+a4. Viêm phổi:
++ Viêm phổi 2-12%;
+ - 20-40% BN đột quị chết vì viêm phổi (phòng ngừa, cần phải tiến hành sớm).
+ - Xét nghiệm: X-quang phổi, máu.
+
++ Điều trị bằng kháng sinh sớm (luôn bằng kháng sinh đồ nếu có thể).
+
+a5. Đau vai và co thắt cơ:
++ Đau vai và co thắt cơ 20-40 %;
++ Phòng ngừa và điều trị tại giường bằng vật lý trị liệu chủ động, thụ động và NSAIDs.
+
+a6. Nhiễm trùng tiểu (UTIs):
++ Nhiễm trùng đường tiểu 16-44 %;
+
++ Phòng ngừa:
+ - Chỉ lưu sonde tiểu khi xác định là thật cần thiết.
+ - Dùng sonde một lần.
+ - Xét nghiệm nước tiểu thường xuyên.
+ - Bổ xung dịch, cân bằng dịch điện giải.
+ - Dùng catheter bao cao su.
+ - Catheter trên xương mu nếu cần.
+ - Tham khảo BS về niệu.
+ - Nếu BN có UTIs thì phân tích nước tiểu, điều trị bằng kháng sinh theo kháng sinh đồ
+
+a7.Biến chứng khác
+ - Ngừng hô hấp 42%;
+ - Xuất huyết dạ dày, ruột 3%;
+ - Chảy máu 0, 4-1, 2%;
+ - Ngã, gãy xương 1-3 %;
+ - Trầm cảm 17%.
+
+b. Đ.trị các biế́n chứng về t.kinh:
+b1. Phù não:
++ 10-20% BN có phù não, hay xảy ra cao trào vào ngày thứ 3 - 5.
+
++ Điều trị:
+ - Nằm đầu cao 30 độ.
+ - Manitol 0, 5 g/kg cân nặng mỗi 6 giờ.
+ - Đặt ống nội khí quản và thông khí nhân tạo. Khi giảm pCO2 5-10 mmHg làm thấp áp lực sọ 25 -30%.
+ - Dẫn lưu nội sọ ở bệnh nhân chảy máu nếu cần thiết.
+
+b2. Co giật:
++ Gặp từ 4 -7%, chủ yếu xảy ra trong vòng 24 giờ đầu.
+ - Tình trạng động kinh (trạng thái động kinh) hiếm,
+ - khi xảy ra nó cho thấy là một tiên lượng xấu.
+ - BN có động kinh thì 90% phải điều trị ngay lập tức.
+
++ Điều trị:
+ - Khởi đầu 10mg Diazepam (tốt nhất dùng IV),
+ - sau 5 phút không có kết quả dùng thêm 10mg nữa,
+ - nếu sau 5' vẫn không cắt cơn thì cho truyền 15 mg/kg cân nặng và Phenytoin tĩnh mạch (<50 mg/phút).
+ - BN có 1-2 co giật trong 2 tuần đầu thì không cần điều trị.
+3.Điều dưỡng và Chăm sóc
+a. Mục đích
++ Duy trì tốt các chức năng sống
++ Phòng ngừa các biến chứng viêm phổi do sặc, loét nhiễm khuẩn, giúp người bệnh vệ sinh cá nhân.
++ Phục hồi các chức năng vận động, hạn chế các di chứng
++ Hướng dẫn cho BN và gia đình các biện pháp tự theo dõi và biết cách chăm sóc BN khi xuất viện.
+
+b. Cách tiến hành
+b1. Theo dõi sinh hiệu:
+b2. Phòng ngừa các biến chứng
+b3.Phòng chống loét
+b4.Nuôi dưỡng:
+b5. Phục hồi chức năng, hạn chế di chứng
+b6.G.dục s.khoẻ, h.dẫn c.sóc và tập luyện
+ 
+b1.Theo dõi sinh hiệu
+* Hô hấp
++ Thở nhanh hay chậm, có ứ đọng dịch tiết ?
++ Có rối loạn nhịp thở, kiểu thở (ngáy to) ?
++ Đặt canun miệng để tránh tụt lưỡi
++ Nếu hôn mê sâu, có rối loạn hô hấp - báo BS ngay.
+
+* Tim mạch
++ Theo dõi nếu HA lên > 200 mmHg, phải báo BS ngay.
++ Nhịp tim - nếu có rối loạn nhịp phải báo BS ngay
++ Tình trạng xuất huyết ngoài da, miệng (đặc biệt khi dùng chống đông).
+
+* Tình trạng liệt-thần kinh:
++ Quan sát BN tỉnh hay mê qua bảng điểm Glasgow
++ Đánh giá liệt TK qua vẻ mặt, nhân trung, và cách nói
++ Theo dõi phản xạ ho, nuốt, chức năng bài tiết
++ Tiêu hoá - cần đặt ống thông dạ dày để nuôi dưỡng và xem xét có xuất huyết đường tiêu hoá không
++ Đặt túi thông theo dõi lượng nước tiểu 1 hay 24 giờ.
+
+b2.Phòng ngừa các biến chứng
++ Vệ sinh các hốc tự nhiên ngày 2-3 lần.
++ Nên để BN ở phòng thoáng chống nóng và rét tốt.
++ Do liệt dễ ứ đọng nên cần dẫn lưu tư thế, nghiêng phải-trái, đầu thấp, kết hợp vỗ rung vùng ngực, lưng làm long đờm sau đó hút sạch vùng hầu họng.
++ Vận động thụ động hay chủ động chi liệt để tăng cường tuần hoàn, giúp nuôi dưỡng tốt, chống tỳ đè chợt loét.
+
+Phòng ngừa
++ Phòng ngừa cấp 1:
+ - Kiểm soát các yếu tố nguy cơ; điều trị huyết áp, kiểm soát đường huyết, lipid máu; bỏ thuốc lá;
+ - dùng thuốc kháng đông trọn đời ở những người bị thấp tim hoặc mang van tim nhân tạo ở bên tim trái.
+ - Cân nhắc khả năng dùng thuốc kháng đông ở người bị rung nhĩ mạn tính.
+
++ Phòng ngừa cấp 2:
+ - Tiếp tục kiểm soát các yếu tố nguy cơ.
+ - Nếu là tắc mạch máu hoặc rung nhĩ mạn tính, có thể dùng aspirin hoặc warfarin.
+
+b3.Phòng chống loét:
++ Nên cho nằm đệm chống loét- đệm nước hay khí
++ Giữ ga luôn khô, sạch. Thay ga, quần áo người bệnh ít nhất ngày 1 lần.
++ Thay đổi tư thế người bệnh 2 giờ / 1 lần.
++ Có vết chợt - chống tỳ đè tiếp và gây nhiếm khuẩn.
++ Có vết loét sâu:
+ - Cần cắt lọc tổ chức hoại tử, rửa sạch và có thể rắc đường kính khô rồi băng lại.
+ - Thay rửa khi băng bị ướt, chăm sóc cho tới khi vết loét đầy lên và kín miệng.
+
+b4.Nuôi dưỡng:
++ Nước:
+ - Lượng nước đưa vào = lượng nước ăn uống + thể tích dịch truyền.
+ - Thể tích lượng nước đưa vào trong 24 giờ = lượng nước tiểu 24 giờ + (300 – 500 ml)
+ - Nếu BN sốt, ra nhiều mồ hôi hay thông khí máy = thì cho thêm 500 ml.
+
++ Ăn:
+ - Cho ăn nhiều bữa trong ngày, phòng chống nôn, ăn nhạt khi có tăng HA.
+ - mổi lần ăn qua ống thông không cho quá 400 ml và phải cách nhau 3 giờ.
+ - Cần bồi phụ thêm các vitamin nhóm A, B và C
+ - Chế biến bảo đảm tỷ lệ Protid/lipid/glucid = 1/1/4
+ - Tốt nhất cho dùng bột dinh dưỡng đóng sẵn như Ensure, Sandosource.
+
+b5.Phục hồi chức năng, hạn chế di chứng:
++ Phục hồi chức năng phải tiến hành sớm ngay khi còn đang tiến hành các biện pháp hồi sức để đề phòng các di chứng teo cơ, cứng khớp.
++ Nhân viên điều dưỡng cần tập và hướng dẫn cho bệnh nhân và người nhà bệnh nhân.
+
+b6.Giáo dục sức khoẻ, hướng dẫn chăm sóc và tập luyện
+* Người bệnh TBMN thường để lại di chứng, thời gian hồi phục lâu, chăm sóc tốn nhiều công sức cho nên cần:
+ - Chế độ vệ sinh hàng ngày sạch sẽ
+ - Chế độ ăn uống, thuốc men đầy đủ đúng y lệnh
+ - Luyện tập hàng ngày tăng dần mức độ hoạt động.
+ - Tránh những yếu tố có thể tạo điều điện xuất hiện tai biến lần sau: stress tâm lý, gắng sức, nóng lạnh đột ngột, rượu, thuốc lá.
+
+Tham khảo
+* Chăm sóc bệnh nhân sau tai biến mạch máu não tại nhà
+1. Sinh hoạt, tập luyện
+- Trong trường hợp bệnh nặng, bệnh nhân chưa tự vận động được, người nhà phải giúp họ thay đổi tư thế 3 giờ một lần để tránh loét.
+- Mỗi lần lật người, cần xoa rượu, cồn hoặc phấn rôm vào lưng, mông và các vị trí bị tì đè khác.
+- Khi cho ăn uống, nên kê gối sau lưng bệnh nhân để giữ họ ở tư thế nửa nằm, nửa ngồi.
+- Đối với trường hợp nhẹ hơn, tùy mức độ di chứng liệt, cần đề ra một kế hoạch cụ thể cho bệnh nhân tập luyện hằng ngày.
+- Cố gắng để cho họ tự làm ở mức tối đa, người nhà chỉ hỗ trợ hoặc giúp đỡ khi bệnh nhân không thể tự làm được.
+- Quá trình tập luyện đòi hỏi sự kiên trì của cả bệnh nhân và người hướng dẫn. Nên duy trì việc này cả khi các di chứng đã được phục hồi.
+
+2. Chế độ ăn
+- Cần đảm bảo chế độ ăn đủ chất và cân đối.
+- Nên dùng dạng thức ăn mềm, dễ tiêu như cháo, súp, sữa, nước hoa quả tươi.
+- Kiêng sử dụng các chất béo và chất kích thích (rượu, bia, chè đặc, cà phê); hạn chế dùng muối.
+
+3. Điều trị duy trì
++ Nên kết hợp châm cứu, bấm huyệt, xoa bóp và dùng thuốc để nhanh chóng phục hồi các chi bị liệt.
++ Có thể áp dụng một trong các bài thuốc khắc phục di chứng tai biến mạch máu não thường dùng.
+
+4. Thực hiện các biện pháp phòng bệnh
+- Cẩn thận giữ mình khi thời tiết chuyển lạnh vào mùa đông và khi áp suất không khí lên cao vào mùa hè.
+- Tránh tắm khuya hoặc ở nơi gió lùa, nhất là với người bị cao huyết áp.
+- Tránh trạng thái căng thẳng thần kinh, xúc động mạnh. Tránh mất ngủ.
+- Điều trị các nguyên nhân gây tai biến mạch máu não như tăng huyết áp, xơ vữa động mạch, tiểu đường, rối loạn nhịp tim.
+- Tránh táo bón.
+- Kiêng rượu, bia và các chất kích thích.
+- Tránh vận động thể lực quá mức như mang vác nặng, chạy nhanh
+

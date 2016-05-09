@@ -1,0 +1,121 @@
+﻿I.Tổng quan
+   A. Đặc điểm: Là sự suy chức năng thận đột ngột với đặc điểm azot máu tăng nhanh chóng có thể kèm theo tiểu ít hoặc vô niệu.
+
+   B. Các chức năng thận gồm:
+     1.Bài tiết các sản phẩm cuối cùng của sự chuyển hoá (ure, creatinine...).
+     2.Kiểm soát nồng độ điện giải & ion hydro của cơ thể.
+     3.Tiết hocmon (renin, erythropoetin) & chuyển hoá hocmon như Insulin.
+
+   C.Tiểu ít; Vô niệu
+          + Tiểu ít: Khi nước tiểu < 400 ml/ngày;
+          + Vô niệu: Khi < 50 ml/ngày.
+
+   D.Độ lọc cầu thận ~ thông qua Clearance Creatinine
+          Clcr = (140 – tuổi) x KgTT / 72 x Ccr (mg%)
+          [chuyển đổi: Cre mcmol/l x 0, 113(mg) = Cre mg%]
+
+* Suy thận cấp thường có khả năng hồi phục gần như hoàn toàn chức năng thận.
+* Tuy nhiên đến nay tỷ lệ tử vong vẫn còn cao (khoảng 50%) vì các biến chứng cũng như nguyên nhân phát sinh STC nặng nề không điều trị khỏi được.
+ 
+II.. Nguyên nhân
+* Gặp 50% từ các bệnh ngoại khoa; 30 % nội khoa; 10% sản khoa & 10% do độc chất. Thường chia làm 3 nhóm nguyên nhân:
+
+   1. Suy thận cấp trước thận do giảm thể tích tuần hoàn (sốc các loại, mất nước, chảy máu tiêu hoá, suy tim cấp...)
+
+   2. Suy thận cấp tại thận ~ hoại tử ống thận cấp - chiếm 3/4 tổng số STC do:
+     a. Từ các nguyên nhân trước & sau thận điều trị chậm hoặc để kéo dài dẫn đến.
+     b. Do các sắc tố (Hb do tan máu hay sắc tố cơ vân do vùi lấp, chấn thương ...)
+     c. Do các chất gây độc thận (thuốc cản quang, kháng sinh, thuốc ngủ, mê ...)
+     d. Các bệnh khác dẫn đến (viêm cầu thận, CHA, tiểu đường...)
+
+   3. Suy thận cấp sau thận: do tắc nghẽn vì sỏi, u chèn ép ...
+ 
+III.Triệu chứng
+* Thường qua 3 giai đoạn:
+    Giai đoạn thiểu hay vô niệu; giai đoạn lợi niệu & giai đoạn hồi phục.
+
+   A. Giai đoạn thiểu - vô niệu
+          + Thường xuất hiện trong vòng 1 ngày; dài thì 1-2 tuần; nếu > 4 tuần thì đã hoại tử vỏ thận.
+          + Lượng nước tiểu thường ít ~ 150 ml/ngâfy; không bao giờ vô niệu hoàn toàn (0ml/24 giờ).
+
+   1.Lâm sàng thường biểu hiện:
+                    a. Biểu hiện thần kinh:
+      Tri giác rất thay đổi, lúc tỉnh hoàn toàn lúc lơ mơ buồn ngủ, có thể hôn mê,
+       ít khi xảy ra co giật nếu không bị ngộ độc nước.
+                    b. Rối loạn tiêu hoá:
+      Là hay gặp nhất với các triệu chứng đắng miệng ăn mất ngon, nôn mửa ói,
+      liệt ruột (dễ nhầm bụng cấp), loét trợt dạ dày đại tràng &
+      do rối loạn đông máu kèm nên dễ xuất huyết đường tiêu hoá.
+                    c. Tim mạch:
+      Loạn nhịp tim (thường gặp do tăng Kali hay nhiễm độc Digital);
+      Do dư nước hay truyền dịch nhiều, sai dẫn đến suy tim ứ huyết;
+      Viêm màng ngoài tim & CHA có thể hay gặp nếu không điều trị kịp thời.
+                     d. Huyết học:
+      Dễ chảy máu do HC Ure huyết tăng gây ức chế hoạt động tiểu cẩu,
+      làm thành mạch dễ vỡ, dễ đông máu nội mạch lan toả (DIC) &
+      còn do ức chế tuỷ xương.
+                    e. Nhiễm trùng:
+      Gặp tới trên 50% do giảm cơ chế bảo vệ miễn dịch của cơ thể &
+      thường là nguyên nhân gây tử vong hàng đầu.
+
+   2. Cận lâm sàng
+                    a. Tăng azot máu:
+     BUN thường tăng 10-20 mg/100ml/ngày;
+     creatinine tăng 0, 5 - 1mg/100ml/ngày;
+     tăng gấp đôi nếu có tăng thoái biến đạm.
+                    b. Tăng Kali máu:
+     Có thể tăng rất nhanh đến 1-2 mmol/lit trong vài giờ nếu BN có kèm
+     tình trạng hoại tử mô, nhiễm trùng, toan huyết
+     (thường chỉ tăng khoảng 0, 6 mmol/lít/ngay khi suy thận cấp).
+                    c. Toan chuyển hoá.
+                    d. Giảm Canxi máu khoảng 6, 3 - 8, 3mg%
+                    e. XN Nước tiểu:
+     nhiều trụ hạt thô, lớn & nhiều tế bào biểu bì; tỷ lệ Ure niệu/Ure huyết <10/1
+    (bình thường vào khoảng 2/1); tỷ lệ Creatinine niệu/Creatinine huyết < 20/1.
+
+B. Giai đoạn lợi niệu
+          + Được đánh dấu bằng sự tăng thể tích nước tiểu, thường gấp đôi sau mỗi ngày, vào ngày thứ ba thường đạt 1 lít.
+          + Giai đoạn này chức năng thận chưa hồi phục hoàn toàn BUN, creatinine, kali vẫn còn tiếp tục tăng, GFR còn thấp lại dễ dẫn đến mất nước điện giải, vẫn còn nhiều biến chứng với tử vong chiếm 25% toàn bộ.
+          + Sau khoảng 2 tuần các chỉ số mới dần giảm xuống bình thường.
+
+C. Giai đoạn hồi phục
+          + 3-12 tháng sau chức năng thận còn tiếp tục cải thiện,
+          + 2/3 BN GFR vẫn còn giảm độ 20-40 % so với bình thường.
+
+* Thể suy thận không thiểu niệu:
+          + Hiện nay khoảng 30-60% trường hợp là suy thận cấp nhưng lượng nước tiểu vẫn lớn hơn 400 ml/ngày, có thể do - phát hiện sớm nên ổn thương ống thận nhẹ & do việc dùng thuốc lợi tiểu mạnh & sớm hơn. Tiên lượng cũng tốt hơn.
+ 
+IV. Nguyên tắc điều trị
+   1. Phải chẩn đoán loại trừ trước tiên loại suy thận cấp trước & sau thận, vì điều trị nguyên nhân của hai trường hợp này tốt sẽ có ngay kết quả tốt cho tình trạng suy thận.
+
+   2. Điều trị thử với
+     a. Lasix liều cao: mổi giờ tiêm TM 200 mg ~ 10 ống
+    (có thể lập lại nhiều lần/liều tối đa là 1000-2000mg/ngay ~ 50-60 ống
+      /chú ý rất dễ ngưng tim, tụt HA cấp).
+     b. Manitol 0, 5mg/kg tiêm tĩnh mạch chậm trong 5'
+    (25-30mg ~ 10 ml) sau 30' nếu chưa có kết quả có thể lập lại lần hai.
+     c. Ventoline để hạ K máu khi khẩn cấp nếu cần
+
+   3. Điều trị chính thức như đã bị hoại tử ống thận cấp khi điều trị như trên thất bại
+     a. Điều chỉnh nước điện giải:
+          + Nước nhập = dịch mất/ngay + 400 ml (nếu phù, cao HA chỉ cần bù 1/2 lượng dịch mất)
+          + Natri giảm, Kali tăng xử trí như trong phác đồ điều trị rối loạn nước điện giải.
+
+     b. Lọc máu, lọc màng bụng
+ Chỉ định
+          + Azot máu tăng quá cao & nhanh (BUN >150mg%; creatinine > 15mg%)
+          + Mắc phải một trong các biến chứng sau:
+               - Tăng Kali quá mức có thể điều trị nội khoa được.
+               - Suy tim, phù phổi cấp.
+               - Co giật.
+               - Toan huyết trầm trọng không điều chỉnh được.
+               - Tăng huyết áp không kiểm soát được.
+[Chú ý: đây là chỉ định cụ thể cuả riêng suy thận cấp - nó nằm trong chỉ định tổng thể của lọc máu, lọc màng bụng]
+
+   c.  Điều trị & dự phòng các biến chứng:
+               -  Chống nhiễm trùng, tăng HA, xuất huyết tiêu hoá ...
+
+   d. Dinh dưỡng:
+               - Năng lượng tính cung cấp > 2000 Kcalo/ngay. Đường truyền > 100 g/ngay
+               - Đạm khoảng 20 g protein/ngay với loại có giá trị dinh dưỡng cao
+    (trứng, thịt sữa).

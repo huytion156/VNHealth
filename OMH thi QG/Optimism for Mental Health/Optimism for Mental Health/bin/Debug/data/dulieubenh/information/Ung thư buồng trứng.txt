@@ -1,0 +1,23 @@
+﻿1. Nguyên nhân và triệu chứng
+     _U ác tính xuất hiện từ buồng trứng được gọi là ung thư buồng trứng.
+     _Có một vài loại ung thư buồng trứng. Ung thư buồng trứng xuất hiện trên bề mặt buồng trứng (ung thư tế bào biểu mô) là loại phổ biến nhất. Đây là loại ung thư sẽ được trình bày chi tiết trong bài. Ung thư buồng trứng bắt đầu từ tế bào sản xuất trứng (u tế bào mầm) và ung thư buồng trứng bắt đầu ở mô đệm xung quanh buồng trứng (u mô đệm) là những loại ung thư ít gặp và không được trình bày trong tập thông tin này.
+      _Tế bào ung thư buồng trứng có thể tách ra khỏi buồng trứng và lan sang các mô và cơ quan khác trong một quá trình được gọi là "rụng". Khi tế bào ung thư buồng trứng rụng xuống, nó có xu hướng "gieo mầm" (tạo thành những khối u mới) lên màng bụng và lên cơ hoành. Dịch có thể tích tụ lại trong ổ bụng. Tình trạng này được gọi là hiện tượng cổ trướng. Nó có thể làm cho người phụ nữ cảm thấy bị phù nề hoặc bụng có thể bị trướng lên.
+     _Tế bào ung thư buồng trứng cũng có thể đi vào trong mạch máu hay hệ bạch huyết. Khi đã xâm nhập vào mạch máu hoặc hệ bạch huyết, tế bào ung thư có thể di chuyển và tạo nên khối u mới ở những bộ phận khác của cơ thể.
+     _Dấu hiệu và triệu chứng ung thư buồng trứng có thể bao gồm:
+        +Khó chịu và/hoặc đau khắp bụng (trướng hơi, không tiêu, bị đè, trướng lên, phù nề, co thắt).
+        +Buồn nôn, ỉa lỏng, táo bón hoặc đái rắt.
+        +Mất cảm giác ngon miệng.
+        +Cảm thấy đầy bụng thậm chí chỉ sau bữa ăn nhẹ.
+        +Tăng hoặc giảm cân không rõ nguyên nhân.
+        +Ra máu âm đạo bất thường.
+
+2. Cách chữa trị thông thường
+     _Phẫu thuật là phương pháp điều trị ban đầu thường được sử dụng để điều trị cho bệnh nhân được chẩn đoán ung thư buồng trứng. Buồng trứng, vòi dẫn trứng, tử cung và cổ tử cung thường được cắt bỏ. Phẫu thuật này được gọi là phẫu thuật cắt tử cung cùng với buồng trứng-vòi dẫn trứng hai bên. Thông thường, bác sĩ phẫu thuật còn cắt bỏ mạc nối và hạch trong ổ bụng.
+     _Hóa trị liệu là dùng thuốc để tiêu diệt tế bào ung thư. Có thể áp dụng hóa trị liệu để tiêu diệt các tế bào ung thư còn sót lại trong cơ thể sau khi phẫu thuật, để kiểm soát sự tăng trưởng của khối u hoặc làm giảm nhẹ triệu chứng của bệnh.
+Hầu hết các loại thuốc điều trị ung thư được tiêm vào tĩnh mạch. Thuốc có thể tiêm trực tiếp vào tĩnh mạch hoặc qua catheter, một ống mảnh. Đặt ống thông vào một tĩnh mạch lớn và lưu lại tại chỗ trong thời gian cần thiết. Một số loại thuốc điều trị ung thư ở dạng viên uống. Dù những loại thuốc này được tiêm vào tĩnh mạch hay uống cũng đều đi vào mạch máu và tuần hoàn khắp cơ thể.
+     _Tia xạ trị liệu, còn được gọi là liệu pháp phóng xạ, là phương pháp sử dụng tia có năng lượng cao để tiêu diệt tế bào ung thư. Tia xạ trị liệu chi ảnh hưởng tới tế bào ở vùng chiếu xạ. Tia phóng xạ có thể xuất phát từ một máy (phóng xạ ngoài). Một số bệnh nhân được điều trị bâng tia phóng xạ trong màng bụng trong đó dung dịch phóng xạ được đưa trực tiếp vào ổ bụng qua một ống thông.
+
+3. Cách phòng tránh
+     _Theo dõi sau khi điều trị ung thư buồng trứng là rất quan trọng. Khám định kỳ thường bao gồm khám lâm sàng chung, khám vùng chậu và nghiệm pháp Pap. Bác sĩ còn tiến hành các xét nghiệm bổ sung như chụp X quang lồng ngực, chụp cát lớp vi tính, phân tích nước tiểu, xét nghiệm công thức máu và CA-125.
+     _Bên cạnh việc khám theo dõi để phát hiện bệnh tái phát, bệnh nhân có thể muốn hỏi bác sĩ về việc khám thăm dò để phát hiện ra các loại ung thư khác. Bệnh nhân ung thư buồng trứng có nguy cơ ung thư vú và đại tràng cao hơn. Bên cạnh đó, điều trị bằng một số loại thuốc nhất định có thể làm tăng nguy cơ mắc loại ung thư thứ hai, chẳng hạn như bệnh ung thư tế bào máu.
+

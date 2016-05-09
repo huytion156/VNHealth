@@ -1,0 +1,85 @@
+﻿I. Tổng quan
++ Ma túy
+- là một tệ nạn nặng nề đối với xã hội.
+- ma túy thường dùng là ôpi, trong đó phổ biến nhất là morphin và heroin.
+
++ Các khái niệm cơ bản
+- Opiat: Các chất nguồn gốc từ nhựa cây thuốc phiện (opium poppy).
+- Opioid: Các hợp chất mà tất cả các tác dụng trực tiếp đều bị Naloxone đối kháng.
+
++ Nghiện opioid
+- là hiện tượng phải liên tục tăng liều để đạt được cùng một đáp ứng sinh lý.
+- Nếu đột ngột ngừng dùng opiat, lượng enkephalin nội sinh không đủ kích thích thần kinh, sẽ gây ra tình trạng kích động với các triệu chứng thiếu thuốc.
+
+II. Biểu hiện lâm sàng
+1. Hay gặp khi:
+- sau chích, hút, hít hoặc do đường qua da.
+- sau khi đối tượng chuyển sang người bán khác.
+- do tăng liều để đạt khoái cảm.
+- do tự sát hoặc bị mưu hại.
+- trẻ em có thể bị tai nạn
+- người không nghiện ma túy thì do cố tình (tự tử) hoặc do tai nạn điều trị.
+
+2.Triệu chứng
+a. Ức chế thần kinh trung ương
+- Là một trong 3 tiêu chuẩn của ngộ độc opiat.
+- Hiếm gặp co giật do quá liều opioid tinh chế ngoại trừ ở trẻ em hoặc ngộ độc propoxyphene và meperidine.
+- Trương lực cơ thường không thay đổi nhưng có thể tăng nếu do quá liều meperidine hay fentanyl.
+
+b. Đồng tử co nhỏ
+- Là dấu hiệu lâm sàng kinh điển thứ hai
+
+c. Ức chế hô hấp
+- Là đặc điểm thứ ba của ngộ độc opioid.
+- Thở nhanh nông có thể thấy ở bệnh nhân phù phổi cấp tổn thương
+- Do tác dụng ức chế TKTW của opioid, phải xét chẩn đoán viêm phổi do sặc
+
+d. Tác dụng trên hệ tim mạch
++ Sốc, trụy tim mạch:
+- bệnh nhân ngộ độc heroin do tiêm chích có thể vào viện trong tình trạng sốc.
+- Sốc có thể là do suy tim toàn bộ cấp, hoặc do tiêm độc chất vào tuần hoàn (hội chứng sốc do độc tố - toxic shock syndrome).
++ Các biến chứng tim mạch khác là loạn nhịp chậm và loạn nhịp nhanh do quinine, rung nhĩ kịch phát, QT kéo dài, viêm nội tâm mạc, ngừng tim do tăng kali máu, tâm trương kéo dài, phình mạch dạng nấm.
+
+e. Các tác dụng trên hệ tiêu hóa
++ Buồn nôn và nôn; dùng các liều tiếp theo lại có tác dụng ức chế vùng này và sau đó rấ t khó gây nôn.
++ Nhu động ruột giảm trong khi trương lực các cơ thắt tăng dẫn đến hấp thu thuốc rất chậm và làm cho thải trừ thuốc qua đường tiêu hóa có thể chậm tới 27 giờ sau khi uống.
+
+f. Các biến chứng khác
+Tiêu cơ vân, hạ đường máu, tăng thân nhiệt...
+
+III. Xét nghiệm
++ Nồng độ heroin trong máu không có giá trị nhiều về lâm sàng nhưng có thể phát hiện được trong vòng 36 giờ.
++ 6-MAM có thời gian bán thải trong máu ngắn (38 phút) nhưng có thể phát hiện trong nước tiểu bằng phương sắc ký và là bằng chứng sử dụng heroin .
+
+VI.Điều trị
+1. Hồi sức tim mạch:
++Theo dõi liên tục điện tim.
++Dùng vận mạch cho các bệnh nhân tụt HA.
++Theo dõi sát tăng gánh thể tích, chú ý đánh giá lượng dịch vào và ra.
++Tụt HA điều trị bằng vận mạch.
++Không truyền nhiều dịch ở bệnh nhân phù phổi.
++Nếu tình trạng bệnh nhân ổn định chụp X quang phổi và làm khí máu theo dõi.
+
+2. Hồi sức hô hấp:
++Đặt NKQ nếu có chỉ định.
++Dùng ôxy và có thể phải thở PEEP.
++Digitalis và lợi tiểu không có nhiều tác dụng vì là phù phổi cấp tổn thương.
++Naloxone TM 0,8 -1,2mg, tiêm lại cách mỗi 5 phút cho tới khi bệnh nhân tỉnh, thở lại tốt.
+
+3.Đối kháng Naloxone
++Naloxone là chất giải độc đặc hiệu có tác dụng ức chế ở cả 4 loại receptor ôpi (mu, kappa, sigma, delta).
++Nhanh chóng dùng naloxone thường cứu được bệnh nhân ngộ độc ôpi.
+ 
++Liều dùng
+a. Liều thường
+-có hiệu quả trong điều trị cấp cứu là 1 đến 5 ống (0,4 -2mg) tĩnh mạch.
+-đánh giá điểm Glasgow hoặc thang điểm hôn mê khác.
+-nếu không có tác dụng, dùng thêm 1 liều 2mg tĩnh mạch (dùng cách 2-3 phút cho tới tổng liều 10mg).
+-nếu có đáp ứng 1 phần, tiêm TM cách 15 phút cho tới khi bệnh nhân tỉnh, thở được
+hoặc không có cải thiện thêm.
+-nếu có đáp ứng, bắt đầu truyền tĩnh mạch naloxone.
+
+b. Truyền tĩnh mạch
+Phác đồ liều truyền tĩnh mạch liên tục để hồi phục tác dụng giảm đau gây ngủ đã được Goldfrank và cộng sự đề xuất.
+-Truyền tĩnh mạch 4 mg naloxone/lít với tốc độ 400 mcg/giờ (0,4mg/giờ).
+-Ở người lớn, dùng 4 mg/1000m l Glucose 5% truyền 100 ml/giờ.

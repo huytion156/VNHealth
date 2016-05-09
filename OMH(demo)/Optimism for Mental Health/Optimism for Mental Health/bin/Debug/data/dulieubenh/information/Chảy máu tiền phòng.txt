@@ -1,0 +1,57 @@
+﻿I.Triệu chứng:
++ Đau,
++ Nhìn mờ,
++ Tiền sử bị chấn thương.
+
++ Dấu hiệu chính: Máu trong tiền phòng
+ - Xuất huyết tiền phòng:
+   Lắng đọng ở góc tiền phòng, lắng trên bề mặt mống mắt, ngang mức tiền phòng…cục máu đông.
+ - Hồng cầu lơ lửng trong tiền phòng.
+
+II.Khám:
+ 1.Phân loại vết thương, thời gian bị thương, thời gian mất thị lực nếu có.
+ 2.Khám toàn bộ nhãn cầu loại trừ vỡ nhãn cầu, định lượng số máu trong tiền phòng: Láng máu, bao nhiêu mm chiều cao lớp máu nằm trong tiền phòng, đo nhãn áp, nếu có thể soi được đáy mắt, tiến hành soi không ấn đè củng mạc, không soi góc tiền phòng.
+ 3.Xét nghiệm
+ - Các yếu tố đông máu, công thức máu, số lượng tiểu cầu.
+ - Điện di Hemoglobin, loại trừ xuất huyết tiền phòng do bệnh hồng cầu hình liềm.
+ - Siêu âm B nếu nghi ngờ bong võng mạc khi không quan sát được đáy mắt.
+ - CT Scanner hố mắt, não nếu có nghi ngờ gì về CTSN kín hoặc vỡ hố mắt.
+
+III.Điều trị:
+A.Xuất huyết tiền phòng và xuất huyết thoáng qua:
+ 1. Nhập viện, hạn chế vận động, nghỉ ngơi tại giường với đầu được gối cao 30º.
+ 2. Băng che (không băng bịt mắt) mắt để bệnh nhân có thể tự phát hiện thị lực mất đột ngột nếu tình trạng nặng lên.
+ 3. Atropin 1% 3-4 lần/ngày.
+ 4. Acid tranexamic:
+  - Tiêm TM 5-10ml (100mg/ml) hoặc 0, 5g-1g (10mg-15mg/kg) 2-3 lần/24 giờ, tiêm thật chậm.
+  - Uống 2-3 viên (1g/viên) hoặc 1g-1, 5g (15-25mg/kg) × 2-4 lần/24 giờ.
+ 5. Không dùng sản phẩm chứa Aspirin.
+ 6. Thuốc giảm đau như Effeeralgan codein, paracetamol.
+ 7. Thuốc chống nôn: Primperan 10mg, 1/2-1 viên/1 lần × 3 lần/ngày cách nhau 6 giờ.
+ 8. Nếu nhãn áp lớn hơn 24mmHg.
+  - Thuốc nhỏ mắt Betablocker (Timolol 5%, Nyolol 5%).
+* Nếu nhãn áp còn cao:
+  - Diamox 0, 25g 2-4 viên/ngày chia làm 4 lần.
+  - Manitol 1, 5-2g/kg truyền trong 30-60 phút với dung dịch 5%-20%.
+  - Chú ý nhãn áp có thể tăng cao thoáng qua ngay trong chấn thương sau đó nó tự điều chỉnh sau vài giờ khi nằm yên, đầu cao.
+ 9. Đề phòng phản ứng tiền phòng nặng, sợi Fibrin. Nếu mắt có triệu chứng sợ ánh sáng, nhỏ Prednisolon acetat 1% × 4-8 lần/ngày.
+
+B.Theo dõi
+* Kiểm tra thị lực, nhãn áp, khám đèn khe theo dõi xuất huyết tái phát, tăng IOP, thấm máu giác mạc và bệnh lý nội nhãn khác:
+ 1. Nếu nhãn áp > 24mmHg, tiếp tục điều trị như trên.
+ 2. Nếu không xuất huyết tái phát: Transamin giảm liều một nửa khoảng 3 ngày sau đó dừng lại vào ngày thứ 4 và xuất viện sau 1 ngày nữa.
+ 3. Nếu xuất huyết tái phát, tiếp tục điều trị như trên thêm 4 ngày nữa, theo dõi sát nhãn áp, tình trạng thấm máu giác mạc, kiểm tra tình trạng đông máu và liều transamin (nếu liều transamin thích hợp, ít khi có xuất huyết tái phát).
+ 4. Tháo máu tiền phòng được chỉ định nếu tổn thương thị lực đáng kể, giác mạc thấm máu, toàn bộ tiền phòng đầy máu khối máu cục tồn tại sau 7 ngày. Nhãn áp không hạ xuống mức an toàn mặc dù điều trị thuốc tối đa.
+* Nếu không có biến chứng, bệnh nhân có thể xuất viện sau 5 ngày chấn thương.
+
+IV.Hướng dẫn khi xuất viện:
+ 1. Atropin 1% 1-4 lần/ngày tùy thuộc vào phản ứng tiền phòng.
+ 2. Prednisolon acetat 1% × 3-4 lần/ngày nếu bệnh nhân khó chịu và các yếu tố VMBĐ.
+ 3. Thuốc hạ nhãn áp nếu nhãn áp còn cao.
+ 4. Đeo kính và che mắt trong 2 tuần sau chấn thương.
+ 5. Bệnh nhân ngừng vận động, chơi thể thao trong 2 tuần sau chấn thương sau đó trở lại hoạt động từ từ.
+ 6. Khám bệnh nhân ngoại trú sau khi xuất viện:
+  + 2-3 ngày sau.
+  + 3-4 tuần sau tiến hành soi góc, giãn đồng tử với ấn củng mạc.
+  + Hàng năm (Glaucome thứ phát do lùi góc tiền phòng).
+* Nếu có bất kỳ biến chứng nào thì số lần khấm sẽ tăng lên.

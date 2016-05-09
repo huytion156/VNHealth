@@ -1,0 +1,37 @@
+﻿1. Nguyên nhân và triệu chứng
+  * HM tăng T.thấu
+     + Gặp nhiều thứ 2, đặc trưng bởi sự tăng đường huyết nặng mà quan trọng là không có ceton, với tăng thẩm thấu và mất nước.
+     + Thường xuất hiện ở bệnh nhân tiểu-đường nhẹ hay bị che lấp, và hay gặp nhất ở BN trung niên và người già >50. Những dấu hiệu chính xác không có-cho tới khi xuất hiện tai biến thật sự của nó.
+     + Liệt và sững sờ phát triển khi nồng độ osmol/kg huyết thanh > 310 mosm/Kg, và hôn mê có thể xuất hiện nếu nồng độ osmol/kg > 320-330 mosm/Kg. ADA  khuyến cáo thay thế tên đặt trước đây của rối loạn nay (tăng đường huyết, tăng thẩm thấu, hôn mê không ceton) với tên gọi tăng thẩm thấu do tăng đường huyết là trạng thái.
+  1.1.Tiêu chuẩn Chẩn đoán
+     +Tăng đường huyết> 600mg/dL.
+     + Nồng độ osmol/kg huyết thanh> 310 mosm/kg.
+     + Không nhiễm axit máu; do pH máu > 7.3.
+     + Bicacbonat huyết thanh> 15 meq/l.
+     + Anion gap bình thường (< 14 meq/l).
+  1.2. Triệu chứng lâm sàng
+   a.Lâm sàng
+     + Bùng phát có thể phức tạp trong vài ngay hay vài tuần, với sự yếu mệt, đa niệu, và khát nhiều.
+     + Mất nước nhanh do đái nhiều, da khô, mắt trũng.
+     + Thiếu những đặc tính của ketoacidosis có thể làm chậm trễ cho đến khi sự mất nước trở nên sâu sắc hơn so với ở ketoacidosis.
+     + Giảm uống không thường gặp trong bệnh sử, vi thiếu sự mất nước, buồn nôn không thích hợp hoặc sự không tương thích ở người già, ở bệnh nhân nằm liệt giường.
+     + Tê liệt và Lẫn lộn phát triển, tiến triển tới co giật và hôn mê sâu. Khám xác nhận sự mất nước nặng trên bệnh nhân hôn mê hay hôn mê không có thở kiểu Kussmaul.
+   b.Cận lâm sàng
+     + XN máu: glucose cao (600-2400mg/dl); bicacbonat thấp; Acetone= 0; Na máu >140 meq/l; osmol máu > 330-440 mosm/kg.
+     + XN niệu: glucose ++++; Acetone =0
+(Công thức ước tính mOsm/l = 2[Na+K] + Glucose + Ure)
+(C.thức đổi glucose: 0,055.(mg%) = mmol/l & 18.(mmol/l) = mg%)
+
+2. Cách chữa trị thông thường
+     _Truyền dịch NaCl 0.9% IV 6-10L/24h; trong đó IV 2L/2 giờ đầu; các giờ sau 1L/gio - cho tới khi độ TT máu về bình thường, hay thoát Hôn mê..
+     _Truyền dd GIK (Gluco-Insulin-Kali) như cấp cứu h.mê tăng ceton; hay Insulin nhanh 50UI (1/2 IV; 1/2 IM), sau đó mỗi giờ IV-25UI & IM-25UI cho tới khi glucose máu <13 mmol/l (230mg%); khi thoát HM thì thay bằng Insulin chậm.
+     _Thay bằng DW5 và ngưng NacL khi glucose <13mmol/l
+     _Cho uống hay truyền Kali 12g/24h nếu có hạ K.
+     _Truyền a.glutamic 1% x 50 ml để chống phù & thiếu Oxy não.  
+
+3. Cách phòng tránh
+     _Kiểm tra định kỳ đối với đường huyết (tại phòng khám hoặc máy thử tiểu đường tại nhà), thực hiện chế độ ăn uống và liệu pháp vận động khoa học nhằm kiểm soát chặt chẽ mức độ đường huyết.
+     _Ngăn chặn các nguyên nhân dẫn tới mất nước, ví dụ như: viêm nhiễm, sốt cao, nôn mửa, bỏng…Ngoài ra, người bệnh cần chú ý khi sử dụng một vài loại thuốc có thể gây ra tình trạng mất nước như thuốc lợi tiểu, cortin, propranolol…
+     _Đối với bệnh nhân nhiễm độc nước tiểu do suy thận phải áp dụng phương pháp thẩm thấu phúc mạc và huyết dịch.
+     _Sốt luôn là dấu hiệu mở màn của nhiều bệnh. Vì lý do đó, mỗi gia đình cần chuẩn bị sẵn cặp sốt điện tử đo nhanh để phòng các trường hợp cần thiết.
+

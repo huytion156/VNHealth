@@ -1,0 +1,96 @@
+﻿I. Tổng quan
+     1. Định nghĩa
+          + Danh từ suy thận mãn chỉ sự giảm mãn tính toàn bộ các chức năng của thận (> 10 năm các chức năng như đào thải các chất thoái biến, độc chất; duy trì thăng bằng thể dịch & kiềm toan; chuyển hoá đường đạm mỡ cho đến các chức năng khác như nội tiết, tạo máu...).
+
+     2. Đặc điểm
+          + Khác với suy thận cấp - suy thận mãn với tổn thương thận kéo dài thường dẫn tới phá huỷ thận tiến triển và không hồi phục
+
+     3. Nguyên nhân hay gặp:
+          a. Viêm cầu thận - là nguyên nhân hay gặp nhất gây nên suy thận mãn trong quá khứ.
+
+          b. Đái tháo đường và bệnh thận do tăng huyết áp giờ đây là nguyên nhân chính gây ra STM.
+
+          c. Các nguyên nhân khác
+               - Bệnh mạch máu: Bệnh đ. mạch thận; Tăng H.áp xơ cứng thận.
+               - Bệnh cuộn tiểu cầu: Bệnh lý cuộn tiểu cầu nguyên phát; Bệnh thận do tiểu đường...
+               - Bệnh hệ thống ống tiểu quản: Do các chất gây độc, do thuốc; Bệnh thận ngược dòng; Viêm thận-bể thận mãn; Bệnh lao...
+               - Bệnh do tắc nghẽn: Sỏi thận; Tắc nghẽn do tiền liệt tuyến; Bẩm sinh...
+               - Do bệnh lý di truyền: Bệnh thận đa nang; Alport syndrome; Medullary cystic disease.
+
+     4.Creatinine và GFR
+          a. Creatinine
+               - Là một chất thải mà máu tạo ra trong khi phân chia các tế bào trong quá trình hoạt động.
+               - Thận khoẻ mạnh bình thường sẽ nhận Creatinine loại ra từ máu và đưa vào nước tiểu để chuyển ra ngoài cơ thể. Khi thận không hoạt động tốt, creatinine sẽ tích tụ trong máu.
+               - Mức Creatinine trong máu có thể thay đổi, mỗi một phòng xét nghiệm để một mức tiêu chuẩn bình thường riêng, nhưng thông thường để ở mức 0.6-1.2mg/dL.
+
+          b. Định lượng chức năng thận
+                    + Đánh giá theo mức Creatinine
+               - Ví dụ khi mức creatinine ở nam giới là 1.7mg/dL và nữ giới là 1.4mg/dL, nghĩa là chức năng thận còn 50%.
+               - Tuy nhiên, như đã nói, mức Creatinine có thể thay đổi và cũng bị ảnh hưởng bởi chế độ ăn,
+
+                    + Dùng GFR để đánh giá mức độ suy giảm
+               - GFR (GLOMERULAR FILTRATION RATE) thường chính xác hơn với bệnh nhân chức năng thận đã bị suy giảm
+               - Cách tính GFR mới kết hợp cả cân nặng, tuổi tác, và thậm chí một số giá trị khác như giới tính, sắc tộc.
+               - Công thức tính:  GFR = (140 - tuổi) x KgTT / 72 x Ccr (mg%)
+ (Current metric units × Conversion factor = SI units)
+ (Creatinine Conversion Factor: 83.3)
+               - Một vài phòng thí nghiệm chỉ tính GFR khi kết quả Creatinine do chính phòng thí nghiệm đó đo được.
+
+III. Lâm sàng và CLS
+   A.Giai đoạn:
+               - Vào năm 2002, Hiệp hội thận quốc gia (Mỹ) đã đưa ra hướng dẫn để xác định giai đoạn suy thận, và chia ra thành 5 giai đoạn chính, dựa vào GFR - mức lọc máu cầu thận.
+
+* Nguy cơ bị suy thận.
+               - Nếu GFR là 90 hoặc cao hơn một chút thì vẫn được coi là bình thường.
+               - Kể cả có GFR ở mức bình thường, bạn vẫn có nguy cơ bị suy thận nếu bạn bị tiểu đường, huyết áp cao, hoặc gia đình có tiền sử bị bệnh thận.
+               - Nguy cơ càng tăng cao nếu: tuổi từ 65 trở lên sẽ có nguy cơ cao gấp đôi những người ở độ tuổi 45-64; những người Châu Mỹ cũng có nguy cơ mắc bệnh cao hơn những sắc tộc khác.
+
+          a. Giai đoạn 1:
+               - Thận bị tổn thương, GFR bình thường (90 hoặc cao hơn).
+               - Thận có thể bị tổn thương trước khi chỉ số GFR giảm.
+               - Trong giai đoạn đầu, mục tiêu chữa trị là giảm tiến triển bệnh, và giảm nguy cơ mắc các bệnh về tim mạch.
+
+          b. Giai đoạn 2:
+               - Thận bị tổn thương nhẹ, GFR giảm (60 đến 89).
+               - Khi chức năng thận bắt đầu suy giảm, có thể ước tính tiến triển của suy thận và tiếp tục chữa trị để giảm nguy cơ các biến chứng khác.
+
+          c. Giai đoạn 3:
+               - GRF giảm (30 đến 59).
+               - Khi suy thận đã tiến triển đến mức này, thiếu máu và các bệnh về xương có thể xuất hiện.
+
+          d. Giai đoạn 4:
+               - GFR giảm nghiêm trọng (15 đến 29).
+               - Tiếp tục chữa trị các biến chứng do suy thận gây ra, bắt đầu phải tính đến các biện pháp chữa trị để thay thế cho thận bị hư tổn.
+               - Mỗi một phương pháp chữa trị đòi hỏi có một sự chuẩn bị trước.
+               - Nếu chọn chạy thận nhân tạo - lọc máu thẩm tách, cần phải làm phẫu thuật cầu nối ở tay.
+               - Nếu chọn lọc máu màng bụng, cũng cần đặt ống catheter.
+
+          e. Giai đoạn 5:
+               - Suy thận hoàn toàn (GFR thấp hơn 15).
+               - Khi thận không còn hoạt động nữa, cần phải lọc máu hoặc cấy ghép thận mới.
+
+   B. Dạng & thể lâm sàng
+     1.Dạng bệnh gồm hai loại:
+          a. Dạng STM có thể hồi phục được (hay gặp trên bệnh thận ngoại khoa..)
+
+          b. Dạng suy thận mãn không hồi phục
+     
+* Tất cả hai dạng đều có thể diễn biến theo 5 thể lâm sàng và mỗi khi chuyển giai đoạn có thể thể hiện bằng nhiều hình thức khác nhau.
+
+     2.Thể bệnh
+*Thường được chia theo tính chất diễn biến, nhịp độ phát triển các rối loạn :
+          a. Thể âm ỉ:
+               - Không có biểu hiện lâm sàng đến tận khi vào giai đoạn cuối do cơ thể thích ứng tốt với các hiện tượng đạm huyết tăng, rối loạn nước điện giải ...
+
+          b. Thể ổn định:
+               - Có rối loạn nhưng cơ thể giữ được ở mức ổn định lâm sàng trong thời gian dài từ 3 - 5 năm, khi có stress mới bột phát hoặc diễn biến nhanh sang giai đoạn cuối.
+
+          c. Thể diễn biến chậm:
+               - Hay gặp ở bệnh nhân viêm cầu thận, viêm bể thận hoặc thận đa nang; suy thận phát triển dần dần trong nhiều năm, có lúc nặng lên có lúc tạm thời đỡ đi, bệnh phát triển dần dần làm bệnh nhân thích ứng được, cảm thấy chịu được cho đến giai đoạn nặng và cuối.
+
+          d. Thể bột phát:
+               - Tức là có các đợt chức năng thận xấu đi nhanh chóng, giữa các đợt là giai đoạn thoái lui (tuy nhiên trong giai đoạn thoái lui, chức năng thận không cải thiện được bao nhiêu mà chủ yếu chỉ là trên biểu hiện của triệu chứng lâm sàng- suy thận mãn rất hay gặp thể này).
+
+          e. Thể diễn biến rất nhanh:
+               - Hay gặp trong viêm thận ác tính, bệnh tiến triển nhanh khó phân biệt được các giai đoạn, thường tiến đến giai đoạn cuối chỉ sau 6-8 tháng, do phần lớn cầu thận bị viêm, các ống thận bị teo đét gây suy giảm nặng chức năng cô đặc và tăng nhanh đạm huyết.
+

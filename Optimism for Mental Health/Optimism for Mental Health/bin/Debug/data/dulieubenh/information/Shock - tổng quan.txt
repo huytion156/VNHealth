@@ -1,0 +1,144 @@
+﻿I.Tổng quan
++ Shock là một hội chứng lâm sàng, bắt nguồn từ kết quả của việc tưới máu không thoả đáng, bất kể nguyên nhân gì - sự giảm tưới máu khởi phát do mất cân bằng cung và cầu oxy và cơ chất đều dẫn tới rối loạn chức năng tế bào.
++ Shock y học không liên quan gì với trạng thái cảm xúc-stress (dân gian cũng gọi nhầm là sốc).
++ Shock y học là một cấp cứu khẩn do nguy cơ đến tính mạng.
++ Lâm sàng shock có biểu hiện đa dạng, thường có biểu hiện về tuần hoàn như giảm huyết áp, (huyết áp trung bình dưới 60mmHg), giảm oxy huyết hay tim ngừng đập…
++ Không điều trị kịp thời shock có thể dẫn đến rối loạn chức năng tế bào, tổn thương cơ quan, suy đa phủ tạng và chết.
++ Điều trị phải trực tiếp với cả biểu hiện của shock và cả nguyên nhân của nó.
+
+II.Đặc điểm chung
+* Có bốn giai đoạn, không đột ngột chuyển giai đoạn mà diễn biến liên tục.
+1.Giai đoạn khởi đầu
+- Trong suốt giai đoạn này, tình trạng giảm tưới máu là nguyên nhân giảm oxi máu,
+- Ty lạp thể giảm sản xuất adenosine triphosphate (ATP), nên không bảo đảm năng lượng cho mọi hoạt động.
+- Vì thiếu oxy, màng tế bào bị tổn thương, thấm dịch ngoại bào, và các tế bào thực hiện hô hấp yếm khí.
+- Dẫn đến việc tạo ra lactic và pyruvic acid - kết quả là toan chuyển hóa.
+- Quá trình các tế bào gan loại bỏ những chất này cũng yêu cầu ôxy trong khi lại đang thiếu …
+
+2.Giai đoạn bù trừ (Compensating)
+- Giai đoạn này cơ thể sử dụng các cơ chế sinh lý, bao gồm cả thần kinh, hormon và hoá sinh để đảo ngược tình trạng.
+- Do nhiễm toan, nên sẽ bắt đầu tăng thông khí để loại CO2; gián tiếp làm tăng pH máu.
+- Các baroreceptors trong động mạch phát hiện có giảm huyết áp, gây ra việc phóng thích các adrenaline và noradrenaline.
+- Noradrenaline gây co mạch trội hơn nên tăng nhẹ nhịp tim, trong khi adrenaline gây tăng HA trội hơn; kết hợp hiệu quả là làm tăng huyết áp.
+- Trục Renin - angiotensin được kích hoạt và arginine vasopressin được phóng thích để bảo đảm dịch qua thận.
+- Ngoài ra, các hormones gây co mạch của thận, ruột, và các cơ quan để hướng máu đến tim, phổi và não.
+- Thiếu máu đến thận gây ra giảm sản xuất nước tiểu.
+- Hiệu ứng của trục Renin - angiotensin cũng tham gia quá trình này, nhưng chậm, và ít quan trọng trong việc làm giảm shock.
+
+3.Giai đoạn mất bù (Decompensating)
+- Nếu nguyên nhân của khủng hoảng không được điều trị thành công, các cơ chế bù trừ bắt đầu suy giảm, shock sẽ phát triển .
+- Vì giảm tưới máu các tế bào, ion natri tích vào trong và kali rò rỉ ra ngoài.
+- Chuyển hóa yếm khí tiếp tục, acid chuyển hóa tăng trong cơ thể, các cơ trơn tiểu động mạch và những cơ thắt trước mao quản giãn ra, dẫn đến ứ máu trong mao quản.
+- Do điều này, áp lực thủy tĩnh sẽ gia tăng, kết hợp với phóng thích histamin, dẫn đến rò rỉ chất lỏng và đạm vào mô xung quanh.
+- Do mất dịch, máu cô và tăng tính nhầy, càng gây rối loạn vi tuần hoàn.
+- Co mạch kéo dài cũng dẫn tới thiếu tưới máu các cơ quan quan trọng.
+- Nếu ruột thiếu máu phát triển, vi khuẩn có thể nhập các dòng máu, đem đến các tai biến do nội độc tố (endotoxic shock).
+
+4.Giai đoạn không hồi phục (Irreversible)
+- Đến giai đoạn này, các cơ quan quan trọng đã suy, shock sẽ không hồi phục.
+- Não đã tổn thương và tế bào chết đã xảy ra. Tử vong sắp xảy ra.
+
+III. Phân loại
+Năm 1972 Hinshaw & Cox đã đưa ra kiểu phân loại; vẫn còn được dùng đến nay.
+Gồm bốn (5) loại shock: hypovolemic, cardiogenic, distributive, (endocrine) và obstructive shock
+A.Shock giảm KLTH
+B.Shock tim
+C.Shock tắc nghẽn  
+D.Shock phân bố
+ + Shock nhiễm khuẩn
+ + Shock phản vệ
+ + Shock thần kinh
+
+E. Shock nội tiết (Endocrine Shock) - là dạng thứ năm của shock, được Irwin, Richard S. Rippe, James M giới thiệu gần đây (Intensive Care Medicine/January 2003. Lippincott Williams & Wilkins, Philadelphia & London. ISBN 0-7817-3548-3); nó dựa trên cơ sở các rối loạn nội tiết.
++ Suy giáp trạng (Hypothyroidism), gặp ở bệnh nhân bị bệnh trầm trọng, giảm cung lượng tim và có thể dẫn đến giảm huyết áp và suy hô hấp.
++ Thyrotoxicosis có thể khởi phát một bệnh cơ tim bất trị.
++ Suy thượng thận cấp (Acute adrenal insufficiency) thường là kết quả của ngưng điều trị corticosteroid đột ngột…
+
+(*) Cách đây 30 năm - chúng ta từng được học rất kỹ về shock chấn thương (trauma shock), nay hầu như các tài liệu chính thống đều ít nói đến...?!
+
+IV.Triệu chứng
+A. Triệu chứng chung:
+1. Giảm huyết áp
+2. Thay đổi sinh hiệu
+3. Giảm tưới máu ngoại vi
+4. Thay đổi tinh thần
+
+B. Dấu hiệu riêng
+1. Hypovolemic shock
+2. Cardiogenic shock
+3. Obstructive shock
+4. Shock nhiễm khuẩn
+5. Neurogenic shock
+6. Anaphylactic shock
+
+IV.Điều trị
+A. Giải pháp chung
+ 1. Tư thế
+ 2. Oxy
+ 3. Nhiệt độ
+ 4. Kiểm soát chảy máu
+ 5. Giảm đau
+ 6. Làm các XN cần thiết
+ 7. Đánh giá lưu lượng nước tiểu
+ 8. Theo dõi monito nhịp tim
+ 9. Áp lực TM trung ương (CVP) và phổi bit (PAWP)
+ 10. Lập lại thể tích tuần hoàn
+  + Dịch điện giải
+  + Keo: máu - plasma - dextran
+ 11. Thuốc co mạch
+  + Dopamine
+  + Dobutamine
+  + Isoproterenol
+ 12. Corticosteroid
+ 13. Lợi tiểu
+ 14. Heparin
+ 15. Cân bằng dịch và điện giải
+ 16. Xử trí rối loạn
+
+B.Điều trị chuyên sâu
+* Nguyên tắc chung
++ Giai đoạn đầu, shock đòi hỏi phải can thiệp ngay lập tức để bảo vệ cuộc sống.
+- Vì vậy, cần sớm phát hiện và chuyển đến bệnh viện để điều trịrị
+- Xử trí shock đòi hỏi phải can thiệp ngay lập tức, ngay cả trước khi chẩn đoán xác định.
+
++ Tái lập tưới máu cho các cơ quan chính là mục tiêu tiên phát,
+- thông qua đó phục hồi và duy trì thể tích máu tuần hoàn và đảm bảo oxygenation và huyết áp phù hợp, ,
+- duy trì chức năng tim có hiệu quả, và ngăn ngừa biến chứng.
+
++ Khi có triệu chứng của shock, bất kể loại gì, đảm bảo đường thở và liệu pháp ôxi là đầu tiên.
+- Trong trường hợp suy hô hấp (tức mức độ ý thức kém đi, thở nhanh do rối loạn acid-base hay viêm phổi) đặt NKQ và thông khí máy là cần thiết. .
+- Một phụ tá bác sĩ cũng có thể đặt ống ở ngoài bệnh viện khi khẩn cấp, trong bệnh viện sẽ được phụ tá, hoặc bác sĩ đặt ống. Mục đích của hành vi này là để đảm bảo người bệnh sống sót trong quá trình vận chuyển đến bệnh viện; tuy chúng không chữa khỏi nguyên nhân của shock...
+
++ Một thỏa hiệp phải được xem xét giữa:
+- Nâng cao huyết áp để có thể chuyển vận "an toàn" (khi huyết áp quá thấp, bất kỳ vận chuyển não cũng làm giảm thấp tưới máu tim và não, vì vậy dễ gây tử vong););
+- Tôn trọng ‘giờ vàng – golden hour’. Nếu phẫu thuật được yêu cầu, phải được thực hiện trong vòng vài giờ đầu tiên, để bảo đảm cơ hội sống còn tối đa cho bệnh nhân.
+
+* Định hướng trị liệu chính (from Alexander M.F., Fawcett J.N. and Runciman, P.N. (2004) Nursing Practice. The Hospital and Home. The Adult. (2nd edition) Edinburgh: Churchill Livingstone)
+1.Với sốc Hypovolaemic
+2.Với sốc tim
+3.Với sốc nhiễm trung
+4.Với sốc phản vệ
+
+* Trị liệu hỗ trợ
+- Bảo đảm đường thở và hô hấp có hiệu quả
+- Đảm bảo hiệu lực bơm của tim
+- Phục hồi cân bằng chuyển hóa
+- Đảo ngược tình trạng toan chuyển hóa
+
+* Những vấn đề còn tranh luận.
+1.Hypovolemic shock
+2.Cardiogenic shock
+3. Shock phân bố
+4. Shock tắc nghẽn
+5.Shock nội tiết
+Các rối loạn hormon cần được sửa chữa.
+- Hypothyroidism cần bổ sung levothyroxine,
+- Trong hyperthyroid cần làm giảm sản xuất hormon giáp thông qua sử dụng methimazole (Tapazole) hoặc PTU (propylthiouracil).
+- Suy thượng thận được điều trị bằng cách bổ sung corticosteron
+
+V.Tiên lượng
++Tiên lượng của shock phụ thuộc vào bệnh nền tảng cũng như tính chất và mức độ của vấn đề gây ra.
++Hypovolemic, anaphylactic shock, neurogenic shock tùy thuộc mức độ sẵn sàng điều trị.
++Shock nhiễm khuẩn là nghiêm trọng với một tỉ lệ tử vong ở giữa 30% và 50%.
++Tiên lương của cardiogenic shock là rất tồi tệ hơn.
+*Điều trị khẩn cấp (chấm dứt chảy máu, phục hồi nhanh chóng khối lượng máu lưu thông và sẵn sàng hỗ trợ hô hấp) là rất cần thiết cho một tiên lượng tốt trong hypovolemic shock.

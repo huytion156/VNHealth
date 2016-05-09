@@ -1,0 +1,150 @@
+﻿1. Tổng quan:
+Màng ngoài tim bao gồm hai lá: lá tạng và lá thành. 
+Xoang nằm giữa hai lá màng ngoài tim được gọi là khoang màng tim.
+Bình thường khoang màng tim chứa khoảng 15-50 mL thanh dịch.
+Cấp tính, dịch trong khoang màng tim 100-200 mL đủ gây chèn ép tim.
+Mãn tính, khoang màng tim có thể chứa đến 1000 mL dịch trước khi sự chèn ép tim xảy ra.
+Chèn ép tim (tamponade) là bệnh lý trong đó sự đổ đầy của tâm thất bị cản trở, dẫn đến biến đổi huyết động học.
+Nguyên nhân chiếm tỉ lệ cao nhất là ung thư phổi, ung thư vú, và lymphoma.
+Trong cấp cứu là: Chấn thương (tràn máu màng tim, sau chấn thương tim)
+
+2-Chẩn đoán:
+a, Chẩn đoán lâm sàng
+* Tuỳ thuộc vào mức độ chèn ép tim và diễn tiến cấp hay mãn tính mà tràn dịch màng tim biểu hiện bằng các triệu chứng khác nhau, trong đó quan trọng nhất là các triệu chứng của hệ tim mạch.
+
++ Các triệu chứng tim mạch
+- Đau ngực, nặng tức ngực. (Trong trường hợp điển hình, triệu chứng này sẽ năng lên khi BN nằm ngữa và thuyên giảm khi BN ngồi thẳng đứng hay ngồi chồm người ra phía trước).
+- Choáng váng, ngất (giảm tưới máu não).
+- Hồi hộp, đánh trống ngực.
+- Tam chứng Beck: tụt huyết áp, tiếng tim mờ, tĩnh mạch cổ nổi.
+- Mạch nghịch. (Mạch nghịch là sự phóng đại biến đổi sinh lý của huyết áp tâm thu theo nhịp hô hấp. Bình thường huyết áp tâm thu giảm ≤10 mmHg khi hít vào. Khi có hiện tượng mạch nghịch, giá trị này là trên 10 mmHg).
+- Áp lực mạch hẹp.
+(Áp lực mạch là hiệu số giữa huyết áp tâm thu và huyết áp tâm trương. Bình thường áp lực mạch bằng 30-40 mmHg.
+Áp lực mạch rộng (trên 40 mmHg) gặp trong các trường hợp bệnh lý sau: cao huyết áp tâm thu, hở van động mạch chủ, cường giáp, còn ống động mạch, dò động-tĩnh mạch, bệnh Beriberi, thiếu máu, xúc động….
+Nguyên nhân của áp lực mạch hẹp (dưới 30 mmHg): nhịp tim nhanh, tràn dịch màng tim, viêm màng ngoài tim co thắt, hẹp nặng động mạch chủ, báng bụng).
+- Nhịp tim nhanh
+- Tiếng cọ màng tim
+- Dấu hiệu phản hồi gan-tĩnh mạch cổ dương tính: khi ép vào vùng quanh rốn, áp lực tĩnh mạch cảnh tăng trên 3 cmH2O trong thời gian hơn 30 giây.
+
++ Triệu chứng hô hấp:
+- Ho, khó thở, khàn tiếng.
+- Thở nhanh
+- Âm phế bào giảm (tràn dịch màng phổi)
+- Dấu hiệu Ewart: gõ đục vùng bên dưới đỉnh xương bả vai trái. Dấu hiệu này là biểu hiện của đáy phổi trái bị ép.
+
++ Các triệu chứng khác
+- nấc cục
+- gan to
+- lú lẫn hay kích động).
+- Mạch ngoại biên giảm
+- Phù chi
+- Xanh tím
+
+b, Chẩn đoán cận lâm sàng
+
+* X-quang ngực: 
+ Để có sự thay đổi hình ảnh, lượng dịch trong xoang phải trên 250-500 mL.
+ 1/3 các trường hợp tràn dịch màng tim có tràn dịch màng phổi phối hợp.
+
+* Siêu âm tim: 
+HHiện nay, siêu âm tim được xem là phương tiện chẩn đoán tràn dịch màng tim tiêu chuẩn.
+Được gọi là lượng nhiều khi bề dày lớp dịch trên 1 cm và ở tất cả các phía của xoang màng tim.
+Chiều dày dưới 1 cm, chủ yếu ở mặt sau, tràn dịch màng tim được cho là có lượng ít.
+Siêu âm tim qua ngã thực quản có thể được chỉ định để xác định tràn dịch màng tim khu trú.
+
+* CT và MRI:
+Khi được chỉ định để chẩn đoán tràn dịch màng tim, có một số đặc điểm khác biệt sau:
+- Có thể phát hiện lượng dịch nhỏ trong xoang (50 mL đối với CT và 30 mL đối với MRI).
+- Tỉ lệ dương tính giả thấp hơn.
+- Có thể chẩn đoán tràn dịch màng tim khu trú hay dày thành màng tim.
+- Có thể chẩn đoán tổn thương ở phổi hay khoang màng phổi phối hợp .
+- Thời gian tiến hành lâu hơn. không phù hợp với loại cấp tính.
+
+* Điện tâm đồ
+- Điện tâm đồ sẽ có hình ảnh nhịp tim nhanh và
+- “điện thế thấp ở tất cả các chuyển đạo”.
+
+* Thông động mạch phổi
+Nếu BN đang được theo dõi huyết động qua thông động mạch phổi (thí dụ chuẩn bị cho các thủ thuật can thiệp hay phẫu thuật tim), tràn dịch màng tim biểu hiện bằng dấu hiệu tăng áp lực nhĩ phải và áp lực nhĩ phải bằng áp lực mao mạch phổi bít.
+
+* Xét nghiệm
++ Tuỳ thuộc vào nguyên nhân mà các xét nghiệm sau có thể được chỉ định:
+- Công thức bạch cầu
+- Men tim
+- Xét nghiệm chức năng tuyến giáp
+- Yếu tố thấp, kháng thể kháng nhân, bổ thể, các phức hợp miễn dịch
+- Điện giải đồ…
+
++ XN dịch màng tim là quan trọng nhất.
+Xét nghiệm thông thường bao gồm:
+- Xét nghiệm nồng độ protein và lactate dehydrogenase (LDH). Theo tiêu chuẩn Light, dịch khoang màng tim là dịch tiết khi:
+- Nồng độ protein dịch màng tim/ nồng độ protein huyết tương của BN > 0,5
+- Nồng độ LDH dịch màng tim/ nồng độ LDH huyết tương của BN > 0,6
+- Nồng độ LDH dịch màng tim của BN trên 2/3 giá trị trên của nồng độ LDH huyết tương bình thường.
+- Một tiêu chuẩn khác xác định tính chất thấm hay tiết của dịch màng tim: dịch tiết có tỉ trọng trên 1,015, nồng độ protein trên 30 gm/L, LDH trên 300 U/L, tỉ lệ nồng độ glucose dịch/glucose huyết tương nhỏ hơn 1.
+- Tế bào: số lượng bạch cầu trong dịch màng tim tăng (trên 10.000) với đa nhân trung tính vượt trội gợi ý bệnh lý nhiễm trùng hay bệnh thấp.
+- Nhuộm gram và cấy khuẩn dịch màng tim (để chẩn đoán nguyên nhân nhiễm trùng).
+
+Các xét nghiệm đặc biệt bao gồm:
+- Cấy virus, cấy khuẩn lao
+- Adenosine deaminase, polymerase chain reaction (PCR)
+
+Tiêu chuẩn “chẩn đoán có thể” do lao:
+- BN bị nhiễm lao ở các tạng khác và tràn dịch màng tim chưa xác định nguyên nhân
+- Dịch màng tim là dịch tiết với sự vượt trội của lympho bào và có nồng độ adenosine deaminase tăng cao
+- BN có đáp ứng với trị liệu lao.
+
+3-Điều trị:
+* Điều trị nội khoa:
+a, Aspirin và các thuốc kháng viêm non-steroid (NSAID):
+- Tràn dịch thứ phát sau viêm màng tim do virus hay viêm màng tim cấp chưa rõ nguyên nhân có đáp ứng với aspirin và các NSAID.
+- Aspirin cũng có hiệu quả đối với tràn dịch màng tim sau nhồi máu cơ tim mà không làm ảnh hưởng đến sự lành sẹo ở vùng tổn thương của cơ tim như các NSAID.
+
+b, Colchicine
+- Chỉ định cho các trường hợp tràn dịch cấp tính không rõ nguyên nhân,
+- hội chứng sau cắt mở màng tim, các bệnh lý mô liên kết toàn thân…
+
+c, Steroid
+- Đường toàn thân có thể được cân nhắc đến đối với các trường hợp tràn dịch màng tim tái phát hay không đáp ứng với aspirin và colchicine.
+- Sử dụng tại chỗ (trong khoang màng tim) và cho hiệu quả đối với các trường hợp tràn dịch màng tim cấp tính, nhưng tính chất xâm lấn của biện pháp điều trị này đã giới hạn việc sử dụng nó.
+
+d, Cải thiện tình trạng huyết động học
++ Chọc dò xoang màng tim:
+- Được thực hiện trên hầu hết các BN bị tràn dịch màng tim, với mục đích chẩn đoán nguyên nhân, điều trị hay phòng ngừa chèn ép tim cấp tính.
+- Tuy nhiên, chỉ định chọc dò xoang màng tim không nên được xem như là một thủ thuật chẩn đoán và điều trị thường quy.
+
++ Làm tăng sức co bóp cơ tim (dobutamine, dopamine) có thể được chỉ định, nhưng việc điều trị bằng các tác nhân này không làm chậm trễ và không thể thay thế cho thủ thuật chọc dò màng ngoài tim.
+
++ Truyền dịch có thể giúp cải thiện tình trạng huyết động. Cần chú ý là truyền nhiều dịch để cải thiện tình trạng huyết động ở BN bị chèn ép tim có thể làm tăng lượng dịch toàn thân, từ đó làm tăng nguy cơ phù phổi một khi tim đã được “giải áp”.
+
+e, Kháng sinh
++ Kháng sinh có chỉ định trong các trường hợp viêm màng ngoài tim do vi trùng.
++ Nếu viêm mũ màng ngoài tim, sự kết hợp kháng sinh với các thủ thuật hay phẫu thuật dẫn lưu màng ngoài tim khẩn cấp là điều bắt buộc.
+
++ Đối với tràn dịch màng tim do lao
+- việc điều trị bắt đầu với isoniazid 300 mg/ngày, rifampin 600 mg/ngày, pyrazinamide 15-30 mg/kg/ngày, và ethambutol 15-25 mg/kg/ngày.
+- Prednisone, 1-2 mg/kg/ngày, được chỉ định trong 5-7 ngày sau đó giảm dần liều để chấm dứt trong 6-8 tuần. Các steroid sử dụng phối hợp được cho là có tác đụng giảm thiểu nguy cơ co thắt màng ngoài tim.
+-Nếu BN có tình trạng co thắt màng ngoài tim nhưng không kết hợp vôi hoá, đa số thầy thuốc ủng hộ quan điểm điều trị nội khoa 6-8 tuần trước khi tiến hành cắt bỏ màng ngoài tim.
+
+f, Hoá-xạ trị
+Các biện pháp điều trị ung thư (hoá trị, xạ trị), khi kết hợp với chọc dò màng ngoài tim, cũng cho thấy có sự cải thiện về tần suất của tràn dịch tái phát.
+
+* Điều trị ngoại khoa:
+Có ba thủ thuật thường được chỉ định nhất đối với BN tràn dịch màng tim:
+
+a, Chọc hút khoang màng tim
+- Sau khi gây tê tại chỗ dọc theo bờ trái của mũi ức,
+- Dùng kim (loại kim chọc dò tuỷ sống có khẩu kính 18 gauge và nối với một dây ba chia và một seringe) đâm chếch lên trên theo hướng vai trái, với một góc 45° (Hình 7), vừa đâm vừa rút nhẹ piston cho đến khi rút được dịch.
+- Nếu hút ra khí, rút kim và đâm trở lại theo hướng gần đường giữa hơn.
+- Nếu hút ra máu, lấy khoảng 5 mL máu đó bơm lên bề mặt của một miếng mút xốp.
+- Nếu máu đông, máu vừa được hút là máu trong buồng tim.
+- Nếu máu được rút ra từ khoang màng tim, máu sẽ không đông.
+- Để hạn chế nguy cơ tổn thương tim, dùng biện pháp theo dõi điện tâm đồ liên tục khi tiến hành chọc hút khoang màng tim. Nếu mũi kim chạm vào thượng tâm mạc, sóng ST sẽ chênh lên. Cũng có thể chọc hút khoang màng tim dưới sự hướng dẫn của siêu âm tim.
+- Sau khi đầu mũi kim đã nằm trong khoang màng tim, luồn một dây dẫn (guide wire) vào, rút kim, sau đó luồn một catheter có khẩu kính nhỏ vào khoang màng tim theo kỹ thuật Seldinger cải biên. Nối catheter vào một hệ thống dẫn lưu kín trong 24-72 giờ.
+- Dịch khoang màng tim được hút ra có thể được gởi xét nghiệm sinh hoá, tế bào hay vi sinh. (Tuy nhiên, giá trị chẩn đoán loại trừ của kết quả xét nghiệm không cao. Chỉ có 55-85% các mẫu dịch hút từ khoang màng tim có giá trị chẩn đoán. Nếu kết quả xét nghiệm vi sinh hay tế bào dương tính, chẩn đoán xác định có thể được đặt ra. Nếu kết quả âm tính, chẩn đoán không thể được loại trừ).
+- Biến chứng của chọc hút khoang màng tim bao gồm tràn khí màng phổi và tổn thương tim. (Tim bị tổn thương có thể ở mức độ nhẹ như rách thượng tâm mạc và tổn thương này sẽ tự lành ở BN có chức năng cầm máu đông máu bình thường. Tổn thương tim cũng có thể rất trầm trọng, như rách tâm thất, gây chảy máu và chèn ép tim cấp tính).
+- Tất cả các BN sau khi được chọc hút khoang màng tim phải được chụp X-quang ngực kiểm tra để loại trừ tràn khí màng phổi. Tình trạng huyết động không cải thiện mặc dù việc chọc hút có kết quả (hút ra dịch) có thể là biểu hiện của biến chứng tràn khí màng phổi. 3% BN được chọc hút xoang màng tim có biến chứng xảy ra, trong đó 0,7% tử vong.
+
+b, Cắt mở màng ngoài tim qua ngã sau xương ức
+
+c, Nội soi lồng ngực để cắt mở màng ngoài tim

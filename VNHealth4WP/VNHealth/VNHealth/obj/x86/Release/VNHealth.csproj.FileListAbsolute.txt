@@ -1,0 +1,108 @@
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Assets\ApplicationIcon.png
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\IconicTileSmall.png
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\AppManifest.xaml
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Properties\WMAppManifest.xml
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\VNHealth_Release_x86.xap
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Expression.Interactions.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Phone.Controls.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Phone.Controls.Maps.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\System.Windows.Interactivity.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\de\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\en\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\es\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\fr\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\it\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\ja\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\ko\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\ru\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\de\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\en\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\es\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\fr\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\it\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\ja\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\ko\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\ru\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\App.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\BMIcal.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\clock.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\ExtendedSplashScreen.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\infomation.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\IS.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\MainPage.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\run.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\thongtinbenh.g.cs
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\VNHealth.Resources.AppResources.resources
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\VNHealth.csproj.GenerateResource.Cache
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\XapCacheFile.xml
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\VNHealth4WP.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\Bin\x86\Release\VNHealth4WP.pdb
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\VNHealth4WP.g.resources
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\VNHealth4WP.dll
+E:\VNHealth4WP - TestNN\VNHealth\VNHealth\obj\x86\Release\VNHealth4WP.pdb
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\ApplicationIcon.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\Tiles\IconicTileSmall.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\406878.jpg
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\AppBar\back.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Assets\AppBar\feature.search.png
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\AppManifest.xaml
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Properties\WMAppManifest.xml
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\VNHealth_Release_x86.xap
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Expression.Interactions.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Phone.Controls.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\Microsoft.Phone.Controls.Maps.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\System.Windows.Interactivity.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\ru\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\de\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\en\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\es\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\fr\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\it\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\ja\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\ko\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\ru\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\VNHealth.csprojResolveAssemblyReference.cache
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\App.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\BMIcal.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\chuandoanbenh.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\clock.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\ExtendedSplashScreen.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\infomation.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\IS.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\ketnoichuyengia.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\MainPage.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\PivotPage1.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\run.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\thongtinbenh.g.cs
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\VNHealth.Resources.AppResources.resources
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\VNHealth.csproj.GenerateResource.Cache
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\XapCacheFile.xml
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\VNHealthDT.dll
+D:\VNHealth4WP\VNHealth\VNHealth\Bin\x86\Release\VNHealthDT.pdb
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\VNHealthDT.g.resources
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\VNHealthDT.dll
+D:\VNHealth4WP\VNHealth\VNHealth\obj\x86\Release\VNHealthDT.pdb

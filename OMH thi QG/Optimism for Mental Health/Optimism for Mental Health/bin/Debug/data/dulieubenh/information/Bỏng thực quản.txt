@@ -1,0 +1,99 @@
+﻿1.Định nghĩa:
+* Bỏng thực quản là tổn thương thực quản do hóa chất ăn mòn (axit, bazơ, thuốc tẩy, nước tro tàu).
+* Tai nạn xảy ra do người bệnh uống nhầm hoặc cố ý.
+
+2.Hỏi Khám:
+ 2.1.Hỏi bệnh
+ - Có uống hóa chất trước đó
+   (thời gian, lượng hóa chất, lọai hóa chất, sơ cứu ban đầu)
+ - Có thể biết rõ lọai hóa chất hoặc không rõ
+ - Đánh giá hóa chất (axit, bazơ, độ đậm đặc)
+ - Đánh giá tác hại của hóa chất
+
+ 2.2 Khám xét
+ - Dấu sinh tồn (mạch, HA), tìm dấu suy hô hấp
+ - Khám họng phát hiện tổn thương họng, miệng (đỏ, phù nề, loét, giả mạc)
+
+ 2.3 Cận lâm sàng
+ - CTM
+ - Xquang thực quản có cản quang để tìm sẹo hẹp
+  (thường thực hiện sau tuần lễ thứ ba, có nuốt khó + nghẹn)
+
+ 2.4 Soi thực quản
+ + Soi trong vòng 24h – 48h khi:
+  - Tổng trạng ổn định, không sốt
+  - Tổn thương họng, miệng nhẹ(niêm mạc đỏ, phù nề)
+  - Bệnh nhân uống lọai hóa chất ít ăn mòn, nồng độ loãng
+ + Soi sau một tuần đến 10 ngày khi:
+  - Hóa chất đậm đặc, tính ăn mòn cao
+  - Tổn thương họng miệng nặng (có giả mạc, loét)
+  - Tổng trạng shock, dọa shock, suy hô hấp.
+
+3.Chẩn đoán
+ a.Chẩn đoán xác định
+  - Có tiền sử uống hóa chất
+  - Soi thực quản:
+    . Độ I: Niêm mạc đỏ + phù nề
+    . Độ II: Giả mạc + loét
+    . Độ III: loét Lộ cơ
+    . Độ IV: cháy xém hay thủng
+  -  Xquang thực quản có cản quang tìm chỗ hẹp.
+
+ b.Chẩn đoán phân biệt
+  Viêm loét miệng do vi khuẩn:
+   sốt, không có tiền sử uống hóa chất.
+
+4.Điều trị:
+ 4.1.Nguyên tắc
+ · Làm lành niêm mạc thực quản
+ · Phòng ngừa và điều trị sẹo hẹp.
+ · Dinh dưỡng.
+ 
+ 4.2.Xử trí ban đầu:
+ a.Cấp cứu
+ + Bỏng nhẹ:
+  - Tình trạng ổn định, tổn thương miệng họng nhẹ(niêm mạc đỏ, phù nề).
+  - Loại hóa chất ít ăn mòn, loãng.
+  · Giảm đau bằng Paracetamol 10mg/kg/6h (uống)
+  · Uống sữa ăn lỏng
+  · Không dùng kháng sinh
+  · Họng có giác mạc: uống Amoxycillin 75mg/kg/ngày
+ + Bỏng nặng:
+  - Hóa chất đậm đặc, độ ăn mòn cao.
+  - Tổn thương họng miệng nặng (niêm mạc có giả mạc, lóet).
+  - Tổng trạng shock, dọa shock, suy hô hấp.
+  . Nhịn ăn miệng, nuôi ăn tĩnh mạch.
+  . Giảm sốt, giảm đau.
+  . Kháng sinh: Ampicillin 100 mg/kg/ngày (TM)
+    + Gentamycin 4mg/ kg/ ngày (TB) 5-7 ngày
+  . Xử trí shock + suy hô hấp nếu có
+
+ b.Xử trí đặc hiệu:
+ + Soi nong thực quản.
+  · Bỏng độ II:
+    Soi ngay ngày hôm sau.
+    Đặt cùng lúc 2 sonde cạnh nhau lưu lại nhiều tháng (khoảng 9 tháng).
+    Kích thước sonde tùy theo lứa tuổi. Soi kiểm tra thay ống mỗi tháng.
+  · Bỏng nặng độ III + IV:
+    Soi khi bệnh nhân ổn định.
+    Đặt 1 sonde lưu lại trong thực quản; mỗi tháng kiểm tra lại 1 lần
+  · Hẹp thực quản hoàn toàn không có khả năng soi nong:
+    Hội chẩn ngoại khoa để mở dạ dày + cắt nối chỗ hẹp.
+ + Biến chứng:
+ - Sẹo hẹp: Nong thực qủan bằng ống gome.
+   Soi và kết hợp nong nhiều lần cách nhau 1- 3 tháng.
+ - Thủng thực quản:
+  Tràn khí phần mềm, dấu viêm trung thất,
+   chụp Xquang thẳng nghiêng có Lipiodol phát hiện thủng thực quản cổ:
+   Mở cạnh cổ may thực quản.
+   Nếu thủng đoạn thực quản ngực trở xuống nên hội chẩn ngọai khoa ngay.
+ 
+ 4.3.Xử trí tiếp theo
+  · Soi nong thực quản, lưu ống 9 tháng, mỗi tháng kiểm tra 1 lần.
+
+5.Theo dõi và tái khám:
+  · Theo dõi tăng trọng, khả năng nuốt, khả năng ăn đặc
+  · Một năm đầu tái khám 1 tháng 1 lần
+  · Từ 13 tháng tái khám 2 tháng 1 lần tới 2 năm, và 1 năm 2 lần tới suốt đời.
+  · Xquang thực quản có cản quang để theo dõi hẹp.
+  · Sau giai đọan soi nong mà có hẹp thì hội chẩn ngọai khoa để cắt nối chỗ hẹp.

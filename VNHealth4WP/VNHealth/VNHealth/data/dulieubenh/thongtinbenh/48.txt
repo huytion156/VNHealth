@@ -1,0 +1,88 @@
+﻿1. Định nghĩa.
+Hội chứng Lyell là tập hợp những triệu chứng da và nội tạng rất nặng.
+(Ly thượng bì hoại tử tối cấp)
+Epidermolyse nécrosante Nécrolyse épidermique toxique (N.E.T)
+Surai'gue Toxic epidemal necrolysis (T.E.N)
+
+Bệnh thường bắt đầu trước tiên ở niêm mạc, nhất là niêm mạc mắt, mũi, miệng.
+Thương tổn da là những hồng ban, bọng nước, nhữngđám da bị xé rách, bị lột trông giống nhưbỏng lửa.
+Dấu hiệu Nikolsky (+).
+Hội chứng Lyell bắt đầu như hội chứng Stevens- Johnson nhưng không dừng lại các thương tổn ở hốc tự nhiên mà tiến triển lan toả khắp người với da bị bóc tách ra (detachment of the epidermis).
+Bệnh có tỷ lệ tử vong cao 25-100% ). Nguyên nhân tử vong phần lớn do điều trị không hiệu quả ngay từ đầu.
+
+2. Căn nguyên.
++ Do thuốc: chiếm phần lớn các trường hợp (77% do thuốc, 23% do tự phát).
+- Do thuốc kháng viêm không corticoide (43%).
+- Sulfamid nhất là sulfamid chậm (25%).
+- Thuốc chống co giật 10%.
+- Các thuốc khác 4%(kháng herpes, hydantoine, halloperidol,kháng lao).
+Bệnh thường xuất hiện ở người đang khoẻmạnh bình thường, sau khi sử dụng các thuốc nói trên từ 10 đến 30 ngày, sớm nhất là 01 ngày, trung bình 14 ngày, có trường hợp tới 45 ngày.
+Phần lớn các trường hợp đều gặp ở người dùng trên một loại thuốc, có người dùng tới 4-5 loại khác nhau.
++ Do nhiễm trùng.
++ Do tiêm vaccin, huyết thanh.
++ Nhiễm trùng kèm theo bệnh dị ứng.
++ Một số trường hợp không rõ nguyên nhân (idiopathique).
+
+3. Lâm sàng.
+Nữ gặp gấp 2 lần nam
++ Bệnh tiến triển cấp tính trong một vài giờ, đôi khi đột ngột xuất hiện sốt cao, rét run,đánh trống ngực, suy nhược cơ thể, nhức đầu, mất ngủ, đau miệng, ăn không ngon, đau và nhược cơ. Trường hợp nhẹ có khả năng tiến triển thành nặng sau 2-3 ngày với một bệnh cảnh lâm sàng rất đầy đủ điển hình, đôi khi bán hôn mê, bệnh nhân sốt cao liên tục 39 - 40 0C.
++ Tổn thương da:
+- Dát đỏ giống ban sởi hoặc hồng ban lan toả.
+- Hồng ban đa dạng.
+- Bọng nước lùng nhùng giống như bỏng lửa. Các tổn thương nói trên nhanh chóng lan rộng, đỏ sẫm, những đám da bị trợt. Bệnh nhân có cảm giác đau rát, dấu hiệu Nikolsky (+).
++ Tổn thương niêm mạc:
+- Viêm giác mạc, viêm kết mạc mủ.
+- Loét giác mạc.
+- Sưng, phù mắt, khó mở mắt.
+- Sợ ánh sáng.
+- Viêm miệng, trợt niêm mạc miệng, loét họng hầu.
+- Trợt loét các niêm mạc thực quản, dạ dày, tá tràng, ruột.
+- Viêm loét âm đạo, âm hộ.
++ Dấu hiệu toàn thân:
+- Sốt: 39- 400C (bao giờ cũng có).
+- Người mệt mỏi, hôn mê hoặc bán hôn mê.
+- Xuất huyết tiêu hóa.
+- Viêm phổi, viêm phế quản, phù phổi.
+- Viêm cầu thận tăng creatinine...
+- Viêm gan (tăng transaminasa).
+- Cơ quan tạo máu: hạ bạch cầu, hạ tiểu cầu.
+- Viêm tụy.
+- Rối loạn nước điện giải.
+
+4. Tiến triển và biến chứng.
++ Nếu không được điều trị kịp thời và đúng cách có tới 25-100% bệnh nhân tử vong.
+Nguyên nhân dẫn đến tử vong đa phần do rối loạn nước điện giải, nhưng chủ yếu do nhiễm khuẩn huyết, nhiễm khuẩn phổi, do chảy máu dạ dày ruột , không dung nạp được glucide và dinh dưỡng kém.
++ Các biến chứng:
+- Nhiễm trùng huyết.
+- Nhiễm trùng bộ máy hô hấp.
+- Các biến chứng gan, thận.
+- Biến chứng mắt: Giảm thị lực, loét giác mạc, không hồi phục.
+- Hẹp thực quản.
+- Hẹp âm đạo.
+
+5. Chẩn đoán.
+5.1. Chẩn đoán xác định dựa vào
++ Tiền sử (77% do thuốc).
++ Lâm sàng: bọng nước, da phồng rộp, xé rách trên nền đỏ, có sự bóc tách thượng bì một cách ồ ạt cấp tính... Hình ảnh lâm sàng liên tưởng đến những ca bỏng nặng hoặc lột da sống. Nikolsky (+).
++ Tổn thương niêm mạc: mắt, môi, họng, sinh dục.
++ Tổn thương nội tạng: gan, thận, phổi...
+5.2. Chẩn đoán phân biệt với:
++ Hội chứng stevens- Johnson.
++ Hồng ban đa dạng.
++ Nhiễm độc da thể bọng phỏng nước xuất huyết.
++ Ly thượng bì cấp do tụ cầu (Epidermolyse Staphylococique Ai'que- E.S.A) gặp chủ yếu ở trẻ nhỏ dưới 5 tuổi. Ngoài ra còn gặp ở người lớn bị suy thận, SGMD. Căn nguyên do tụ cầu type 71.
++ Hội chứng Kawasaki (hội chứng hạch - da- niêm mạc): bệnh gặp nhiều ở người Nhật Bản.
+
+6. Điều trị.
++ Bệnh nhân cởi trần nằm trên ga vô khuẩn, nếu có đệm nước thì tốt nhất (buồng hậu phẫu, buồng điều trị bỏng, buồng cấp cứu có đèn tử ngoại, sát khuẩn).
++ Tại chỗ: chăm sóc tại chỗ rất quan trọng.
++ Truyền dịch: cân bằng nước điện giải.
++ Bảo đảm năng lượng và dinh dưỡng (cho ăn bằng sonde).
++ Cho kháng sinh phổ rộng.
++ Corticoide: liều 100-200 mg/24h (3-3,5 mmg/kg) nên cho đường tĩnh mạch.
+Nếu tiến triển tốt (hết sốt, không xuất hiện tổn thương mới, toàn trạng khá) thì hạ liều nhanh (khác với điều trị L.E.S hạ liều chậm)
+Sau khi cắt corticoit liều cao nên cho synacthene 25 mg, 10- 15 ngày/1 ống, cho dùng từ 1- 3 ống.
++ Cyclophosphamid (100 mg- 300 mg/ ngày tiêm tĩnh mạch trong 5 ngày)
+Dùng cyclophosphamid ngăn chặn nhiễm độc qua trung gian tế bào.
++ Với cyclosporine A (sandimun) có 1/2 số cađiều trị có kết quả.
+

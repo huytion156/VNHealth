@@ -1,0 +1,219 @@
+﻿Glaucoma góc đóng nguyên phát
+I.Glaucoma cấp:
+* Là một cấp cứu nhãn khoa.
+1.Triệu chứng lâm sàng
++ Chủ quan: Nhìn mờ, nhức mắt nhức đầu cùng bên, có thể có buồn nôn, nôn mửa.
++ Khám:
+ - Kết mạc: cương tụ rìa.
+ - Giác mạc: phù, mờ, có thể có bọng biểu mô, tủa nhỏ màu nâu nhạt mặt sau giác mạc.
+ - Tiền phòng nông.
+ - Đồng tử dãn méo, phản xạ yếu hoặc mất.
+ - Thủy tinh thể phù mờ, dịch kính ứ phù (khó soi đáy mắt).
+ - Soi đáy mắt:
+  . Có thể thấy: Gai thị cương tụ (nếu ở giai đoạn đầu).
+  . Nhãn áp: rất cao.
++ Soi góc: góc đóng.
++ Thị trường: thu hẹp phía mũi, điểm mù to ra (có khi không đo được thị trường).
+* Chẩn đoán (+) cơn glocom cấp dựa vào lâm sàng:
+ + Nhãn áp cao.
+ + Soi góc: đóng.
+ + Đáy mắt: tình trạng gai thị.
+
+2.Yếu tố thuận lợi
++ Di truyền, biểu hiện yếu tố GF: tiền phòng nông, giác mạc nhỏ…
++ Sang chấn tâm lý mạnh.
++ Điều kiện làm việc buồng tối.
++ Dùng thuốc:
+ - Atropin (tại chổ).
+ - Thuốc muối toàn thân: kháng histamin chống RL tâm thần…
+
+3.Xử trí glaucoma cấp
++ Hạ nhãn áp.
++ Chống viêm.
++ An thần.
++ Phẫu thuật.
+
+* Cụ thể:
++ Toàn thân:
+ -Uống Diamox 0, 25g × 4v/ngày.
+ -Glycerol 50%: 1, 5/kgP
+ -Tùy mức độ nhãn áp cao có thể truyền tĩnh mạch Manitol 20% 1-2g/kgP/45 phút hoặc Acetazolamid 500mg × 1 ống tiêm bắp – tiêm tĩnh mạch.
+
++ Tại chỗ: Pilocarpin 2% 10 phút/lần.
+ - Khi đồng tử co: 4h/1 lần (đối với mắt bệnh)
+ - Thuốc kháng viêm.
+ - Mắt bên kia: nhỏ Pilocarpin 2% (1 lần).
+
++ Phẫu thuật
+ - Lỗ rò/mắt bị lên cơn.
+ - Cắt mống mắt chu biên/mắt thứ 2 (khi có đủ điều kiện).
+
+II.Glaucoma góc đóng nguyên phát bán cấp & mãn:
+1.Đặc điểm LS - Chẩn đoán:
+- Đau nhức mắt, đau đầu cùng bên từng cơn (nhưng ít kịch liệt hơn trong cơn Glôcôm cấp). Có thể tự khỏi, nhìn đèn có quầng xanh đỏ.
+- Khám: Đồng tử giãn nhưng không méo. Tiền phòng nông.
+- Các môi trường trong suốt (giác mạc, dịch kính) ứ phù ít, còn soi được đáy mắt.
+- Nhãn áp trong cơn thường > 25mmHg; ngoài cơn có thể bình thường.
+- Đáy mắt: gai thị teo lõm.
+- Soi góc: dính góc ở nhiều mức độ khác nhau.
+- Thị trường thu hẹp.
+
+* Chẩn đoán dựa vào
+ + Chủ yếu soi góc.
+ + Tình trạng teo lõm gai.
+ + Thị trường thu hẹp.
+ + Nhãn áp cao.
+
+* Chẩn đoán phân biệt:
+  với Glôcôm góc mở = chủ yếu bằng soi góc.
+
+2. Xử trí:
+* Nguyên tắc xử trí
++ Luôn luôn khám cả hai mắt.
++ Hạ nhãn áp.
++ pt dựa vào tình trạng dính góc.
+
+* Cụ thể:
++ Pilocarpin 2% 2-4 lần/ngày/mắt bệnh.
++ Pilocarpin 0, 5g × 3-4 viên/ngày/mắt 2 nếu góc hẹp.
++ Diamox 0, 25g × 3-4 viên/ngày.
+ Kaliorid 1g × 1 viên/ngày.
+
+* Phẫu thuật
++ Lỗ rò: nếu dính góc > 180° nhãn áp không điều chỉnh với Pilocarpin, thời kỳ giữa cơn, nhãn áp bán điều chỉnh.
++ Cắt mống mắt chu biên:
+ - Nếu dính góc < 180°.
+ - Chưa có cơn cao nhãn áp.
+
+Glaucoma góc mở nguyên phát
+(Glaucoma đơn thuần - mãn tính) 
+1. Đặc điểm - lâm sàng - chẩn đoán
+* Đặc điểm
+Bệnh thường xuất hiện ở những người 35-40 tuổi trở lên, thường có tính chất di truyền (20%); tiến triển âm thầm => bệnh nhân thường được phát hiện tình cờ do khám bệnh khác về mắt hoặc đến khám ở giai đoạn muộn.
+
+* Lâm sàng
++ Không nhức mắt hoặc chỉ nặng tức mắt, nhức đầu âm ỉ.
++ Thị lực giảm sút chậm, có cảm giác mờ hơn khi nặng tức mắt (cơn tăng nhãn áp).
++ Khám:
+ - Kết mạc bình thường.
+ - Giác mạc: khjông phù nề (hoặc ít khi tăng nhãn áp).
+ - Đồng tử: giãn tròn, phản xạ kém hoặc (-).
+ - Tiền phòng: bình thường.
+ - Đáy mắt: quan trọng để chẩn đoán:
+ . Nếu giai đoạn sớm: lõm gai sinh lý rộng: mạch máu dạt về phía mũi.
+ . Giai đoạn muộn: gai bạc, teo lõm điển hình.
+ - Soi góc: mở rộng (hiếm khi có góc hẹp).
+ - Đo nhãn áp: cao > 25 mmHg.
+ - Thị trường: (tổn hại sớm) tùy giai đoạn:
+ . Đường đồng cảm trung bình và trung tâm hẹp, loại điểm mù ra ngoài.
+ . Điểm mù dài  - ám đểm Bjerum.
+ . Thị trường chu biên thu hẹp phía mũi/góc trên.
+ . Thị trường hẹp đồng tâm: giai đoạn nặng.
+
+* Chẩn đoán Glôcôm góc mở đơn thuần
+ + Đáy mắt: teo lõm gai.
+ + Thị trường: (nếu thị lực còn).
+ +Góc tiền phòng: không dính ra trước ở chu biên.
+ + Nhãn áp: tăng cao vừa.
+
+* Chẩn đoán phân biệt
+Chẩn đoán phân biệt một glôcôm đơn thuần với giai đoạn góc đóng mãn tính nhờ soi góc.
+
+2. Xử trí:
+* Nguyên tắc xử trí
++ Chủ yếu dùng thuốc nhỏ tại chổ: Pilocarpin 2% - thuốc ức chế beta.
++ Khi có cơn tăng nhãn áp: dùng thêm thuốc ức chế tiết thủy dịch (nhưng không kéo dài) để hỗ trợ cho thuốc tra tại chỗ.
++ Đánh giá theo dõi tổn hại: nhãn áp, tình trạng teo lõm gai - thị trường - thị lực, điều kiện kinh tế, theo dõi bệnh nhân => để can thiệp pt lỗ dò.
+
+* Xử trí Cụ thể
+a. Nếu nhãn áp cao > 27 mmHg hoặc rất cao có tổn hại lõm gai thị rộng, thị trường thu hẹp:
++ Điều trị:      
+ - Diamox 0, 25g ×3-4 viên/ngày.
+ - Kaliorid 600mg × 1-2 viên/ngày.
++ Tại chỗ:
+ - nhỏ Pilocarpin 2% × 3 lần/ngày.
+ - hoặc các thuốc ức chế beta: Betoptic, Betagan, Timoptol 0, 5%.
++ Khi nhãn áp hạ cắt Diamox.
+ - Tiếp tục nhỏ thuốc tại chổ: theo dõi nhãn áp.
+* Nếu:   
++ Nhãn áp tăng trở lại → pt lỗ rò
++ Nhãn áp điều chỉnh hạ:
+- Bệnh nhân ở xa: pt lỗ rò không điều kiện theo dõi, nhỏ.
+- Bệnh nhân ở gần có điều kiện kinh tế, theo dõi → tiếp tục nhỏ → theo dõi 2-4-6 tuần nếu nhãn áp điều chỉnh nhưng chức năng giảm → pt lỗ rò.
+
+b. Nếu nhãn áp ≤ 27 mmHg, gai thị, thị trường chưa biến đổi hoặc ít:
+*Dùng thuốc ức chế beta → theo dõi sau 4-6 tuần, đưa nhãn áp 2 mắt vào so sánh và so sánh với nhãn áp trước khi điều trị nhỏ thuốc để quyết định dùng tiếp hay không.
+
+* Tóm lại - Thái độ điều trị trước chẩn đoán góc mở: không mang tính chất cấp cứu.
++ Đánh giá, theo dõi tình trạng tổn thương:
+- Nhãn áp.
+- Đáy mắt.
+- Thị trường.
+- Thị lực.
++ Lựa chọn biện pháp điều trị, theo dõi sát (nhỏ tại chổ, chủ yếu nhỏ liên tục, đầy đủ).
++ Phẫu thuật lỗ rò:
+- Khi chẩn đoán rõ ràng: nhãn áp không điều chỉnh bằng thuốc nhỏ.
+- Các trường hợp bệnh nhân ở xa, không có điều kiện theo dõi mặc dù nhãn áp có điều chỉnh bằng thuốc.
++ Theo dõi: tái khám định kỳ, kiểm tra chức năng (thị giác).
+
+Glaucome thứ phát do thể thủy tinh 
+* Nhãn áp tăng có thể do:
+- Biến đổi hình dạng thủy tinh thể: căng phòng, thủy tinh thể nhỏ hình cầu (hoặc Marchesani, Marfan).
+- Thay đổi vị trí thủy tinh thể.
+- Do sự phát triển (tiêu thủy tinh thể), quá chín.
+
+I.Glaucome thứ phát do đục TTThể:
+* Mờ từ từ → một lúc nào đó mờ nhanh + đau nhức dử dội.
+1.Khám LS
+- Dấu hiệu cơ năng khác cơn glôcôm cấp diễn.
+- Thị lực thường ST (+) hoặc (-).
+- Giác mạc mờ - tiền phòng nông.
+- Đồng tử giãn méo, phản xạ âm.
+- Thủy tinh thể đục, căng phòng.
+- Soi góc:      
+  Giai đoạn sớm → đóng cơ năng → mở do chưa dính.
+  Giai đoạn muộn → dính góc.
+
+2.Xử trí
+a. Tiền phẫu:
+- Thuốc hạ nhãn áp toàn thân: Diamox, glycerol hoặc Manitol (thuốc co đồng tử không tác dụng có khi còn làm tăng nhãn áp vì gây nghẽn).
+- Thuốc kháng sinh kháng viêm tại chổ, toàn thân.
+- An thần.
+- Nhỏ giãn đồng tử.
+b. Phẫu thuật:
+- Mổ lấy thủy tinh thể + cắt mống mắt chu biên/ nếu bệnh nhân đến sớm 1-2 ngày đầu, soi góc chưa dính.
+- Mổ phối hợp: lỗ rò + lấy thủy tinh thể/nếu bệnh nhân đến muộn, đã có dính góc (thường > 10 ngày).
+- Mổ phối hợp: lỗ rò + lấy thể thủy tinh + đặt thể thủy tinh nhân tạo/trường hợp:
+Thị lực ST (+) và hướng sáng tốt, tình trạng giác mạc tốt, nhãn áp điều chỉnh tốt với thuốc.
+Chú ý tình trạng bệnh nhân trước mổ (tiền mê nếu cần).
+
+II.Cataract - quá trình gây tăng nhãn áp:
+ * Là một bệnh xảy ra trên BN đã có cataract từ lâu ở 1 hoặc 2 mắt, nhưng mới mổ cataract 1 mắt, và lên cơn glocau trên mắt chưa mổ.
+1.Đặc điểm lâm sàng
++Triệu chứng glôcôm cấp; đau nhức + buồn nôn.
++Khám:
+- Kết mạc cương tụ - giác mạc phù, tủa sau giác mạc.
+- Tiền phòng bình thường hoặc sâu.
+- Có tinh thể nhỏ lấp lánh (Oxalat canxi) trong tiền phòng, mặt sau giác mạc, trước thể thủy tinh.
+- Soi góc: bình thường hoặc rộng.
+- Diện đồng tử trắng không đều.
+- Thị lực: nếu muộn ánh sáng (-).
+
+2.Nguyên nhân
+Do lớp vỏ thủy tinh thể bị hóa lỏng, nhân thủy tinh thể nhỏ đi và tụt xuống dưới, màng bọc thủy tinh thể rạn nứt, các chất tan rã của vỏ thủy tinh thể ngấm qua màng bọc ra ngoài tiền phòng kích thích thể mi tăng tiết, nguyên nhân chính là do các đại thực bào đến ăn các chất thủy tinh thể gây tắc bè.
+
+3.Chẩn đoán phân biệt:
+* Viêm màng bồ đào tăng nhãn áp:
+- Không có tinh thể Oxalatcanxi.
+- Đồng tử dính.
+- Góc mở, tiết tố hoặc dính nham nhở.
+
+4.Xử trí
+* Phần lớn phải mổ
++ Kết hợp dùng thuốc:
+ - Hạ nhãn áp.
+ - Kháng sinh kháng viêm.
+ - An thần.
++ Phẫu thuật:
+ - Phối hợp: lỗ rò + lấy thể thủy tinh/bệnh nhân đến muộn có nhãn áp cao.
+ - Đôi khi có cataract quá chín nhưng chưa có tăng nhãn áp ~ chỉ cần lấy thủy tinh thể và theo dõi nếu sau tăng nhãn áp ~ xử trí tăng nhãn áp trên mắt không có thủy tinh thể.

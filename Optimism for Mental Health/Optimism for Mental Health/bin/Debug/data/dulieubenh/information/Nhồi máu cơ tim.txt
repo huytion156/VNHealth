@@ -1,0 +1,484 @@
+﻿1.Chẩn đoán AMI:
+a, Thuật ngữ
+*Thuật ngữ AMI:
++ Acute Myocardial Infarction = AMI = Nhồi máu cơ tim cấp.
++ Là bởi sự hợp nhất biểu hiện bệnh trong tiền sử và dấu hiệu thực thể cùng với điện tâm đồ và các marker đánh dấu tim (xét nghiệm máu cho thấy tổn thương tế bào cơ tim).
+
+*Thuật ngữ UA:
++ Unstable Angina = UA = Đau thắt ngực không ổn dịnh.
++ Tùy theo cơ điạ và lâm sàng, cơn UA có thể là:
+ - Co thắt mạch vành
+ - Tắc mạch vành, gồm có:
+ . không tắc hoàn toàn = cơn đau không ổn định
+ . tắc hoàn toàn = AMI
++ UA có nhiều mức độ:
+ - từ gắng sức mới đau, đến không khỏi dù đã dùng trinitrin...
+ - thái độ xử trí như với AMI.
+
+b, Tiêu chuẩn Chẩn đoán MI
+*Tiêu chuẩn WHO kinh điển
+"Bệnh nhân được chẩn đoán nhồi máu cơ tim, nếu có hai tiêu chuẩn (~có thể), hay ba tiêu chuẩn (= xác định) sau được thoả mãn:
+ -Tiền sử lâm sàng có cơn đau thắt ngực kiểu thiếu máu kéo dài trong hơn 20 phút.
+ -Thay đổi hình dạng ECG theo nhóm trên một loạt 2 (hoặc 3) điện tâm đồ (cách nhau vài tiếng).
+ -Tăng rồi giảm các men tim huyết thanh (biomarkers - như creatine kinasa, troponin I, và lactate dehidrogenaza nhóm isozim đặc hiệu tim).
+
+*Tiêu chuẩn WHO 2000 cập nhật lại, đã đưa nổi bật hơn cho biomarkers tim:
+"Troponin tăng lên, kèm vài triệu chứng điển hình khác như sóng Q bệnh lý, ST nâng cao hoặc giảm, hay sự can thiệp vành, đã cho phép chẩn đoán MI".
+
+*Tiêu chuẩn AHA 2007 cập nhật tiếp.
+- Định nghĩa cho cả Cấp và Cũ.
+
+c, Triệu chứng lâm sàng
+* Triệu chứng điển hình và thường gặp nhất của nhồi máu cơ tim là:
++ Đau ngực: với cảm giác đau như bị đè ép, bóp chặt ở giữa ngực, diễn ra trong khoảng 5-15 phút (khác về thời hạn và độ đau với cơn đau ngực thông thường), thường không quá 1 giờ.
++ Cơn đau hay lan lên vai, cổ, hàm hoặc lan dọc theo cánh tay, đặc biệt là tay trái.
++ Các triệu chứng phụ như : vã mồ hôi, buồn nôn, chóng mặt, bất tỉnh, mệt nhọc, khó thở, tái nhợt, tim đập mạnh.
+(Nhiều trường hợp nhồi máu cơ tim lại có biểu hiện không rõ ràng như tiêu chảy, đau bụng, hoặc chẳng hề có triệu chứng 'nhồi máu cơ tim thầm lặng - thấy nhiều trong các bệnh nhân đái tháo đường', hoặc lại hết sức đột ngột, biểu hiện bằng biến chứng hôn mê, rối loạn nhịp tim, ngừng tim hay chết bất ngờ...).
+
+* Triệu chứng cổ điển của AMI chính là của Hội chứng vành cấp (ACS)
+Hội chứng vành cấp (ACS- acute coronary syndrome) "là một tập hợp các dấu hiệu và triệu chứng khêu gợi của thiếu máu cục bộ tim đột ngột, thường gây ra bởi sự tan rã (cuả) tấm sơ vừa trong một động mạch vành thượng tâm vị".
+
+d, Hội chứng vành cấp:
++ Đau thắt ngực chưa ổn định (Unstable Angina-UA),
++ Nhồi máu Cơ tim đoạn ST không chênh lên
+  (Non-ST Segment Elevation Myocardial Infarction - NSTEMI),
++ Nhồi máu Cơ tim có đoạn ST chênh lên
+  (ST Segment Elevation Myocardial Infarction-STEMI),
+
+Dấu hiệu và triệu chứng của ACS
+ - đau ngực;(h3)(h4)
+ - thở nông;
+ - buồn nôn; nôn;
+ - toát mồ hôi (đổ mồ hôi);
+ - hồi hộp; lo âu hay cảm giác sắp chết; cảm giác bệnh trầm trọng cấp.
+
+e, Tiêu chuẩn về ECG:
+* Hướng dẫn hiện nay để chẩn đoán AMI yêu cầu ST tăng ít nhất 1mm (0,1 mV), trong hai hoặc nhiều hơn các đạo trình kề nhaụ theo giải phẫu.
+* ECG 12 đạo trình được dùng phân loại bệnh nhân vào một trong ba nhóm:
+1. Có ST tăng hay block phân nhánh bó his mới (đang nghi ngờ tổn thương cấp, và là một ứng cử viên cho phép dùng liệu trình tan cục huyết hay tạo mạch).
+2. Có sự đảo ngược hạ thấp đoạn ST hay đảo ngược T (nghi ngờ thiếu máu cục bộ).
+3. Có hình ảnh ECG không gợi lên chẩn đoán hay bình thường. (Một ECG bình thường cũng không loại trừ đang nhồi máu cơ tim cấp).
+* ST chênh lên (tổn thương mới - sau vai giờ); sóng Q sâu (sau 24h); sóng Pardee (rất sớm) & T âm ngay từ đầu (thiếu máu).(h5)(h6)
+
+f, Định khu MI theo bất thường ECG như sau (ST chênh lên và Q):
+Vách (Septal) V1, V2 (h7)
+Trước (Anterior) V3, V4 (h8)
+Thành dưới (Inferior) II, III, AVF (h9)
+Thành bên (Lateral) I, aVL, V5, V6 (h10)
+Trước vách (Anteroseptal) V1,V2,V3,V4 (h11)
+Trước bên (Anterolateral) V3,V4,V5,V6, I, aVL (h12)
+Thất phải (Right ventricular) II, III, aVF, V1, RV4, RV5 (h13)
+Thành sau (Posterior) Ty le R/S> 1 ở V1 và V2; sóng T thay đổi (thẳng đứng) ở V1, V7,V8, và V9 (h14)
+
+g, XN (marke) đánh dấu tim:
+-Troponin tim (nhạy nhất và đặc hiệu khi cơ tim tổn thương)(h1)(h2)
+-Creatine kinaza (CK, Cũng biết như photphocreatin kinaza hay creatine phosphokinase)
+-Aspartate Transaminaza (AST, Cũng gọi là Glutamic Transaminaza Oxaloacetic (GOT/SGOT) Hay aspartate Aminotransferase (ASAT))
+-Lactat dehidrogenaza (LDH)
+-Myoglobin (Mb) đặc hiệu thấp với MI và được sử dụng it hơn nhưng marker đánh dấu khác.
+
+h, Phân loại Killip
++ Là hệ thống phân loại được dùng để xếp thứ tự nguy cơ.
++ Những cá nhân ở nhóm Killip thấp ít có khả năng chết trong 30 ngày đầu tiên sau khi nhồi máu so với những cá nhân ở nhóm killip cao.
++ Phân loại killip
+ - Killip I: không có những dấu hiệu lâm sàng của s̉uy tim (tử vong 0-5%).
+ - Killip II: có ran phổi, tiếng S3 ngựa phi, và phồng tĩnh mạch cảnh (Tv 10-20%).
+ - Killip III: có phù phổi thật sự.(TV 35-45%)
+ - Killip IV: có sốc tim (HA < 90; co mạch ngoại biên, đái ít, toát mồ hôi, Tv 85-95%)
+2.Điều trị đặc hiệu:
+a, Cấp cứu ban đâu
+ Tại chỗ hay tại nhà:
+- Xác định chẩn đoán bằng ECG, đo HA, nếu HA b.thường cho ngậm trinitrin SL, gọi ôtô 115 cấp cứu
+- Nếu chưa đỡ đau: morphin 0, 1 pha 10ml DW5, tiêm IV 2ml (2mg)/lần q3phút cho tới khi hết đau, và Aspegic 100-250mg IV hay PO.
+- Nếu buồn nôn, hạ HA, nhịp chậm: kê cao hai chi dưới, atropin 1/2-1mg IV.
+
+b, Vận chuyển
+- Xe cấp cứu tim mạch:
+  thở Oxy; đặt monitoring theo dõi.
+- Chống đông-tiêu sợi huyết:
+  Alteplase (actilyse) 1mg/kg IV trong 90 phút, 2/3 liều trong 30 phút đầu,
+  Heparin 25000 dv/24h truyền cùng lúc & Aspergic 250mg (đường truyền khác nhau)
+- Beta bloquant:
+  Tenormine 5mg IV chậm (chống chỉ định nếu mạch <50, HA <100mmHg, block AV II, III; tiền sử Hen PQ)
+- Điều trị phối hợp:
+  Risodan, Lenitral IV trong 500ml DW5;
+  Lidocain 1mg/kg IV sau đó 30mg/kg/24h nếu có NTT thất trên 10%
+- Đưa ngay đến cơ sở vừa HS vừa chụp vành, nong vành, cầu nối ...
+
+c, Xử trí tại HSCC
++Hàng đầu
+- MONA (Morphine, Oxi, Nitroglyxerin, Aspirin) dùng ngay khi có thể, tiếp tục hay như cách dùng trên xe
+- Khi có chẩn đoán MI cho beta blocker, chống đông như chỉ định trên (heparin) (h2)
+
++Tái tưới máu (referfusion):
+- Thể UA hay NSTEMI thường được làm ổn định bằng thuốc chống ngưng tập tiểu cầu và chống đông.
+- Nếu huyết động ổn định có thể cho chụp đ.m vành hay làm các XN không xâm nhập mạch khác.
+
++Tan huyết khối (thrombolysis):
+- Chỉ định điều trị thể STEMI nếu thuốc có thể dùng trong vòng 12h từ lúc khỏi bệnh (tốt nhất trong vòng 2h đầu).
+- Chống chỉ định với thể UA, NSTEMI và có shock tim.
+- Thuốc thường dùng là streptokinasee, urokinase, và alteplase (rtPA).
+- Gần đây hơn là reteplase và tenecteplase heparin trọng lượng pt thấp cũng hữu ích.
+
++Can thiệp vành qua da (percutaneous coronary intervention-PCI)
+- Tốt nhất ngay trong 90' khi vào HS;
+- glycoprotein IIb/IIIa inhibitorsrs thường dùng để làm giảm tai biến thiếu máu trong khi tiến hành làm PCI.
+
++Phẫu thuật bypass mạch vành
+
++Xử trí loạn nhịp
+ Tham khảo thuốc điều trị tùy theo từng loại loạn nhịp.
+
++ Hồi phục và ngừa tái phát
+ Tập luyện, đi lại, sex; bỏ hút thuốc, ngưng uống rượu, ăn kiêng bệnh lý tim.
+ Nếu không có chống chỉ định, cho dùng các thuốc chống ngưng tập (aspirin),
+ beta blocker, ức chế AEC, Statin...
+- Oxi 2-4 L/phút bởi NC.
+- Aspirin 325mg PO, nhai và nuốt, rồi thì 160mg PO qd, hay
+- Clopidogrel (Plavix) 300mg-600mg PO X 1, rồi 75mg PO qd (update 2009 & nếu dị ứng đối với aspirin).
+- Nitroglyxerin 15 mcg IV bolus, rồi truyền 10 mcg/phút (50mg trong 250-500 ml D5W, 100-200 mcg/ml). Chuẩn độ để kiểm soát triệu chứng khoảng 5-10 mcg/từng phút, tăng lên tới 200-300 mcg/phút; bảo đảm HA tâm thu > 90 hay
+- Nitroglyxerin SL, 0.4mg (0.15-0.6mg) SL q5phút cho đến khi hết đau (tới trên 3 viên) hay
+- Nitroglyxerin Spray (0.4mg/lần xịt spray)1-2 nhát xịt dưới lưỡi q5 phút; MR X 2.
+ Tham khảo thêm Nitroglyxerin; Isoket
+- Heparin 75 U/Kg IV trực tiếp, rồi 15 U/Kg/h truyền IV liên tục.
+- aptT q6h x 4 rồi qd. Lặp lại 6 giờ sau mỗi lần thay đổi liều heparin.
+Glicoprotein IIb/IIIa blocker dành cho Hội chứng vành cấp
+-Eptifibatide (Integrilin)180 mcg/Kg IVP, rồi thì 2 mcg/Kg/phút truyền trong 72 giờ.
+-Tirofiban (Aggrastat) 0.4 mcg/Kg/Phut cho khoảng 30' rồi thì 0.1 mcg/Kg/Phut trong khoảng 48-108 giờ.
+
+Glicoprotein IIb/IIIa blocker danh cho Tạo hình mạch
+-Abciximab (ReoPro) 0.25mg/Kg IVP, rồi thì 0.125 mcg/Kg/phút IV trong 12 giờ.
+-Eptifibatide (Integrilin)180 mcg/Kg IVP, rồi 2 mcg/Kg/Phut trong 20-24 giờ.
+
++ Liệu trình Tan huyết khối
+ * Chống chỉ định Tuyệt đối:
+ -Chảy máu trong cấp,
+ -tiền sử đột quỵ xuất huyết,
+ -chấn thương đầu,
+ -mang thai,
+ -phẫu thuật trong mới 2 tuần,
+ -mới chọc mạch máu không thể băng ép gần đây,
+ -tăng huyết áp không kiểm soát được(> 180/110 mmHg).
+ * Chống chỉ định Tương đối :
+ -Đoan ST bằng dẹt,
+ -tăng huyết áp ác tính,
+ -bệnh não-mạch,
+ -giải phẫu gần đây (trong 2 tuần),
+ -sống lại sau HS tim-phổi.
+
+A.Alteplase (tPA, Chất hoạt hoá plasminogen mô tái tổ hợp, Activase):
+1 .15mg trực tiếp bơm IV trong hơn 2', Tiếp sau bởi 0.75mg/Kg (max 50mg) truyền IV trong 30 min, Tiếp theo sau bởi 0.5mg/Kg (max 35mg) truyền IV trong 60 phút (tổng liều max 100mg).
+2.XN: INR/PTT, CBC, fibrinogen.
+
+B.Reteplase (Retavase):
+1.10 U IV bơm trong hơn 2 min; lặp lại liều hai 10 U IV bơm sau 30 min.
+2XN:INR, aPTT, CBC, fibrinogen.
+
+C.Streptokinaza (Streptase):
+1. 1.5 triệu IU trong 100 ml NS IV trong hơn 60 min. Cho trước diphenhydramine (Benadryl) 50mg và Methylprednisolone (Solu- Medrol) 250mg tiêm trực tiếp IV.
+2. Kiểm tra mức fibrinogen ngay và q6h trong khoảng 24h cho đến khi mức > 100 mg/dL.
+3.Không tiêm IV và chọc động mạch, xem IV phòng chảy máu.
+
+UC men chuyển Angiotensin
+- Captopril (Capoten) Liều ban đầu 6.25mg PO; sau 2 giờ, tăng tới 12.5mg; sau 6-8 giờ tăng tới 25mg, rồi tăng tới 50mg bid vào ngay thứ 2 hay
+-Lisinopril (Zestril, Prinivil) 5mg PO X 1 liều, rồi 10mg qd, sau đó 10-20mg bid.
+-Enalapril (Vasotec) 2.5mg PO X 1, rồi 5mg qd. Tăng tới liều max 10-20mg bid. Nitrat tác động dài:
+-Nitroglyxerin patch 0.2mg/hr qd. Cho phép phóng thích nitrat tự do để ngăn ngừa loạn nhịp nhanh.
+-Isosorbide dinitrat (Isordil) 10-60mg PO tid [5,10,20, 30,40mg] hay
+-Isosorbide mononitrate (Imdur) 30-60mg PO qd.
+
+Beta-blocker: Chống chỉ định trong shock tim.
+-Metoprolol (Lopressor) 5mg IV q2-5 phút X 3 liều; rồi thì 25mg PO q6h cho khoảng 48h, rồi 100mg PO q12h; giữ HR< 60/min, và HA tâm thu< 100 mmHg hay
+-Atenolol (Tenormin), 5mg IV, Lặp lại trong 5 phút, tiếp theo sau bởi 50-100mg PO qd hay
+-Esmolol hidrocloua (Brevibloc) 500 mcg/Kg IV trong hơn 1', rồi 50 mcg/Kg/phút IV, chuẩn độ theo nhịp tim> 60 bpm (max 300 mcg/Kg/phút).
+
+3.Điều trị triệu chứng:
+-Mocphin sunfat 2-4mg IV tiêm theo mức đau ngực prn.
+-Acetaminophen (Tylenol) 325-650mg PO q4-6h vì nhức đầu prn.
+-Lorazepam (Ativan) 1-2mg PO tid- qid khi lo lắng prn
+-Zolpidem (Ambien) 5-10mg qhs do chứng mất ngủ prn.
+-Docusate (Colace) 100mg PO bid.
+-Dimenhydrinate (Dramamine) 25-50mg IV trong hon 2-5 phút q4-h hay 50mg PO q4-6h do buồn nôn prn.
+-Ranitidine (Zantac) 150mg PO bid hay 50mg IV q8h.
+
+4.Làm thêm:
+ECG ngay lập tức và trong 12h,
+ CXR xách tay.
+Hội chẩn tim mạch.
+XN: SMA 7 và 12, Magie.
+Cac men Tim: CPK- MB, Troponin T ngay lập tức và q6h Cho 24h.
+LDH và Isoenzim.CBC,  INR/PTT, UA.
+
+5.Điều dưỡng
++Sinh hiệu: q1/h. Gọi thầy thuốc nếu mạch> 90, < 60; HA> 150/90, < 90/60; R > 25, < 12; T> 38.5 C.
++Hoạt động: Nghỉ tại giường, Phục hồi chức năng sớm...
++Chăm sóc: ghế đi cầu (bô). Nếu bệnh nhân đau ngực, do ECG 12 lead và gọi thầy thuốc.
++Ăn uống: ăn kiêng kiểu bệnh tim, chỉ 1-2 gm Na, colesteron & chất béo thấp. Không Cafein.
++Truyền dịch IV: D5W theo kiểu TKO.
++Hướng dẫn thuốc dùng sau MI
++Dự phòng Hội chứng chuyển hóa
+
+
+Định Nghĩa Mới Về Nhồi Máu Cơ Tim
+(theo ESC/AHA/ACC/WHF, 10-2007)
+* Tiêu chuẩn chẩn đoán MI Cấp
+Thuật ngữ NMCT cấp phải được sử dụng khi có chứng cứ hoại tử cơ tim trong bối cảnh lâm sàng phù hợp với thiếu máu cơ tim.
+Ở những tình trạng này, có bất kỳ một trong những tiêu chuẩn sau đều thoả mãn chẩn đoán Nhồi Máu Cơ Tim Cấp:
+
+1. Phát hiện chỉ điểm sinh học (troponin ưa chuộng hơn) có sự gia tăng và/hoặc giảm, với ít nhất một giá trị lớm hơn phân vị thứ 99 của giới hạn trên,  tham khảo cùng với chứng cứ thiếu máu cơ tim
++ với ít nhất một tiêu chuẩn sau:
+- Triệu chứng thiếu máu cơ tim.
+- Thay đổi ECG chỉ ra thiếu máu cơ tim mới (thay đổi ST-T mới hoặc blốc nhánh trái mới xuất hiện).
+- Tiến triển sóng Q bệnh lý trên ECG.
+- Chứng cứ về hình ảnh học có mất vùng cơ tim còn sống hoặc bất thường vận động vùng mới xuất hiện.
+
+2. Tử vong đột ngột, không đoán trước, liên quan với ngừng tim, thường kèm với triệu chứng gợi ý thiếu máu cơ tim, và kèm theo có ST chênh lên mới, hoặc blốc nhánh trái mới và hoặc có chứng cứ huyết khối mới trên chụp ĐMV, hoặc và trên giải phẩu tử thi, nhưng tử vong xãy ra trước lấy máu hoặc trước khi có kết quả chỉ điểm sinh học máu.
+
+3. Đối với can thiệp động mạch vành qua da ở BN có troponin máu bình thường, gia tăng chỉ điểm sinh học hơn giới hạn trên bình thường của phân vị thứ 99 - chỉ ra có hoại tử cơ tim chu phẩu.
+(Thường lệ, gia tăng chỉ điểm sinh học gấp 3 lần giới hạn trên của phân vị thứ 99 - sẽ xác định NMCT liên quan với can thiệp ĐMV qua da. Một số BN đó có huyết khối trong stent đã được ghi nhận).
+
+4. Đối với mổ bắt cầu động mạch vành ở BN có troponin máu bình thường, gia tăng chỉ điểm sinh học hơn giới hạn trên bình thường của phân vị thứ 99 - chỉ ra có hoại tử cơ tim chu phẩu.
+(Thường lệ, gia tăng chỉ điểm sinh học gấp 5 lần giới hạn trên của phân vị thứ 99, kèm với sóng Q bệnh lý mới, hoặc blốc nhánh trái mới, hoặc tắc nghẽn ĐMV bản địa, hoặc tắc ĐMV mới ghép, hoặc chứng cứ mất hình ảnh cơ tim còn sống - sẽ xác định NMCT liên quan với mổ bắc cầu ĐMV).
+
+5. Hình ảnh giải phẩu bệnh có NMCT cấp.
+
+* Tiêu chuẩn Chuẩn đoán MI đã cũ
+Có bất kỳ một trong những tiêu chuẩn sau đều thoả mãn chẩn đoán NMCT cũ
+- Tiến triển sóng Q bệnh lý mới dù có hay không có triệu chứng.
+- Chứng cứ hình ảnh học vùng bị mất cơ tim còn sống mà chúng mỏng đi hoặc không co bóp, khi không có nguyên nhân không thiếu máu.
+- Dấu hiệu giải phẩu bệnh NMCT đã lành hoặc đang lành.
+ 
+
+ 
+
+
+STEMI
+
+Ngày 13 tháng 12, 2007, hai hiệp hội tim mạch lớn của Hoa Kỳ đã thống nhất một bản cập nhật cho khuyến cáo về "Xử trí nhồi máu cơ tim cấp có ST chênh lên - STEMI" đã ban hành năm 2004.
+(website của AHA/ACC - 15 tháng 1, 2008)
+Bản cập nhật này không chỉ đưa ra khuyến cáo về sử dụng thuốc chống đông, can thiệp mạch vành qua da (PCI), thuốc tiêu huyết khối, mà còn nhấn mạnh đến sự thống nhất về xử trí bệnh nhân NMCT ở từng giai đoạn khác nhau.
+
+*Những điểm nổi bật của bản cập nhật
++Morphine sulfate vẫn là thuốc đầu tay để giảm đau cho bệnh nhân STEMI.
+- Bệnh nhân đang dùng NSAIDs không phải aspirin cần ngừng thuốc ngay khi có triệu chứng của NMCT.
+
++Thuốc chẹn beta đường uống cần được sử dụng trong vòng 24 giờ đầu tiên ở những bệnh nhân NMCT
+- (nếu) không có triệu chứng của suy tin, bằng chứng giảm cung lượng tim, nguy cơ shock tim, hay các chống chỉ định tương đối khác với thuốc chẹn beta.
+- Không dùng thuốc chẹn beta đường tĩnh mạch ở những đối tượng nêu trên.
+
++ Bệnh nhân NMCT tốt nhất là nên được can thiệp ĐMV qua da (PCI) trong vòng 90 phút đầu tiên.
+-  Nếu không thể tiến hành can thiệp, cần dùng thuốc tiêu huyết khối trong vòng 30 phút kể từ khi đến viện.
++ Tăng cường làm điện tâm đồ 12 chuyển đạo để tăng hiệu quả điều trị NMCT.
+
++ Mặc dù can thiệp ĐMV có thể được xem xét sau khi dùng thuốc tiêu huyết khối liều thấp, việc can thiệp sau khi dùng thuốc tiêu huyết khối đủ liều có thể gây hại.
+- Đối tượng có thể phù hợp với chụp ĐMV và can thiệp ĐMV sau khi dùng thuốc tiêu huyết khối bao gồm những bệnh nhân dưới 75 tuổi có shock tim, suy tim nặng, rối loạn huyết động do rối loạn nhịp tim.
+- Chụp ĐMV xét can thiệp cũng được xem xét nếu dùng thuốc tiêu huyết khối thất bại.
+
++ Bệnh nhân được tái tưới máu bằng thuốc tiêu huyết khối cần được dùng thuốc chống đông tối thiểu 48 giờ.
+- Tốt hơn cả là dùng thuốc chống đông trong suốt thời gian nằm viện.
+
++ Cần sử dụng clopidogrel phối hợp với aspirin trong tối thiểu 14 ngày sau NMCT. Nên duy trì clopidogrel kéo dài ở những bệnh nhân này
+(Clopidogrel (Plavix) 75mg x 1-2v/ngày, chống kết tập TC, tác dụng chống tái phát AMI mạnh hơn ASA, nhất là với BN viêm động mạch chi dưới).
+
++ Khuyến cáo mới về phòng bệnh NMCT bao gồm:
+- bỏ thuốc lá,
+- dùng thuốc hạ mỡ máu, giảm lượng cholesterol không phải HDL xuống dưới 100 mg/dL ở những nq có tăng mỡ máu,
+- và tăng cường vận động thể chất.
+
++ Thuốc ức chế men chuyển cần được sử dụng ở tất cả những bệnh nhân có tiền sử NMCT
+
++ Thuốc giảm đau đầu tay ở những bệnh nhân có tiền sử NMCT là:
+- Acetaminophen hoặc aspirin, các narcotic (morphine) liều thấp, hoặc thuốc nonacetyl salicylate.
+- Không dùng các thuốc NSAIDs ức chế chọn lọc COX-2.
+
+Chỉ định chụp ĐMV
+
+Chỉ định thông và can thiệp mạch vành quai da.
+(catheterization and percutaneous coronary intervention - PCI).
+
+ĐIỀU DƯỠNG
+Chế độ ăn như thế nào?
+Trong ăn uống, cần lưu ý những điều sau:
++ Với gluxit
+- Chế độ ăn nên giảm bớt gluxit (chất đường- bột).
+- Sự ăn uống dư thừa gluxit cũng dễ tạo nên sản phẩm trung gian là cholesterol, triglycerid.
+- Ăn giảm cơm, khoai, bánh mì... và các thực phẩm chế biến giàu tinh bột;
+- thay vào đó là đậu phụ, giá đỗ xanh, rau quả tươi...
+
++ Với lipit,
+- không cần phải kiêng tuyệt đối, chỉ nên hạn chế mỡ động vật và dùng dầu thực vật thay thế.
+- Vẫn có thể ăn trứng, nhưng mỗi tuần không nên ăn quá 2 quả.
+
++ Với protein,
+- có thể ăn từ 100g đến 150g thịt nạc mỗi ngày.
+- Bất cứ loại thịt gì (không phân biệt lợn, gà, bò...) miễn là thịt nạc giàu protein đều có lợi cho cơ thể.
+
++ Gần đây, một chuyên gia tim mạch của Mỹ đã phát hiện mộc nhĩ đen có tác dụng phòng chống huyết khối.
+Vì vậy, nếu thường xuyên ăn mộc nhĩ đen sẽ có thể phòng chống nhồi máu cơ tim.
+
++ Ăn hạn chế muối.
+- Không cần ăn nhạt tuyệt đối, nhưng cố gắng ăn giảm bớt một nửa lượng muối
+- nếu trước đây ăn 10g muối/ngày (mọi người vẫn thường ăn 10-11 g/ngày) thì nay ăn nhạt đi chỉ với 5g muối/ngày.
+
+Sử dụng thuốc sau MI như thế nào?
+Thuốc sử dụng sẽ do thầy thuốc quyết định. Các thuốc thường dùng sẽ là các loại thuốc sau:
+
++Thuốc chẹn bêta.
+Các thuốc chẹn bêta hay được sử dụng ở nước ta là propranolol (inderal), atenolol (tenormin), metoprolol (betaloc), bisoprolol (concor) ...
+Các thuốc này có thể gây nhịp tim chậm.
+Thuốc chống chỉ định ở bệnh nhân hen phế quản.
+Thuốc cũng có thể gây ra lạnh chân và tay, mất ngủ, giảm khả năng quan hệ tình dục.
+Thuốc cũng có thể ảnh hưởng đến đường huyết nên cẩn thận theo dõi đường huyết và chỉnh liều thuốc nếu bạn đang có đái tháo đường.
+
++Thuốc ức chế men chuyển.
+Các thuốc thường dùng là captopril (capoten), peridopril (coversyl), enalapril (renitec), lisinopril (zestril).
+Các thuốc này thường hay gây ho.
+Nó cũng có thể gây ban đỏ da, phù niêm, mất cảm giác thèm ăn, khô miệng.
+
++Thuốc ức chế thụ thể.
+Các thuốc thường dùng là telmisartan (micardis), lorsartan (cozar).
+Thuốc này khắc phục được triệu chứng ho của thuốc ức chế men chuyển.
+Nhưng nó vẫn có những tác dụng phụ như phù niêm, khô miệng...
+
++Thuốc chẹn kênh canxi.
+Các thuốc thường dùng là tildiem...
+Các thuốc này hay gây nhịp tim nhanh, phù mắt cá, đau đầu, chóng mặt, táo bón...
+
++Thuốc chống đông máu:
+Các thuốc chống đông là rất quan trọng cho bệnh nhân sau nhồi máu cơ tim.
+Các thuốc thường dùng là aspirin và clopidogrel (plavix).
+Nên chú ý biến chứng chảy máu dạ dày ở những bệnh nhân dùng thuốc này.
+
++Thuốc hạ mỡ máu:
+Statin làm giảm cholesterol toàn phần và LDL (loại cholesterol xấu).
+Các biệt dược hiện có tại nước ta là lipitor (atorvastatin), crestor (rovastatin), zocor (simvastatin).
+
+
+Phục hồi chức năng (PHCN)
+A. Nguyên tắc
+
++ Là toàn bộ những hoạt động cần thiết,
+- ảnh hưởng có lợi đến tiến triển của bệnh,
+- cũng như bảo đảm cho bệnh nhân có điều kiện thể lực, tinh thần và xã hội tốt nhất, để tái hòa nhập gia đình, cộng đồng.
+- Bản chất của PHCN tim là rèn luyện cho bệnh nhân tái thích nghi với gắng sức.
+
++ Hiệu quả của PHCN nhồi máu cơ tim như:
+- Giảm tần suất cơn đau ngực,
+- Giảm các biến cố tim mạch như tái phát nhồi máu, đột tử, tai biến mạch máu não
+- Giảm các can thiệp như đặt stent, bắc cầu nối mạch vành
+- Tập luyện có tác dụng giảm trương lực giao cảm, tăng hoạt động phó giao cảm, nên làm giảm nhịp tim, giảm sức cản ngoại vi, nên giảm huyết áp ở bệnh nhân tăng huyết áp.
+- Giảm cholesterol có tỷ trọng thấp (loại cholesterol có hại).
+- Tập luyện làm giảm cân, bình ổn bệnh tiểu đường, giảm sự kháng insulin cho bệnh nhân tiểu đường, kích thích tế bào nội mô sản xuất oxite nitrique có tác dụng giãn mạch, kích thích tăng sinh mạch máu tân tạo và tuần hoàn bàng hệ của hệ thống mạch vành, do đó làm giảm ngưỡng thiếu máu cho cơ tim.
+
+B. Các giai đoạn của PHCNN cho bệnh nhân nhồi máu cơ tim.
+1. Tại trung tâm hồi sức tích cực:
++ Những ngày đầu - bất động tuyệt đối.
+
++ Sau 2-3 ngày, vận động sớm cho bệnh nhân một cách từ từ:
+ - Tập thở bụng tại giường, bệnh nhân tự gập duỗi các ngón tay, ngón chân, khớp khuỷu, cổ chân.
+ - Kỹ thuật viên trợ giúp gập duỗi đồng thời cổ chân, khớp gối, khớp háng.
+
++ Từ ngày thứ 4-5
+ - Bệnh nhân có thể tự thực hiện các động tác trên.
+ - Bệnh nhân được nâng dậy một cách từ từ (30 độ, 40 độ, 60 độ),
+ - nếu thích nghi tốt có thể ngồi tại giường có tựa lưng.
+
++ Sau 2-3 tuần
+ - bệnh nhân có thể đứng dậy, đi lại quanh giường hoặc trong phòng.
+ - Từ tuần thứ 3 bệnh được đánh giá Bilan để quyết chương trình tập luyện thích nghi với gắng sức.
+ - Ghi điện tim, đặc biệt Holter (ghi điện tim 24 giờ), siêu âm tim, Scintigaphy tim với Thallium, test gắng sức với phân tích trao đổi khí, xác định ngưỡng hô hấp hiếu khí và tần số tim khi gắng sức.
+(Chống chỉ định: Những trường hợp hẹp van động mạch chủ nặng, suy tim mất bù, rối loạn nhịp tim nặng, huyết khối tim trái mới, viêm tắc tĩnh mạch mới, đau ngực không ổn định, tăng áp lực động mạch phổi trên 60mmHg, viêm màng ngoài tim tiến triển không được áp dụng chương trình tập luyện).
+
+2.Tại trung tâm PHCN tim mạch:
++ Dưỡng sinh
+- hình thức luyện tập phù hợp với bệnh nhân sau nhồi máu cơ tim.
+- Áp dụng đối với bệnh nhân không có những chống chỉ định trên và test gắng sức âm tính, bệnh nhân được tập theo nhóm, trong phòng có nhạc giúp thư giãn.
+- Trước tập cần chuẩn bị tốt khởi động, bài tập kéo giãn trong 30 phút.
+
++ Xe đạp lực kế hoặc băng truyền
+(có hệ thống theo dõi tim mạch: tần số tim, điện tim, năng lượng sản sinh...)
+ - Thời gian tập kéo dài khoảng 45 phút, tập từ 3-5 buổi trong 1 tuần.
+- Giai đoạn này kéo dài khoảng 4 tuần.
+Tiếp theo là giai đoạn ngoại trú và tập tại nhà.
+
+3. PHCN tại nhà
+Là giai đoạn tái hòa nhập gia đình và xã hội.
++ Tập luyện ngoài trời
+- như đi bộ, đạp xe, cắt tỉa cây, thực hiện công việc nhẹ như vẽ, dán treo tranh ảnh, nội trợ giản đơn...
+- Tuần 2-3 buổi, mỗi buổi kéo dài khoảng 2 giờ.
+- Bệnh nhân được hướng dẫn cách đánh giá nhịp tim (trong khi tập nhịp tim không quá tần số tim gắng sức),
+- Cảnh báo các triệu chứng nguy hiểm, biết cách đánh giá mức độ nặng nhẹ của công việc mình thực hiện
+ (dựa vào mức độ sản sinh công – watts của từng công việc. Ví dụ: công việc nhẹ 40w tương đương: tự chăm sóc bản thân như tắm, mặc quần áo, may vá, cắt tỉa cây nhỏ, đi bộ từ 3-5km/h, đạp xe đạp trên đường phẳng 8km/h. Công việc trung bình (40-75w) là mang vật nặng 7-15kg, đi chợ, sinh hoạt tình dục, lái xe, đi bộ 5-6km/h, đạp xe đường phẳng 10km/h, chơi bóng bàn. Công việc cực nặng (120-160w): mang 30-40kg, leo thang nhanh, cưa xẻ, chạy 8-9km/h, đạp xe đường phẳng 20km/h, nhảy, bơi).
+
++ Các môn thể thao cho phép chơi:
+- Đi bộ 3,5-5km, 30-45 phút/ngày,
+- Đạp xe địa hình phẳng ít gồ ghề 8km/h, 30-45 phút/ngày.
+- Bơi ở bể, bơi sải 30m/phút (tối đa), thời gian 30-45 phút/ngày.
+
+* PHCN tim đòi hỏi sự phối hợp chặt chẽ giữa các chuyên khoa tim mạch, PHCN, hô hấp, dinh dưỡng... để đem lại hiệu quả cao nhất cho người bệnh.
+
++ Phát hiện và ngăn ngừa Hội chứng chuyển hóa (HCCH)
+
+
+Chỉ định thông và can thiệp mạch vành quai da.
+(catheterization and percutaneous coronary intervention - PCI).
+
+
+Hội chứng vành cấp-ACS (UA & N-STEMI)
+Nhóm I
+Có chiến lược can thiệp sớm cho các chỉ định có nguy cơ cao như sau:
+- Đau thắt hay thiếu máu cục bộ có chu kỳ ngay cả lúc nghỉ ngơi hay với hoạt động mức thấp 
+- Tăng Troponin 
+- Đoạn ST hạ xuống.
+- Thiếu máu cục bộ có chu kỳ với bằng chứng của CHF. 
+- Kết quả test gắng sức thể hiện có nguy cơ cao. 
+- EF< 0.40 
+- Huyết động không ổn định. 
+- Nhịp nhanh kịch phát thất duy trì 
+- PCI dưới 6 tháng 
+- Trước CABG  
+Trong trường hợp thiếu các dấu hiệu trên, cần một chiến lược can thiệp để làm ổn định sớm.
+
+Nhóm IIa
+- Có chiến lược can thiệp sớm cho những bệnh nhân với những sự biểu hiện lặp lại của HC vành cấp (ACS).
+
+Nhóm III
+- Những dạng mắc bệnh số đông không phù hợp lắm liệu trình can thiệp vành khi có đau ngực cấp gần giống như ACS
+
+MI cấp sau khi dùng liệu trình chống đông
+(hướng dẫn ACC/AHA 2004)
+Nhóm I
+- Thiếu máu cục bộ có chu kỳ (tự động hay bị kích thích) 
+- MI tái diễn
+- Sốc tim hay huyết động không ổn định.
+
+Nhóm IIa
+- LVEF = 0.40, CHF (thậm chí nhất thời), các chứng loạn nhịp thất nghiêm trọng
+
+Nhóm IIb
+- PCI thường là một phần của chiến lược can thiệp sau khi dùng liệu trình tan fibrin
+
+* Key:
+MI = nhồi máu cơ tim;
+CHF = suy tim xung huyết;
+EF = Phân xuất tống máu;
+PCI = can thiệp vành qua da;
+CABG = Gép đường vòng động mạch vành;
+ACS = Hội chứng vành cấp;
+ACC/AHA = ĐH Tim Mỹ & Hiệp hội tim mạch Mỹ;
+AMI = Nhồi máu cơ tim cấp;
+LVEF = Phân xuất tống máu thất;
+UA = Đau thắt ngực không ổn định;
+N-STEMI = nhồi máu cơ tim cấp không có ST chênh lên.
+CURRENT MEDICAL DIAGNOSIS & TREATMENT - 44th Ed. (2005)
+
+
+Chỉ định chụp ĐMV
+(theo khuyến cáo AHA/ACC 2007);
+Có chỉ định chụp ĐMV khi:
+. Bệnh nhân có mức đau ngực rõ (CCS III – IV) và không khống chế được triệu chứng với điều trị nội khoa tối ưu
+. Bệnh nhân có nguy cơ cao theo phân tầng nguy cơ trên các thăm dò không chảy máu
+. Bệnh nhân có đau thắt ngực mà sống sót sau cấp cứu ngừng tuần hoàn hoặc được biết có rối loạn nhịp trầm trọng
+. Bệnh nhân đau thắt ngực có kèm theo dấu hiệu của suy tim
+. Bệnh nhân đang chuẩn bị cho phẫu thuật mạch máu lớn
+. Bệnh nhân đau thắt ngực mà nghề nghiệp hoặc lối sống có những nguy cơ bất thường (phi công, diễn viên xiếc…)

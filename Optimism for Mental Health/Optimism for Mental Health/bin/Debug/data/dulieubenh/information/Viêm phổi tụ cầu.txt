@@ -1,0 +1,33 @@
+﻿1. Nguyên nhân và triệu chứng
+     + Tụ cầu (Staphylococcus) là vi khuẩn gram dương, sản xuất nhiều độc tố và enzym ngoại bào.
+        - Chủng tụ cầu vàng (S. aureus) tạo ra enzym coagulaza, đặc trưng khác so với những chủng khác. 
+        - Vi khuẩn có thể tạo vỏ polyscaccarid chống lại thực bào; Khi có vỏ bọc, tụ cầu dễ xâm nhập vào máu gây nhiễm trùng huyết.
+        - Dạng không có vỏ chủ yếu gây bệnh tại chỗ, nhưng khi vào máu theo đường tiêm truyền thì hay gây sốc nhiễm khuẩn.
+     + Sinh lý bệnh:
+        - Cơ chế hút thường xảy ra sau cúm hoặc ở thể địa suy giảm miễn dịch, tụ cầu theo dịch tiết đường hô hấpC trên bị hút vào phổi.
+        - Cơ chế thứ hai là tụ cầu theo đường máu đến phổi từ ổ nhiễm trùng ngoài phổi. Theo cơ chế này, viêm phổi có nhiều ổ, xảy ra sau mụn nhọt ngoài da, do tiêm trích ma túy, bệnh nhân lọc máu, người được đặt dụng cụ nội mạch bị nhiễm trùng, viêm tắc tĩnh mạch, viêm màng trong tim vùng van ba lá.
+     +Bệnh diễn biến cấp tính hoặc bán cấp tính. Triệu chứng lâm sàng phụ thuộc vào tuổi và sức khoẻ của bệnh nhân. Viêm phổi xảy ra rất nhanh sau nhiễm tụ cầu đường hô hấp trên. Khi biến chứng viêm phổi, triệu chứng của cúm, sởi thường nặng lên.
+     +Triệu chứng phổ biến là sốt cao, mạch nhanh, thở nhanh, ho, ít gặp ho máu và đau ngực. Khám thấy rì rào phế nang giảm và nhiều ổ ran nổ. Có thể gặp suy hô hấp, sốc nhiễm khuẩn.
+     + Nhuộm gram đờm: cầu khuẩn tụ tập từng đám cạnh bạch cầu N, nhìn thấy tụ cầu trong bạch cầu vì tụ cầu còn sống nhiều giờ sau khi bị thực bào.
+     + Xquang phổi: hình ảnh hay gặp là nhiều ổ viêm phổi dạng tròn, kích thước không đều, ở hai bên phổi, không đối xứng. Một số ổ áp xe với mức khí nước. Bóng khí thành mỏng thường gặp ở trẻ con. Tổn thương biến đổi nhanh chóng.
+     + Máu: Bạch cầu máu ngoại vi tăng cao, chuyển trái. Thiếu máu hay gặp khi có nhiễm trùng máu.
+     + Phân lập tụ cầu ở máu, đờm, dịch màng phổi, bệnh phẩm hút từ tổn thương phổi.
+
+2. Cách chữa trị thông thường
+     +Là một bệnh nặng, tỷ lệ tử vong cao.
+        - Điều trị đòi hỏi phải hồi sức tích cực và dùng kháng sinh đúng.
+        - Ngày nay tụ cầu thường kháng với Penixilin do tạo ra Penixilinaza thông qua plasmid, cho nên kháng sinh lựa chọn là những penixilin kháng lại Penixilinaza (Nafxilin, Oxaxilin, Pristopen), Cephalosporin thế hệ III (Claforan) , Vancomyxin.
+     +Điều trị đặc hiệu tiến hành sau khi có kết quả kháng sinh đồ.
+        - Cefazolin dùng 2 đến 4 gam/ngày, tiêm tĩnh mạch cách 12 giờ / lần; hoặc
+        - Oxaxilin tiêm tĩnh mạch 1,5 - 2 gam/lần,, 4 - 6 giờ tiêm một lần.
+     +Thời gian dùng kháng sinh thường kéo dài 4 tuần.
+        - Nếu bệnh diễn biến tốt nhanh, có thể dùng thuốc viên dicloxaxilin.
+     +Một số lưu ý
+        - Khi dị ứng penixilin, thay bằng Cephalosporin thế hệ thứ nhất.
+        - Nếu tiền sử có quá mẫn tức thì nên dùng Vancomyxin. Gentamyxin dùng khi có nhiễm trùng huyết.
+        - Nhiều tài liệu khuyên chỉ dùng một loại kháng sinh, không phối hợp thuốc.
+        - Trường hợp nặng có thể dùng Imipenem ( Tienam) truyền tĩnh mạch 500 mg ´ 2 - 3 lần / ngày.
+
+3. Cách phòng tránh
+     Phải phát hiện sớm và điều trị triệt để các bệnh nhiễm khuẩn tai mũi họng, răng hàm mặt. Dùng khẩu trang chống lây nhiễm cúm. Rửa tay thường xuyên để hạn chế lây nhiễm virut, vi khuẩn.   
+

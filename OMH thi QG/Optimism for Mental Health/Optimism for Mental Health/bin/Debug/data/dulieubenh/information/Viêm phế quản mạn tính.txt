@@ -1,0 +1,58 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1. Định nghĩa:
+     _"Viêm phế quản mạn tính là một tình trạng viêm tăng tiết nhầy mạn tính của niêm mạc phế quản, gây ho và khạc đờm liên tục hoặc tái phát từng đợt ít nhất 3 tháng trong một năm và ít nhất là 2 năm liền".
+     _Định nghĩa này loại trừ các bệnh gây ho khạc mạn tính khác: lao phổi, giãn phế quản ...
+  1.2. Phân loại
+     - Viêm phế quản mạn tính đơn thuần: chỉ ho và khạc đờm, chưa có rối loạn thông khí phổi Có thể điều trị khỏi.
+     - Viêm phế quản mạn tính tắc nghẽn: triệu chứng chính là khó thở, do tắc nghẽn lan rộng và thường xuyên của phế quản. Còn gọi là bệnh phổi tắc nghẽn mạn tính (COPD : Chronic Obstructive Pulmonary Disease) .
+     - Viêm phế quản mạn tính nhầy mủ: (Brochit chronic mucopurulence) ho và khạc đờm nhầy từng đợt kịch phát hoặc liên tục.
+  1.3. Nguyên nhân và bệnh sinh
+     _Hút thuốc lá, thuốc lào: 88% số người nghiện hút thuốc bị viêm phế quản mạn tính. Khói thuốc lá làm giảm vận động tế bào có lông của niêm mạc phế quản, ức chế chức năng đại thực bào phế nang, làm phì đại và quá sản các tuyến tiết nhầy, làm bạch cầu đa nhân giải phóng men tiêu Protein. Khói thuốc lá còn làm co thắt cơ trơn phế quản.
+     _Bụi ô nhiễm: SO2, NO2. Bụi công nghiệp, khí hậu ẩm ướt, lạnh.
+     _Nhiễm khuẩn: vi khuẩn, virut, những ổ viêm nhiễm ở đường hô hấp trên và viêm phế quản cấp là cơ sở thuận lợi cho viêm phế quản mạn tính phát triển.
+     _Cơ địa và di truyền: dị ứng, người có nhóm máu A dễ bị viêm phế quản mạn tính, Thiếu hụt IgA , hội chứng rối loạn vận động rung mao tiên phát, giảm a1Antitripsin.
+     _Yếu tố xã hội: cuộc sống nghèo nàn, lạc hậu.
+     _Cơ chế bệnh sinh chủ yếu do:
+        + Biến đổi chất gian bào.
+        + Mất cân bằng giữa Protêaza và kháng Proteaza.
+        + Mất cân bằng giữa hệ thống chống oxy hoá và chất oxy hoá.
+  1.5. Giải phẫu bệnh lý
+     +Tổn thương từ khí quản-phế quản lớn đến các phế quản tận, bao gồm: phá huỷ biểu mô phế quản, giảm tế bào lông và thay đổi cấu trúc rung mao, quá sản các tế bào hình đài, tăng sản và phì đại tuyến nhầy, chỉ số Reid 0,7 là chỉ số của bề dầy tuyến / thành phế quản , (bình thường chỉ số này £ 0,4).
+     +Đường thở nhỏ tổn thương viêm mạn tính: phì đại cơ trơn, loạn sản tế bào chế nhầy, bong biểu mô gây hẹp lòng đường thở nhỏ và tăng sức cản đường thở.
+     +Những trường hợp có biến chứng khí phế thũng, thì có tổn thương đường thở ở trung tâm tiểu thuỳ và giãn ra không hồi phục, gây khí phế thũng trung tâm tiểu thuỳ.  
+  1.6.Triệu chứng lâm sàng:
+     _Thường ở người trên 40 tuổi, nghiện thuốc lá, thuốc lào. Thường xuyên ho khạc về buổi sáng. Đờm nhầy trong, dính hoặc màu xanh, vàng đục, mỗi ngày không quá 200ml. Mỗi đợt kéo dài 3 tuần, tăng về mùa đông và đầu mùa thu.
+     _Đợt bùng phát của viêm phế quản mạn tính, thường xảy ra ở người già, yếu, do bội nhiễm. Có thể sốt, ho, khạc đờm và khó thở, có thể tử vong do suy hô hấp và tâm phế mạn.
+     _ Ở người mắc bệnh lâu năm (bệnh phổi tắc nghẽn mạn tính) , lồng ngực biến dạng hình thùng, hình phễu, khó thở rút lõm cơ hô hấp, rút lõm kẽ gian sườn, phần đáy bên của lồng ngực co hẹp lại khi hít vào (dấu hiệu Hoover) , rút lõm hõm ức, khí quản tụt xuống khi hít vào (dấu hiệu Campbell) . Gõ phổi vang trầm, nghe rì rào phế nang giảm, tiếng thở thanh-khí-phế quản giảm hoặc thô ráp, có thể có ran rít, ran ngáy và ran ẩm.Có thể có hội chứng ngừng thở khi ngủ, mạch đảo nghịch (chênh lệch huyết áp tâm thu khi hít vào và thở ra 10mmHg) cao áp động mạch phổi và tâm phế mạn.
+
+2. Cách chữa trị thông thường
+  2.1 Đối với VPQM, không có tắc nghẽn
+     _Cần dự phòng bằng cách:
+        +Bỏ hút thuốc, tránh lạnh, tránh bụi, phòng chống nhiễm khuẩn đường hô hấp trên bằng súc họng, nhỏ mũi. Tiêm vacxin đa giá: Rhibomunyl, phòng chống cúm. Điều trị tốt bệnh tai mũi họng. Dùng vitamin A, C, E (chống oxy hoá).
+     _Khi có bội nhiễm phế quản:
+        +Dùng kháng sinh theo kháng sinh đồ. Hoặc dùng kháng sinh loại Gram (+) Tetraxyclin 1g / ngày hoặc Ampixilin 1g / ngày, hoặc Erythromyxin. Có thể phối hợp cả 2 nhóm trên.
+        +Có thể dùng kháng sinh mạnh: Rulid 150 mg ´ 2v / 24giờ hoặc Rovamyxin 3 tr UI / 24 giờ .
+        + Long đờm: Natribenzoat 3% ´ 20ml / 24giờ, hoặc Acemuc, Bisorven, Mucosolvan, RhDnase.
+        + Vỗ rung và dẫn lưu theo tư thế. Ngày 2-3 lần. Mỗi lần 15 phút-30 phút
+        + Chống co thắt phế quản: xịt Salbutamol hoặc uống Theophylin, nếu nhiều đờm xịt atrovent.
+  2.2.Đối với VPQM tắc nghẽn
+     Ngoài các biện pháp trên cần thêm:
+        + Chống viêm bằng nhóm Corticoid: xịt Budesonide (Pulmicort) hoặc uống Prednisolon 30 mg / ngày, giảm liều dần hoặc tiêm truyền tĩnh mạch.
+        + Thở Oxy, thở máy, đặt nội khí quản hút rửa, chống suy tim khi có tâm phế mạn.
+        +Ngoài đợt bùng phát : cần điều trị dự phòng và tập thở bụng.
+
+3. Cách phòng tránh
+  Chuẩn đoán kịp thời khi phát hiện triệu chứng bằng cách:
+     - Lao phổi : ho kéo dài, Xquang có hình ảnh ” phổi bẩn”
+     - Giãn phế quản: ho và khạc đờm nhiều. Nhưng < 200ml/24 giờ.
+     - Hen phế quản: cần chẩn đoán phân biệt với viêm phế quản mạn tính tắc nghẽn, dùng test xịt Salbutamol 200 - 300 mg và đo FEV1, nếu FEV1 tăng không quá 15% là viêm phế quản mạn tính tắc nghẽn .
+     - Ung thư phế quản: ho kéo dài. Xquang có hình ảnh u hoặc hạch chèn ép.
+     - Khí phế thũng: khi viêm phế quản mạn tính chưa biến chứng khí phế thũng.
+     -Khí phế thũng / Viêm phế quản mạn tính.
+     -Khó thở: nặng / Vừa
+     -Ho: có sau khó thở / Có trước khó thở
+     -Viêm đường thở: ít / Thường xuyên
+     -Suy hô hấp: giai đoạn cuối / Từng đợt cấp
+     -Xquang: giãn phổi, tăng sáng / Hình ảnh “ Phổi bẩn”
+     -Sức cản đường thở (Raw) : tăng nhẹ / Tăng nhiều.
+

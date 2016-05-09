@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xrml="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <assemblyIdentity name="VNHealth.application" version="1.0.0.4" publicKeyToken="f7132fb34646906e" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <description asmv2:publisher="VNHealth" asmv2:product="VNHealth" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <deployment install="true" mapFileExtensions="true">
+    <subscription>
+      <update>
+        <beforeApplicationStartup />
+      </update>
+    </subscription>
+    <deploymentProvider codebase="http://nhathuy/VNHealth/VNHealth.application" />
+  </deployment>
+  <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
+    <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
+  </compatibleFrameworks>
+  <dependency>
+    <dependentAssembly dependencyType="install" codebase="Application Files\VNHealth_1_0_0_4\VNHealth.exe.manifest" size="8899">
+      <assemblyIdentity name="VNHealth.exe" version="1.0.0.4" publicKeyToken="f7132fb34646906e" language="neutral" processorArchitecture="msil" type="win32" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2PbaOvhd8x2YSVL7xjOAMs77VMY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=NHATHUY\huyti_000" issuerKeyHash="de0e4524236d26e675c8460f7b8c45fc5292d001" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>CglfatUWNIc8knnHqd3QZb39/us=</DigestValue></Reference></SignedInfo><SignatureValue>XqfnsnzuR5kKZUCaRT6dPDeQCmC3/gzCV4Bb0nb8IabEoUEIQ/Z7d/HrLRN37a9BpaRLS/TqWU0LkB6UjK9LJx/hfjV9qnWGaEbAQCXJ5vGdEvRKb97ZqR4QNaA/YjGekAbpHBgoKwTUIMOrwVIwYPrUC8ESbt/z8gMUMRVaafM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>njg8ZEN5xeew17+u/SXCUsBKZ9fHiGDYtCVRHR5Y2oma8y5bO1YXtsBvwzKahFEJ9+qNDLBkVHSTMoPkssXFzqLmmAKkCeBF9JhcYFBoLJ+ePTGQAYHEH77BvVQlGsa5GRfLFPbFCzXpq+KCViS6PLHS97shFXsdV8N+Qi2hiCc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ebfefdbd65d0dda9c779923c873416d56a5f090a" Description="" Url=""><as:assemblyIdentity name="VNHealth.application" version="1.0.0.4" publicKeyToken="f7132fb34646906e" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NHATHUY\huyti_000</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>a732cjcVi+In4FRS3lSa0lDyRWk=</DigestValue></Reference></SignedInfo><SignatureValue>dQ1CGE3DXWjawilX/3hVnKXAMs/t2s/ZkMZZIA8zhxpreJvRgz/MRCTWNAcemwW1vs/5ooqa5qq2b9ao4Ok8es4YnkOX4tke+drwq0KwryDC6BBXyQ103FZFvPLY9JfjhKMlCMcu/QcvmLGgBdRk69pZG+em412qhSaNGQFfKjU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>njg8ZEN5xeew17+u/SXCUsBKZ9fHiGDYtCVRHR5Y2oma8y5bO1YXtsBvwzKahFEJ9+qNDLBkVHSTMoPkssXFzqLmmAKkCeBF9JhcYFBoLJ+ePTGQAYHEH77BvVQlGsa5GRfLFPbFCzXpq+KCViS6PLHS97shFXsdV8N+Qi2hiCc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQcRNpycKPvptDeGPUrlmegzANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIATgBIAEEAVABIAFUAWQBcAGgAdQB5AHQAaQBfADAAMAAwMB4XDTE1MDMwOTAyNDcyNFoXDTE2MDMwODA4NDcyNFowLTErMCkGA1UEAx4iAE4ASABBAFQASABVAFkAXABoAHUAeQB0AGkAXwAwADAAMDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAnjg8ZEN5xeew17+u/SXCUsBKZ9fHiGDYtCVRHR5Y2oma8y5bO1YXtsBvwzKahFEJ9+qNDLBkVHSTMoPkssXFzqLmmAKkCeBF9JhcYFBoLJ+ePTGQAYHEH77BvVQlGsa5GRfLFPbFCzXpq+KCViS6PLHS97shFXsdV8N+Qi2hiCcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQBY+orGv6yB+0BEPYXeRSUhAphm3J+BXT1XGI1ddq1CVR8m7pMaMqAdhKV8ZU3HdCd6KMwiOtn+qDmPZEK1K/inmua97k+ht7iecae05C8tW2GJv1DCpfZ3PwNhs+CRsDAv7J+rebjZUtktdOaYPNd7NsXPFzL03N6TnHvyK1kEMg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

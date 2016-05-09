@@ -1,0 +1,44 @@
+﻿1. Tiêu chuẩn chẩn đoán
++ Có ≥ 5 cơn đau có các tính chất sau:
+  (đa số trước cơn đều có rối loạn thị giác, tê bì hay rối loạn vận động, ngôn ngữ)
+- Đau đầu một bên
+- Đau theo mạch đập
+- Cường độ từ trung bình đến dữ dội
+- Đau tăng khi hoạt động thể lực
+
++ Ngoài ra trong cơn đau có ít nhất 1 trong các t.chứng:
+- Nôn hoặc buồn nôn
+- Sợ ánh sáng và tiếng động
+
+2.Điều trị
+- Aspirin 1000mg
+- Ergotamin 1-2mg (Chống CĐ: suy vành, Raynaud, THA)
+- Sumatriptan 50mg x 1v/ngày
+- Thuốc an thần
+- Opioid (không dùng kéo dài)
+- Lidocain nhỏ mũi hoặc tiêm tĩnh mạch
+
++ Migrain -Y học cổ truyền
+- Thường chữa bệnh này bằng bài thuốc cổ Tiêu dao thang:
+ Sài hồ, bạch thược, đương quy, bạch truật, phục linh mỗi thứ 12 g;
+ bạc hà, cam thảo (nướng qua), sinh khương (nướng qua) mỗi thứ 4 g.
+ Cho 3 bát nước sắc lấy hơn nửa bát, khi sắp đưa thuốc ra khỏi bếp mới bỏ bạc hà vào, uống nóng.
+- Bài thuốc này cũng được dùng để chữa suy nhược thần kinh, kinh nguyệt không đều, biếng ăn, khó ngủ, hay căng thẳng cáu gắt, đau tức hai hông sườn.
+- Sau khi bệnh nhân uống một vài thang, thày thuốc thường cho dùng thuốc bổ âm, dưỡng huyết, chẳng hạn như bài Lý âm tiễn:
+ Thục địa 16 g, đương quy 12 g, can khương 8 g (sao ngoài đen, ruột ở giữa còn vàng, sao xong tẩm nước tiểu bé trai),
+ cam thảo (nướng) 4 g.
+ Cho 3 bát nước sắc còn non một bát, chia làm hai lần uống trong ngày, uống lúc thuốc còn nóng.
+
+3. Phòng ngừa
+- Propranolon 20mg x 2 lần/ngày
+- Amitriptilin 10-20mg/ngày
+- Depakin 250mg x 2 lần/ngày
+- Vitamin B12, magne...
+
+4. Phân loại
+* Có 5 loại đau đầu hay gặp, nhiều khi phải cấp cứu
+ a. Do căng thẳng (32%)
+ b. Migraine (22%)
+ c. Đau đầu chuỗi(cluster~1%)
+ d. Viêm động mạch thái dương (temporal arteritis~1%)
+ e. Các đau đầu nội khoa mãn tính khác

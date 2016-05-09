@@ -1,0 +1,374 @@
+﻿I.Đại cương
+Đa số là Phospho hữu cơ
+4 loại phospho hữu cơ đã và đang được sử dụng phổ biến ở nước ta là:
+- Thiophốt (Parathion) màu vàng, mùi tỏi, dạng nhũ tương.
+
+- Vôfatốc (methyl parathion) màu nâu thẫm (dạng nhũ tương) hoặc màu đỏ tươi (dạng bột) mùi cỏ thối.
+
+- Dipterec dạng tinh thể, màu trắng.
+- DDVP (dichloro diphenyl vinyl phosphat) màu vàng nhạt.
+
+Chiếm 57.1% các trường hợp tự tử ở nông thôn Việt Nam.
+9.1% các trường hợp ngộ độc qua đường tiêu hóa tại TTCĐ-BVBM.
+78,000 ca/năm được báo cáo ở Mỹ.
+Các hóa chất độc chiến tranh là loại được sử dụng sớm nhất.
+
+II.Dược lý học
+Phospho hữu cơ Tan trong lipid và nhanh chóng được hấp thu qua da, đường tiêu hóa và hô hấp.
+Sau khi hấp thu, thuốc tích lũy mô mỡ.
+Tiếp xúc liều thấp lặp lại nhiều lần ® tích lũy nhanh chóng hoặc từ từ.
+
+III.Bệnh sinh
+Phospho hữu cơ xâm nhập vào cơ thể qua đường hô hấp, da, niêm mạc (nhất là mắt) và chủ yếu là đường tiêu hóa (do bàn tay dính thuốc, ăn uống nhầm, tự tử, đầu độc...).
+Phospho hữu cơ Gây độc do ức chế cạnh tranh acetylcholinesterase.
+Dẫn tới tích lũy acetylcholine và kéo dài thời gian tác dụng của chất này tại nhiều vị trí khác nhau.
+
+Tác dụng của Phospho hữu cơ - phụ thuộc vào vị trí bị tác động:
+Các vị trí giao cảm và phó giao cảm hệ muscarinic and nicotinic sites
+Các vị trí cơ vân hệ skeletal muscle nicotinic.
+Các vị trí hệ thần kinh trung ương.
+
+IV.Lâm sàng
+Triệu chứng ngộ độc phospho hữu cơ: có 2 nhóm triệu chứng chính:
+
++Giống muscarin:
+kích thích hệ thần kinh phó giao cảm, gây:
+- co đồng tử (có khi co nhỏ như đầu đinh,
+- tăng tiết (vã mồ hôi, nhiều nước bọt),
+- tăng co bóp ruột: đau bụng, nôn mửa,
+- co thắt phế quản: tím tái, phù phổi, có thể liệt hô hấp,
+- hạ huyết áp.
+
+Hội chứng cholinergic kinh điển:
+“Sludge” – tăng tiết do tác dụng trên hệ phó giao cảm
+- Đồng tử co nhỏ.
+- Nhịp chậm là kinh điển, nhịp nhanh thường thấy do giải phóng noradrenaline hệ giao cảm.
+- Vã mồ hôi do tác dụng giao cảm.
+
++Giống nicotin:
+kích thích các hạch thần kinh thực vật và hệ thần kinh trung ương.
+- giật cơ, co cơ: co giật mi mắt, cơ mặt, rút lưỡi, co cứng toàn thân...
+- rối loạn phối hợp vận động...
+- hoa mắt, chóng mặt, run, nói khó, nhìn lóa, nặng thì hôn mê.
+
++Thường thì chẩn đoán không khó, nếu là vô tình bị ngộ độc, thì triệu chứng quan trọng và khá đặc trưng là đồng tử co nhỏ, vã mồ hôi và nước bọt tiết nhiều...
+
++ Xét nghiệm
+- máu: hoạt độ men cholinesterase bình thường ở nam giới là 2,54 +/- 0,53 micromol, nữ giới: 2,18 +/- 0,51 micromol. Nếu giảm 30% là nhiễm độc nhẹ, giảm 50%: nhiễm độc vừa, giảm trên 70% là nhiễm độc nặng.
+- Xét nghiệm nước tiểu định lượng paranitrophenol: chỉ có trong nước tiểu người ngộ độc Thiôphốt và Vôfatốc.
+
++Nguyên nhân chính gây ngộ độc nặng và tử vong là tăng tiết ở phổi (phân biệt với phù phổi)
+Dẫn tới tắc nghẽn đường hô hấp và thiếu oxy.
+Mức độ nặng cuối cùng do tăng kích thích hệ cơ vân.
+Tăng phản xạ, máy cơ.
+Mệt cơ hô hấp.
+
+V.Điều trị
+Điều trị nhằm 4 mục tiêu:
+1) Tẩy độc
+2) Điều trị hỗ trợ
+3) Đảo ngược lại các tác dụng quá mức của acetylcholine ở các vị trí.
+4) Đảo ngược lại việc gắn của chất độc với cholinesterase
+
+1) Tẩy độc:
++ Cởi bỏ quần áo
+ Tắm rửa, gội đầu
+ Nhân viên y tế cần áp dụng các biện pháp chung để phòng tránh phơi nhiễm.
+ Các biện pháp tẩy độc chuẩn còn bàn cãi do nôn cũng như chất độc được hấp thu nhanh.
+
++Xử trí ban đầu: phải rất khẩn trương, sớm phút nào lợi phút ấy.
+- Nếu uống phải:
+. Bệnh nhân còn tỉnh: ngoáy họng gây nôn, đồng thời cho uống nhiều nước để hòa loãng chất độc.
+. Rửa dạ dày trước 6 giờ, mỗi lần rửa dùng khoảng 20-30 lít nước sạch (đun ấm nếu trời rét), sau 3 giờ phải rửa lại.
+. Hòa vào mỗi lít nước 1 thìa cà phê muối và 1 thìa to (20g) than hoạt tính.
+. Sau mỗi lần rửa, cho vào dạ dày 200ml dầu parafin (người lớn) và 3ml/kg thể trọng (trẻ em).
+- Nếu hấp thụ qua da: bỏ hết quần áo bị nhiễm và rửa da bằng nước và xà phòng.
+- Nếu nhiễm vào mắt: rửa mắt bằng nước trong 10'.
+
+2) Điều trị hỗ trợ:
+- ABC’s
+- Điều trị tình trạng tăng tiết
+- Đặt NKQ: nên dùng vecuronium hoặc rocuronium vì succinylcholine có thể kéo dài thời gian tác dụng và cạnh tranh với acetylcholine.
+- Truyền dung dịch glucose, thở oxy, hô hấp hỗ trợ, chống co giật, kháng sinh...
+- Chống chỉ định: morphin, aminophyllin.
+- Chế độ dinh dưỡng: kiêng mỡ, sữa. Nuôi dưỡng qua đường tĩnh mạch trong vài ngày đầu.
+- Khi bệnh đã ổn định, có thể cho ăn đường và đạm qua sonde.
+
+3) Đảo ngược lại các tác dụng quá mức của acetylcholine ở các vị trí.
++ sulfat atropin liều cao: giải quyết triệu chứng nhiễm độc giống muscarin.
+Phải cho đầu tiên, tiêm ngay tức khắc khi xác định là ngộ độc phospho hữu cơ.
+Tiêm atropin ngay sau khi đặt nội khí quản và hô hấp hỗ trợ.
+
++ Atropine ức chế cạnh tranh ở các vị trí muscarinic:
+2-5 mg/5 phút/ lần (có thể cần tới 200-500mg trong giờ đầu tiên) tới khi hết tăng tiết đường hô hấp.
+Sau đó 50-100 mg/ giờ để duy trì kiểm soát tăng tiết.
+Sẽ giúp phòng tránh ngộ độc nặng lúc đầu.
+Không tác dụng ở các điểm nối thần kinh cơ hệ nicotinic.
+ 
+
++Cho theo tình trạng bệnh
+- Trường hợp ngộ độc nặng: tiêm tĩnh mạch 2-3mg, sau đó cứ cách 10' lại tiêm một lần cho đến khi đồng tử bắt đầu giãn thì chuyển sang tiêm dưới da, cứ cách 30' lại tiêm 1-2mg cho đến khi tỉnh lại và đồng tử trở lại bình thường. Tổng liều có thể tới 20-60mg. Liều thường dùng: 24mg/24h.
+- Ngộ độc vừa: tiêm dưới da 1-2mg, cứ 15-30' một lần. Tổng liều 10-30mg.
+- Ngộ độc nhẹ: tiêm dưới da 0,5-1mg, 2 giờ 1 lần. Tổng liều 3-9mg.
+
++Theo dõi chặt chẽ nạn nhân trong khi dùng atropin, chú ý triệu chứng nhiễm độc atropin: khô niêm mạc, da khô, đỏ, đồng tử giãn to, nhịp tim nhanh. Nếu nặng: triệu chứng kích thích mạnh, mê sảng... thì phải ngừng atropin.
+
+4) Đảo ngược lại việc gắn của chất độc với cholinesterase
+Dung dịch PAM 2,5% (biệt dược Pralidoxime, Contrathion) giúp phục hồi hoạt tính men cholinesterase.
+Chia cắt phức hợp phospho hữu cơ - acetylcholinesterase.Tác dụng ở cả các vị trí hệ muscarinic và nicotinic.
+
+- Chỉ dùng trước 36 giờ kể từ khi nhiễm độc, dùng sau 36 giờ ít hiệu quả.
+- Liều dùng: lúc đầu tiêm tĩnh mạch 1-2g, sau đó nhỏ giọt tĩnh mạch mỗi giờ 0,5g hoặc cách 2-3 giờ tiêm tĩnh mạch 1 lần 0,5-1g.
+Tổng liều tối đa là 3000mg. Tiêm tĩnh mạch rất chậm 200-500mg trong 5-10 phút.
+- Dùng đúng chỉ định và đúng liều, tiến triển tốt rất nhanh: giảm hôn mê, vật vã, giảm mất phản xạ và rút ngắn thời gian điều trị.
+1-2 g TM, sau đó nhắc lại mỗi 4-8 giờ theo tình trạng lâm sàng.
+- Cũng gắn với các phân tử phospho hữu cơ tự do ® tránh tạo phức hợp enzym-phospho hữu cơ tiếp do phospho hữu cơ được giải phóng từ từ (tới 6 tuần) từ mô mỡ.
+Benzodiazepines cho độc tính trên TKTW.
+
+VI.Theo dõi-tiên lượng
+Phospho hữu cơ có thể được giải phóng vào máu từ mô mỡ trong khoảng 6 tuần.
+Độc tính phospho hữu cơ có thể xuất hiện trở lại vài ngày sau điều trị.
+Nếu có thể, theo dõi hoạt cholinesterase trong vài ngày sau điều trị.
+
+
+ 
+
+Ngộ độc cấp phospho hữu cơ
+
+I. Đạị cương
+
+Thuốc trừ sâu phospho hữu cơ (PPHC) là một trong hai loại thuốc trừ sâu thuộc nhóm ức chế cholinesterse đang được sử dụng rộng rãi trong nông nghiệp. Các hóa chất trừ sâu nhóm clo hữu cơ độc hơn như DDT đã bị cấm hoặc hạn chế sử dụng. Do bị thủy phân nhanh thành các hợp chất vô hại và không tích tụ chất độc lâu dài trong môi trường nên PPHC ngày càng được sử dụng rộng rãi trong nông nghiệp(trừ sâu) cũng như trong nhà( trừ gián,muỗi...).Cũng vì sử dụng rộng rãi như vậy nên ngộ độc cấp phospho hữu cơ (NĐC PPHC) là một bệnh cảnh cấp cứu rất thường gặp, chiếm khoảng 80% trường hợp ngộ độc cấp thuốc trừ sâu phải vào viện.
+
+Phospho hữu cơ (Organophosphate - O.P) là các hợp chất bao gồm carbon và gốc của axít phosphoric.Chất đầu tiên được sử dụng để diệt côn trùng là Tetraetyl pyrophosphate (TEPP). Ngày nay có hàng ngàn hợp chất phospho hữu cơ ra đời nhưng vẫn trên cơ sở một công thức hoá học chung:
+
+II. Chuyển hóa:
+
+Các hợp chất phospho hữu cơ được hấp thụ rất tốt qua đường da và niêm mạc, đường tiêu hóa và đường hô hấp. Nguyên nhân nhiễm độc có thể là sử dụng không đúng trong nông nghiệp, tai nạn, tự tử, và hiếm khi là bị đầu độc. Tự tử thường dẫn đến những nhiễm độc nặng nhất, sau đó là tai nạn trong nông nghiệp và công nghiệp, rồi đến trẻ em nhiễm độc tại nhà.Có thể gặp ngộ độc hàng loạt do thực phẩm nhiễm độc.Các dấu hiệu và triệu chứng nhiễm độc rất thay đổi tùy theo đường nhiễm và mức độ nhiễm độc; tuy nhiên khoảng thời gian từ lúc bị nhiễm đến lúc xẩy ra triệu chứng thường dưới 12 giờ. Nhiễm độc khí dẫn đến triệu chứng xẩy ra trong vòng vài giây.
+
+Nhưng cũng cần biết rằng một số hóa chất mới như diclofenthion và fenthion hòa tan trong mỡ nhiều hơn nên có thể gây ra cường cholinecgic muộn (sau vài ngày) và triệu chứng có thể tồn tại vài tuần đến hàng tháng. Hiện tượng này có thể là do thuốc trừ sâu lúc đầu được giữ lại trong các mô mỡ và sau đó được tái phân bố vào máu. Ngoài ra, ngộ độc đường uống nếu không được tẩy rửa đường tiêu hóa tốt và không được dùng than hoạt thì thuốc trừ sâu ứ đọng trong ruột sẽ tiếp tục được hấp thu vào máu trong những ngày sau và kéo dài quá trình bệnh lý.
+
+Phospho hữu cơ được chuyển hóa và khử độc ở gan bởi các enzyme mono - oxygenase.Tuy nhiên, một số phospho hữu cơ nhparathion và malathion khi chuyển thành oxon lại có độc tính mạnh hơn chất mẹ nhiều lần.
+
+III. Cơ chế tác dụng và độc tính
+
+Acetylcholin là chất trung gian hoá học tại các synapes thần kinh trước hạch của hệ thần kinh tự động ( bao gồm cả giao cảm và phó giao cảm) , cũng như tại các synapes hậu hạch của thần kinh phó giao cảm và dây thần kinh giao cảm chi phối các tuyến mồ hôi, ở các cúc tận cùng của các dây thần kinh vận động chi phối các cơ vân, ở các điểm nối tế bào thần kinh trong não. Sau khi tác động lên các receptor đặc hiệu ở màng tế bào hậu synap, Acetylcholin sẽ bị thuỷ phân bởi acetylcholinesterse( AChE).
+
+Phospho hữu cơ khi vào cơ thể sẽ gắn với AChE dẫn đến phosphoryl hoá và làm mất hoạt tính của ChE. Hậu quả là sự tích tụ Acetylcholin tại các synap thần kinh.Sự tích tụ này gây lên sự kích thích liên tục quá mức các receptor ở hậu synap(lúc đầu),sau đó là giai đoạn kiệt synap ở cả hệ thần kinh trung ương và thần kinh ngoại biên. Sự kích thích dẫn tới hội chứng cường cholin cấp và sự kiệt synap dẫn đến những thay đổi biểu hiện ra ngoài thành các triệu chứng bệnh cảnh NĐC PPHC. Có hai loại receptor chịu tác động của acetylcholin: muscarin( ở hậu hạch phó giao cảm)và nicotin ( ở hạch thần kinh thực vật và ở các điểm nối thần kinh cơ vân -các bản vận động). Vì vậy các triệu chứng lâm sàng rất phức tạp và tập trung thành các hội chứng bệnh lý khác nhau.
+
+Độc tính : liều gây chết cho người lớn khác nhau tùy hợp chất : 25g đối với diadinon,60g với malathion trong khi đó chỉ từ 10 đến 300mg với parathion. LD50 của các OP cực độc thay đổi từ 1,3 mg/kg(Tebupirimfos), 7mg/kg(Phosphamidon và chlomephos) đến 15mg với Fenamiphos, 13mg/kg với Parathion. Một số loại PPHC có độc tính cao thường gặp ở Việt nam là: Methamidophos(Monitor) - LD50 = 30 mg/kg, Methidathion- LD50 = 25 mg/kg, Monocrotophos - LD50 = 14mg/kg...
+
+IV. Triệu chứng ngộ độc cấp:
+
+Các triệu chứng của ngộ độc phospho hữu cơ từ nhẹ đến nặng bao gồm mất ngủ và rối loạn định hướng, đau đầu, chóng mặt nhìn mờ, yếu cơ, mất đồng vận, máy cơ, run cơ,  liệt cơ, ỉa chẩy, đau bụng, chẹn ngực, thở rít và ho có đờm. Co giật, rối loạn ý thức, ỉa đái không tự chủ, hôn mê sâu và trụy mạch là các biểu hiện của tình trạng nhiễm độc nặng. Các dấu hiệu và triệu chứng của ngộ độc phospho hữu cơ sẽ đầy đủ và dễ hiểu dễ nhớ hơn khi xếp chúng vào các hội chứng:
+
+Hội chứng cường cholin cấp :
+
+Bao gồm trong 3 hội chứng thành phần: hội chứng muscarin, hội chứng nicotin và hội chứng thần kinh trung ương.
+
+1.Hội chứng Muscarin: do tác động của acetylcholin kích thích hậu hạch phó giao cảm, tác dụng chủ yếu lên các cơ trơn gây co thắt ruột, phế quản, và cơ trơn bàng quang, co đồng tử và giảm phản xạ đồng tử /ánh sáng, kích thích các tuyến ngoại tiết: tăng tiết nước bọt, dịch ruột, mồ hôi, nước mắt, dịch phế quản... Bệnh nhân bị tức ngực, cảm giác chẹn ngực, khó thở, đau bụng, buồn nôn, nôn, ỉa chảy, ỉa đái không tự chủ. Khám thấy tình t rạng suy hô hấp, lồng ngực căng kém di động, phổi nghe rì rào phế nang giảm, có nhiều ran ẩm, đôi khi có ran rít. Trên tim mạch có thể thấy nhịp chậm xoang, giảm dẫn truyền nhĩ thất, rối loạn nhịp thất.
+
+2.Hội chứng Nicotin: do sự tích tụ của acetylcholin ở các bản vận động dẫn đến rối loạn sự khử cực của các cơ vân gây giật cơ, máy cơ, co cứng cơ, liệt cơ bao gồm cả các cơ hô hấp; kích thích hệ thần kinh giao cảm gây ra: da lạnh, xanh tái (do co mạch), mạch nhanh, huyết áp tăng, vã mồ hôi, dãn đồng tử.
+
+3.Hội chứng thần kinh trung ương :
+
+- Lo lắng, bồn chồn, rối loạn ý thức, nói khó, thất điều, nhược cơ toàn thân, hôn mê mất các phản xạ.
+
+- Ngộ độc nặng: ức chế trung tâm hô hấpvà tuần hoàn dẫn đến suy hô hấp ,trụy mạch, co giật, hôn mê sâu.
+
+Hội chứng Muscarin với biểu hiện chính là co thắt và tăng tiết phế quản là hội chứng xảy ra sớm nhất và ở tất cả bệnh nhân NĐC PPHC. Các hội chứng Nicotin (với liệt cơ ) và hội chứng TKTW thường chỉ gặp trong các trường hợp nhiễm độc nặng.
+
+Hội chứng trung gian :
+
+Là hội chứng liệt cơ type II do tác giả người Srilanca đặt tên năm 1987 với các đặc điểm sau: Bắt đầu từ 24 -96 h sau nhiễm độc, khi các triệu chứng cường cholin đã được giải quyết. H/c bao gồm: liệt các cơ gốc chi, cơ gấp cổ, các cơ hô hấp và các cơ do các dây thần kinh sọ chi phối, liệt mềm, giảm phản xạ gân xương. Liệt không đáp ứng với điều trị atropin và PAM, đòi hỏi thông khí nhân tạo khi có suy hô hấp. Hội chứng này có thể chính là hậu qủa của sự kích thích quá mức kéo dài các receptor nicotin dẫn đến pha " kiệt"của h/c nicotin trong khi điều trị tốt h/c muscarin bằng atropin.
+
+Hội chứng bệnh lý thần kinh ngoại vi muộn :
+
+Xảy ra 8-14 ngày hay muộn hơn sau NĐC PPHC. Bệnh cảnh bao gồm: yếu cơ, liệt cơ, chóng mệt mỏi, chuột rút, kèm với các rối loạn cảm giác ki ểu tê bì kiến bò , thường bắt đầu ở đầu chi, có thể tiến triển đến liệt toàn thân và các cơ hô hấp gây suy hô hấp và tử vong. Bệnh thoái triển sau vài tháng đến vài năm, teo cơ nhiều, phục hồi chậm và không hoàn toàn. Cơ chế sinh bệnh là do chết các sợi tr ục thần kinh. Hội chứng này rất hiếm xảy ra.
+
+Tiến triển:
+
+Trong NĐC PPHC, hội chứng cường cholin xảy ra rất sớm nhìn chung thường là trước 12 giờ sau nhiễm độc, có thể vài giây sau nhiễm đường hô hấp, vài phút đến vài giờ sau nhiễm độc đường tiêu hóa; nhi ễm độc đường da mức độ nhẹ có thể đến muộn hơn. Trong hội chứng cường cholin thì hội chứng muscarin thường đến sớm nhất và là hội chứng trung thành nhất, nghĩa là luôn luôn xảy ra. Hội chứng nicotin và hội chứng thần kinh trung ương thường chỉ xảy ra khi nhiễm độc trung bình hoặc nặng.
+
+Tử vong thường xảy ra sớm trong ngày đầu tiên nhưng cũng có thể xảy ra trong những ngày sau. Khoảng 50% tử vong có nguyên nhân trực tiếp là suy hô hấp. Có nhiều nguyên nhân dẫn đến suy hô hấp: tăng tiết và co thắt phế quản, liệt cơ hô hấp, úc chế trung tâm hô hấp, bội nhiễm phổi trong đó nguyên nhân co thắt và tăng tiết phế quản chiếm hàng đầu nhưng lại có thể khắc phục được nhanh chóng với liều atropin thích hợp.
+
+Hội chứng cường cholin có thể tồn tại hàng tuần hoặc lâu hơn . Với điều trị liều PAM thích hợp hội chứng này sẽ rút ngắn thời gian tồn tại trong vòng vài ngày(1 -4 ngày).
+
+Hội chứng trung gian xảy ra vào ngày thứ 2 -6 sau nhiễm độc, không đáp ứng với PAM và atropin, điều trị cần thiết duy nhất là thở máy nếu liệt cơ dẫn đến suy hô hấp.
+
+Thường không có tử vong nếu được bảo đảm hô hấp và hồi phục hoàn toàn sau 1 -2 tuần.
+
+Xét nghiệm:
+
+- Tìm độc chất trong nước tiểu, trong dịch dạ dày, trong máu bằng phương pháp sắc ký lớp mỏng và sắc ký khí.
+
+- XN enzymcholinesteraza hàng ngày để theo dõi tiến triển của bệnh, phân loại độ nặng làm căn cứ điều chỉnh liều PAM dùng cho bệnh nhân. Có hai loại enzym cholinesterase: acetyl cholinesterase ( cholinesterase hồng cầu ) , Butyryl cholinesterase (cholinesterase huyết tương). Acetyl cholinesterase có trong hồng cầu, tổ chức thần kinh, phổi, lách và chất xám của não; được nhiều tác giả cho rằng phản ánh trung thực mức độ ngộ độc hơn; nhưng tốc độ phục hồi chậm (2-3 tháng); kỹ thuật xét nghiệm cũng có những khó khăn nhất định làm cho khó áp dụng lâm sàng.
+
+o Cholinesterase huyết tương (butyro choliesterase) có trong huyết tương, do gan sản xuất, nhưng cũng tìm thấy ở tổ chức thần kinh, tụy, tim và chất trắng của não. Thay đổi hàng ngày lớn, và bị ảnh hưởng bởi bệnh gan, viêm mãn, suy dinh dưỡng, mocphin, codein, succinylcholin và phản ứng quá mẫn. Giảm nhanh trong nhiễm độc cấp và phục hồi khoảng 10% -20% mỗi ngày khi bệnh nhân được điều trị Pralidoxime (PAM) đầy đủ. Đặc điểm này cùng với kỹ thuật xét nghiệm đơn giản hơn cholinesterase hồng cầu n ên được dùng để theo dõi tiến triển trong quả trình điều trị và là cơ sở để điều chỉnh liều PAM.
+
+Điện tim: ghi điện tim và theo dõi trên monitor để phát hiện rối loạn nhịp.
+
+Các xét nghiệm khác : công thức máu - urê - điện giải máu Transaminase máu, Amylase máu, protêin niệu tế bào niệu.
+
+chẩn đoán
+
+* Chẩn đoán xác định ngộ độc cấp PPHC :
+
+- Bệnh sử tiếp xúc thuốc trừ sâu trong vòng 12 giờ trước khi vào viện
+
+- Hội chứng cường cholin cấp(+)
+
+- Xét nghiệm ChE :giảm <50% giá trị bình thường (giá trị trước nhiễm), - thực tế được thay bằng giá trị tối thiểu của hằng số sinh học - Xét nghiệm độc chất nước tiểu hoặc trong máu, dịch dạ dày (+)
+
+Chẩn đoán mức độ nặng nhẹ theo các hội chứng bệnh lý lâm sàng :
+
+- NĐC PPHC nhẹ : Khi chỉ có h/c Muscarin ( M )
+
+- NĐC PPHC trung bình : Khi có h/c M+h/c Nicotin ( N ) hoặc M+ TKTW
+
+- NĐC PPHC nặng : Khi có h/c M+h/c N+rối loạn ý thức
+
+- NĐC PPHC nguy kịch : Khi có 3 h /c trên cộng với suy hô hấp cấp (PaO2 < 60 mmHg PaCO2 > 40mmHg) và / hoặc truỵ mạch.
+
+Chẩn đoán mức độ nặng nhẹ theo giá trị nồng độ ChE huyết tương :
+
+NĐC PPHC nặng khi nồng độ ChE < 10% giá trị bình thường, trung bình khi ChE = 10 - 20%, nhẹ khi ChE = 20 -50% giá trị bình thường.
+
+Tuy nhiên vì thường không có được giá trị bình thường nên có thể sử dụng giá trị bình thường tối thiểu của hằng số sinh học.
+
+điều trị :
+
+1. Cấp cứu:
+
+Nếu bệnh nhân đến sớm , chưa có triệu chứng: Ưu tiên các biện pháp chống độc : Rửa dạ dày, tắm rửa, gội đầu..., P
+
+Nếu đến muộn, đã có triệu chứng ngộ độc hoặc biến chứng: Ưu tiên hàng đầu là sử dụng atropin (xem phần sử dụng atropin)và các biện pháp hồi sức hô hấp, tuần hoàn (xem phần hồi sức).
+
+2. Hồi sức:
+
+-Hồi sức hô hấp là quan trọng hàng đầu và phải song song với việc dùng atro pin, vì nguyên nhân chính gây tử vong là suy hô hấp. Tuỳ tình trạng suy hô hấp mà áp dụng các biện pháp hồi sức hô hấp.Tối thiểu nhất cũng phải cho bệnh nhân thở oxy qua sonde mũi. Nếu cần thì đặt nội khí quản để hút đờm và bóp bóng hoặc thở máy để bảo đảm thông khí.
+
+-Hồi sức tuần hoàn: - truyền dịch bảo đảm khối lượng tuần hoàn: bệnh nhân ngộ độc PPHC dễ bị mất nước do nôn, ỉa chảy, không được ăn uống trong quá trình điều trị
+
+...Ngộ độc atropin cũng gây nặng thêm tình trạng mất nước.
+
+Nếu có tụt huyết áp t hì nên đặt catheter tĩnh mạch trung tâm để truyền dịch theo áp lực tĩnh mạch trung tâm.
+
+Nếu đã truyền đủ dịch mà vẫn tụt huyết áp thì mới cho dopamin 5 -10 Mg/kg/phút.
+
+-Các biện pháp hồi sức tổng hợp: trong đó cần chú ý tới dinh dưỡng cho bệnh nhân.
+
+Cần bảo đảm năng lượng 2000 Kcalo trở lên. Trong 24 giờ đầu có thể dinh dưỡng đơn
+
+thuần bằng đường truyền tĩnh mạch vì phải cho bệnh nhân uống than hoạt và thuốc tẩy.Kiêng mỡ và sữa trong vòng 1tuần đến 10 ngày để tránh tăng hấp thụ phospho hữu cơ tan trong mỡ.
+
+3.Các biện pháp chống độc đặc hiệu:
+
+3.1 Hạn chế hấp thu: Rửa dạ dày là biện pháp giảm hấp thu hiệu quả khi ngộ độc PPHC đường uống.Nước rửa dạ dày phải được pha 5 -9 g muối ăn cho mỗi lít Với than hoạt pha vào 2-3 lít nước rửa đầu tiên, lượng nước rửa dạ d ày chỉ cần khoảng 10lít trở xuống. Có thể cần rửa lại lần 2 sau khi trạng thái bệnh nhân đã ổn định.
+
+Nếu nhiễm độc đường hô hấp: nhanh chóng đa bệnh nhân ra khỏi vùng có khí độc đến nơi thoáng mát.Cởi bỏ quần áo nhiễm độc. Nếu cần có thể thông khí nhân t ạo để tăng thông khí.
+
+Nhiễm độc qua da: tắm rửa và gội đầu cho bệnh nhân bằng xà phòng.
+
+3.2.Thuốc giải độc đặc hiệu :
+
+Atropin là thuốc đối kháng tác dụng Muscarin và tác dụng lên hệ thần kinh trung ương của O.P. Nó làm giảm các tình trạng: tăng tiết phế quản, nước bọt, mồ hôi, làm mất đau bụng, buồn nôn, nhịp chậm và cảm giác chẹn ngực, làm giãn đồng tử. Atropin không có tác dụng trên liệt cơ và suy hô hấp ở bệnh nhân ngộ độc nặng.
+
+Mục đích sử dụng Atropin là tạo ra một tình trạng thấm Atropin nhằm xoá hết các triệu chứng của h/c Muscarin song chủ yếu là làm tiết và hết co thắt phế quản. Giãn đồng tử, mạch nhanh, da hồng ấm được sử dụng như những yếu tố tham khảo của tình trạng ngấm thuốc hơn là mục đích điều trị. Và cũng cần nhớ rằng mạch nhanh, giãn đồng tử có thể là triệu chứng của hội chứng nicotin. Đường dùng Atropin thường là tiêm tĩnh mạch chậm, liều thấp có thể tiêm dưới da và liều cao có thể được truyền tĩnh mạch liên tục.
+
+Liều lượng
+
+Atropin rất thay đổi từ vài chục mg tới 20g trong cả đợt điề u trị, phụ thuộc liều O.P và đáp ứng của bệnh nhân với Atropin . : bắt đầu bằng tiêm 2-5 mg tĩnh mạch nhắc lại sau 5, 10 phút mỗi lần đến khi đạt được tình trạng thấm Atropin. Tạm dừng cho đến khi hết dấu thấm thì tính thời gian và liều atropin đã dùng từ đó suy ra liều cần thiết để duy trì dấu thấm.
+
+Về thời gian: tình trạng thấm Atropin phải được duy trì cho đến khi tất cả O.P đã hấp thụ được chuyển hoá hết thường từ vài ngày đến hàng tuần. Giảm liều dần theo nguyên tắc dùng liều thấp nhất để duy trì được dấu thấm . Ngừng atropin khi liều duy trì giảm tới 2mg/24 giờ.
+
+Tác dụng phụ của Atropin: Quá liều Atropin gây sốt, da nóng, thở rít, kích thích (sảng nhẹ), đồng tử giãn và mất phản xạ, khô chất tiết gây tắc đờm.
+
+Ngộ độc Atropin đưa lại nhiều nguy hi ểm :
+
++ Làm bệnh nhân rối loạn ý thức, giả liệt cơ làm nhầm với triệu chứng NĐC PPHC nặng lên.
+
++ Làm khô quánh đờm dẫn đến tắc đờm, xẹp phổi gây suy hô hấp .
+
++ Tăng nhịp tim, tăng nhu cầu oxy cơ tim dẫn đến nguy cơ loạn nhịp, truỵ mạch.
+
++ Liệt ruột gây chướng bụng cản trở hô hấp làm nặng thêm SHH. Tất cả làm cho tình trạng bệnh nhân nặng lên và lại được chẩn đoán là NĐC PPHC nặng do đó tăng liều Atropin và PAM và có thể dẫn đến loạn nhịp, ngừng tim do ngộ độc Atropin .
+
+Pralidoxime là một thuốc giải độc đăc hiệu theo cơ chế trung hoà độc chất.
+
+Từ năm 1951 Wilson (tác giả người Mỹ) đã cho rằng cholinesteraes bị ức chế có khả năng được tái hoạt nhờ các hợp chất có khả năng nucleophile cao. Ngày nay đã tổng hợp được một số hợp chất nhOximes hoặc acide hydroxamine. Trong số chúng 2 -PAM (2 pyridine aldoxime methyl iodure hoặc clorua) ( dẫn chất của Pralidoxime)được nhiều tác giả ưa dùng
+
+- PAM sẽ gắn vững bền với PPHC, gắn lỏng lẻo với ChE tạo thành phức hợp bộ 3, sau đó enzym tách ra để lại phần phosphoryl -oxime sẽ tiếp tục thuỷ phân để cho các sản phẩm thoái hoá của PPHC và axit phosphoric .Như vậy PAM đã khử phosphoryl và tái hoạt hoá ChE.
+
+- PAM còn tác dụng phòng độc bằng cách gắn vào và khử độc các phân tử PPHC còn lại trong máu.
+
+Hầu hết các tác giả đều cho rằng Pralidoxime là thuốc đặc hiệu cần được sử dụng trong điều trị NĐC PPHC .Tuy nhiên cách sử dụng và liều lượng có khác nhau:
+
+Namba và CS 1971, Borowitz 1988, de Kort và CS 1988 : PAM có thể hiệu quả hơn khi đựoc dùng trong 24-48h đầu, song nó vẫn có hiệu quả 2 -6 ngày sau nhiễm độc , nhất là ở những bệnh nhân nhiễm độc nặng .
+
+Một số tác giả tiêm TM 1g trong 10 phút, nhắc lại mỗi 6 -8h trong 24-48h. Một số dùng liều 1-2g tiêm TM hoặc truyền TM với 250ml NaCl 0.9% tr ong 30 phút, nhắc lại sau 1h và sau 6-12 h nếu vẫn có liệt cơ và hôn mê .
+
+Thompson cho rằng truyền TM liên tục 500mg/h tốt hơn là tiêm TM .
+
+Farrar 1990 đã truyền duy trì 9 -19mg/kg/h ngay sau liều đầu 25 -50mg/kg pha trong dung dịch NaCl 0.9%.
+
+Thời gian dùng: nhiều tác giả cho là phải dùng sớm và PAM chỉ có hiệu quả trong 24 - 48h đầu sau nhiễm độc.
+
+Tuy nhiên một số khác lại cho rằng cần phải dùng kéo dài vì:
+
+Một số thuốc trừ sâu (parathion) gây sự già hoá chậm (slow aging) của ChE Khi uống một liều lớn thì PPHC đọng trong ruột còn được hấp thu dần trong những ngày sau Một số OP tan trong mỡ nhiều --> giải phóng dần trong những ngày sau.
+
+Wadia và Amin cho rằng có thể cần truyền PAM trong 4 -6 ngày và tới 22 ngày đặc biệt là ở các trường hợp nh iễm O.P tan nhiều trong mỡ như Fenthion.
+
+Thomson (1987): Truyền TM 0,5g/h duy trì được nồng độ > 4mg/L trong huyết tương, là nồng độ được coi là tối thiểu có tác dụng bảo vệ chống lại độc tính của O.P. Nồng độ Pralidoxime giảm xuống nhanh chóng <4mg/L tr ong vòng 1,5-2h sau tiêm TM 1g bolus.
+
+Tại A9, từ 1996 đã áp dụng 1 phác đồ sử dụng PAM liều cao thích hợp trong đó PAM được chỉnh liều theo nồng độ ChE và các h/c lâm sàng. phác đồ đã đem lại hiệu quả cao: giảm tỉ lệ tử vong của ngộ độc PPHC từ 10% (1995 ) xuống còn 2%(1999-2000).Phác đồ được trình bày dưới đây.
+
+Nguyên tắc sử dụng PAM :
+
+- Dùng càng sớm càng tốt, liều cao đồng loạt ngay từ đầu.
+
+- Truyền TM liên tục.
+
+- Liều dùng, thời gian sử dụng sẽ được điều chỉnh theo đáp ứng của từng bệnh nhân: triệu chứng lâm sàng, liều atrropin, sự thay đổi hoạt tính ChE.
+
+- Giảm liều khi đã kiểm soát được h/c cường cholin phác đồ sử dụng PAM
+
+* Ngay khi có chẩn đoán xác định và phân loại lâm sàng :
+
++ Nặng ( và nguy kịch ) : Tiêm TM 1g trong 10 phút rồi truyền TM 0.5-1g/h cho đến khi thấm Atropin hoặc có kết quả ChE
+
++ Trung bình : Tiêm TM 1g trong 10 phút rồi truyền tĩnh mạch 0,5g/h cho đến khi thấm Atropin hoặc có kết quả ChE
+
++ Nhẹ : Tiêm TM 0,5g trong 5 phút rồi truyền TM hoặc tiêm TM 0,5g/2h
+
+* Điều chỉnh PAM theo kết quả ChE hoặc theo liều lượng Atropin như dưới đây:
+
+(lấy kết quả ChE làm căn cứ chính).
+
++ Nếu Atropin > 5mg/h và/hoặc ChE < 10% giá trị bình thường tối thiểu ( gtbt tt): tiếp tục truyền 0,5g/h
+
++ Nếu Atropin 2-5 mg/h và/hoặc ChE 10-20% gtbt tt tiếp tục truyền 0,5g/mỗi 2h
+
++ Nếu Atropin 0,5-2mg và/hoặc ChE = 20-50 tiếp tục truyền 0,5g/mỗi 4h
+
++ Ngừng PAM khi Atropin < 4 mg/ 24h và ChE > 50%
+
+Chẩn đóan quá liều PAM khi:
+
+- Đang truyền với tốc độ >= 0,5g/h
+
+- Thấm Atropin tốt với liều Atropin t hấp.
+
+- Xuất hiện liệt cơ ( mới ) hoặc liệt nặng thêm.
+
+- Tăng huyết áp hoặc truỵ mạch.
+
+- ChE đang có khuynh hướng tăng lại giảm.
+
+Độc tính của PAM :
+
+- PAM có ít độc tính, liều 40,5g trong 7 ngày hay 26g trong 54h đã được dùng mà không có tác dụng phụ xảy ra (Namba và CS 1971).
+
+- Tiêm nhanh quá 500mg/1phút có thể gây ra nhịp nhanh, co thắt phế quản, truỵ mạch, nhìn mờ, chóng mặt, đau đầu, nôn, cứng cơ và liệt cơ thoáng qua .
+
+- ở nồng độ cao PAM có thể ức chế hoạt tính ChE (thí nghiệm trên động vật). Tuy nhiên, tác dụng phụ này trong những liều điều trị rất ít hoặc không gặp ở người.

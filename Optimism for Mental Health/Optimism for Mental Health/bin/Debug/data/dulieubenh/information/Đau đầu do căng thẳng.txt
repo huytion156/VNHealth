@@ -1,0 +1,25 @@
+﻿1.Tiêu chuẩn chẩn đoán
++ Có > 10 cơn đau & có ít nhất 2 triệu chứng sau
+- Đau kiểu áp lực, không theo mạch đập
+- Đau hai bên
+- Đau không tăng khi hoạt động thể lực
+- Cường độ nhẹ - trung bình
+
++ Bắt buộc không có các triệu chứng sau:
+- Không nôn hoặc buồn nôn
+- Không sợ ánh sáng, tiếng động
+
+2.Điều trị
+- Thuốc chống viêm, giảm đau
+- Cân nhắc dùng Amitriptylin
+- Thuốc ức chế serotonin chọn lọc: paroxitin, fluxetin
+- Các thuốc khác: tizanidin
+- Điều trị tâm lý
+
+3. Phân loại
+* Có 5 loại đau đầu hay gặp, nhiều khi phải cấp cứu
+ a. Do căng thẳng (32%)
+ b. Migraine (22%)
+ c. Đau đầu chuỗi(cluster~1%)
+ d. Viêm động mạch thái dương (temporal arteritis~1%)
+ e. Các đau đầu nội khoa mãn tính khác

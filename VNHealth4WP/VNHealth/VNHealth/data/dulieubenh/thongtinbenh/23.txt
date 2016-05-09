@@ -1,0 +1,101 @@
+﻿1.Tổng quan:
+          + Là tình trạng cương dương vật kéo dài (hơn 4 giờ) kèm theo đau và nhạy cảm.
+
+2.Bệnh sinh học
+   Có thể chia thành các nhóm sau:
+     a. Nguyên phát hoặc không rõ nguyên nhân: (30%-50% các trường hợp)
+
+     b. Thứ phát
+          + Huyết khối thuyên tắc:
+               - Bệnh hồng cầu liềm, bệnh ưa chảy máu, giảm tiểu cầu, đa tiểu cầu.
+
+          + Thuốc:
+               -Tiêm thuốc giãn mạch trong thể hang, trazodone, thorazine, alcohol, marijuana, thuốc làm hạ huyết áp, heparin.
+
+          + Thâm nhiễm:
+               - Bệnh bạch cầu, u lym phô, ung thư bàng quang hoặc ung thư tiền liệt tuyến.
+
+          +Nguyên nhân thần kinh:
+               - Tổn thương hệ thần kinh trung ương và tuỷ sống, bệnh thần kinh do tiểu đường.
+
+          + Các nguyên nhân khác:
+               - Chấn thương dương vật (cương đau dương vật flow cao), thận nhân tạo, nuôi dưỡng hoàn toàn bằng đường tĩnh mạch.
+
+
+3.Sinh lý bệnh học:
+          + Dương vật không xìu được có nguyên nhân là:
+                - Do sự giảm dòng máu ra khỏi dương vật hoặc do tăng dòng máu đến dương vật (hiếm gặp hơn).
+
+          + Dựa trên cơ sở này, người ta chia thành hai nhóm:
+               - Nhóm I (flow thấp, thiếu máu hoặc tắc nghẽn tĩnh mạch)
+               - Nhóm II (flow cao, không thiếu máu hoặc do động mạch).
+
+          + Hậu quả do cương cứng kéo dài là phù nề các bè tĩnh mạch thể hang, làm ứ máu hoặc thuyên tắc trong thể hang, làm tắc nghẽn các đường dẫn lưu máu tĩnh mạch.
+               - Thiếu oxy trong thể hang, tăng carbonic và toan hóa là nguyên nhân đe doạ nội mạc đưa đến xơ hóa, tạo sẹo và gây liệt dương trong 50% các trường hợp.
+               - Chính vì vậy, cương đau dương vật phải được coi là một cấp cứu về mạch máu, đe dọa đến chức năng dương vật.
+
+4.Chẩn đoán:
+          + Bất cứ một sự cương dương vật nào kéo dài hơn 4 giờ phải được coi là cương đau dương vật, và người bệnh phải đến khám niệu khoa ngay.
+          + Trong vòng 6- 8 giờ đầu, đau chưa xảy ra nhưng trong thực tế, đa số bệnh nhân đến khám khi cương dương vật kéo dài hơn 24 giờ.
+          + Ðiều trị ngay lập tức ở thời điểm này có thể bảo tồn được chức năng cương, nhưng nếu xử lý trễ, khả năng rối loạn chức năng cương rất cao.
+          + Khi khám phải lưu ý hỏi bệnh sử để phát hiện các nguyên nhân gây cương đau dương vật.
+
+          + Nguyên nhân thường gặp nhất hiện nay là tự chích thuốc giãn mạch vào thể hang.
+          + Cũng phải hỏi bệnh nhân về các loại thuốc bệnh nhân đang uống.
+          + Nếu trong tiền căn có những đợt bị cương đau dương vật tự khỏi là gợi ý của bệnh hội chứng liềm.
+
+          + Tình trạng thiếu máu: Vì đa số các trường hợp cương đau dương vật là dạng flow thấp nên tình trạng thiếu máu rất thay đổi nhưng đau luôn luôn có, nếu có tiền căn chấn thương dương vật hoặc chấn thương vùng hội âm sau đó có đi kèm tình trạng cương đau dương vật thì phải nghĩ ngay là tình trạng cương đau dương vật có flow động mạch cao.
+
+          + Khám lâm sàng để xác nhận tình trạng cương đau dương vật với cương dương vật bình thường, trong cương đau dương vật chỉ liên quan đến thể hang mà thôi cho nên qui đầu và thể xốp vẫn mềm.
+
+5.Ðiều trị :
+          + Mục đích điều trị là làm cho dương vật xẹp (detumescence) nhanh, giảm đau và bảo tồn chức năng cương.
+          + Thời gian kéo dài của cương đau dương vật là rất quan trọng để quyết định tiên lượng về sau.
+          + Nếu cương kéo dài hơn 24 giờ, tần suất liệt dương xấp xỉ 50% cho dù có điều trị ngay lập tức.
+          + Phải luôn luôn báo cho bệnh nhân và người nhà biết được tình trạng liệt dương có thể xảy ra cho dù điều trị thành công cương đau dương vật.
+
+     a. Chọc hút và tưới rửa thể hang
+          + Là điều trị chủ yếu nếu bệnh nhân đến trong vòng 24 giờ.
+          + Máu được hút ra từ thể hang với kim bướm 19G và đem gởi thử khí máu để xác định mức độ thiếu máu.
+
+          + Cương đau dương vật điển hình thể I (flow thấp)
+có máu đen và pO2 <30, pCO2 >60, pH:7,25.
+
+          + Trái lại nếu máu thể hang đỏ tươi có nồng độ O2 cao xảy ra ở bệnh nhân có tiền căn chấn thương đáy chậu thì phải làm Doppler Duplex ngay.
+          + Siêu âm sẽ gúp thấy được nơi dò động mạch và hướng dẫn cho điều trị.
+
+          + Thể hang sẽ được tưới rửa với nước muối sinh lý cho tới khi máu hút ra đỏ tươi.
+
+          + Nếu chọc hút và tưới rửa thất bại, bơm vào thể hang chất đồng vận adgrenergic, chất được lựa chọn là phenylephrine, liều 0,5- 1mg cho mỗi thể hang vì ít gây tác dụng phụ toàn thân.
+
+     b. Ðiều trị nâng đỡ
+          + Bao gồm giảm đau có á phiện, ủ ấm hay ủ lạnh.
+          + Kétamine tiêm tĩnh mạch có thể gây ra ảo giác, các thuốc hạ huyết áp và thuốc chống đông có thể sử dụng trong những trường hợp đặt biệt.
+          + Ketamine có thể thành công trong việc gây xìu ở 50 % các trường hợp tới sớm.
+          + Nếu có bệnh tiềm ẩn là nguyên nhân gây cương đau dương vật phải điều trị bệnh đó ngay lập tức.
+
+     c. Bệnh hội chứng liềm:
+          + Phải điều trị bù nước, kiềm hóa và truyền máu để tăng nồng độ Hb>10 mg/dL.
+          + Như vậy sẽ làm giảm tình trạng toan hóa trong thể hang.
+          + Nếu bệnh nhân có cương đau dương vật từng đợt có thể điều trị bằng chích leuprolide acetate (chất đồng vận LHRH) mỗi tháng một lần.
+
+     d. Ung thư máu thâm nhiễm vào thể hang có thể đáp ứng với xạ trị dương vật và hóa trị toàn thân.
+
+     e. Ðiều trị phẫu thuật:
+          + Nếu bệnh nhân đến sau 24 giờ hoặc dương vật không xìu sau khi đã chích phenylephrine nhiều lần phải có chỉ định phẫu thuật tạo shunt thể hang- thể xốp bằng cách tạo một đường dò giữa qui đầu và thể hang hoặc bởi một thể hang- thể xốp shunt.
+
+          + Thủ thuật Winter là một phương pháp đơn giãn và an toàn
+bao gồm việc tạo ra một đường dò giữa qui đầu và thể hang bằng kim sinh thiết Travenol.
+          + Thủ thuật tạo ra đường dò? tạm thời và có thể thực hiện ngay tại giường với vô cảm tại chỗ.
+          + Kết quả rất thay đổi vì đường dò thường tự đóng sớm.
+
+          + Phẫu thuật Al- Gorab tạo ra một shunt giữa qui đầu và thể hang bằng cách lấy đi một mẫu 0,5 cm bao trắng từ mỗi thể hang.
+          + Ðôi khi cần có những shunt triệt để hơn chẳng hạn như shunt giữa tĩnh mạch lưng dương vật và thể hang; shunt tĩnh mạch hiển- thể hang; shunt bên- bên thể hang- thể xốp.
+          + Trường hợp cương đau dương vật flow cao do dò động mạch được điều trị bằng thuyên tắc mạch chọn lọc.
+          + Sau khi dương vật xẹp, bệnh nhân phải được theo dõi sát để phát hiện ngay cương đau dương vật tái phát.
+          + Cột chặt dương vật sau mổ bằng băng có thể gây ra phù nề và hoại tử cần nên tránh.
+
+6.Tiên lượng:
+          + Cho dù điều trị sớm và có hậu quả, tần suất liệt dương kéo dài vẫn cao (50%).
+          + Trong vòng 3 tháng đầu sau phẫu thuật tạo đường dò phải theo dõi tình trạng cương dương vật, nếu không cương phải xác định có bị xơ hóa thể hang hoặc bị một đường dò vĩnh viễn.
+          + Siêu âm thể hang sẽ cho thấy đường dò do phẫu thuật, nếu còn thông thì phải phẫu thuật đóng lại, nếu xơ hóa thể hang thì phải làm dương vật nhân tạo.

@@ -1,0 +1,75 @@
+﻿I. Tổng quan
+1. Lịch sử
+* Uốn ván là bệnh nhiễm khuẩn cấp tính có từng cơn co cơ bởi ngoại độc tố của Clostridium tetanii. Cách lây thông thường là qua vết thương bị nhiễm bẩn.
+* Tên bệnh theo tiếng Hy Lạp là tetanos, dẫn xuất từ thuật ngữ teinein, theo ý nghĩa để trải ra. Bệnh uốn ván theo tài liệu y học quân đội gặp ở mọi lứa tuổi. Nước ta trước đây rất hay gặp khi cắt rốn trẻ bằng liềm...
+* Trong thời gian Chiến tranh Thế giới I, bệnh uốn ván xuất hiện ở 1.47/1000 những người bị thương ở Anh. 1885-Nicolai khám phá khuẩn que kỵ khí Clostridium tetani. Năm 1889 - Kitasato (học sinh của Koch), đã nuôi cấy được khuẩn que của bệnh uốn ván.
+
+2. Phân loại
++  4 kiểu lâm sàng là toàn thân, khu trú, đầu, và sơ sinh.
+- Uốn ván đầu ít gặp và đôi khi xảy ra sau chấn thương đầu hay viêm tai giữa (cũng đã gặp BN bị do xỉa răng từ tăm nhiễm bẩn). Những bệnh nhân kiểu này hay thấy liệt dây thần kinh sọ não. Sự truyền nhiễm có thể khu trú hay có thể trở nên toàn thể.
+- Những bệnh nhân bị uốn ván khu trú thường thấy cứng mãi nhóm bắp thịt chỗ gần vết thương, do loạn chức năng của những nơron trung gian vận động alpha của những bắp thịt bị tác động, và loại này có tỷ lệ chết thấp.
+- Khoảng 50-75 % bệnh nhân uốn ván toàn thân có chứng cứng khít hàm thứ phát do co thắt cơ cắn. Cứng cơ nhai và khó nuốt cũng là nguyên nhân gây ra chứng cười nhăn, kiểu nụ cười châm biếm của bệnh uốn ván. Khi bệnh tiến triển, có sự cứng bắp thịt toàn thân với những co thắt phản xạ gián đoạn đáp lại với kích thích (tiếng ồn, chạm đến). Gây ra thế người ưỡn cong (uốn và khép cơ cánh tay, nắm chặt nắm tay, duỗi rộng của những chi dưới).
+
+II. Triệu chứng
+1. Cơ năng.
++ Thường bắt đầu 8 ngày sau khi nhiễm, có thể từ 3 ngày đến 3 tuần.
++ Bệnh nhân có thể báo cáo giống một viêm họng với khó nuốt (dấu hiệu sớm).
++ Cứng bắp cơ tại chỗ nhiễm bào tử.
++ Có thể ban đầu khu trú, chỉ 1 chân tay hay vùng thân nơi vết thương chứa Clostridium.
+
+2. Thực thể
++ Những dấu hiệu chung đầu tiên của bệnh uốn ván là nhức đầu và cứng cơ hàm, tiếp theo sau là cứng nhắc cổ, khó nuốt, cứng cơ bụng, các co thắt và đổ mồ hôi.
++ Bệnh nhân thường không sốt.
++ Uốn ván nặng khi người ưỡn cong, ngừng thở từng lúc là kết quả từ sự co thắt của những cơ gian sườn và cơ hoành, và sự cứng cơ thành bụng.
++ Muộn hơn, phát triển rối loạn chức năng TKTV, với chứng tăng huyết áp và chứng tim đập nhanh luân phiên với chứng huyết áp thấp và tim chậm.
+
+III. Chẩn đoán
+1. Chẩn đoán xác định
++ Dựa vào các triệu chứng :
+ - Cứng hàm,
+ - Nuốt khó, nói khó,
+ - Tăng động, kích thích, cứng gáy, cứng tay chân,
+ - Co cứng cơ bụng, cổ, lưng, có tư thế ưỡn cong người,
++ Có thể tìm thấy hoặc không tìm thấy vết thương.
+
+2. Chẩn đoán phân biệt
+a, Viêm não, màng não do nhiễm khuẩn hoặc virus.
+ + Có thay đổi ý thức các mức độ.
+ + Cơn co giật.
+ + Thay đổi dịch não tuỷ.
+
+b, Apxe thành sau họng do có triệu chứng nhầm với cứng hàm
+ + Không có dấu hiệu co cứng cơ bụng, cơ lưng.
+ + Không có tiền sử vết thương.
+
+c, Hạ can xi máu.
+ + Nhiễm độc Strychnine
+ + Hysteria
+
+IV. Điều trị
+1. Nguyên tắc điều dưỡng chung
++ Để bệnh nhân trong phòng yên tĩnh.
++ Săn sóc vết thương : rất quan trọng nếu có các vết thương phải nhanh chóng cắt lọc, lọc sạch mảnh vụn đặc biệt vết thương có lỗ thủng sâu, bỏ hết các mô chết.
++ Duy trì đường thở bằng thở ôxy qua ống thông nếu cần.
++ Mở khí quản khi bệnh nhân có những cơn co cứng gây tím tái hoặc ngừng thở hoặc đã thở máy >7 ngày.
++ Cho ăn qua ống thông : bảo đảm ăn lỏng, dễ tiêu, đủ năng lượng, đề phòng tai biến trào ngược do hít vào.
++ Tránh táo bón.
++ Đặt thông bàng quang nếu trẻ bí đái.
++ Tạo miễn dịch thụ động với globulin miễn dịch bệnh uốn ván người (immunization with human tetanus immune globulin-TIG) rút ngắn cơn co và có thể làm giảm mức nặng của nó. Một liều 500 U là có hiệu quả như liều lớn hơn.
+
+2. Kháng độc tố : huyết thanh SAT tiêm bắp 500-1000 đv/kg tuỳ theo mức độ vết thương (thử phản ứng trước khi tiêm).
+
+3. Điều trị cơn giật :
++  Bactituric 0,1 – 0,2mg/kg uống hoặc tiêm bắp hoặc tĩnh mạch mỗi 3-6 giờ.
++  Diazepam : 3 – 10mg/kg/24h chia đều trong ngày tuỳ theo mức độ giật. Benzodiazepines thường dùng chữa triệu chứng bệnh uốn ván. Ngăn ngừa những co thắt dài hơn 5-10", diazepam tĩnh mạch, có thể 10-40 mg mỗi 1-8h.
++ Vecuronium (truyền liên tục) hay pancuronium (tiêm gián đoạn) là những giải pháp thích hợp cho giãn cơ + thở máy
+
+4. Kháng sinh
++ PenixillinG 4 million U IV q4h hay 200.000đv/kg/24h chia 6 lần trong 7 ngày .
++ Metronidazole (Flagyl) 0.5 g PO q6h khoảng 7-10 d; hay 1 g IV q12h khoảng 7-10 d
++ Doxycycline (Vibramycin) 100 mg IV q12h
++ Đề phòng viêm phổi : cấy dịch đờm làm kháng sinh đồ.
++ Nhiễm khuẩn tiết niệu : cấy nước tiểu
+
+V. Phòng ngừa:
++ Tiêm vacin uốn ván đúng q.định

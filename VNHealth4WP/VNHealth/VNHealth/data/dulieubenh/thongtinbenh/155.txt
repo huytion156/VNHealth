@@ -1,0 +1,63 @@
+﻿I.Phân loại
+     1. Theo WHO/ISH (1999/2003)
+          + Tối ưu: <120/<80  (Chỉ cần tự kiểm tra)
+          + Bình thường: <130/<85 (Tự kiểm tra)
+          + Bình thường cao: 130-139/85-89 (Thường xuyên đến BS kiểm tra)
+          + Độ 1 (nhẹ): 140-159/90-99 (Thường xuyên đến BS kiểm tra)
+          + Độ 2 (vừa): 160-179/100-109 (Cần được tư vấn dùng thuốc)
+          + Độ 3 (nặng): ≥180/≥110 (Cần được tư vấn dùng thuốc)
+ * THA tâm thu đơn độc: ≥140/<90 (?)
+
+
+
+     2. Theo JNC VI & VII  (@) (2003) 
+          + B.thường: HA tâm thu <120 / HA tâm trương <80
+          + Tiền THA: (prehypetenson) 
+ * HA tâm thu 120-139 hay HA tâm trương 80-89
+          + Tăng HA:
+               - Độ 1: HA tâm thu 140-159 hay HA tâm trương 90-99
+               - Độ 2: HA tâm thu=160 hay HA tâm trương=100
+              (- Độ 3: HA tâm thu≥180/HA tâm trương ≥110)
+
+     3. Chẩn đoán Theo Bộ Y tế (2010)
+(Ban hành kèm theo Quyết định số 3192/QĐ-BYT ngày 31 tháng 08 năm 2010 của Bộ trưởng Bộ Y tế)
+
+Định nghĩa: Tăng huyết áp là khi huyết áp tâm thu ≥ 140mmHg và/hoặc huyết áp tâm trương ≥ 90mmHg.
+
+          + Chẩn đoán xác định THA: dựa vào trị số huyết áp đo được sau khi đo huyết áp đúng quy trình. Ngưỡng chẩn đoán THA thay đổi tùy theo từng cách đo huyết áp
+
+
+          + Các ngưỡng chẩn đoán tăng huyết áp theo từng cách đo:
+                    1. Cán bộ y tế đo theo đúng quy trình: ≥ 140 mmHg & ≥ 90 mmHg
+                    2. Đo bằng máy đo HA tự động 24 giờ : ≥ 130 mmHg & ≥ 80 mmHg
+                    3. Tự đo tại nhà (đo nhiều lần): ≥ 135 mmHg & ≥ 85 mmHg
+
+          + Phân độ THA: dựa vào trị số huyết áp do cán bộ y tế đo được
+               - Huyết áp tối ưu: < 120 & < 80
+               - Huyết áp bình thường: 120 – 129 & 80 – 84
+               - Tiền tăng huyết áp: 130 – 139 & 85 – 89
+               - Tăng huyết áp độ 1: 140 – 159 & 90 – 99
+               - Tăng huyết áp độ 2: 160 – 179 & 100 – 109
+               - Tăng huyết áp độ 3: ≥ 180 & ≥ 110
+               - Tăng huyết áp tâm thu đơn độc: ≥ 140 & < 90
+
+
+II. Phác đồ Điều trị
+     1. Quy định điều trị
+          + Việc bắt đầu điều trị bằng thuốc: được quyết định dựa trên sự đánh giá nguy cơ tim mạch nói chung - hơn là một mình mức HA cao.
+          + Như vậy: BN có HA tâm thu >140 hay HA tâm trương > 90 sau nhiều lần đo là cần phải được điều trị.
+
+     2. Nguyên tắc điều trị:
+   a. Cách Điều trị cơ bản
+          + Theo WHO
+          + Theo CMDT
+
+  b. Cách Điều trị tham khảo
+          * Không dùng thuốc =  Điều chỉnh lối sống
+          * Dùng Các thuốc hạ HA =
+   Lợi tiểu  
++ Chẹn Beta  
++ Ức chế ACE  
++ Chẹn recepter Angio-II
++ Chẹn kênh Canxi  
++ Chẹn Alpha & Dãn mạch ...

@@ -1,0 +1,25 @@
+﻿I.Đại cương:
+     - Cửa sổ điều trị là 0.8-2 ng/ml.
+     - Nồng độ digoxin huyết tuơng chính xác nhất nếu lấy máu XN 4h sau liều TM và 6h sau một liều uống.
+     - Tương tác thuốc làm tăng nồng độ digoxin huyết tương bao gồm: Verapamil, quinidine, amiodarone, flecainide, erythromycin và tetracycline.
+     - Giảm kali máu, giảm magie máu và tăng canxi máu làm tăng độc tính digoxin.
+ 
+II.Dấu hiệu và triệu chứng
+     TK trung ương: Lú lẫn, ngủ lịm, mắt nhìn thấy quầng sáng vàng-xanh.
+     Tim: Tất cả các rối loạn nhịp tim có thể thấy bao gồm rung nhĩ và cuồngđộng nhĩ, NNT, RT, NNT hai hướng với block AV thay đổi, phân ly AV, nhịp chậm xoang, nhịp nhanh bộ nối, ngoại tâm thu thất.
+     Tiêu hoá: Buồn nôn, nôn.
+Chuyển hoá: Tăng kali máu thường gặp song kali máu có thể bình thường hay thấp ở các BN dùng lợi tiểu.
+
+III.Xử trí
+     1. Thải bỏ chất độc khỏi đường tiêu hoá: Nhịp chậm hoặc vô tâm thu có thể do kích thích phế vị trong quá trình rửa dạ dày gây nên, dùng các liều than hoạt nhắc lại có hiệu quả, lọc máu không có hiệu quả.
+     2. Điều trị nhịp chậm bằng Atropin, Isoproterenol và đặt máy tạo nhịp.
+     3. Điều trị các loạn nhịp thất bằng lidocain hoặc phenytoin. Tránh dùng procainamide và qunidine vì thuốc có thể có tác dụng gây loạn nhịp tiềm tàng (proarrhythmic) và làm chậm dẫn truyền nhĩ thất.
+     4. Làm sốc điện DC có thể nguy hiểm trong các ngộ độc nặng và nên được sử dụng một cách cân nhắc và với mức năng lượng thấp.
+     5. Điều chỉnh tình trạng hạ kali và magiê máu
+
+     Digibind (Đoạn kháng thể Fab đặc hiệu- Digoxin [Digoxin- specific Fab antibody fragment]):
+          - Chỉ định: Loạn nhịp nguy hiểm tính mạng không đápứng với điều trị thông thường
+          - Liều của đoạn kháng thể Fab đặc hiệu đối với Digoxin :
+(Số lượng ống hàm lượng 40mg) = Nồng độ digoxin (ng/ml) x trọng lượng (kg) / 100
+          - Hoà tan lọ chứa đoạn kháng thể Fab đặc hiệu đối với Digoxin vào 100-150ml dung dịch NaCl 0,9% và truyền TM trong vòng 15-30 min. Sử dụng bộ lọc đường kính 0,22m trên đường truyền trong quá trình truyền.
+          - Theo dõi để phát hiện tình trạng giảm kali máu, suy tim và sốc phản vệ. Phức hợp này được bài tiết qua thận: Sau khi dùng, nồng độ digoxin huyết thanh có thể cao và không chính xác do cả digoxin tự do và digoxin gắn với kháng thể được định lượng trong một số thử nghiệm định lượngđược áp dụng

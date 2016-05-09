@@ -1,0 +1,192 @@
+﻿I.Đại cương
++Là bệnh truyền nhiễm rât nguy hiểm do trực khuẩn Yersinia pestis gây nên.
+Hiện nay không còn phổ biến như trước nhưng vẫn là một bệnh quan trọng.
+
+
++Yersinia pestis
+- là một cầu trực khuẩn Gr (-),
+- sức đề kháng của Y. pestis tương đối kém.
+
++Có 2 loại độc tố :
+- Ngoaị độc tố: không chịu nhiệt, hòa tan, gồm 2 thành phần, phần A và phần B
+- Nội độc tố : chịu nhiệt, không hòa tan 
++ Cả hai loại độc tố tác dụng
+- trên các mạch máu ngoại vi gây cô đặc máu và sốc,
+- nội độc tố có ái tính với hệ thần kinh.
+
+
+II.Dịch tễ
+1.Yếu tố nghề nghiệp
+ - Những người làm nghề có tiếp xúc với các loài gặm nhấm, động vật hoang dại
+ - Người làm rừng, thợ săn, kiểm lâm, nông dân .. nguy cơ mắc bệnh cao hơn.
+
+2.Nguồn bệnh
++ Động vật gặm nhấm là vật chủ mang mầm bệnh dịch hạch,,
++ có 2 loại nguồn bệnh :
+- Vật chủ chính gặp trong ổ dịch thiên nhiên, có sức duy trì mầm bệnh lâu dài
+- Vật chủ thứ yếu có vai trò trong quá trình sinh dịch
+
+3.Côn trùng trung gian
++Bọ chét là côn trùng trung gian truyền bệnh trong các giống chuột và từ chuột sang người.
++Tất cả các loại bọ chét đều có thể là môi giới truyền bệnh
+- đặc biệt là Xenopsylla cheopis là môi giới chính,
+- ngoài ra người ta đã tìm thấy Y. pestis trong Pulex irritans.
+
+III. Sinh lý bệnh
++Vi khuẩn dịch hạch xâm nhập vào cơ thể
+- qua da (chủ yếu do vết đốt của bọ chét) và
+- niêm mạc (màng tiếp hợp, niêm mạc hầu họng, ống tiêu hóa, đường hô hấp).
++Sau đó theo dòng bạch huyết đến hạch khu vực,
+- rồi vi khuẩn lại theo dòng bạch huyết đến các hạch sâu hoặc xa hạch khởi điểm,
+- cuối cùng mới vào máu.
++Trong máu vi khuẩn còn bị đại thực bào giữ lại và tiêu hóa.
++Quá trình bệnh lý có thể dừng lại ở đây.
++Ngược lại nếu gan lách không lọc được thì vi khuẩn sẽ tràn vào máu gây nhiễm trùng huyết .
++Độc tố của vi khuẩn dịch hạch có ái tính với tổ chức thần kinh gây li bì mê sảng và các tổn thương thoái hóa xuất huyết, lan rộng trong nội tạng.
++Trong dịch hạch thể phổi, vi khuẩn qua mũi xâm nhập vào niêm nạc đường hô hấp trên nhưng không nhất thiết phải đưa đến viêm phổi.
++Bệnh gây miễn dịch khá bền vững, hiếm khi tái phát .
+
+IV. Lâm sàng
+1.Thể viêm hạch
+ Chiếm 90 -95% trong dịch hạch.
+a.Thời kỳ nung bệnh
+- Từ 1 đến 5 ngày,
+- có thể ngắn hơn (vài giờ) hay dài hơn (8 -10 ngày) nhưng ít gặp.
+
+b.Thời kỳ khởi phát
+- Trước khi nổi hạch, bệnh khởi đột ngột ở người khỏe mạnh với mệt mỏi, khó chịu, nhức đầu, chóng mặt, đau khắp người, sốt, có khi rét run.
+- Có trường hợp khởi phát bằng triệu chứng nhiễm độc, đau nhiều ở vùng sắp nổi hạch .
+
+c.Thời kỳ toàn phát
++ Viêm hạch:
+- ở bất kỳ nơi nào của hệ thống bạch huyết ngoại biên, liên quan đến nơi bọ chét đốt,
+- thường xuất hiện 1-2 ngày sau sốt, phần nhiều nổi hạch ở bẹn (62- 80%) ,
+- kế đó là nách (14 -20%), cổ, dưới hàm, dọc cơ ức đòn chủm (15 -18%),
+- hạch ở trên khủy tay hoặc ở kheo chân rất hiếm , thường chỉ 1 hạch.
++Đặc điểm hạch viêm:
+- Đau xuất hiện sớm trước khi sưng, đau càng nhiều bệnh càng nặng.
+- Khi hạch viêm tấy thì rất đau, lúc đầu còn di động,
+- dần dần quanh hạch bị viêm dính nên khó xác định ranh giới và kích thước.
++ Hội chứng nhiễm trùng nhiễm độc:
+- Sốt, mạch nhanh, nhịp thở tăng, người lừ đừ, mệt mỏi, hốt hoảng và mê sảng.
+- Vẻ mặt nhiễm trùng nhiễm độc.
+
+d. Thời kỳ lui bệnh
++Hạch viêm sẽ hóa mủ, tự vỡ, để chảy ra một chất nước hung hung đỏ.
++Bệnh có thể khỏi sau > 1 tháng với vết sẹo co rúm.
++Nhưng thường tiến triển đến các thể nặng như nhiễm trùng huyết hay viêm phổi làm chết nhanh.
++Nếu được điều trị đúng phác đồ, hạch sẽ tiêu nhỏ, hết sốt, bệnh sẽ khỏi sau 1 tuần điều trị .
+
+2.Thể nhiễm trùng huyết
+a.Tiên phát
+- Bệnh khởi đột ngột, kịch liệt với
+- sốt cao 40-41C,
+- kích động, mê sảng,
+- nôn mửa, tiêu chảy, bụng chướng,
+- thở nhanh, xuất huyết,
+- sau đó choáng nhiễm trùng,
+- đông máu rải rác thành mạch
+- tử vong nhanh chóng
+
+b. Thứ phát:
+- sau viêm hạch
+- cấp tính nhưng ít rầm rộ.
+- Tiên lượng khả quan hơn nếu được điều trị tích cực.
+
+3.Thể phổi
+a.Tiên phát
+- Hiếm gặp. Nung bệnh ngắn chừng vài giờ.
+- Sốt rất cao kèm rét run, mạch tăng,
+- bệnh nhân mệt mỏi nhức đầu ngày càng tăng.
+- Khoảng 20 -24 h sau các biểu hiện tổn thương ngày càng rõ:
+ đau ngực, ho từng cơn, khạc nhiều đàm, khó thở.
+- Triệu chứng thực thể thường nghèo nàn, ít khi nghe rales bệnh lý .
+- Xquang: Hình ảnh đặc phổi hay hình ảnh bong bóng như trong tụ cầu phổi .
+
+
+b. Thứ phát
+- Thường gặp hơn, là biến chứng của thể hạch không được phát hiện và điều trị kịp thời.
+- Chẩn đoán: dựa vào hình ảnh chụp X quang, xét nghiệm: vi khuẩn có mặt ở chất nhày họng.
+
+V. Cận lâm sàng
+1.Xét nghiệm máu
++ Bệnh càng nặng bạch cầu càng tăng,
+- ở thể nhiễm trùng huyết tiên phát bạch cầu tăng rất cao tới 50.000/mm3, N >80%;
+- có khi bạch cầu giảm 1000/mm3, L >80%
++ Tiểu cầu giảm trong thể nặng, nhất là khi có hiện tượng rối lọan đông máu.
+
+2. Tìm Yersinia pestis trong các bệnh phẩm như
+  chọc hút hạch, máu, đờm, chất nhày ở cổ họng, dịch não tủy.
++ Soi phết máu ngoại vi (+) :
+- thường gặp trong thể nhiễm trùng huyết tiên phát.
+- Soi phết máu ngoại vi thường (-) trong nhiễm trùng huyết thứ phát.
++ Cấy máu : Thường (+) ở thể nhiễm trùng huyết, viêm phổi.
++ Tìm kháng thể trong huyết thanh bệnh nhân .
+
+VI. Chẩn đoán
+1.Dịch tễ học
+- Vùng dịch lưu hành
+- Mức độ chuột và bọ chét tăng cao
+- Có chuột chết tự nhiên và nhiều
+- Chưa tiêm phòng dịch hạch
+2.Lâm sàng:
+- Hội chứng nhiễm trùng nhiễm độc nặng
+- kèm đau vùng hạch (lúc hạch chưa sưng)
+3.Cận lâm sàng:
+- Công thức máu bạch cầu tăng.
+
+VII. Điều trị
+1.Các biện pháp xử lý sớm
+- Phải dùng kháng sinh sớm
+- Cách ly bệnh nhân ở trạm xá
+- Nên tổ chức điều trị tại chỗ,
+- nếu xét cần phải chuyển sớm 
+- Điều trị sớm khi nghi ngờ, giúp giảm tỷ lệ tử vong thể thông thường  40 %, thể phổi giảm 5-10%
+
+2.Phác đồ điều trị
+a.Thể nhẹ:
+- Dùng một kháng sinh uống 7 ngày liên tục
+- Tetracycllin hoặc Chloramphenicol 40mg /kg /ngày, hoặc
+- cotrimoxazol 480 mg X 4 viên /ngày.
+
+b.Thể trung bình:
+- Kháng sinh Streptomycine 50mg /kg/ngày tiêm bắp + tetracyclline uống 50mg /kg /ngày, hoặc
+- chloramphenicol 7-10 ngày liên tục, trợ sức, truyền dịch nếu cần
+
+c. Thể nặng
+- Kháng sinh dùng phối hợp 3 kháng sinh với liều như trên,
+- khi bệnh giảm 2 thứ kháng sinh sau có thể dùng đường uống .
+- Corticoide: Depersolone 30 -60 mg
+- Biện pháp hồi sức: Truyền dịch, thở Oxy, trợ sức, nâng cao thể trạng, trợ tim mạch.
+- Thuốc an thần hạ nhiệt độ.
+- Chăm sóc bệnh nhân: vệ sinh răng miệng, thân thể.
+
+VIII. Phòng bệnh, chống dịch
+1.Các biện pháp chống dịch hạch khi có dịch :
+- Báo cáo dịch khẩn cấp và bắt buộc
+- Cách ly bệnh nhân hoàn toàn
+- Nước tiểu, phân, đàm, mủ xử lý bằng nước Javen.
+- Xử lý tử thi bệnh nhân dịch hạch:
+. tử thi bọc trong vải tẩm lysol 5% hoặc chloramin 3% .
+. bên trong quan tài phải rắc chlorua vôi,
+. sau đó đem chôn sâu 1,5 - 2 mét.
+- Diệt bọ chét và diệt chuột
+ (diệt bọ chét trước diệt chuột)
+- Đẩy mạnh công tác tuyên truyền để nhân dân hiểu rõ sự nguy hiểm của bệnh.
+
+2.Uống thuốc phòng
++ Đối tượng cho uống thuốc phòng khẩn cấp
+- là người tiếp xúc bệnh nhân và
+- người sống chung nhà bệnh nhân hay
+- người sống nhà có nhiều chuột chết tự nhiên, nghi nghờ dịch hạch.
++ Thường dùng
+- Tetracycline 1 g/ngày hay
+- Cotrimoxazol 480 mg x 4 viên /ngày x 7 ngày
+- Những người tiêm phòng dịch dạch chưa quá 6 tháng không cần uống phòng .
+
+3.Tiêm chủng :
+- Đã được nghiên cứu từ lâu nhưng hiệu lực của nó không cao.
+- Khi có dịch bùng phát thì nên tiêm phòng cho nhân dân ở các vùng lân cận,
+- không tiêm cho người cư trú trong ổ dịch.
+- Thường dùng loại vắc xin sống giảm độc lực,
+- tiêm một lần, tạo miễn dịch nhanh (5 - 7 ngày sau khi tiêm)

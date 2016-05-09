@@ -1,0 +1,310 @@
+﻿I.Tổng quan
++ Đặc điểm chung
+- Dengue là từ đồng âm 'ki denga pepo' của Phi châu, phiên qua tiếng Anh vào quãng 1827-28 khi có bùng phát dịch ở vùng Caribean.
+- 1789 Benjamin Rush báo cáo mô tả lâm sàng đầu tiên trong y văn, nhưng nguyên nhân do virus và đường truyền virus thông qua muỗi, phải đến đầu thể kỷ 20 mới được làm rõ. (www.emedicine.com)
+- Sốt Dengue (tên khác: sốt breakbone) là do nhiễm flavivirus truyền vào khi bị muỗi Aedes đốt.
+ 
+
++ Virus Dengue có thể gây nên bệnh lý đa dạng, biểu hiện ở nhiều mức độ khác nhau:
+- Từ Sốt Dengue (Dengue Fever-DF) nhẹ nhàng
+- Đến Sốt xuất huyết Dengue (Dengue Hemorrhagic Fever-DHF) nặng nề và
+- Hội chứng sốc do Dengue (Dengue Shock Syndrome-DSS) thì rất dễ tử vong.
+
++ Số it trường hợp virus là nguyên nhân tăng tính thấm thành mạch, dẫn đến biến chứng xuât huyết hoặc DIC, được biết đến như là sốt dengue xuât huyết (DHF). Có các giả thuyết cho rằng:
+- 'thể nặng DHF/DSS xảy ra là khi một người đã nhiễm bệnh trong quá khứ bởi một loại virus nay lại nhiễm một loại virus khác'.
+- do cơ chế tăng cường kháng thể tùy thuộc sự nhiễm trùng (antibody-dependent enhancement of infection),
+- do sự biến thái của các type huyết thanh virus (viral serotype variation) và sự hoạt hóa miễn dịch bất thường (abnormal immune activation).
+
++ Theo nhận định của các chuyên gia, nguyên nhân gây gia tăng số trường hợp mắc và tử vong do SXH trong thời gian vừa qua là có sự thay đổi tuýp virus từ tuýp dengue 2 sang tuýp dengue 1, có thể do bị nhiễm cùng lúc 2 hoặc 3 týp virút DEN, kế đến là do thời tiết bất thường và một số địa phương chưa quyết liệt trong công tác phòng chống dịch nhằm diệt muỗi Aedes aegypti.
+
++ Sốc giảm thể tích và xuất huyết là nguyên nhân chính gây tử vong trong SXH Dengue nếu không được phát hiện sớm và điều trị đúng.
+- Khoảng 20-30% DHF phát triển shock tạo thành hội chứng shock dengue (DSS)
+- Trái với dengue cổ điển, DHF/DSS hay gặp ở trẻ nhỏ & nam giới.
+
++ Ước tính
+- Thế giới: 50-100 triệu ca sốt Dengue (DF) và vài trăm nghìn ca DHF mỗi năm.
+- Ở nước ta, đã phân lập được cả 4 típ virus Dengue gây bệnh.
+- Các năm 1991-1995, chủ yếu là típ Den 1 và Den 2; năm 1997-1998 là típ Den 3.
+- Từ 1999 đến nay, típ Den 4 gia tăng và có lẽ sẽ là típ gây bệnh chính trong những năm tới.
+
+II. Triệu chứng lâm sàng
+1.Triệu chứng Sốt Dengue (DF)
+(dengue fever-dengue cổ điển)
+
+a. Nung bệnh: từ 3-15 ngày
+
+b. Khởi phát: những biểu hiện lâm sàng phụ thuộc vào lứa tuổi:
+- Trẻ còn bú và trẻ nhỏ: có thể có triệu chứng sốt không đặc hiệu và phát ban.
+- Trẻ lớn và người lớn: sốt cao đột ngột kèm nhức đầu, đau nhức 2 bên hố mắt, đau khắp người, đau cơ, đau khớp. Mệt mỏi, chán ăn.
+
+c.Toàn phát:
+- Sốt cao 39 - 40oC, Sốt thường trong vòng 2 đến 7 ngày.
+- Hạ sốt xuất hiện vào ngày thứ 3 đến ngày thứ 8 thường kèm biểu hiện xuất huyết nhẹ nhàng (chấm xuất huyết dưới da, nốt xuất huyết và chảy máu mũi).
+- Sau khi hạ sốt thường xuất hiện ban dạng dát sẩn đa hình thái, đôi khi gây ngứa, đầu tiên ở thân mình và lan rộng theo hướng ly tâm đến các chi, mặt, lòng bàn tay và lòng bàn chân.
+
+(A: Ban da dạng sởi xen kẽ đảo da
+ B: Ban xuất huyết dạng chấm do Dengue)
+- Xung huyết ở củng mạc mắt, đau nhức quanh nhãn cầu.
+
+- Ðau cơ, đau khớp, mệt mỏi chán ăn.
+- Sưng hạch bạch huyết.
+- Số lượng bạch cầu bình thường hoặc hơi hạ.
+- Tiểu cầu bình thường.
+- Hematocrit bình thường (không có biểu hiện cô đặc máu).
+- Một số trường hợp có thể xuất huyết tiêu hóa và sốc. (Như vậy biểu hiện xuất huyết không chỉ DHF mới có).
+2. Triệu chứng Sốt XH Dengue (DHF).
+* Thường gặp ở trẻ em sống trong điạ phương, và có khả năng xuất hiện nhất khi nhiễm khuẩn thứ phát với tip huyết thanh 2.
+* Sau vài ngày mắc bệnh, xuất hiện dấu hiệu của chảy máu bầm máu (ecchymoses), chảy máu dạ dày-ruột non, và chảy máu cam.
+* Một số virus dengue vỏ glicoprotein cùng vị trí với những đoạn của các yếu tố đông máu, kể cả plasminogen, và như vậy sốt dengue xuât huyết có thể biểu hiện giống như một phản ứng tự miễn dịch.
+* Một số nhỏ bệnh nhân tiến triển tới hội chứng shock dengue trong tình trạng sốt cấp tính, biểu hiện các mảng xuất huyết và rò rỉ mao quản nổi bật, biểu hiện trễ hơn như tràn dịch màng phổi, cổ́ chướng, và xu hướng dể phát triển thành shock.
+* Đau bụng liên tục kèm với nôn mửa, sự giảm sút ý thức, và giảm thể nhiệt cần phải chú ý liên quan với phát triển DHF/DSS.
+
+a.DHF không sốc:
++ Hội chứng nhiễm trùng:
+- sốt cao đột ngột, nhiệt độ 39-40oC, sốt kéo dài 2-7 ngày,
+- kèm các triệu chứng như: mệt mỏi, chán ăn, đau bụng ở thượng vị hoặc hạ sườn phải, đôi khi nôn, gan to: ở trẻ em hay gặp hơn người lớn, đôi khi da xung huyết hoặc có phát ban.
+
++ Hội chứng thần kinh:
+- đau người. đau cơ, đau khớp, nhức đầu, đau quanh hố mắt;
+- trẻ nhỏ sốt cao, đôi khi co giật, hốt hoảng; không có biểu hiện màng não.
+
++ Hội chứng xuất huyết:
+Thường xuất hiện vào ngày thứ 2 của bệnh.
+- Trường hợp không có xuất huyết thì có dấu hiệu dây thắt dương tính.
+
+(Dấu hiệu dây thắt làm đúng phải đạt yêu cầu cản trở hoàn toàn tuần hoàn tĩnh mạch, mà vẫn duy trì được tuần hoàn động mạch; Nên dùng HA kế-duy trì 10 phút ở HA trung bình; sau khi tháo hơi - theo dõi tiếp 10 phút nữa; bình thường da hơi tím nhẹ-rồi trở lại bình thường, không có đốm chảy máu nào cả; có tác giả cho là âm tính nếu chỉ xuất hiện ở nếp khủy với <10 đốm trong vòng tròn d=2,5cm !)
+- Có các biểu hiện xuất huyết tự nhiên, hoặc xuất huyết khi tiêm chích sẽ thấy bầm tím quanh nơi tiêm.
+- Xuất huyết ngoài da: biểu hiện như các chấm xuất huyết, vết bầm tím, rõ nhất là xuất huyết ở mặt trước 2 cẳng chân, mặt trong 2 cẳng tay, gan bàn tay, lòng bàn chân.
+
+- Xuất huyết ở niêm mạc: chảy máu cam, chảy máu chân răng, xuất huyết dưới màng tiếp hợp, đi tiểu ra máu, kinh nguyệt kéo dài hoặc xuất hiện kinh nguyệt sớm hơn kỳ hạn.
+- Xuất huyết tiêu hóa: nôn ra máu, đi đại tiện ra máu. Khi có xuất huyết tiêu hóa nhiều, bệnh thường diễn biến nặng.
+
+b.DHF có sốc (DSS):
++ Sốc thường xảy ra vào ngày thứ 3 đến ngày thứ 6 của bệnh, Đa số xảy ra vào ngày thứ 5 của bệnh khi sốt giảm. Có thể sớm hơn vào ngày thứ 4 khi nhiệt độ cơ thể còn cao hoặc rất trễ sau ngày thứ 6 với các dấu hiệu:
+- Cảm giác mệt, vẻ mặt đừ, da niêm tái.
+- Mạch nhanh, nhẹ hoặc bằng 0.
+- Huyết áp hạ hoặc bằng 0.
+- Chi mát, lạnh. Dấu phục hồi sắc da > 2 giây.
+- Tiểu ít hoặc không tiểu.
+- Dấu hiệu bứt nhức, bất an, lo âu,… ít thấy ở người lớn so với trẻ em trừ trường hợp có xuất huyết kèm theo.
+
++ Nếu không xử trí kịp thời,
+- sốc diễn biến rất nhanh với huyết áp tụt xuống nhanh và đôi khi không đo được mạch nhỏ khó bắt, bệnh nhân ở trạng thái lơ mơ, thở yếu.
+- thời gian sốc thường ngắn và bệnh nhân có thể tử vong trong vòng 12 đến 24 giờ.
+- sốc kéo dài sẽ gây toan chuyển hóa, giảm natri máu và xuất hiện đông máu nội quản rải rác gây xuất huyết trầm trọng ở tiêu hóa và các cơ quan khác.
+- bệnh nhân có thể xuất huyết não đưa đến hôn mê.
+
++ Cô đặc máu
+- Hct tăng có thể > 60%, cao nhất vào ngày thứ 4, 5 trừ khi có xuất huyết kèm theo.
+- Tiểu cầu giảm bắt đầu từ ngày thứ ba của bệnh, < 200.000 lúc đầu, giảm dần < 100.000 đôi khi chỉ còn 5000.
+
++ Tràn dịch đa màng
+- Xuất hiện vào ngày thứ 4 trở đi và là dấu hiệu có giá trị cao trong chẩn đoán SXH-D ở người lớn, phát hiện bởi Xquang hoặc siêu âm bụng.
+- Đa số tràn dịch đa màng, số ít trường hợp tràn dịch màng bụng hoặc màng phổi phải đơn thuần.
+- Hiếm trường hợp có tràn dịch màng phổi trái đơn thuần.
+
++ Tổn thương gan với các mức độ khác nhau là một biểu hiện bệnh gần như hằng định của DHF, đặc biệt là trong DSS.
+- Tổn thương gan gây nên rối loạn đông máu có thể là một trong những cơ chế gây nên xuất huyết trong DHF và DSS.
+- Tăng cao các men gan (SGOT và SGPT) là những dấu hiệu của tổn thương gan cũng như suy giảm chức năng gan trong DHF.
+- Các nghiên cứu khác nhau đã cho thấy mức độ tổn thương gan cũng như rối loạn đông máu có tương quan với sự nhân lên của virus trong tế bào gan bị nhiễm DV.
+- Từ đó có thể kết luận rằng các kháng thể kháng DV NS1 đóng một vai trò trong tổn thương gan, một biểu hiện bệnh lý thường gặp và có ý nghĩa tiên lượng trong các thể lâm sàng nặng của nhiễm virus Dengue.
+
++ Suy cơ quan
+Những trường hợp có các dấu suy cơ quan dễ làm sai lệch chẩn đoán ban đầu và ảnh hưởng kết quả điều trị của bệnh nhân. Nếu có, sẽ thấy:
+- Vàng da mắt, bilirubin tăng, men gan tăng, tỉ Prothombin giảm.
+- Creatinin bình thường hoặc cao nhẹ. Có trường hợp suy thận và hồi phục sau đó
+- Hiếm trường hợp cần chạy thận nhân tạo.
+
+3. Tiến triển
+- Thời kỳ hồi phục của DSS hoặc không sốc đều nhanh chóng:
+- bệnh nhân ăn ngon miệng và thèm ăn là dấu hiệu tiên lượng tốt.
+- Trong giai đoạn hồi phục có thể gặp tim đập chậm hoặc loạn nhịp xoang và khỏi trong vài ngày.
+
+III.Cận lâm sàng
++ Giảm số lượng tiểu cầu (<100.000) thường gặp vào ngày thứ 2 trở đi.
++ Cô máu (hematocrit tăng 20%, bt 0,38-0,40) thường xuất hiện trong máu bệnh nhân DHF.
++ RL điện giải, toan huyết, BUN tăng; tăng men gan, giảm protein máu và XN biểu lộ DIC.
++ Do tính không đặc hiệu của bệnh - nên cần XN xác minh cho chẩn đoán:
+- XN thường làm là test ELISA IgM và IgG G.
+- Có test nhanh giống như Quick-test (~ 5USD/1 test):
+
+- 2006 có Bộ KIT của Viện CNSH VN chế tạo (~10 nghìn VND/kit), giúp chẩn đoán nhanh trong 45 phút.
+
+- Virut có thể thấy trong máu ở pha cấp ~ kỹ thuật RT- PCR đang được phát triển.
+- Immunohistochemistry ~ là XN dò tìm kháng thể cũng có thể được sử dụng.
+IV.Chẩn đoán
+A.Sốt Dengue (DF)
+(theo CDC & CMDT 2005)
++ Ủ bệnh 7-10 ngày trước khi bùng phát.
++ Bùng phát đột ngột:
+ - sốt cao 39.5-41.4
+   Với tiền triệu nhức đầu vùng thái dương & sau hốc mắt, lạnh run, đau xương thường xuất hiện sau sốt, tăng trong case nặng, (ít thấy trong DHF/DSS ?);
+ - viêm họng, nằm bẹp và mệt mỏi quá mức.
+
++ Đường cong sốt hai pha (Biphasic):
+ - pha đầu trong 3-7 ngày; thuyên giảm trong vài giờ tới 2 ngày;
+ - pha thứ hai trong 1-2 ngày.
+
++ Phát ban hai pha:
+ - Pha đầu không cố định xuất hiện trong 1-2 ngày sốt đầu,   
+ - tiếp sau là ban dạng sởi, dát sẩn hay đốm x.huyết thay đổi từ chi thể đến thân trên.
++ Giảm bạch cầu và lượng tiểu cầu trong thể dengue xuất huyết.
+
+B.Chẩn đoán sốt XH-D: (DHF)
+1.Giai đoạn sớm
+- G.đoạn sớm của bệnh không thể phân biệt được với sốt Dengue (DF) .
+- Thường sau từ 2 đến 5 ngày, tức là vào giai đoạn hạ sốt, một số trường hợp nhiễm VD tiên phát và đa số các nhiễm VD thứ phát có biểu hiện hạ tiểu cầu (< 100.000/mm³) và cô đặc máu.
+
+2.Với các triệu chứng
++ Hai triệu chứng lâm sàng như sốt 2-7 ngày + biểu hiện xuất huyết ở da, niêm mạc hoặc có dấu hiệu dây thắt dương tính,
++ kèm theo hai dấu hiệu cận lâm sàng là hạ tiểu cầu <100.000/mm3 và hematocrit tăng.
++ thì chẩn đoán được là DHF ,và được phân độ theo WHO như sau:
+ - DHF độ I: giảm tiểu cầu kèm cô đặc máu - nhưng không có chảy máu tự phát.
+ - DHF độ II: giảm tiểu cầu và cô đặc máu + kèm theo chảy máu tự phát.
+ - DHF độ III: giảm tiểu cầu và cô đặc máu + huyết động không ổn định: mạch lăn tăn, huyết áp kẹp (hiệu số huyết áp tâm thu - huyết áp tâm trương < 20 mm Hg), tay chân lạnh, tinh thần lú lẫn.
+ - DHF độ IV: giảm tiểu cầu và cô đặc máu + sốc biểu hiện rõ: bệnh nhân không có mạch ngoại biên, huyết áp = 0 mm Hg...
+
+* Khi có tràn dịch màng bụng (siêu âm), tràn dịch màng phổi (lâm sàng, X-Quang phổi) và/hoặc giảm albumin trong máu ~ là bằng chứng rõ rệt của sự thoát quản huyết tương.
+
+
+3. Chẩn đoán xác định
+a. Phân lập virus
+b. Huyết thanh chẩn đoán
+- Phản ứng ức chế ngưng kết hồng cầu
+- Phản ứng cố định bổ thể
+- Phản ứng trung hòa
+- Tìm IgM và IgG kháng thể kháng virus Dengue
+
+4. Chẩn đoán phân biệt
+Cần phân biệt với các bệnh sau:
+a.Nhiễm trùng huyết +/- sốc nhiễm trùng, cần dựa vào:
+- Sau 7 ngày của bệnh nhiệt độ cơ thể còn cao.
+- Có thể tìm thấy ngõ vào của nhiễm trùng.
+- Bạch cầu máu tăng, bạch cầu đa nhân trung tính tăng.
+- Phết máu ngoại biên: nhiều ban, hạt độc, không bào và đôi khi thấy vi trùng và cả xác vi trùng trong nguyên sinh chất của bạch cầu.
+- CRP máu tăng, Lactate máu tăng.
+- Cấy máu hoặc dịch khác của cơ thể (+).
+
+b.Leptospirosis:
+- Có yếu tố dịch tễ, nghề nghiệp.
+- Đau cơ nhiều
+- Suy thận với dấu hiệu tiểu ít, creatinine máu tăng.
+- MAT-IgM (+).
+- Cấy máu, nước tiểu tìm xoắn khuẩn.
+
+c.Thương hàn:
+- Có yếu tố dịch tễ.
+- Vẻ mặt nhiễm trùng, nhiễm độc đặc trưng của thương hàn (vẻ mặt typhoid).
+- Rối loạn tiêu hóa: tiêu chảy hoặc táo bón, khám bụng có thể có dấu hiệu lạo xạo.
+- Xuất huyết tiêu hóa nếu có thường xuất hiện muộn hơn sau tuần thứ 2 của bệnh.
+- Cấy máu, cấy tủy (+) Salmonella typhi
+
+d.Sốt rét:
+- Có yếu tố dịch tễ.
+- Có cơn sốt chu kỳ điển hình của sốt rét.
+- KSTSR (+).
+
+e.Viêm gan siêu vi:
+- Sốt không cao.
+- Dấu chán ăn nổi bật.
+- Men gan tăng cao hơn.
+- Dấu ấn VGSV/máu (+).
+
+V.Điều trị
+A. Nguyên tắc chung
++ Chẩn đoán xác định sớm DF, DHF, DSS.
+
++ Chống sốc kịp thời tránh tình trạng sốc kéo dài có thể làm trầm trọng thêm rối loạn đông máu.
+- DHF độ I: uống;
+- DHF độ II: uống + truyền;
+- DHF độ III: truyền;
+- DHF độ IV: truyền nhanh.
+
++ Vì Sốt xuất huyết Dengue là một bệnh do virus nên hiện tại chưa có thuốc điều trị đặc hiệu:
+- Điều trị chủ yếu là triệu chứng và điều trị biến chứng bệnh. Các biện pháp điều trị gồm:
+- Thuốc hạ sốt. Chú ý không dùng các thuốc salycilate vì cơ địa dễ chảy máu của bệnh nhân cũng như nguy cơ xuất hiện hội chứng Reye.
+- Bồi phụ nước bằng đường uống hoặc bằng đường tĩnh mạch trong trường hợp cần thiết nhằm đề phòng và điều chỉnh mất nước.
+-Tuy nhiên cần cẩn trọng tránh bồi phụ dịch quá mức cần thiết khi sốc đã ổn định để phòng biến chứng phù phổi cấp.
+- Nếu có xuất huyết nặng và rối loạn đông máu trầm trọng, cần phải truyền máu tươi hoặc khối tiểu cầu.
+- Ôxy liệu pháp trong trường hợp giảm ôxy máu, sốc.
+
++ Theo dõi bệnh nhân chặt chẽ nhất là trong giai đoạn bắt đầu hạ sốt.
+Theo dõi đúng đặc biệt quan trọng và ảnh hưởng không nhỏ đến tỉ lệ tử vong.
+Cần theo dõi liên tục:
+- M, HA, tiểu/15-30 phút hoặc 1 giờ cho đến khi bệnh nhân có sinh hiệu ổn định.
+- HCT/1-2 giờ trong giai đoạn sốc, sau đó có thể 6 giờ hoặc 12 giờ.
+- Bilan nước xuất nhập thật sát, tránh tình trạng dư nước gây quá tải nhất là đối với các bệnh nhân có bệnh lý mãn tính kèm theo, hoặc tránh tình trạng thiếu nước gây sốc kéo dài, sốc không hồi phục.
+- Theo dõi dấu hiệu xuất huyết, vi trí xuất huyết, lượng máu chảy do xuất huyết,…
+- Theo dõi chức năng cơ quan thận, gan, não, cụ thể qua tình trạng tri giác, qua xét nghiệm creatinine máu, men gan…
+
+B. Phác đồ điều trị:
+1. SXH-D không sốc (DHF)
+- Hạ sốt bằng Acetaminophen (tuyệt đối không dùng Aspirin).
+- Bù nước mất do sốt bằng ORS, nước trái cây…uống.
+- Nếu chỉ sốt cao, mọi sinh hoạt bình thường thì không cần nhập viện mà chỉ điều trị tại nhà như trên.
+- Nếu bệnh nhân nôn ói nhiều lần không uống được, xuất huyết tiêu hóa lượng ít, cho nhập viện để điều trị với dịch truyền tinh thể (Lactate Ringer, NaCl0.9%) kết hợp với glucoza ngừa hạ đường huyết. Tốc độ dịch truyền 20-30 ml/kg/24h.
+
++ Thường truyền theo công thức Halliday & Segar
+- 10kg đầu = 100ml/kg x Cân nặng = M.
+- 10-20kg tiếp = 1000ml + 50ml/kg cho phần thêm.
+- > 20kg = 1500ml + 20ml/kg vượt của từ 20kg trở lên.
+(M ~ duy trì cho 24 giờ; > 40kg dùng 2M)
+
++ Cần theo dõi sát để phát hiện dấu tiền sốc.
+
+2. SXH-D có sốc (DSS)
+
+b.Biện pháp điều trị khác
++ Oxygen
+Nên cho bệnh nhân thở oxygen khi có dấu hiệu sốc để giảm thiểu tối đa tình trạng tổn thương tế bào nặng thêm cho hiện tượng thoát mạch và rối loạn đông máu.
+
++ Điều chỉnh rối loạn điện giải và thăng bằng kiềm toan
+Cần làm ion đồ và khí máu động mạch để điều chỉnh giảm Natri và toan chuyển hóa hay gặp trong DSS. Điều chỉnh sớm sẽ tránh tình trạng DIC nặng hơn.
+
++ An thần
+Chỉ dùng khi thật cần thiết khi bệnh nhân kích thích, vật vã.
+
++ Truyền tiểu cầu và các yếu tố đông máu
+Không có chỉ định trong chống sốc, chỉ truyền trong trường hợp SXH-D có chảy máu bất thường, hoặc sau khi sốc ổn định nhưng vẫn chảy máu rỉ rã, HCT và số lượng tiểu cầu còn giảm nặng.
+
++ Xử trí Xuất huyết:
+- XH niêm mạc: thuốc co mạch & nhét bấc chèn.
+- XH nội tạng:
+ . HCT thấp = truyền máu.
+ . HCT cao = truyền huyết tương, truyền tiểu cầu.
+
++ Chọc tháo dịch màng tim, màng phổi
+Chỉ được thực hiện khi lượng dịch quá nhiều ảnh hưởng sinh hiệu và rối loạn huyết động.
+
++ Hạn chế tối đa các thủ thuật
+Hạn chế tối đa các thủ thuật đặc biệt các thủ thuật xâm lấn để tránh tình trạng chảy máu, ngoại trừ làm thủ thuật để CVP khi thật cần thiết.
+
++ Thuốc vận mạch
+Được sử dụng trong những trường hợp sốc kéo dài đã bù đủ dịch (dựa vào CVP) mà vẫn không nâng được huyết áp. Dopamin với liềi khởi đầu 5 µg/Kg/phút và liều tối đa 20 µg/Kg/phút.
+
++ Corticoides
+Chưa được chứng minh tính hiệu quả trong DSS do đó không cần dùng.
+
++ Vitamin C
+Có thể dùng để nâng thể trạng, không có tác dụng điều trị.
+
+V. Phòng bệnh
+1.Vaccin
+- Cho đến thời điểm hiện tại, mặc dù đã có rất nhiều thử nghiệm khác nhau được tiến hành, nhưng vẫn chưa có vaccine chống Dengue nào hữu hiệu được đưa vào sử dụng đại trà.
+- Tại Đại học Mahidol (Thái Lan) với sự cộng tác của WHO, một vaccine chống cả bốn loại huyết thanh virus gây bệnh đã, đang được phát triển và hoàn thiện...
+
+2.Phòng muỗi đốt:
+- Muỗi truyền virus Dengue đốt người vào ban ngày, cho nên phải tự bảo vệ để tránh muỗi đốt.
+- Mặc quần áo dài che kín tay chân.
+- Sử dụng thuốc diệt muỗi thận trọng khi sử dụng thuốc này đối với trẻ nhỏ và người già.
+- Dùng các dụng cụ bắt muỗi và diệt muỗi vào ban ngày.
+- Dùng màn để tránh muỗi cho trẻ em, người già và những người khác khi ngủ ban ngày.
+- Tác dụng của màn tốt hơn khi tẩm Permethrin (chất diệt côn trùng pyrethroid), rèm (bằng vải hoặc bằng tre) cũng có thể được tẩm chất diệt côn trùng và treo tại cửa sổ hoặc cửa ra vào để xua muỗi và diệt muỗi.
+- Phá vỡ chu kỳ lây truyền muỗi người muỗi...
+
+3. Phòng muỗi sinh sản:
+Do muỗi truyền virút Dengue sống và sinh sản ở những nơi nước ứ đọng ở trong và xung quanh nhà.
+- Ðổ nước thừa ở chỗ ứ nước, máy điều hoà, ơ các bể, thùng nước, xô, chậu...
+- Bỏ tất cả các vật dụng mà chứa nước đọng (chẳng hạn như ở chậu cây cảnh . . . ) ra khỏi nhà (!) .
+- Luôn luôn đậy kín tất cả các vật dụng chứa nước.
+- Thu nhặt và loại bỏ những dụng cụ mà nước có thế đọng lại như : chai, lọ, túi nhựa, lon đồ hộp, lốp xe đạp,v.v..

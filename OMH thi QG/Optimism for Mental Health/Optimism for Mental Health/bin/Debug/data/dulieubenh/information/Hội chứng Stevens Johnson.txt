@@ -1,0 +1,45 @@
+﻿1.Định nghĩa SJS:
++ SJS là rối loạn do tăng nhạy cảm với phức hợp miễn dịch trung gian, có thể do nguyên nhân là thuốc men, nhiễm virus, do bệnh ác tính, một nửa trường hợp là tự phát không tìm ra nguyên nhân.
+
++ Phân loại 3 nhóm:
+- Hoại tử biểu bì do độc tố (TEN - Toxic epidermal necrolysis) với đặc tính có > 30% bề mặt da bị tổn thương; căn nguyên chủ yếu do thuốc, và tử vong khoảng 40%.
+- Hội chứng SJS (Stevens-Johnson) với tổn thương 10-30% bề mặt da, căn nguyên cũng do thuốc và nhiễm khuẩn, tử vong thấp khoảng 5%; Trong SJS thường có cả hai dạng EM và TEN.
+- Hồng ban đa dạng (EM) (Erytherma multiforme) với < 10% da tổn thương thường do virus Herpes, không tử vong, dễ tái phát.
+
+2.Chẩn đoán
++ SJS biểu hiện tổn thương hồng ban đa dạng rộng ở da và trên 2 niêm mạc, hay bùng phát đột ngột, lan thành đám, có thể là túi nhỏ bong nước, ban xuất huyết hay điểm hoại tử hay trợt da mảng lớn như bỏng.
+ 
+  
++ Tổn thương điển hình là không ngứa.
++ Sốt, chóng mặt tư thế, mạch nhanh; giảm h.áp; loét giác mạc hay gặp.
+
+Tham khảo: Phân biệt Hc Lyell
+
+3.Điều dưỡng
++Theo dõi sinh hiệu: mỗi 1 giờ/giai đoạn nặng;
++ Hoạt động: tại giường, cách ly trong điều kiện giống như bỏng.
++ Chăm sóc: O2 2-6 lit/ph catheter, mask. Dùng gạc tẩm nước muối đắp lên mắt, môi và mũi. Tổn thương miệng cho dùng nước súc miệng. + Giảm đau tại chỗ là để giảm đau và cho phép bệnh nhân uống được. Vùng tổn thương lột da phải được đắp gạc thấm nước muối hoặc dung dịch Burow.
++ Chế độ ăn: Không dùng đường miệng.
++Truyền bù dịch cơ sở: cho 2 đường truyền IV Dung d.d muối 0, 9% hay Ringer lactat 1-2 L truyền trong vòng 1-2 giờ, rồi thì truyền d.d mặn ngọt đẳng theo tốc độ 150-200ml/giờ
++ Đặt sond Foley theo dõi sát lưu lượng tiểu nếu cần.
++ Gọi BS nếu: 50< mạch >130; 90/60< HA >160/90; 10< Thở >25; Thân nhiệt >38.5; SpO2 < 90%
+
+4. Điều trị đặc hiệu
+Chưa có thuốc đặc hiệu với SJS. Có thể cho:
++ Globulin miễn dịch 1g/kg/ngày khoảng 3 ngày.
++ Cyclosporine 2, 5-5mg/kg uống chia nhiều lần /ngay.
++ Corticosteroids còn bàn luận, dùng thử cho các ca nặng, dùng sớm trước khi bùng phát lan tràn, dùng liều từ trung bình đến cao và ngưng ngay sau vài ngày nếu không đáp ứng.
+Prednisone 100-250mg tiêm tĩnh mạch hoặc cho 4mg/kg/ngày trong khoảng 3-4 ngày đầu.
++ Acyclovir (Zovirax) giảm hội chứng, chỉ định trên bệnh nhân đã nổi ban  trong 48 giờ, dùng có khả năng giảm đau & cải thiện nhanh tổn thương da.
+- Người lớn 600-800mg x 2 lan/ngày x 7-10 ngày.
+- Trẻ em dùng liều 10mg/kg hay 500mg/m2 IV/8 giờ.
+
+5.Điều trị triệu chứng
++Điều trị tại HS phải bồi phụ nước điện giải cho đúng.
++ Tổn thương da điều trị giống như với bỏng.
++ Chú ý đặc biệt chăm sóc đường hô hấp và làm ổn định huyết động, bù đủ dịch, chăm sóc vết thương bong và làm giảm đau.
++ Cimetidine (Tagamet) 300mg IV hay PO mỗi 6h,
++ Ranitidine (Zantac) 150mg IV hay PO 2 lần/ng
+
+6.XN máu, niệu: CBC, XN Chức năng thận; Cấy máu khi có chỉ định. XN film phổi khi có viêm phổi.
+Sinh thiết da: là XN xác định chẩn đoán nhưng không làm tại HS.

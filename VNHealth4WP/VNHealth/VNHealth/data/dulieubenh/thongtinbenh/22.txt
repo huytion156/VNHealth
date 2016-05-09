@@ -1,0 +1,500 @@
+﻿I. Đại cương
+- Là bệnh truyền nhiễm cấp tính đường hô hấp do virus influenza gây nên.
+- Đa số trường hợp, bệnh chỉ khu trú ở đường hô hấp trên với tiến triển lành tính.
+- Bệnh nhân mắc bệnh cúm thường bị tăng nhiệt, đau đầu, đau cổ họng, đau nhức bắp thịt khắp cơ thể, ho, mệt mỏi.
+- Cúm cũng có thể nhập vào làm viêm phổi và có thể đưa đến tử vong, phần lớn ở trẻ em và người lớn tuổi hoặc người yếu miễn nhiễm.
+- Thường gây thành dịch, thậm chí đại dịch, khi đó số người tử vong vì cúm rất nhiều.
+
+1.Tác nhân gây bệnh
++ Bệnh cúm là bệnh của loài chim và động vật có vú
+- gây ra do virút cúm (Influenza virus) dạng RNA thuộc nhóm Orthomyxoviridae
+- và được chia thành 3 týp A, B và C do sự khác nhau của các kháng nguyên.
+
++ Cấu trúc của virus cúm gồm hai phần :
+- Phần lõi có chứa một sợi ARN mang những thông tin di truyền.
+- Phần vỏ có 3 kháng nguyên :
+. S (Soluble): là kháng nguyên hoà tan.
+. H (Hemaglutinin): giúp virus bám dính vào tế bào cảm thụ
+. N (Neuraminidase): giúp giải phóng virus thế hệ sau ra khỏi tế bào.
+
++ Có 15 loại kháng nguyên H (H1-H15) và 9 loại kháng nguyên N (N1-N9), những cách tổ hợp khác nhau của hai loại kháng nguyên này tạo nên các phân týp khác nhau của vi rút cúm A.
+- Trong quá trình lưu hành của virút cúm A trong cộng đồng dân cư, 2 kháng nguyên này, nhất là kháng nguyên H, luôn luôn biến đổi.
+- Những biến đổi nhỏ liên tục gọi là trượt kháng nguyên (antigenic drift) thường gây nên các vụ dịch vừa và nhỏ.
+- Những biến đổi nhỏ dần dần tích lại thành những biến đổi lớn, tạo nên phân týp kháng nguyên mới gọi là gẫy kháng nguyên (antigenic shift). Những phân týp kháng nguyên mới này sẽ gây đại dịch cúm trên toàn cầu.
+
++ Sự ngưng kết hồng cầu xảy ra khi virus tiếp xúc với bề mặt của hồng cầu.
+- Người ta dựa vào hiện tượng này để nghiên cứu sự nhân đôi của virus và đo nồng độ kháng thể.
+
++ Virus cúm A, được chia dạng theo kháng thể của huyết thanh (serotype), như sau:
+- H1N1 "cúm tây Ban Nha".
+- H2N2 "cúm Á châu".
+- H3N2 "cúm Hong Kong".
+- H5N1 cúm "gia cầm" trong hai năm 2006-7.
+- H7N7 cúm có khả năng lạ, gây cúm gia cầm và người.
+- H1N2 gây cúm ở người và heo.
+- H9N2, H7N2, H7N3, H10N7.
+
++ Virus cúm B gây cúm ở người nhưng tỉ lệ ít hơn.
+- Loai B thay hình đổi dạng chậm hơn loại A. và do đó chỉ có 1 dạng huyết thanh.
+- Con người thường gặp virus cúm loại B từ bé và thường có miễn nhiễm nhưng không có được lâu vì virus cúm B thường cũng đổi dạng.
+- Nhưng vì đổi chậm nên virus cúm loại B không gây những trận dịch lớn như A.
+
++ Virus cúm C gây cúm ở người và heo, có khả năng gây dịch nặng.
+- Tuy nhiên loại C hiếm hơn và ở trẻ em không trầm trọng gì mấy.
+
+2. Dịch tễ học
++Lịch sử
+- Triệu chứng do virus cúm được Hippocrates mô tả rành mạch khoảng 2400 năm trước
+- Trận dịch cúm đầu tiên ghi chép khá rõ trong lịch sử là dịch năm 1580, bắt đầu từ châu Á lan sang châu Phi và đến châu Âu.
+- Cúm Nga 1889-90 chết 1 triệu H2N2 (?)
+- Cúm Tây Ban Nha 1918-20 chết 40 triệu H1N1
+- Cúm Á châu 1957-58 chết 1 tới 1.5 triệu H2N2
+- Cúm Hong Kong 1968-69 0.75 tới 1 triệu H3N2
+
++ Nặng nhất là trận cúm mang tên cúm Tây Ban Nha - do dòng H1N1.
+- Khoảng 2 - 20% người mắc bệnh bị chết (cao hơn tỉ lệ tử vong 0.1 % của loại cúm thông thường).
+- Một đặc điển của dịch cúm này là đa số người chết thuộc tuổi khá trẻ, 99% tử vong tuổi nhỏ hơn 65, và 50% ở tuổi 20 - 40.
+(so với cúm thông thường làm chết trẻ nhỏ và người già trên 65).
+- Người ta ước lượng đợt cúm 1918-1919 giết chết khoảng 2.5 - 5% dân số toàn thế giới.
+
++ Bệnh rất dễ lây
+- lây rất nhanh trong cộng đồng.
+- Trong các vụ dịch, có đến 30-60% dân cư trong vùng có dịch bị mắc bệnh.
+- Các vụ dịch xuất hiện không theo chu kỳ rõ ràng.
+
++ Đường lây :
+- chủ yếu là đường hô hấp.
+- Các giọt nước bọt rất nhỏ của người bệnh dễ dàng lọt vào đường hô hấp của người tiếp xúc và gây bệnh nếu người bị nhiễm không có miễn dịch tương ứng.
+- Người bệnh có thể lây cho người khác từ 6 ngày trước khi có triệu chứng cho dến 1-2 tuần sau khởi bệnh.
+
++ Sự thay đổi kháng nguyên (nhất là virus typ A) làm giảm khả năng miễn dịch của những người đã từng bị mắc cúm trước đó,
+- do đó làm tăng tỷ lệ mắc bệnh trong cộng đồng, gây nên những vụ dịch, thậm chí đại dịch nếu sự thay đổi kháng nguyên nhiều và đột ngột.
+- Bệnh thường xảy ra vào mùa lạnh, từ cuối thu đến mùa xuân năm sau.
+- Dịch đạt đến cao điểm 1-2 tuần sau khi khởi đầu và kéo dài khoảng 1 tháng.
+- Tử vong thường xảy ra ở những người có nguy cơ bị biến chứng cao. Đó là những người già yếu (trên 65 tuổi), phụ nữ có thai, có các bệnh về chuyển hoá , có bệnh tim phổi mạn tính, suy thận mạn, những người suy giảm miễn dịch..
+
+3. Sinh lý bệnh
++ Với cúm thường
+- Sau khi vào cơ thể theo đường hô hấp, virus bám dính rồi thâm nhập vào tế bào biểu mô của đường hô hấp trên và nhân lên ở đó.
+- Trong quá trình nhân lên và phát triển của vi-rút bên trong tế bào, vi-rút làm rối loạn chuyển hoá tế bào và phá vỡ tế bào lành rồ tiếp tục phá vỡ các  tế bào khác.
+- Quá trình này xảy ra khá nhanh nên chỉ trong một thời gian ngắn, virus có thể lan toàn bộ niêm mạc đường hô hấp trên, có khi lan đến tận phế nang. - Các tế bào biểu mô sẽ sung huyết, phù nề hoại tử và bong ra. Sự bong ra của niêm mạc đường hô hấp trùng với sự xuất hiện sốt và sổ mũi.
+- Tuy nhiên sau khi khỏi bệnh, chúng thường được thay thế bởi các tế bào biểu mô mới từ lớp tế bào mầm bên dưới.
+
++ Với cúm nặng
+- Giống như H5N1, H1N1...sự xâm nhập và nhân lên của virus là nguyên nhân kích thích cơ thể sản sinh một lượng lớn các cytokine (là các protein, peptide hay glycoprotein có chức năng trong quá trình truyền thông tin giữa các tế bào).
+- Lượng lớn các cytokine sinh ra bất thường này là nguyên nhân của "cơn bão cytokine". Các cytokine lại hoạt hóa các tế bào miễn dịch như lympho bào T và đại thực bào, kích thích chúng sản sinh thêm nhiều cytokine.
+- Bình thường, quá trình này được kiểm soát nhưng trong một số trường hợp phản ứng của các tế bào đối với cytokine vượt khỏi ngưỡng và vô số tế bào tại một vị trí được hoạt hóa.
+- Virus cúm được cho là một trong những nguyên nhân của những cơn bão phản ứng này. Hậu quả của những cơn bão cytokine là sự tán phá các mô, các cơ quan.
+- H5N1 và H1N1 đều có khả năng xâm nhập các phế nang của phổi, gây kích thích quá ngưỡng hệ thống miễn dịch do một lượng lớn cytokine được sản xuất trong các tế bào của phổi dẫn đến xâm nhập của bạch cầu.
+- Nói một cách đơn giản, các bạch cầu cùng "kéo nhau về phổi". Hậu quả, tương tự như một dòng cổ động viên hay một đám đông quá khích, chúng hủy hoại mô phổi, làm tăng tiết dịch viêm gây tràn dịch phổi và biểu hiện khó thở của bệnh nhân xuất hiện.
+- Do đặc điểm của quá trình bệnh lý nên cơ thể có hệ miễn dịch khỏe mạnh lại mẫn cảm với bệnh hơn. Chính vì vậy những người trẻ tuổi lại mẫn cảm hơn trẻ em hay người già.
+
+4. Lâm sàng
+a. Thể điển hình
++ Thời gian ủ bệnh
+- Kéo dài 1-3 ngày, trung bình 48 giờ.
+- Bệnh khởi phát đột ngột với sốt, ớn lạnh, nhức đầu, sổ mũi, đau cơ, mệt mỏi.
+
++ Thời kỳ khởi phát
+- Thường đột ngột, sốt cao 39-400C,
+- rét run, nhức đầu, buồn nôn, đau mỏi toàn thân.
+
++ Thời kỳ toàn phát: có 3 hội chứng:
+* Hội chứng nhiễm trùng:
+- Sốt : đột ngột và tăng lên nhanh chóng trong những ngày đầu tiên, có khi lên đến 40 độ C kèm ớn lạnh; Sau đó giảm dần và trở lại bình thường trong vòng 1 tuần.
+- Mệt mỏi toàn thân, chán ăn, môi khô, lưỡi bẩn.
+
+* Hội chứng đau lan toả:
+- Nhức đầu: quanh hốc mắt, vùng trán hay thái dương. Có trường hợp ở vùng chẩm.
+- Nhức đầu thường giảm dần từ ngày thứ ba đến ngày thứ năm, gần tương ứng với cơn sốt.
+- Đau cơ khớp : đau toàn thân, nhưng rõ nhất là ở cẳng chân và vùng thắt lưng.
+
+* Dấu hiệu viêm long đường hô hấp trên:
+- Thường có sổ mũi, ho khan, đôi khi có đàm, rát họng.
+- Khám thực thể : có khi không phát hiện gì.
+
++ Nhiễm virus typ B có thể gặp các triệu chứng ở mắt: đau mắt, sợ ánh sáng, viêm kết mạc.
+
++ Tiến triển :
+- bệnh thường tự hồi phục trong vòng 4-7 ngày khi không có biến chứng.
+- Tuy nhiên chán ăn, ho và mệt mỏi còn kéo dài đến 3 tuần sau, nhất là ở người già.
+
+b. Cúm ác tính
++ Có biểu hiện của hội chứng suy hô hấp cấp do virus cúm gây ra.
+- Thường gặp ở những người suy hô hấp, có bệnh van hai lá, phụ nữ có thai, già yếu hay có suy giảm miễn dịch.
+
++ Lâm sàng:
+- thở nhanh, tím đầu chi, phổi có ran nổ hai bên.
+- Có thể có dấu suy tim phải và rối loạn ý thức.
+- Hiếm hơn có thể viêm cơ tim, viêm màng ngoài tim, suy thận, suy gan.
+ 
++ X quang phổi :
+- mờ lan toả ở hai phổi.
+- Bệnh nhân thường tử vong do thiếu Oxy nặng.
+
+c.Biến chứng
++ Bội nhiễm phế quản-phổi do vi khuẩn; đây là biến chứng thường gặp nhất của cúm.
+- Tác nhân gây bệnh thường là Haemophilus influenza, phế cầu, liên cầu, tụ cầu vàng..
+- thường gặp ở người già và người bị suy hô hấp mạn tính.
+- Triệu chứng báo hiệu thường là sốt tăng trở lại sau khi đã giảm xuống 1-2 ngày.
+- Bệnh nhân ho nhiều kèm khạc đàm, đau ngực.
+- Nghe phổi có nhiều ran nổ, có thể có hội chứng đặc phổi hoặc viêm phế quản.
+- Có thể dùng kháng sinh phòng bội nhiễm ở những người có nguy cơ.
+
++ Bội nhiễm Tai-Mũi-Họng; Hiếm gặp hơn, chủ yếu ở trẻ em, bao gồm:
+- viêm tai giữa
+- viêm xoang
+- viêm thanh quản
+
++ Biến chứng khác; Rất hiếm gặp, gồm có:
+- viêm cơ tim, viêm màng ngoài tim
+- viêm màng não lymphô có hoặc không kèm dấu hiệu viêm não
+- sẩy thai ở phụ nữ có thai
+- Hội chứng Reye’s:
+. phù não, hạ đường huyết, tổn thương tế bào gan và thận
+. thường chỉ gặp ở trẻ dưới 15 tuổi có dùng Aspirin để hạ sốt.
+- Hội chứng Guillain - Barre
+5. Chẩn đoán
+a. Chẩn đoán cúm thường dựa vào :
++ Lâm sàng
+- Các triệu chứng nhiễm virus nói chung: sốt cao đột ngột, mệt mỏi, chán ăn..
+- Hội chứng đau
+- Dấu hiệu viêm long đường hô hấp trên.
+
++ Yếu tố dịch tễ : Có nhiều người cùng mắc bệnh trong vùng bệnh nhân đang sống.
+
++ Chẩn đoán xác định
+- Phân lập virus : bằng kỹ thuật PCR có thể phân lập virus trong dịch xuất tiết mũi họng hay khí quản. Hoặc cấy trên tổ chức phôi gà.
+- Chẩn đoán huyết thanh:
+. Phương pháp ức chế ngưng kết hồng cầu (Hemagglutination inhibition) hoặc cố định bổ thể (Complement fixation).
+ Cần lấy máu 2 lần, cách nhau 7-10 ngày.
+ Kết quả (+) khi hiệu giá đạt 1/1280 hoặc kháng thể lần 2 tăng gấp 4 lần so với lần đầu.
+(Các phương tiện chẩn đoán xác định bằng phương pháp huyết thanh học hay phân lập virus rất đắt và không thực tế. Chúng thường chỉ dành cho các nghiên cứu dịch tễ học, phục vụ công tác dự báo và làm vaccine).
+
+b. Chẩn đoán biến chứng
+Dựa vào các triệu chứng lâm sàng và các xét nghiệm liên quan.
+
+c. Chẩn đoán phân biệt
+- Trên lâm sàng, rất khó phân biệt với các bệnh do các loại virus khác như virus parainfluenza, rhinovirus, adenovirus.. gây ra.
+- Chủ yếu dựa vào yếu tố dịch tễ.
+- Phân biệt với viêm phổi do Mycoplasma, Chlamydia, viêm họng do các vi khuẩn..Các bệnh này thường không tự giới hạn và đáp ứng với kháng sinh thích hợp.
+ 
+6. Điều trị
+a. Nguyên tắc
+- Không có điều trị đặc hiệu.
+- Chủ yếu điều trị triệu chứng và các biến chứng.
+- Nâng cao thể trạng bệnh nhân .
+
+b. Điều trị cụ thể
+- Nghỉ ngơi, ăn uống và bù nước đủ cho bệnh nhân.
+- Chỉ hoạt động trở lại dần dần khi hồi phục, nhất là những trường hợp nặng.
+- Nếu bệnh nhân sốt cao : hạ nhiệt bằng Paracetamol 500 mg x 3-4 lần/ ngày.
+- Không dùng Aspirin hay các dẫn xuất có Salicylate khác, nhất là cho trẻ em.
+- Vitamin C, 1 -2 g/ ngày.
+- Các thuốc điều trị triệu chứng (kháng histamin, long đàm, giảm ho..): chỉ dùng khi cần thiết.
+- Nếu có ho khan và đau sau xương ức có thể dùng Codeine, 16 - 64 mg mỗi 4 -6 giờ.
+- Đối với các bệnh nhân có nguy cơ cao ( trẻ sơ sinh, người già, người có suy hô hấp mạn tính, suy tim.. ) có thể cho kháng sinh phòng bội nhiễm.
+- Thuốc chống virus đặc hiệu : Ribavirin, Amantadine và Rimantadine chỉ có hiệu lực nhưng không cao lắm với virus cúm typ A và phải dùng rất sớm ngay sau khi nhiễm virus .
+- Điều trị các biến chứng :
+Kháng sinh thích hợp nếu có bội nhiễm vi khuẩn ( chủ yếu để kháng lại Tụ cầu, Phế cầu và H. influenza ).
+Bảo đảm hô hấp. Trường hợp hội chứng Reye’s: truyền Glucose, chống phù não.
+- Điều trị cúm ác tính :
+ Theo dõi và điều trị tại phòng Hồi sức cấp cứu.
+ Hồi sức hô hấp và các biện pháp khác : thở Oxy, thở máy, cân bằng nước-điện giải, kháng sinh.
+
+7. Phòng bệnh
+- Tuyên truyền rộng rãi kiến thức về cúm cho nhân dân.
+- Cách ly bệnh nhân nghi cúm.
+- Không cho những người có bệnh tim mạch mạn tính, già yếu..tiếp xúc với bệnh nhân cúm.
+- Nếu có tiếp xúc, có thể dự phòng bằng Amantadine ( hay Rimantadine ) 200 mg/kg/ngày x 3-7 ngày.
+- Khả năng bảo vệ khoảng 70% đôïi với virus cúm A, nhưng không có hiệu quả đối với virus B.
+- Thuốc kháng virus mới Ribavirin, dùng đường uống hoặc khí dung, tỏ ra có hiệu quả tốt trong dự phòng và điều trị bệnh cúm.
+- Trên thế giới, người ta thường chủng ngừa vaccine vào đầu mùa thu (trước mùa dịch hàng năm).
+Thuốc vắc-xin bệnh cúm (Vaxigrip):
+là loại vắc-xin tinh chất, không tác hại.
+Mỗi 0,5ml dung dịch vắc-xin có chứa antigen:
+. A/New Caledonia/20/99 (H1N1) - 15mg haemagglutinin,
+. A/Moscow/10/99 (H3N2) - 15 mg haemagglutinin,
+. B/Hong-Kong 330/2001 - 15 mg haemagglutininin.
+Vắc-xin điều chế từ virus cấy trong trứng gà và được formaldehyde làm cho vô hại.
+Nhưng vì các dòng siêu vi cúm thay đổi thường xuyên, vắc-xin chống cúm có thể không ngăn cản đươc tất cả loại cúm - và thường được thay đổi theo từng năm, từng trận dịch cúm.
+- Vaccine thường được sản xuất dựa trên các virus cúm gây dịch những năm trước, thường có hiệu quả bảo vệ tốt (khoảng 65 - 70%). Thời gian bảo vệ 3 - 6 tháng.
+- Vì bệnh cúm thường tự giới hạn và tỷ lệ tử vong không cao nên vaccine cúm không được đưa vào chương trình tiêm chủng đại trà.
+- Tuy nhiên khi có đột biến của virus thì người đã chủng ngừa vẫn có thể mắc cúm.
+
++ Thuốc ngừa bệnh cúm
+- Biện pháp đơn giản tốt nhất để phòng ngừa cảm cúm là chích ngừa cảm cúm vào mỗi mùa thu.
+- Có hai loại thuốc ngừa cảm cúm:
+. Thuốc vaccin - (chứa siêu vi đã chế, nêu ở trên) dùng để chích, thường chích ở cánh tay. Chích ngừa cảm cúm được chấp thuận cho sử dụng ở những người trên 6 tháng, kể cả người khỏe mạnh và người có bệnh mạn tính.
+. Thuốc xịt mũi ngừa cảm cúm - một loại thuốc ngừa có chứa siêu vi cảm cúm còn sống và suy yếu để không gây cảm cúm, đôi lúc được gọi là LAIV (Live Attenuated Influenza Vaccine). LAIV được chấp thuận cho sử dụng ở những người khỏe mạnh từ 5 đến 49 tuổi và không có thai.
+- Trong mỗi thuốc ngừa đều có ba loại một virus cúm A (H3N2), một virus cúm A (H1N1), và một virus cúm B.
+- Khoảng hai tuần lễ sau khi chích ngừa, cơ thể sẽ sinh thêm kháng thể để đề kháng việc lây nhiễm siêu vi cảm cúm.
+-Những người nên chích ngừa hàng năm:
+. Người có nguy cơ cao bị biến chứng nghiêm trọng của cảm cúm
+. Những người từ 65 tuổi trở lên;
+. Những người cư trú tại các viện dưỡng lão và cơ sở chăm sóc dài hạn khác có người bị bệnh tật triền miên;
+. Người lớn và trẻ em từ 6 tháng trở lên bị bệnh tim hoặc phổi mãn tính, kể cả bệnh suyễn;
+. Người lớn và trẻ em từ 6 tháng trở lên cần chữa trị y tế thường xuyên hoặc nhập viện trong năm ngoái do bị bệnh chuyển hóa (giống như bệnh tiểu đường), bệnh thận mãn tính, hoặc suy giảm hệ miễn dịch (kể cả gặp vấn đề về hệ miễn dịch do dùng thuốc hay bị nhiễm siêu vi liệt bại kháng thể [HIV/AIDS (bệnh liệt kháng)] gây ra);
+. Trẻ em từ 6 tháng đến 18 tuổi được điều trị dài hạn bằng thuốc aspirin. (Nếu trẻ em dùng thuốc aspirin trong lúc các em mắc bệnh cúm thì có nguy cơ bị hội chứng Reye);
+ . Phụ nữ có thai trong mùa bệnh cúm;
+ . Tất cả trẻ em từ 6 đến 23 tháng;
+
++ Các biện pháp kiểm soát và phòng bệnh cúm gia cầm (gia cầm = "vật nuôi").
+Cần thiết lập các biện pháp an toàn sinh học - là hàng rào rất quan trọng ngăn chặn sự lây truyền virus cúm, bởi một số hoạt động sau:
+- Ngăn chặn sự tiếp xúc giữa gia cầm hoang dại và nội địa.
+- Ngăn chặn sự tiếp xúc giữa thủy cầm và gia cầm.
+- Ngăn chặn sự tiếp xúc giữa gia cầm, heo, người.
+- Tiêu hủy hoàn toàn gia cầm và động vật khác bị nhiễm virus cúm.
+- Giám sát vai trò của vịt trong việc duy trì và truyền nhiễm virus cúm gia cầm.
+- Triển khai giám sát dịch tễ virus cúm gia cầm gây nhiễm cho vịt lẻ tẻ và trên diện rộng.
+- Nghiên cứu đánh giá hiệu quả của vaccine trong việc làm giảm sự lây truyền và phóng thích virus cúm ở vịt.
+- Ngăn chặn sự vận chuyển gia cầm và các sản phẩm gia cầm từ vùng dịch chuyển đến.
+- Xây dựng hệ thống giám sát liên tục và kế hoạch hành động phòng dịch cúm trên qui mô toàn cầu.
+- Nghiên cứu và dự trữ sẵn vaccine phòng bệnh và kháng sinh.
+ II. Bệnh cúm H5N1
+1. Đại cương
+Bệnh cúm gà đã xuất hiện lần đầu tiên ở Hồng Kông năm 1997 và ở một số nước khác sau đó.
+Riêng ở nước ta từ năm 2004 đã xuất hiện cúm gà do virus cúm H5N1gây ra.
+Đây là một bệnh có khả năng gây dịch nhỏ tại địa phương cũng như dịch lớn ở nhiều vùng trong cả nước.
+Dịch này đã gây tổn thất rất lớn cho ngành
+chăn nuôi nói riêng cũng như cho nền kinh tế nói chung và gây nguy hiểm đến tính mạng của người dân.
+Tính đến 30.09.2005 ở nước ta đã có hơn 90 bệnh nhân nghi bị cúm H5N1, trong đó có 21 trường hợp tử vong.
+
+2. Tác nhân gây bệnh
+Virus type A thay đổi kháng nguyên rất nhanh và gây hầu hết các vụ dịch cúm.
+Hiện có 15 phó type của H (được ký hiệu H1-H15) và 9 phó type N (N1-N9).
+Virus cúm hiện đang gây dịch ở nước ta là loại H5N1.
+
+3. Dịch tễ học và cơ chế bệnh sinh
+a. Dịch tễ học
++ Nguồn bệnh:
+- Người đang nhiễm virus.
+- Gà hoặc gia cầm mắc bệnh: người ta nghi ngờ có sự lây lan khi tiếp xúc với gia cầm mắc bệnh hoặc môi trường bị nhiễm virus.
++ Đường lây:
+- Đường hô hấp, do nước bọt của người nhiễm virus khi ho, hắt hơi.
+- Do tiếp xúc với nước bọt của người bệnh hoặc với gia cầm bị bệnh rồi đưa vào mũi, miệng người lành.
+- Thời gian lây: 1 ngày trước khi có triệu chứng và kéo dài 3-7 ngày sau khi khởi bệnh.
+b. Cơ chế bệnh sinh: Tương tự cơ chế bệnh sinh của các bệnh cúm thông thường.
+
+4. Triệu chứng lâm sàng và cận lâm sàng
+Xem phần triệu chứng lâm sàng bệnh cúm.
+
+5. Chẩn đoán
+a. Chẩn đoán cúm thường dựa vào :
+- Các triệu chứng nhiễm vi-rút nói chung : sốt, mệt mỏi, chán ăn..
+- Tổn thương đường hô hấp, suy hô hấp cấp.
+- X quang phổi: có hình ảnh mờ lan tỏa cả hai phổi.
+- Yếu tố dịch tễ: Có tiếp xúc với bệnh nhân cúm H5N1 hoặc với gia cầm bị mắc bệnh.
+
+b. Chẩn đoán xác định :
++ Phân lập virus: bằng kỹ thuật PCR có thể phân lập virus trong dịch xuất tiết mũi họng hay khí quản.
++ Chẩn đoán huyết thanh: bằng phương pháp Ức chế ngưng kết hồng cầu hoặc phương pháp Cố định bổ thể.
+
+6. Điều trị
+a.Điều trị cúm thông thường
+- Nghỉ ngơi tại giường, ăn uống và bù nước đủ cho bệnh nhân.
+- Chỉ được hoạt động trở lại dần dần khi hồi phục, nhất là những trường hợp nặng.
+- Nếu bệnh nhân sốt cao: hạ nhiệt bằng Paracetamol 500 mg x 3-4 lần/ ngày.
+- Không dùng Aspirin hay các dẫn xuất có salixylat khác, nhất là cho trẻ em.
+- Vitamin C, 1 -2 g/ ngày.
+- Các thuốc điều trị triệu chứng (kháng histamin, long đàm, giảm ho..) :
+- Chỉ dùng khi thật cần thiết. Nếu có ho khan và đau sau xương ức có thể dùng Codein, 16-64 mg mỗi 4 -6 giờ.
+- Đối với các bệnh nhân có nguy cơ cao (trẻ sơ sinh, người già, người có suy hô hấp mạn tính, suy tim..) có thể cho kháng sinh phòng bội nhiễm. 
+- Điều trị nguyên nhân: Dùng thuốc kháng virus Tamiflu (Oseltamivir). Liều dùng: viên 75mg x 2 lần/ngày trong 5 ngày.
+- Điều trị các biến chứng : Kháng sinh thích hợp nếu có bội nhiễm vi khuẩn ( chủ yếu để kháng lại Tụ cầu, Phế cầu và H. influenza ). Bảo đảm hô hấp.
+
+b. Điều trị cúm có suy hô hấp
+- Cho thở Oxy, thở máy, cân bằng nước-điện giải, kháng sinh.
+- Xét nghiệm: công thức máu, khí máu, điện giải đồ..., chụp X quang phổi hàng ngày.
+
+7.Phòng bệnh H5N1
+- Tuyên truyền rộng rãi các kiến thức về cúm cho nhân dân.
+- Đặc biệt nhấn mạnh đến khả năng lây lan mạnh và nhanh, chú ý những vùng có gia cầm chết hàng loạt không rõ lý do.
+- Tất cả gia cầm trong phạm vi 3 km quanh nơi có dịch đều phải được tiêu huỷ.
+- Tuyệt đối không vận chuyển gia cầm từ vùng có dịch đến các vùng khác.
+- Gia cầm hoặc thịt gia cầm đều phải được kiểm dịch trước khi bán ra thị trường.
+- Tất cả bệnh nhân bị cúm hoặc nghi bị cúm do H5N1 đều phải được cách ly tuyệt đối.
+III. Bệnh cúm H1N1
+1.Đại cương
++ Trận cúm nặng nhất trong lịch sử loài người mang tên cúm Tây Ban Nha - do dòng H1N1 gây ra.
++ Một nhà quan sát viết : "Bệnh này tạo một triệu chứng kinh hoàng là chảy máu từ màng nhầy, từ mũi, dạ dày và ruột. Chảy máu cả từ tai và làm mụt bầm trên da ...".
++ Khoảng 2 - 20% người mắc bệnh bị chết (cao hơn tỉ lệ tử vong 0.1 % của loại cúm thông thường).
++ Một đặc điển của dịch cúm này là đa số người chết thuộc tuổi khá trẻ, 99% tử vong tuổi nhỏ hơn 65, và 50% ở tuổi 20 - 40. (so với cúm thông thường làm chết trẻ nhỏ và người già trên 65).
+
+(Hoa kỳ 1918)
++ Người ta ước lượng đợt cúm 1918-1919 giết chết khoảng 2.5 - 5% dân số toàn thế giới.
++ Trong vòng nửa năm đầu, 25 triệu người bị cúm mà chết (so với bệnh AIDS giết 25 triệu người trong 25 năm).
+
+2. Dịch tễ học
++ Một chủng  virus cúm mới đang gây thành dịch tại Mexicô và một số vùng của Mỹ. Ngày 2/5 đã lan đến châu Á (Triều tiên), 13/8/2009 đã có 2 trường hợp tử vong do H1N1 tại Việt nam...
+
++ Triệu chứng của một số bệnh nhân tại tại Mexicô tương tự biểu hiện cúm trầm trọng tiếp theo là viêm phổi và gây tử vong một số trường hợp.
++ Phân tuýp H1N1 gây bệnh ở người và virus cúm lợn được cho là nguyên liệu tạo ra biến chủng gây dịch này.
+
++ Vừa mới đây (4/2009), Tổ chức Y tế thế giới (WHO) và Trung tâm kiểm soát dịch bênh Mỹ (CDC) đã cảnh báo về nguy cơ gây đại dịch của chủng  virus cúm mới này, và đã nâng lên cấp độ 5-6/6 về nguy cơ đại dịch.
+
++ Ngày 27/4/2009 BYT đã có Công văn Số: 2492 /BYT-DPMT. V/v tăng cường phòng chống dịch cúm lợn A(H1N1) và bệnh dịch mùa hè...với các nội dung chính:
++ Cúm lợn là một bệnh hô hấp cấp tính ở lợn có tính lây truyền cao do một loại vi rút cúm A của lợn gây ra.
++ Con người thường nhiễm cúm lợn từ lợn bệnh, tuy nhiên ở một số trường hợp mắc không thấy có tiền sử tiếp xúc với lợn hoặc môi trường có liên quan đến lợn.
+
+        (Ả rập - 2009)
++ Theo Tổ chức Y tế thế giới đã có hiện tượng lây truyền từ người sang người.
++ Triệu chứng cúm lợn A(H1N1) cũng giống với cúm mùa, với các triệu chứng như sốt, ho, đau họng, đau cơ, nhức đầu, rùng mình, và mệt mỏi.
++ Một số người có thể có đi ngoài phân lỏng, buồn nôn, nôn.
++ Bệnh có thể nhẹ hoặc rất nặng. Những trường hợp bị viêm phổi nặng có thể dẫn đến suy hô hấp và tử vong.
++ Về việc sử dụng thực phẩm từ lợn, theo Tổ chức Y tế thế giới, chưa thấy khả năng cúm lợn lây sang người do ăn thịt lợn hoặc các sản phẩm từ lợn đã được chế biến đúng qui cách.
++ Vi rút cúm lợn bị tiêu diệt khi nấu ở nhiệt độ 70oC, tương tự như trong hướng dẫn chung về việc chế biến thịt lợn và các loại thịt khác.
++ Hiện tại các vắc xin cúm mùa khuyến cáo bởi WHO không có vi rút cúm lợn A(H1N1). Chưa có bằng chứng về khả năng bảo vệ chéo của vắc xin cúm mùa đối với cúm lợn.
+
+Chẩn đoán, điều trị và phòng lây nhiễm cúm A (H1N1)
+(Ban hành kèm theo Quyết định số 2762 /QĐ-BYT ngày 31 tháng 7 năm 2009 của Bộ trưởng Bộ Y tế)
+
+I. Chẩn đoán
+Dựa trên các yếu tố và triệu chứng sau:
+1. Yếu tố dịch tễ:
+Trong vòng 7 ngày:
++ Sống hoặc đến từ vùng có cúm A (H1N1).
++ Tiếp xúc gần với người bệnh, nguồn bệnh: nghi ngờ, có thể hoặc đã xác định mắc cúm A (H1N1).
+
+2. Lâm sàng:
+Bệnh diễn biến cấp tính và có một số biểu hiện sau đây:
++ Sốt.
++ Các triệu chứng về hô hấp:
+- Viêm long đường hô hấp.
+- Đau họng.
+- Ho khan hoặc có đờm.
+
++ Các triệu chứng khác
+- Đau đầu, đau cơ, mệt mỏi, nôn, tiêu chảy.
+- Nhiều trường hợp có biểu hiện viêm phổi nặng, thậm chí có suy hô hấp cấp và suy đa tạng.
+
+3. Cận lâm sàng:
++ Xét nghiệm chẩn đoán căn nguyên:
+- Real time RT-PCR là xét nghiệm xác định vi rút cúm A (H1N1). Bệnh phẩm là dịch ngoáy họng, dịch tỵ hầu, dịch phế quản (lấy càng sớm càng tốt).
+- Nuôi cấy vi rút: thực hiện ở những nơi có điều kiện.
+
++ Công thức máu: số lượng bạch cầu bình thường hoặc giảm nhẹ.
+
++ X quang phổi: có thể có biểu hiện của viêm phổi không điển hình.
+
+4. Tiêu chuẩn chẩn đoán:
+a) Trường hợp nghi ngờ:
++ Có yếu tố dịch tễ, sốt và triệu chứng viêm long đường hô hấp.
+
+b) Trường hợp xác định đã mắc bệnh:
++ Có biểu hiện lâm sàng cúm.
++ Xét nghiệm dương tính khẳng định nhiễm vi rút cúm A (H1N1).
+
+c) Người lành mang vi rút:
+Không có biểu hiện lâm sàng nhưng xét nghiệm có cúm A (H1N1). Những trường hợp này cũng phải được báo cáo.
+
+II. Điều trị
+1. Nguyên tắc chung:
++ Bệnh nhân phải được cách ly và thông báo kịp thời cho cơ quan y tế dự phòng.
++ Dùng thuốc kháng vi rút đơn độc hoặc kết hợp (oseltamivir, zanamivir) càng sớm càng tốt, kể cả các trường hợp tiếp xúc trực tiếp với người bệnh và có sốt.
++ Điều trị hỗ trợ trong những trường hợp nặng.
++ Điều trị tại chỗ ở những cơ sở thích hợp và yêu cầu tuyến trên giúp đỡ đối với những trường hợp nặng.
+
+2. Điều trị thuốc kháng vi rút:
++ Thuốc kháng vi rút:
+Oseltamivir (Tamiflu):
+* Người lớn và trẻ em trên 13 tuổi: 75mg 2 lần/ngày 5 ngày.
+* Trẻ em từ 1-13 tuổi: dùng dung dịch uống tuỳ theo trọng lượng cơ thể
+. <15 kg: 30 mg x 2 lần/ngày 5 ngày.
+. 16-23 kg: 45 mg x 2 lần/ngày 5 ngày.
+. 24-40 kg: 60 mg x 2 lần/ngày 5 ngày.
+. > 40 kg: 75 mg x 2 lần/ngày x 5 ngày.
+
+* Trẻ em dưới 12 tháng:
+. < 3 tháng: 12 mg x 2 lần/ngày x 5 ngày.
+. 3-5 tháng: 20 mg x 2 lần/ngày x 5 ngày.
+. 6-11 tháng: 25 mg x 2 lần/ngày x 5 ngày.
+
+Zanamivir: dạng hít định liều.
+Sử dụng trong các trường hợp: Không có oseltamivir, trường hợp chậm đáp ứng hoặc kháng với oseltamivir.
+Liều dùng:
+* Người lớn và trẻ em trên 7 tuổi: 2 lần xịt 5mg x 2 lần/ngày.
+* Trẻ em: Từ 5-7 tuổi: 2 lần xịt 5 mg x 1 lần/ngày.
+- Trường hợp nặng có thể kết hợp oseltamivir và zanamivir.
+- Trường hợp đáp ứng chậm với thuốc kháng vi rút: thời gian điều trị có thể kéo dài đến khi xét nghiệm hết vi rút.
++ Cần theo dõi chức năng gan, thận để điều chỉnh liều lượng cho phù hợp.
+
+3. Điều trị hỗ trợ
+a) Hạ sốt.
+Chỉ dùng paracetamol khi nhiệt độ trên 39oC
+(không dùng thuốc hạ sốt nhóm salicylate như aspirin).
+
+b) Bảo đảm chế độ dinh dưỡng và chăm sóc.
++ Dinh dưỡng:
+- Người bệnh nhẹ: cho ăn bằng đường miệng.
+- Người bệnh nặng: cho ăn sữa và bột dinh dưỡng qua ống thông dạ dày.
+- Nếu người bệnh không ăn được phải kết hợp nuôi dưỡng bằng đường tĩnh mạch.
+
++ Chăm sóc hô hấp: giúp người bệnh ho, khạc; vỗ rung vùng ngực; hút đờm.
+
+c) Sử dụng kháng sinh thích hợp khi có bội nhiễm vi khuẩn
+
+d) Hỗ trợ hô hấp khi có suy hô hấp:
++ Nằm đầu cao 30-450.
++ Cho người bệnh thở oxy với lưu lượng thích hợp.
++ Những trường hợp không đáp ứng với thở oxy cần hỗ trợ hô hấp bằng máy thở không xâm nhập hoặc xâm nhập.
+
+e) Phát hiện và điều trị suy đa phủ tạng.
+
+g) Những trường hợp nặng điều trị giống như cúm A (H5N1) nặng đã được Bộ Y tế ban hành.
+
+4. Tiêu chuẩn ra viện:
+a) Nơi không có xét nghiệm Real time RT-PCR:
++ Sau khi hết sốt 3 ngày.
++ Tình trạng lâm sàng ổn định.
+
+b) Nơi có xét nghiệm Real time RT-PCR:
++ Sau khi hết sốt 3 ngày.
++ Tình trạng lâm sàng ổn định.
++ Xét nghiệm lại Real time RT-PCR vi rút cúm A (H1N1) vào ngày thứ tư âm tính. Trong trường hợp xét nghiệm lại vào ngày thứ tư vẫn dương tính thì xét nghiệm lại vào ngày thứ sáu.
+
+5. Điều trị cúm A (H1N1) trong trường hợp dịch lây lan trong cộng đồng, không chẩn đoán xác định được bằng xét nghiệm:
+Các trường hợp nghi ngờ trong vùng dịch đã được xác định, có biểu hiện lâm sàng cần cách ly, mang khẩu trang, vệ sinh hô hấp và rửa tay:
+- Cách ly và điều trị triệu chứng.
+- Các trường hợp diễn biến nặng, người già, trẻ em dưới 5 tuổi, phụ nữ có thai, người có bệnh mạn tính: cách ly, điều trị tại bệnh viện theo hướng dẫn trên.
+
+III. Phòng lây nhiễm
+1. Nguyên tắc:
+Thực hiện các biện pháp cách ly và chống nhiễm khuẩn nghiêm ngặt.
+Khi phát hiện người bệnh nghi ngờ mắc cúm A (H1N1) phải khám, phân loại và cách ly kịp thời.
+
+2. Tổ chức khu vực cách ly trong bệnh viện:
++ Tổ chức các khu vực cách ly như đối với các bệnh truyền nhiễm gây dịch nguy hiểm khác.
+- Bố trí phòng khám sàng lọc phát hiện người bệnh nghi nhiễm cúm ở khu vực khám bệnh.
+- Bố trí buồng bệnh riêng cho các trường hợp nghi ngờ và mắc bệnh tại khoa truyền nhiễm và các khu điều trị riêng.
++ Hạn chế và kiểm soát người ra vào khu vực cách ly.
+
+3. Phòng ngừa cho người bệnh và khách đến thăm:
++ Tất cả người bệnh, người nghi ngờ mắc bệnh phải mang khẩu trang ngoại khoa khi ở trong buồng bệnh cũng như khi đi ra ngoài buồng bệnh. Người bệnh cần được hướng dẫn vệ sinh đường hô hấp.
++ Khi vận chuyển người bệnh cần báo trước cho nơi tiếp đón. Người bệnh và người chuyển người bệnh cần mang đầy đủ phương tiện phòng hộ cá nhân. Khử khuẩn các phương tiện vận chuyển sau khi dùng.
++ Trường hợp người nhà chăm sóc người bệnh hoặc tiếp xúc với người bệnh phải được hướng dẫn, đăng ký và áp dụng các biện pháp phòng lây nhiễm như nhân viên y tế.
+
+4. Phòng ngừa cho nhân viên y tế:
++ Rửa tay thường quy trước và sau khi thăm khám người bệnh bằng xà phòng hoặc dung dịch sát khuẩn nhanh.
++ Phương tiện phòng hộ gồm: Khẩu trang ngoại khoa, khẩu trang N95, kính bảo hộ, mặt nạ che mặt, áo choàng giấy dùng một lần, găng tay, mũ, bao giầy hoặc ủng. Phương tiện phòng hộ phải luôn có sẵn ở khu vực cách ly, được sử dụng đúng cách và khi cần thiết. Sau khi dùng được xử lý theo quy định của Bộ Y tế.
++ Bệnh phẩm xét nghiệm: Phải đặt trong túi nilon hoặc hộp vận chuyển đóng kín theo quy định đến phòng xét nghiệm.
++ Giám sát: lập danh sách nhân viên y tế trực tiếp chăm sóc, điều trị cho người bệnh, nhân viên làm việc tại khoa có người bệnh và nhân viên phòng xét nghiệm xử lý bệnh phẩm. Những nhân viên này cần được theo dõi thân nhiệt và các biểu hiện lâm sàng hàng ngày.
++ Những nhân viên mang thai, mắc bệnh tim phổi mạn tính tránh tiếp xúc với người bệnh.
+
+5. Xử lý dụng cụ y tế, đồ vải và dụng cụ dùng cho người bệnh:
++ Lau và khử khuẩn bề mặt buồng bệnh hai lần mỗi ngày bằng dung dịch khử khuẩn.
++ Dụng cụ y tế: Những dụng cụ dùng lại phải khử khuẩn ngay tại khu vực cách ly, sau đó chuyển về khu vực quy định để cọ rửa và tiệt khuẩn.
++ Phương tiện dùng cho người bệnh: phải tẩy uế và cọ rửa bằng xà phòng và hoá chất khử khuẩn. Người bệnh dùng dụng cụ phục vụ vệ sinh và dinh dưỡng riêng.
++ Đồ vải: Áp dụng phương pháp vận chuyển và xử lý như đồ vải nhiễm khuẩn nguy hiểm (thu gom đồ vải trong túi nilon màu vàng trước khi vận chuyển xuống nhà giặt. Không ngâm đồ vải tại khu vực cách ly. Giặt đồ vải trong các dung dịch khử khuẩn. Trong trường hợp phải giặt bằng tay thì trước khi giặt đồ vải phải ngâm khử khuẩn).
+
+6. Xử lý người bệnh tử vong:
++ Người bệnh tử vong phải được khâm liệm theo quy định phòng chống dịch, phải khử khuẩn bằng dung dịch khử khuẩn.
++ Chuyển tử thi đến nơi chôn cất hoặc hoả táng bằng xe riêng và đảm bảo đúng quy định phòng lây nhiễm.
++ Tử thi phải được chôn cất hoặc hoả táng trong vòng 24 giờ.
+
+7. Các biện pháp phòng bệnh chung:
++ Trong vùng có dịch phải đeo khẩu trang.
++ Tăng cường rửa tay.
++ Vệ sinh cá nhân, vệ sinh hô hấp, súc miệng + họng bằng các thuốc sát khuẩn theo hướng dẫn của Bộ Y tế.
++ Tránh tập trung đông người khi có dịch xảy ra
+

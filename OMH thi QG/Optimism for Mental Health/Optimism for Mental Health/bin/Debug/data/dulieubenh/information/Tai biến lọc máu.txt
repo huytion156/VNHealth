@@ -1,0 +1,264 @@
+﻿I Cấp thời (mọi khi lọc)
+   1.Nhiễm trùng
+               - Nhiễm trùng là nguyên nhân chính gây tử vong và nhiểm trùng đường vào mạch máu cũng như viêm phúc mạc là thường gặp nhất trên bệnh nhân; hầu hết chỉ do các khuẩn thường gặp, hiếm khi là nhiễm trùng cơ hội với chủng hiếm gặp.
+               - Điều trị tuân theo nguyên tắc chung, nhưng liều kháng sinh cần điều chỉnh tuỳ theo phương thức thẩm lọc sử dụng (lọc máu hay CAPD).
+
+   2.Giảm huyết áp
+               - Giảm huyết áp thường gặp trên bệnh nhân lọc máu trong khi hoặc ngay sau khi tiến hành thẩm lọc, nhưng thường tự ổn định hoặc đáp ứng tốt với dịch truyền bổ xung.
+               - Nó là hậu quả của việc rút nhanh dịch và các chất hoà tan.
+               - Các nguyên nhân gây tử vong tiềm tàng khác của hạ huyết áp cần phải xem xét cẩn thận ngay từ khi lựa chọn phương thức thẩm tách (như nhiễm trùng huyết, tác dụng của thuốc, rối loạn chức năng cơ tim, loạn nhịp, nhồi máu cơ tim, ép tim do tràn dịch màng ngoài tim).
+               - Các vấn đề làm giảm huyết áp hay gặp như xáo trộn điện giải cấp, thành mạch kém, phản ứng dị ứng, tắc khí - lại là vấn đề cần xem xét đầu tiên trên bệnh nhân lọc máu.
+
+  3.Tràn dịch gây ép tim
+               - Tình trạng ép tim có thể tiến triển cấp tính khi có máu chảy vào bao ngoài màng tim hoặc do tan cục máu đông có sẵn tuôn ra làm tổn thương trực tiếp tuần hoàn.
+               - Siêu âm tim có ích để phát hiện tình trạng tràn dịch màng ngoài tim. Siêu âm xác định được tình trạng suy sụp thất phải là một chỉ thị tốt nhất để chẩn đoán ép tim.
+               - Chọc màng ngoài tim cấp cứu có thể cần nếu tình trạng bệnh nhân xấu đi nhanh và nghĩ đến ép tim, truyền tĩnh mạch muối sinh lý để làm tăng áp lực đổ đầy khi tình trạng gây ép tim đã tạm ngừng.
+
+   4.Khó thở, phù phổi, tăng HA do quá tải dịch
+     a. Khó thở
+          + Khó thở thường gặp trên bệnh nhân thẩm lọc
+               - Hầu hết vì quá tải dịch, điều này thường gặp giữa hai kỳ lọc.
+               - Xét nghiệm sinh lý và ngay cả x quang ngực cũng có thể không rõ.
+               - Đầu mối chắc chắn nhất là đã gặp trong tiền sử và hiện có tăng cân.
+
+          + Điều trị cơ bản tăng thải dịch là bằng lọc máu, nhưng một vài phương sách khác là có thể sử dụng trong khi trì hoãn
+ (như phác đồ điều trị phù phổi trong suy thận).
+               - Cho bệnh nhân thở oxy; nitroglycerin dưới lưỡi.
+               - Truyền tĩnh mạch nitroglycerin hoặc nitroprussiate theo chuẩn độ.
+               - Uống các thuốc làm giảm tiền gánh như captoprin, nifedipine.
+               - Morphine có thể cho như với bệnh nhân không lọc máu.
+               - Lasix tiêm tĩnh mạch lãm dãn nhanh chóng tĩnh mạch phổi .
+               - Thở phương thức CPAP có thể áp dụng để tránh phải đặt ống NKQ.
+
+     b. Phù phổi (TK phù phổi cấp )
+* Phác đồ điều trị phù phổi trong suy thận
+               - Oxygen.
+               - Tiến hành lọc máu, hoặc thẩm phân màng bụng.
+               - Nitroglycerin (dưới lưõi hoặc tĩnh mạch); Nitroprusside; Nifedipine.
+               - Morphine.
+               - Lợi tiểu tác dụng quai như lasix (Loop diuretics)
+
+     c. Tăng huyết áp
+          + Một tác dụng ngoại ý khác của quá tải dịch nữa là tăng huyết áp trầm trọng bởi hầu hết bệnh nhân lọc máu có huyết áp lệ thuộc mức nào đó phần dịch tăng này.
+
+          + Đối với cơn tăng huyết áp ác tính (ví dụ huyết áp tăng quá cao và có dấu hiệu rối loạn các cơ quan đích cấp) điều trị không chỉ dùng nitroprusiat truyền tĩnh mạch mà còn phải tiến hành lọc máu khẩn cấp cứu để làm giảm thể tích máu.
+
+          + Điều cần chú ý là không nên làm huyết áp hạ quá nhanh cũng như không nên dùng các thuốc chống CHA tác dụng quá dài trước khi lọc để tránh làm giảm huyết áp quá đáng trong khi tiến hành lọc.
+
+   5.Đau ngực
+               - Khi đau ngực xuất hiện trên bệnh nhân lọc máu cần nghĩ tới bệnh lý mạch vành, lọc máu chính nó cũng là cơ hội phụ vào gây thêm stress thiếu máu cơ tim do làm giảm oxy máu và hạ huyết áp thời gian ngắn.
+               - Chẩn đoán MI bởi các tiêu chuẩn của điện tâm đồ và enzym thường không điển hình bởi lồng gép với các bất thường vẫn có trên bệnh nhân suy thận mãn giai đoạn cuối.
+               - Lọc máu thường bị trễ hoặc hoãn, nên nếu nghi ngờ có đau thắt ngực (angina) hoặc nhồi máu thì cần tránh đặt bệnh nhân vào tình trạng dễ gây stress tim mạch phối hợp thêm.
+               - Đau ngực còn do nguyên nhân viêm tràn dịch màng ngoài tim (hoặc ép tim), chúng thường xuất hiện đột ngột cả khi đang đáp ứng lọc máu tốt.
+               - Trong một vài trường hợp có thể dùng indomethacin để giảm đau.
+               - Tiêm truyền cocticoid vào màng ngoài tim hoặc mở cửa sổ màng ngoài tim thường chỉ là biện pháp sau cùng nếu cần thiết.
+
+   6. Xuất huyết
+               - Xuất huyết rất thường gặp trên bệnh nhân thẩm lọc bởi rối loạn chức năng tiểu cầu (điều này không sửa chữa được bởi liệu trình lọc máu), trên bệnh nhân lọc máu còn do dùng chống đông thời gian ngắn.
+               - Thường thấy mức hemoglobin chỉ khoảng 6-7 g/l nếu bệnh nhân không dùng erythropoetin.
+               - Thiếu máu mức độ vừa và nặng thường làm tăng đau ngực và khó thở; các triệu chứng khác gồm xuất huyết vào trong các cấu trúc như nội nhãn, nội sọ, màng ngoài tim, sau phúc mạc...
+               - Điều trị xuất huyết cấp thì tuân theo các nguyên tắc như cơ bản, cũng cần thiết lập lại qui trình lọc máu cho phù hợp; truyền máu để sửa chữa tình trạng thiếu máu nặng (khi hematocrite < 25%), cải thiện thời gian chảy máu; có thể phối hợp điều trị cấp với desmopressin (0.3 mcg/kg IV or SQ) hoặc estrogens (0.6 mg/kg IV).
+               - Đối với những trường hợp nguy cơ đe doạ tử vong cho truyền cryoprecipitate hoặc khối tiểu cầu.
+
+   7.Rối loạn chức năng thần kinh
+               - Rối loạn chức năng hệ thần kinh dạng hội chứng mất cân bằng thường gặp trong và ngay sau khi tiến hành lọc máu.
+               - Dấu hiệu đặc thù là đau đầu vừa, nôn, co giật cơ; nhiều trường hợp biểu thị trạng thái thay đổi tâm thần hoặc co giật như động kinh cơn lớn.
+               - Hội chứng được cho là do thay đổi nhanh dịch và các chất hoà tan trong lọc máu;
+               - Thường đáp ứng điều trị tốt với phương thức truyền manitol và dịch muối nhược trương trong khi lọc máu.
+               - Dĩ nhiên còn có nhiều nguyên nhân tiềm tàng khác gây rối loạn chức năng hệ thần kinh ở những bệnh nhân này (như xuất huyết nội sọ, bệnh não tăng huyết áp, nhiễm trùng, tác dụng không may của các thuốc), do đó cần thận trọng khi qui kết các bất thường thần kinh cấp cho hội chứng mà không chú ý tới các nguyên nhân kể trên.
+   8. Bất thường điện giải
+          + Tăng kali máu
+               - Thường là một cấp cứu do nguy cơ tới tính mạng ở bệnh nhân suy thận cấp hay suy thận mãn không thẩm lọc; nhưng nó hiếm khi là vấn đề nghiêm trọng với bệnh nhân đang được thẩm lọc; nó thường bùng lên do thực hiện chế độ ăn kiêng hoặc thẩm lọc không đúng.
+               - Trong điều kiện đặc biệt nó có thể là kết quả của các rối loạn lập đi lập lại như ly giải cơ, nhiễm trùng huyết, hoặc nhiễm toan nặng.
+               - Tăng kali máu thường đặc biệt nghiêm trọng vì nó thường vô triệu chứng cho tới khi tác dụng nguy hiểm tới tim mạch phát triển.
+               - Mặc dù nhiều bệnh nhân lọc máu chu kỳ dung nạp được với mức tăng kali trung bình (6-7 mEq/l) mà không có triệu chứng nào biểu hiện nhưng vẫn cần lưu ý nguy cơ tiềm tàng của nó bởi dễ chuyển nặng lên một cách nhanh chóng.
+               - Hơn nữa, điện tâm đồ vẫn có thể vẫn như bình thường trong khi kali máu đã tăng kịch liệt, vì thế mức kali máu phải thường xuyên được xét nghiệm kiểm tra.
+               - Nguyên tắc chỉ đạo chung trong điều trị kali máu cao trên bệnh nhân lọc máu cũng tương tự trên những bệnh nhân khác; nhưng cần chú ý tới những đặc điểm riêng như tránh quá tải dịch...
+               - Có một pp làm giảm kali máu một cách nhẹ nhàng là khí dung albuterol (salbutamol) với liều lớn hơn khi điều trị hen điển hình từ 4 đến 8 lần (với hen thường dùng 2,5 – 5 mg/lần khí dung 4 lần/ngay), cách này làm giảm nhanh mức kali máu trong vài giờ và ít gặp tai biến phụ.
+               - Một vấn đề quan trọng cần nhớ rằng tăng kali máu có thể dính líu đến ngưng tim trên bệnh nhân đang lọc máu bất cứ lúc nào; tăng kali máu có thể là nguyên nhân duy nhất gây ngưng tim hoặc là kết quả của ngừng tim do các nguyên nhân khác; do đó một bệnh nhân lọc máu bị ngưng tim cần coi như là do tăng kali máu và cho truyền ngay tĩnh mạch canxi và bicacbonat (theo hai dây khác nhau phòng kết tủa), tiếp tục duy trì cho tới khi tình trạng được cải thiện hoặc theo phương thức trợ giúp tăng cường hồi sinh tim (ACLS - advanced cardiac life support).
+
+          + Giảm canxi & tăng magne máu:
+               - Hội chứng giảm canci máu là hay gặp và có thể điều trị bằng vitamine D và bổ xung canci, đặc biệt trong khi truyền tĩnh mạch bicacbonat để làm giảm kali máu hoặc điều trị toan máu.
+               - Các triệu chứng giảm canci máu đáp ứng tốt với truyền tĩnh mạch calcigluconat hoặc calcichloride.
+               - Tăng magne máu trung bình thường gặp trên bệnh nhân ESRD và thường vô triệu chứng cho tới khi mức trong máu đạt quá cao (> 4 mg%), hội chứng cũng có thể do ăn hoặc sử dụng vô ý các thuốc nhuận tràng hoặc giảm acid dạ dày có chứa magne.
+               - Tiêm calci tĩnh mạch có tác dụng đối kháng trực tiếp với tác dụng thần kinh của tăng magne máu nhưng không có tác dụng bài tiết trên thận, chỉ lọc máu mới lấy được lượng magne thừa ra khỏi cơ thể.
+
+   9. Buồn nôn hoặc mệt lả sau khi lọc máu.
+               - Những cảm giác như vậy làm bệnh nhân thấy sợ lần lọc máu tiếp theo,
+               - Nhưng nếu bỏ 1 lần lọc máu thì sẽ có nhiều nguy hiểm hơn nữa.
+               - Sau lọc, bệnh nhân sẽ cảm thấy khá hơn sau một vài giờ,
+               - Và chắc chắn những cảm giác đó sẽ mất đi vào ngày hôm sau;
+               - Nếu không hết thì cần xem xét đến các nguyên nhân sau:
+
+     a. Hạ huyết áp hay huyết áp thấp:
+               - Hạ huyết áp hay huyết áp thấp là nguyên nhân phổ biến nhất.
+               - Trong quá trình lọc máu, lượng nước tích tụ trong cơ thể sẽ được loại bỏ,
+               - Khối lượng nước được loại bỏ càng nhiều thì bệnh nhân càng cảm thấy mệt mỏi, yếu ớt sau khi lọc máu.
+
+     b. Uống quá nhiều nước giữa các kỳ lọc máu
+               - Hiện tượng hạ huyết áp, chuột rút, nôn và mệt mỏi cũng do đã uống quá nhiều nước giữa các kỳ lọc máu.
+               - Lượng nước uống vào là điều bệnh nhân có thể kiểm soát được, vì vậy hãy để ý hạn chế lượng nước uống.
+
+     c.Các vấn đề với “cân khô”
+               - “Mức cân khô” là số cân thấp nhất mà bệnh nhân cần đạt được sau khi lọc máu.
+               - Nếu bệnh nhân thấy khoẻ, ăn uống tốt hơn thì có thể sẽ tăng cân và “số cân khô” có thể cũng tăng theo.
+               - Nếu sau một lần lọc máu mà số cân giảm xuống thấp hơn mức cân khô, thì bệnh nhân có thể cảm thấy mệt mỏi & buồn nôn.
+               - Tuy nhiên, do không biết đến điều đó, vẫn dùng chương trình đã được đặt sẵn để rút lượng nước dựa vào số “cân khô” cũ;
+               - Việc đó có thể làm hạ huyết áp, buồn nôn hay cảm giác mệt mỏi và bị chuột rút.
+               - Vì vậy, cần thay đổi số lượng nước rút bớt nếu bn tăng cân hay giảm cân.
+
+     d. Dùng các thuốc huyết áp
+               - Thông thường, huyết áp sẽ giảm trong quá trình lọc máu,
+               - Vì vậy bệnh nhân không nên dùng thuốc hạ huyết áp trước khi lọc máu.
+               - Nếu uống thuốc, huyết áp sẽ thấp đi, và khi lọc máu, quá trình rút bớt nước cũng làm giảm huyết áp, như vậy mức huyết áp sẽ quá thấp làm bệnh nhân thấy mệt.
+               - Nếu muốn dừng uống thuốc hạ huyết áp trước khi lọc máu cần thảo luận với bác sỹ.
+
+     e. Phản ứng dị ứng
+               - Một số bệnh nhân bị phản ứng dị ứng với máy lọc và cũng có thể gây nên tụt huyết áp, buồn nôn và yếu mệt.
+               - Vài người còn bị dị ứng mạnh , nhưng khi phản ứng nhẹ lại khó nhận biết và chỉ làm bệnh nhân thấy ốm mệt.
+               - Trường hợp này, cần thay đổi bộ lọc khác và bệnh nhân sẽ thấy khoẻ hơn
+
+     f. Nhiễm trùng
+               - Nhiễm trùng cũng có thể làm tụt huyết áp, buồn nôn và cảm giác yếu mệt.
+               - Thường xảy ra khi có một nhiễm trùng mới xuất hiện trong quá trình lọc máu,
+               - Dễ nhận biết vì bệnh nhân thường sốt, và thấy cực kỳ mệt mỏi ngay cả khi chưa lọc máu xong.
+               - Nhiễm trùng mãn tính làm bệnh nhân luôn mệt nên có thể làm tụt huyết áp và càng mệt mỏi hơn sau khi lọc máu.
+               - Sốt có thể hạ hoặc thậm chí không xảy ra trong khi lọc máu.
+
+     g. “Mất thăng bằng” lọc máu
+               - Là vấn đề xảy ra khi quá nhiều chất độc hại tích tụ, như là urê và creatinine, được loại bỏ khỏi cơ thể quá nhanh.
+               - Là những vấn đề xảy ra trong quá trình lọc máu khi máy lọc phải làm chức năng của thận trong vòng 4 giờ, trong khi thận thật sự thường làm trong 2 ngày.
+               - Thường việc loại bỏ những chất độc hại tích tụ giữa các kỳ lọc máu bệnh nhân chịu đựng được.
+               - Tuy nhiên, nếu số lượng chất độc hại tích tụ quá nhiều trong vòng 4 hay 5 ngày hoặc thậm chí lâu hơn, khi được loại bỏ chỉ trong vòng 4 giờ, thì có thể làm bệnh nhân quá mệt, gây choáng váng, buồn nôn, đau đầu và thậm chí bị co giật (động kinh).
+               - Thường xảy ra khi bệnh nhân bị lỡ một hay nhiều kỳ lọc máu.
+               - Với những bệnh nhân bị lỡ kỳ lọc máu, đặc biệt nhiều hơn 1 kỳ, phương pháp trị liệu có thể cần phải thay đổi, có thể chia thành nhiều lần lọc máu ngắn hơn, 2 đến 3 giờ một ngày trong vòng 3 ngày để bệnh nhân dần quen.
+
+     h.Thiếu máu nghiêm trọng
+               - Thiếu máu nghiêm trọng cũng làm tụt huyết áp và yếu ớt.
+               - Nếu bệnh nhân thường xuyên thấy quá yếu ớt sau mỗi kỳ lọc máu thì cần xem xét đến vấn đề thiếu máu hay là bị một nhiễm trùng nào đó.
+
+     i. Do dung dịch lọc Acetate
+               - Nhiều năm trước, chủ yếu lọc máu dùng dung dịch lọc Acetate.
+               - Dung dịch lọc Acetate thường làm bệnh nhân thấy đau đầu, mệt mỏi và tụt huyết áp;
+               - Hiện nay đã được thay bằng dung dịch lọc Bicarbonate nên bệnh nhân sẽ thấy khoẻ hơn.
+
+   10. Những rối loạn hay gặp khác
+          + Có một số rối loạn khác thường gặp trên bệnh nhân lọc máu nhưng ít đe doạ tử vong như:
+     a.Táo bón
+               - Có thể cho uống sorbitol (30-60 ml dung dịch 70%) để làm mềm và lỏng phân.
+               - Thuốc nhuận tràng có magne là chống chỉ định,
+               - Còn thụt bằng nước với những trường hợp táo bón mãn có thể dẫn tới giảm natri máu do hấp thụ nước,
+               - Cũng như thụt với các chất có photphat có thể làm tăng photphat máu trên bệnh nhân suy thận mãn.
+
+     b. Co giật cơ gây đau,
+               - Thường xảy ra ban đêm có thể đáp ứng tốt với quinine sulfate liều 325 mg uống trước khi ngủ hoặc seduxen;
+               - Nhưng triệu chứng "chân không yên" thì thường rất khó điều trị.
+
+     c. Rét run:
+               - Trên 60% xuất hiện khoảng 30’ đến 1 giờ đầu khi tiến hành lọc máu, thường kéo dài 30’-1 tiếng; song song rét run có sốt và tăng huyết áp.
+               - Máu trên đường tuần hoàn ngoài cơ thể có khi thẫm màu (do mao quản co thắt làm giảm sự trao đổi và bão hoà oxy).
+               - Nguyên nhân thường do chí nhiệt tố, có thể vì ô nhiễm đặc biệt do rửa formon không sạch và còn do cơ địa bệnh nhân hoặc dị ứng màng quả lọc;
+               - Xử trí thưòng đáp ứng tốt với các thuốc kháng histamine, cocticoid, aminophiline và nên cho an thần phối hợp.
+II. Biến chứng sau vài tháng-vài năm
+   1. Lọc không đầy đủ
+               - Lọc không đầy đủ là không cải thiện được tình trạng chung và có triệu chứng của ure cao: mệt, rối loạn tiêu háo, buồn nôn, bứt rứt chân tay, mất ngủ, huyết áp cao không điều chỉnh được, đôi khi viêm màng ngoài tim cấp hoặc quá tải nước gây phù phổi. Kali máu tăng, phospho tăng, thiếu máu nhiều, albumin giảm.
+               - Nguồn gốc của lọc không đầy đủ phải nghiên cứu và điều chỉnh ngay.
+               - Nguyên nhân do chương trinh không phù hợp với bệnh nhân, hoặc thực hiện không hoàn toàn chương trình lọc máu, hoặc không kiểm tra y tế chặt chẽ.
+               - Thường xảy ra với bệnh nhân lọc máu tại nhà.
+               - Việc mất dần chức năng thận tồn dư ở bệnh nhân lọc máu trong thời gian đầu cũng là nguyên nhân đặc biệt ở bệnh nhân có lọc máu thời gian ngắn.
+               - Điều trị hội chứng lọc không đầy đủ cần phải rõ ràng đúng đắn, nếu như chương trình lọc đã thích hợp mà triệu chứng vẫn còn dai dẳng thì cần phải tìm một bệnh không phụ thuộc vào lọc máu (ung thư tạng hoặc lao).
+
+   2. Bệnh xương ở BN thận nhân tạo
+          + Từ khi có suy thận mãn, các rối loạn chuyển hoá của ion có hoá trị 2 kéo theo cấu tạo của xương bị tổn thương gọi là bệnh xương do thận.
+          + Việc lọc máu chỉ chữa một cách không hoàn toàn rối loạn này và góp phần mở ra một bệnh xương mới – đó là bệnh xương do nhiễm nhôm.
+          + Biểu hiện lâm sàng thường tất cả các dạng thương tổn xương. Nó gồm các dấu hiệu tại xương và ngoài xương.
+               - Tổn thương xương là đau, đau khi cử động, thường ở vùng chịu lực (xương chậu, xương đùi, xương chày), gãy xương tự nhiên ở xương ống, méo mó. Bệnh nhân có dáng vẻ ông già.
+-Ngoài xương có khi là biểu hiện ở cơ như đau thắt lưng hoặc các dấu hiệu riêng như mất ngủ, mệt, ngứa, suy nhược.
+          + Khám lâm sàng và sinh hoá, Xquang có thể định hướng thương tổn nhưng không chính xác.
+          + Chỉ có làm sinh thiết mới chính xác. Hình thái tổ chức học về xương mất canxi nhờ cách đo số lượng các tổ chức tạo cốt bào sẽ cho chẩn đoán thương tổn xương.
+
+   3. Cường cận giáp thứ phát
+          + Sự tăng tiết hocmon và phì đại tuyến cận giáp ở bệnh nhân suy thận mãn báo trước tăng phosphat cũng như giảm 1-25 (OH)2- cholecalciferol.
+          +Tăng hóc môn cận giáp kèm theo các triệu chứng ở xương và ngoài xương với các mức độ khác nhau như ngứa dai dẳng, mất ngủ.
+          + Sinh hoá tăng phospho máu khó điều trị và dễ dàng giảm canxi máu bằng vitamin D3. Tăng phospho kiêm nguồn gốc từ xương.
+          + Xquang chụp xương có những tổn thương:
+               - Xương bàn tay có bờ xương mờ ở đốt 3 ngón giữa và ngón trỏ;
+               - Xquang sọ nghiên có dấu ấn ngón tay; Xương ức lồi;
+               - Xương sọ méo mó hoặc gẫy tự nhiên; Xương cột sống hình ảnh cây tre.
+          + Sinh thiết: tiêu xương có nhiều hốc xem lẫn xơ dày đặc, tổ chức xương không đồng nhất.
+          + Điều trị: giữ canxi máu 2,6mmol/lít nhờ 1-25 (OH)2- cholecalciferol. Cải thiện dấu hiện lâm sàng, sinh hoá và Xquang có thể đạt được dưới sự theo dõi chặt chẽ của bác sỹ. Giảm khối lượng tổ chức cận giáp bằng cắt 7/8 tuyến.
+
+   4. Bệnh nhuyễn xương
+          + Bệnh liên quan sự giảm thứ phát 1-25 (OH)2- cholecalciferol gây ra tổn thương thận.
+          + Yếu tố khác cũng là nguyên nhân gây ra giảm phospho máu bất thường trong tổng hợp và bệnh collagene.
+          + Sự bất thường tăng lên của tinh thể xương, toan chuyển hoá.
+          + Thực tế lắng đọng nhôm ở xương do nhiễm nhôm qua nước lọc hoặc trong hấp thụ của dạ dày muối nhôm để điều chỉnh tăng phospho máu.
+          + Lâm sàng: Đau xương chậu, ngực với đau cơ thắt lưng hoặc gẫy xương tự nhiên ở xương ống đặc biệt xương sườn.
+          + Bất thường về sinh hoá: giảm canxi máu, giảm phospho máu là triệu chứng gợi ý. Phosphat tazakin tăng cùng phản ứng miễn dịch của hocmon cận giáp và osteocalcine. Chỉ số 1-25 (OH)2- cholecalciferol đôi khi giảm.
+          + Đo nhôm trước và sau tiêm tĩnh mạch desferrioxamine góp phần chẩn đoán phân biệt giữa nhuyễn xương và ngộ độc nhôm.
+          + Điều trị:
+               - Điều trị nhuyễn xương tiến triển bằng cách dùng 1-25 (OH)2- cholecalciferol. Kết quả dựa vào tổn thương xương.
+               - Khi không có lắng đọng nhôm thì nghiệm pháp vitamin cải thiện được về mặt lâm sàng, sinh hoá và Xquang một cách nhanh chóng hoặc chậm chạp.
+               - Khi nhuyễn xương nhóm thì ngược lại điều trị bằng vitamin không có kết quả, nó làm cho canxi máu tăng lên nhiều.
+               -Tiêm tính mạch desferrioxamine 1g/1 tuần vào cuối buổi lọc thì cho phép giảm nhôm của tổ chức.
+
+   5. Bệnh tim mạch
+          + Tai biến tim mạch (đau thắt ngực, nhồi máu cơ tim, tai biến mạch máu não) thường có ở bệnh nhân suy thận mãn chạy thận nhân tạo đưa đến tử vong nhiều gấp 3 lần người bình thường.
+          +Tai biến này do xơ vữa động mạch là một biến chứng lâu dài của bệnh nhân lọc máu.
+          + Có nhiều yếu tố tham gia vào tổn thương mạch:
+               - Cao huyết áp, tăng triglycerin máu, hoạt hoá tiểu cầu, canxi hoá mạch máu.
+               - Cao huyết áp dai dẳng kéo dài cũng đóng vai trò trong xơ vữa động mạch.
+          + Bệnh cơ tim ở bệnh nhân lọc máu chia làm 2 loại nhờ echo và doppler:
+               - Loại 1: bệnh giãn và chít hẹp có giảm debit máu;
+               - Loại 2: phì đại trung tâm không làm thay đổi debit máu.
+               - Trong một số trường hợp người ta thấy phì đại buồng tim do bệnh cơ tim tắc nghẽn.
+          + Các yếu tố này do các bệnh tim theo hai nguyên tắc:
+               - Một số đưa đến bệnh tim âm thầm như bệnh van tim, cao huyết áp, suy vành;
+               - Liên quan điều trị lọc máu với các chỉ số như debit tim tăng do fistule, thiếu máu, quá tải nước, ure tăng, dịch lọc acetat.
+
+   6. Ngộ độc nhôm
+          + Bệnh nhân lọc máu biểu hiện quá tải nhóm chia hai loại:
+               - Dịch lọc dùng nước của thành phố chứa sulfat nhôm và
+               - Hydroxyl nhôm điều trị phospho máu cao.
+          + Nhôm được tích luỹ trong tất cả các tổ chức đặc biệt trong não, xương, hồng cầu, gan, lách và đường tiêu hoá.
+          + Biểu hiện thường gặp là bệnh não tiến triển nặng, tổn thương xương, bệnh nhuyễn xương do nhôm.
+          + Bệnh não do nhôm được miêu tả dưới tên là sa sút trí tuệ do lọc máu bắt đầu âm ỉ từ 6 tháng đến 2 năm kể từ khi bắt đầu lọc máu.
+          + Nó kèm rối loạn vận ngôn và giảm sự chú ý, kèm theo thiếu máu.
+          + Để tránh ngộ độc nhôm phải giảm đến mức thấp nhất lượng nhôm đưa vào.
+          + Nước để lọc máu phải qua thẩm thấu ngược hoặc qua bộ phận loại bỏ chất khoáng, lượng nhôm cho phép không vượt quá 10 mg/l.
+          + Để điều trị phospho máu cao cần thay cacbonate calcium hoặc magnesium để đẩy hydroxyde alumine.
+
+   7. Quá tải sắt
+               - Quá tải sắt thường thấy ở bệnh nhân thận nhân tạo bởi truyền máu nhiều lần và điều trị thiếu sắt thời gian dài bằng đường truyền.
+               - Quá tải sắt thường muộn, biểu hiện đơn thuần chỉ là chỉ số Feritine cao. Tuy nhiên xơ gan, lách nặng đôi khi cũng được miêu tả.
+               - Quá tải làm tăng nguy cơ nhiễm trùng của bệnh nhân thận nhân tạo.
+               - Điều trị ở những ca qúa tải sắt nặng dùng desferrioxamine.
+               - Cũng cần nói rằng chất càng cua này độc với thính lực và thị lực, gây nhiễm trùng vi khuẩn và nấm.
+               - Một điều may mắn là nguy cơ qúa tải sắt biến mất do sử dụng erythropoetin (*).
+
+   8. Bệnh nang thận
+               - Việc phát triển nhiều nang thận ở bệnh nhân suy thận mãn được lọc máu chiếm 50% các trường hợp.
+               - Bệnh lý đặc biệt này là biến chứng của tất cả các bệnh nhưng hay gặp là suy thận mãn và viêm thận bể thận, xơ vữa mạch ở thận, thận do đái đường.
+               - Đặc trưng tạo ra những kys ở hai thận nhiều nhất ở phần vỏ có khi gặp ở phần tuỷ đường kys rất khác nhau.
+               - Bắt đầu gặp từ khi lọc máu được 3 năm, số lượng kys tăng theo thời gian.
+               - Không có triệu chứng. Những kys mới sinh đôi khi gây đau lưng, đau mạng sường, đái máu vi hoặc đại thể. Có thể gây hepatone ở bao ngoài thận.
+               - Chẩn đoán phân biệt bằng echographic hoặc tomodensitometrice.
+               - Điều trị: cắt thận khi có biến chứng cấp như nhiễm trùng nặng, chảy máu thận, kys to hơn 3cm. Số lượng và thể tích kys này sẽ giảm sau khi ghép thận.
+
+   9. Hội chứng porphyrin muộn ở da
+               - Hội chứng này có ở một số ít bệnh nhân.
+               - Tổn thương mảng chứa chất trong suốt có thể gặp ở mu bàn tay, ngón tay, tổn thương này có thể hồng đỏ, có vảy sau đó hoá sẹo. Diện tích rộng hoặc hẹp.
+               - Về cơ chế bệnh chưa rõ ràng. Người ta thấy tỷ lệ porphyrin huyết thanh tăng.
+
+III.Biến chứng khi lọc dài > 5 năm 
+   1.Bệnh amyloid ở bệnh nhân lọc máu:
+               - Biến chứng này hay gặp, có thể tiến triển từ từ không triệu chứng lâm sàng.
+               - Sự lắng đọng các amyloid ở các tổ chức liên kết, bao hoạt dịch đặc biệt ở xương. Amyloid do B2 microglobulin.
+               - Biểu hiện lâm sàng: đau khớp đặc biệt đau cổ tay và đau vai có thể đưa đến gẫy xương bệnh lý.
+               - Hội chứng cổ tay chiếm 85 – 90% các trường hợp lọc từ 12 năm trở lên, thường đau về đêm và người già lọc máu hay bị hơn.
+
+   2. Bệnh tim mạch do lọc máu
+               - Van tim bị canxi hoá gây hẹp hoặc hở. Thường là van ba lá, van động mạch chủ. Biến chứng này có từ khi lọc máu được 10 năm.
+               - Người ta thấy có kết hợp phì đại tuyến cấn giáp với canxi hoá động mạch chủ.
+               - Điều trị: Thay van tim. Phì đại thất trái do huyết áp cao cần điều trị huyết áp để biến chứng đến chậm.
+               - Biến chứng hạ huyết áp ở bệnh nhân đã lọc được 10 năm trở lên. Huyết áp tối đa 100mmHg, biến chứng này ở bệnh nhân cắt thận

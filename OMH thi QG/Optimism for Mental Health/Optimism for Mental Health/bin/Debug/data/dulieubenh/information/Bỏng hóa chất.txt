@@ -1,0 +1,147 @@
+﻿* Tổng quan ...
++ Bỏng mắt là một cấp cứu trong nhãn khoa, bao gồm:
+ - Bỏng hóa chất
+ - Bỏng nóng
+ - Bỏng tia
++ Tổn thương thường nặng nề, nhiều biến chứng, di chứng trấm trọng, dễ dấn đến mù lòa
++ Cấp cứu ban đàu rất quan trọng-vì thời gian là kẻ thù số một của bỏng mắt
++ Tiên lượng của bỏng mắt phụ thuộc : mức độ tổn thương - cấp cứu ban đầu - điều trị sau này.
++ Xử trí cấp cứu ngay tức thì trước khi thử thị lực.
+
+A. Điều trị cấp cứu
+* Nguyên tắc chung:
+   Loại trừ chất gây bỏng + chống thiếu dinh dưỡng giác mạc + chống viêm + chống dính + chống đau + chống nhiễm trùng.
+- Rửa mắt bằng nước sạch có sẵn, hoặc bằng NaCl 0, 9% hoặc bằng Ringer lactat, rửa ít nhất trong 30 phút.
+- Lấy chất gây bỏng: Dị vật thấm hóa chất, tổ chức hoại tử thấm hóa chất, vôi cục thường đọng trong túi cùng kết mạc bằng gắp hoặc bằng đầu tăm bông.
+- Sau khi rửa xong đợi 5 phút sau dùng giấy quỳ thử độ pH để kiểm tra độ pH của nước mắt nằm trong túi cùng kết mạc. Nếu độ pH chưa trung tính (pH= 7, 2-7, 3) tiếp tục rửa cho đến khi độ pH đạt được mức cho phép.
+- Rửa mắt bằng hóa chất - các d.dịch trung hòa (chưa thống nhất trong nhiều tác giả).
+
+I.Bỏng nhẹ & vừa
+* Triệu chứng
+- Kết mạc cương tụ, xuất huyết, phù nhẹ.
+- Mi phù nhẹ.
+- Thiếu máu cục bộ trên kết mạc từng đám nhỏ rãi rác.
+- Giác mạc: tổn thương mất biểu mô từng đám nhỏ hoặc những đám lớn hoặc trợt toàn bộ biểu mô giác mạc, tổn thương không lan sâu vào bề dày, giác mạc còn trong.
+- Phản ứng tiền phòng nhẹ.
+Cần khai thác bệnh sử sau khi xử trí cấp cứu:
++ Xác định chất gây bỏng, thời gian tiếp xúc.
++ Thời gian xử trí sơ cứu, thời gian rửa.
+- Khám: Xác định diện tích vùng mất biểu mô. Tìm dị vật (trong cùng đồ). Đo nhãn áp. (Nếu biểu mô bị lột hoàn toàn có thể sờ nhãn áp bằng tay).
+* Xử trí tiếp tục sau khi rửa mắt
+1.Kiểm tra lại cùng đồ trên và dưới bằng que tăm bông ướt để chắc chắn đã loại trừ hết chất gây bỏng. Tiếp tục rửa bằng dung dịch nước muối 0, 9% hoặc Ringer lactat thêm 30 phút nữa.
+Sau đó kiểm tra lại độ pH.
+2.Gây giãn đồng tử bằng:
+Atropin 1% × 4 lần/ngày.
+Scopolamin 25% × 4 lần ngày.
+Tránh dùng phenylephrin vì tác dụng co mạch của loại thuốc này.
+3.Mỡ kháng sinh tại chỗ, hoặc chất nhờn không có chất bảo quản như:
+- Solcoseryl, sanlein.
+- Tetracylin 1%.
+- Oflovid, Spersanicol, Erythromycine.
+4.Băng mắt trong 24 giờ.
+5.Thuốc giảm đau nếu cần:
+Paracetamol 500mg × 1-2v/1 lần × 3-4 lần/ngày.
+Efferalgan codein 500mg × 1-2v/1 lần × 1-3 lần/ngày.
+6.Thuốc hạ nhãn áp (nếu nhãn áp cao) :
+Diamox 0, 25mg × 2-4viên/ngày.
+Nyololgel 0, 1%, Timolol 0, 5%.
+7.Theo dõi hàng ngày cho đến khi giác mạc lành, sẹo mỏng.
+
+II.Bỏng vừa đến nặng
+1. Tác nhân gây bỏng là những hóa chất có nồng độ cao, thời gian tiếp xúc với hóa chất kéo dài, xử trí sơ cứu sơ sài hoặc không xử trí gì, trên lâm sàng có thể phân ra hai loại bỏng acid và bỏng bazơ.
+
+a.Bỏng acid :
+Nồng độ acid càng đậm đặc, tác dụng gây tổn thương càng nhanh và nặng. Tác dụng trên da và niêm mạc, acid hút nước của mô tế bào và hóa hợp với chất protein tế bào làm các chất này đông vón lại thành các proteinat acid, bỏng acid có đặc điểm gây ra các đám hoại tử trên da và niêm mạc có màu khô cứng có ranh giới rõ với tổ chức lành. Cảm giác mất, vết bỏng đau và kéo dài vài ngày.
+Căn cứ vào màu sắc của tổ chức hoại tử có thể xác định loại hóa chất gây bỏng:
+- Acid sunfuaric : màu trắng rồi chuyển thành màu xám, cuối cùng thành màu nâu.
+- Acid nitric : màu vàng rồi vàng sẩm.
+- Acid picsonitric : màu vàng xanh.
+- Acid acetic: màu trắng xám đục.
+- Acid cacbonic: màu trắng chuyển sang nâu.
+- Acid chlohydric: màu vàng nâu.
+- Acid tricloaxetic: màu trắng.
+- Acid phenic, phenol: màu trắng rồi chuyển sang màu xanh thẫm hoặc vàng đỏ như đồng.
+- Acid hydrofluoric: màu đỏ rồi hoại tử ở trung tâm.
+
+b.Bỏng do kiềm:
+Chất kiềm gây tổn thương trên mô tế bào làm tan loãng các chất protein tế bào và kết hợp với chất protein hóa lỏng thành proteinat kiềm tạo ra quá trình xà phòng hóa với các chất béo của màng tế bào, các chất kiềm có khả năng thấm sâu và lan rộng gây hoại tử ướt. Tổ chức hoại tử ướt màu trắng xám, xuất tiết dịch, xung huyết phù nề, nông sâu lẫn lộn, tổ chức hoại tử ướt là môi trường tốt để vi khuẩn sinh trưởng gây các biến chứng nhiễm khuẩn và thường là nhiễm trùng mủ xanh. Các sản phẩm tan rữa này hấp thu vào máu và huyết tương gây quá trình nhiễm độc. Bỏng vôi còn gây bỏng nhiệt khi vôi sống tác dụng với nước mắt và nước rửa mắt.
+2.Khám lâm sàng:
+- Vùng da mi lở loét, chảy nước hoặc khô cứng, biến màu.
+- Kết mạc khô trắng, mạch máu đông khô từng đám hoặc toàn bộ.
+- Giác mạc đục trắng, phù nề.
+- Tủa tyndall tiền phòng.
+- Mống mắt bạc màu từng đám.
+- Thể thủy tinh có thể đục.
+- Dịch kính đục, phù nề.
+- Võng mạc hoại tử từng ổ, nhất là đối với bỏng kiềm.
+- Nhãn áp tăng cao do bỏng vùng bè và hoại tử mạch máu vùng rìa.
+
+3.Xử trí tiếp tục sau khi rửa mắt:
++ Rửa mắt lần 2. Kéo dài 30 phút bằng dây truyền huyết thanh có gắn kim tù đầu hoặc vành mi có gắn kim rửa nối với bộ dây truyền.
++ Chọc tiền phòng: thay thủy dịch bằng dung dịch Ringer lactat hoặc BSS, cố gắng bình thường hóa độ pH của thủy dịch, đối với bỏng bazơ đậm dặc, có thể tiến hành thay thủy dịch lần 2 sau và ngày để tránh tổn hại mống mắt và thể thủy tinh.
++ Phòng nhiễm trùng: dùng kháng sinh toàn thân phổ rộng: Vancomycin, Ciprofloxacin, Gentamycin hoặc Ceftriaxon.
+ - Tại chổ mỡ kháng sinh như Cebemicin, Oflovid, Erythromycin…đối với bỏng kiềm cần chắc chắn đã loại trừ hết chất gây bỏng.
+ - Tiêm kháng sinh dưới kết mạc: Vancomycin 25mg/0, 5ml.
++ Giảm đau chống dính
+ - Atropin 1% nhỏ mắt từ 1-4 lần/ngày.
+ - Spropolamin 0, 25%.
+ - Dùng thuốc giảm đau an thần: Paracetamol 500mg × 1-2 viên/1 lần × 3-4 lần/ngày.
++ Thuốc hạ nhãn áp: nếu nhãn áp cao.
+ - Acetazolamid 250mg × 1-2 viên/1 lần × 1-2 lần/ngày.
+ - Thuốc nhỏ mắt Beta blocker: Timolol 0, 5%, Nyolo 0, 5%.
++ Băng mắt trong 24 giờ có tác dụng giảm đau, chống nhiễm trùng.
+
+B. Giai đoạn trung gian
+1.Chống nhiễm trùng:
+- Những ngày đầu dùng kháng sinh phổ rộng loại ít kháng thuốc.
+- Làm kháng sinh đồ khi có biểu hiện nhiễm trùng, kháng thuốc.
+- Dùng kháng sinh tại chổ nhỏ mắt Ciloxan, Okacin, Oflovid.
+- Tiêm dưới kết mạc Vancomycin 25mg/0, 5ml.
+- Mỡ kháng sinh lưu trong mắt lâu hơn và có tác dụng để tách dính dễ dàng.
+
+2.Chống dính mống mắt và viêm màng bồ đào:
+Nhỏ mắt Atropin 1% 1-4 lần/ngày.
+Corticoid nhỏ mắt tích cực trong 2 tuần đầu × 4-6 lần/ngày sau đó giảm mạnh vì nó có tác dụng ức chế sự lành vết thương.
+
+3.Chống tăng nhãn áp:
+Diamox 0, 25mg × 2-4 viên/ngày chia từ 2-4 lần.
+Glycerol 50% 1-1, 8g/kg cách 5 giờ/1 lần có tác dụng làm giảm phù dịch kính và vùng bè.
+Áp lạnh thể mi và pt lỗ dò.
+
+4.Tăng cường dinh dưỡng cho kết giác mạc:
+- Giãn mạch: Hỗn dịch
+Lidocain + huyết thanh tự thân + Vancomycin.
+(có tác dụng giãn mạch, nâng sức đề kháng, kháng sinh làm gối đệm chống hoại tử).
+Có thể tiêm 2-3 lần/1 tuần.
+Có thể kéo dài hàng tháng.
+- Thuốc chống oxy hóa: alpha tocopherol, Vitamin E, Vitamin C.
+- Thuốc hoạt huyết chống đông máu: alpha tocopherol, A.nicotrinic.
+- Vitamin C liều cao đặc biệt trong bỏng kiềm : đường dùng toàn thân tại chổ có thể dùng 2g/ngày.
+- Tetracylin, A.nitric ức chế bạch cầu đa nhân làm tiêu colagen.
+- Ức chế men colagenase: Cystein, L cystein, EDTA.
+- Đeo kính tiếp xúc.
+- Corticoid dùng giai đoạn sau khi đã có sự phục hồi và xuất hiện tân mạch.
+- Tách dính bằng đũa thủy tinh, đeo vành củng mạc.
+
+5.pt sớm
+- Hoại tử kết mạc (một số chuyên gia khuyên cắt lọc kết mạc hoại tử và ghép niêm mạc môi).
+- Rạch kết mạc quanh rìa, đưa kết mạc ra xa để tránh độc tố từ kết mạc.
+- Rạch kết mạc hình nan hoa để rửa hóa chất thấm trong kết mạc (pt Passeau poliae).
+- Ghép giác mạc mang tính điều trị.
+- Khâu cò mi.
+
+C. Điều trị giai đoạn mãn tính
+1.Quặm: (không mổ bằng pp panas, tratssmit, quino-nataf). pp Sapeko cấy ghép niêm mạc môi với bờ mi.
+
+2.Hếch, hở mi: ghép da rời lấy sau tai.
+
+3.Khuyết mi: tái tạo lại theo kiểu ghép 2 lớp:
+Lớp nông: da
+Lớp sâu: sụn vành tai và niêm mạc môi.
+
+4.Ghép giác mạc:
+Điều kiện ghép thành công:
++ Không có biến chứng mi.
++ Không có bệnh lý di chứng kết mạc khô mắt.
++ Còn lại 1 phần giác mạc bình thường.
+Tỉ lệ thành công 10%.

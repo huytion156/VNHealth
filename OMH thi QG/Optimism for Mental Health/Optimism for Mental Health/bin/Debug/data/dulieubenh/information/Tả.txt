@@ -1,0 +1,100 @@
+﻿I.Tổng quan
+* Tả - là bệnh "tối nguy hiểm" do Vibrio cholerae gây ra.
+* Phát hiện ở Ấn độ đầu tiên vào đầu TK19!, đã có 6 vụ Đại dịch-nay là thứ 7 (từ 1961)
+* Phẩy khuẩn thích hợp môi trường kiềm, ở động vật biển sò, cá, cua.
+* Gây bệnh nhờ nội độc tố tả (choleragen) có td tăng AMP-vòng; k.thich n.mạc ruột tăng thải lượng lớn nước và ion Na, nên trên LS là ỉa và nôn dữ dội đến choáng do giàm KLLH và toan CH, suy thận, giảm K và tử vong.
+* Phẩy khuẩn có thể sản xuất ra men Mucinase & Neuraminidase làm giảm td bảo về của chất nhày và gây tổn thương cấu trúc gangliosodes của màng tb niêm mạc ruột. Làm phù nề, xun ghuyết niêm mạc ruột, không có hện tượng "bong" hay "tróc" niêm mạc.
+* 90% là người mắc nhẹ-là nguồn lây nguy hiểm.
+* Miễn dịch lâu bền, không MD chéo giữa chủng O1 và O139.
+* Tham khảo "Lâm sàng, cận lâm sàng và điều trị bệnh nhân tiêu chảy cấp nguy hiểm tại bệnh viện Thanh Nhàn từ 10/2007 đến 12/2007" Đ.V.Chinh, T. V. Hoi; Trong HN Nội khoa Toàn quốc 4.2009.
+- 118 BN được chẩn đoán TCCNH vào cấp cứu tại khu cách ly BV TN từ 28/10/2007 đến 7/11/2007.
+- Biểu hiện nôn nhiều, đi ngoài với tính chất phân điển hinh của bệnh Tả,
+- Kết quả vi khuẩn Cholerae (+) trong phân khi soi thấy 27,11%, khi cấy thấy 39,8%
+- Phác đồ Kết hợp : orezol + truyền dịch + kháng sinh. Hầu hết được dụng 1 kháng sinh, trong đó đa số dùng Ciprofloxacin , một số dùng Norfloxacin và Azithromycin .
+- BN điều trị sau 3-5 ngừng tiêu chảy
+- 118 BN khỏi hoàn toàn.
+
+II. Lâm sàng
+1. Thể điển hình-nặng
+ a.Nung bệnh: 12-14 giờ, dài nhất 10 ngày
+
+ b.Khởi phát (gđ ỉa+nôn)
+ +Khởi phát thường ỉa lỏng dữ dội không tiền triệu.
+ +Phân lỏng toàn nước, màu đục nước vo gạo lẫn hạt lổn nhổn, mùi tanh và có màu gạch cua trăng nhạt
+ +Số lượng đi ngoài >30 lần, lượng 300-500ml/lần làm mất 1l/giờ và 10-15 lít/ngày.
+ +Nôn sau đi cầu vài giờ, dễ dàng, lúc đầu là nươc, sau giống dịch phân.
+ +Không đau bụng-hay chỉ đau nhẹ, không mót rặn.
+ +Thường không sốt, vài ca sốt<38 độ
+ +BN mệt lả, khát nước, có dấu hiệu chuột rút-nhanh chóng vào gđ shock.
+
+ c.Toàn phát (gđ choáng hay giá lạnh)
+ +Sau khởi phát vài giờ tới 1 ngày.
+ +Còn nôn, ỉa nhưng nổi bật là shock với nhiệt độ <35, dấu mất nước rõ (ảnh)
+ +XN máu cô, Na giảm, K giảm, toan chuyển hóa.
+
+ d.Gđ hồi phục
+ +Điều trị tốt hồi phục nhanh có khi chỉ trong vài giờ
+ +Lưu ý trong gđ này vẫn có thể gặp b.chứng sốt cao, suy thận, ngưng tim do K hạ.
+
+2. Các thể khác
+ a.Thể ỉa chảy (nhẹ)
+ b.Thể NK không triệu chứng (đb với chủng Eltor)
+ c.Thể tả khô ~ người già, suy kiệt
+ d.Thể xuất huyết ~ DIC
+
+III. Chẩn đoán
+1.Chẩn đoán xác định
+ a.LS
+ +Khởi phát đột ngột, không tiền triệu
+ +Ỉa lỏng trước nôn, phân dạng tả
+ +Thường không sốt, không đau bụng
+ +Nhanh chóng mất nước, shock
+
+ b.XN
+ +Phân lập có phẩy khuẩn tả
+ +Miễn dịch huỳnh quang nhanh...
+
+ c. Dịch tễ
+ +Đang ở vùng có dịch
+
+2.Chẩn doán phân biêt
+ +NT-NĐ thức ăn
+ +Lỵ trực khuẩn cấp
+ +Nhiễm độc giống tả
+ 
+IV. Điều trị
+1.Nguyên tăc
+ +Càng sớm càng tốt, nghi ngờ là phải điều trị ngay, tại chỗ, hạn chế chuyển đi xa.
+ +Bổ xung nhanh nước điện giải là rất quan trọng
+ +Trong khu vực có Tả-mọi ỉa chảy phải xử trí như Tả.
+
+2.Cụ thể với thể điển hình
+ a. Truyền dịch
+ + Loại dịch - chọn 1 trong các dịch sau
+  -Ringer lactat
+  -NaCl 0, 9%; NaBicacbonat 1, 4%
+  -Dd Phillip (5gNa; 4gNaHCO3; 1g KCl; 1 lit nước).
+  -Dd WHO (4gNA; 1g KCl; 6, 5g Na acetat; 8g Glucoza; 1 lit nước)
+
+ + Tốc độ truyền
+ -Trẻ >1tuổi & người lớn: 100ml/kg/3 giờ.
+  (30ml/kg trong 30' đầu; 70ml/kg trong 5 giờ tiếp theo)
+ - Trẻ < 1 tuổi: 100ml/kg/6 giờ đầu
+  (30ml/kg trong 1 giờ đầu; 70ml/kg trong 5 giờ tiếp theo)
+
+ +Kết hợp uống ORESOL 5ml/kg/giờ ngay khi uống được.
+ *Còn shock còn truyền; hết shock cho uống ORS 70-80ml/kg/4 giờ
+
+ b.Kháng sinh
+ +Có tác dụng giảm khối lượng và thời gian ỉa chảy, giảm phẩy khuẩn trong phân.
+ +Nguyên tăc: chỉ dùng KS đường uống (tiêm không có lợi), cho uống ngay sau khi hết nôn (thường sau bù nước 3-4 giờ).
+
+ +Chọn một trong các KS sau
+  -Doxycyclin 1 liều duy nhất 300mg (người lớn)
+  -Tetracyclin (trẻ em 12, 5mg/kg-ng lớn 500mg) 4lần/ngày x 3 ngày
+  -Bactrim (trẻ em TMP5mg/kg+SMX 25mg/kg) 2 lần/ngày x 3 ngày
+  -Furazolidon (trẻ em 1, 25mg/kg-ng lớn 100mg) 4 lần/ngày x 3 ngày
+ 
+V. Dự phòng
+ +Báo cáo-vệ sinh-tiếp xúc
+ +Vacxin chỉ bảo vệ được 6 tháng.

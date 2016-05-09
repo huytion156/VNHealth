@@ -1,0 +1,63 @@
+﻿I. Định nghĩa: ngất & xỉu
+     + Ngất là tình trạng mất ý thức đột ngột và thoáng qua (dưới <5 phút)
+     + Xỉu (thoáng ngất): là tình trạng mất ý thức không hoàn toàn và thoáng qua (là thể nhẹ của ngất)
+
+II. Nguyên nhân:
+* Cơ chế
+     + Ngất và Xỉu đều có cùng cơ chế sinh lý bệnh (thiếu máu não lan toả, thoảng qua) và có nguy cơ tái phát
+     + Hầu hết đều do bệnh lý tim mạch.
+     + Nếu kéo dài có thể gây co giật, ngừng thở và có thể tử vong.
+
+* Có nhiều nguyên nhân gây ngất, gồm cả lành tính và bệnh lý tim mạch. Có một số nguyên nhân phổ 
+biến sau:
+          - Ngất do phản xạ thần kinh tim, thường gặp nhất là do thần kinh phế vị. Trước khi ngất, bệnh nhân có cảm giác buồn nôn và toát mồ hôi, sau khi ngất thường thấy mệt mỏi. Phản xạ này có thể xảy ra khi quay cổ đột ngột, mặc áo cổ chặt hoặc bàng quang rỗng sau khi đi tiểu. Cũng có một số trường hợp hiếm gặp là sau khi ho hoặc cười to.
+          - Ngất khi thay đổi tư thế là hiện tượng phổ biến, xuất hiện khi thay đổi tư thế từ nằm hoặc ngồi sang đứng. Người già gầy yếu và bệnh nhân đái tháo đường, hoặc những người bị mất nước do thời tiết quá nóng dễ bị ngất khi thay đổi tư thế và chịu hậu quả nặng nề nhất.
+          - Ngất do rối loạn nhịp: xảy ra khi nhịp tim quá chậm (dưới 30 nhịp/phút) hoặc quá nhanh (180 nhịp/phút). Nếu ngất do rối loạn nhịp tim xảy ra ở bệnh nhân có bệnh tim mạch thì nguy cơ tử vong rất cao.
+          - Ngất ở bệnh nhân có bệnh tim mạch: Một số bệnh lý của cơ tim, van tim, mạch máu có thể gây ra ngất, nhưng nguyên nhân thường gặp nhất là nhồi máu cơ tim. Cần chú ý tìm nguyên nhân ngất ở bệnh nhân tim mạch bởi đó thường là dấu hiệu báo trước nguy cơ tử vong.
+
+III. Chẩn đoán:
+     + Chẩn đoán xác định bằng lâm sàng; chủ yếu qua hỏi bệnh người chứng kiến.
+          - Xỉu: cảm giác hoa mắt, mệt thỉu, cảm giác lịm đi nhưng vẫn còn biết các sự việc xảy ra xung quanh
+          - Ngất: Đột ngột không biết, không nhớ sự việc xảy ra, da nhợt, mạch nhỏ hoặc mất, nếu kéo dài có thể co giật, đái không tự chủ, cắn lưỡi, ngừng thở và giãn đồng tử...
+     + Chẩn đoán phân biệt
+          - Cơn động kinh; rối loạn chuyển hóa; Tai biến mạch não; cơn Hysteri; ngộ độc thuốc, rượu...
+
+IV.Điều dưỡng:
+* Theo dõi
+     + Theo dõi sinh hiệu: mỗi 1 giờ, Huyết áp tư thế và mạch q12h;
+     + Gọi Bác sĩ nếu Huyết áp >160/90, 60> HA tâm trương >90; 50> Mạch >120; 10> thở >25
+     + Hoạt động: Nghỉ tại giường.
+     + Chăm sóc: Fingerstick glucose.
+     + Chế độ ăn: Phù hợp qui định
+     + Truyền dịch: D5W truyền giữ ven (TKO - to keep open, 500 ml/24 giờ).
+
+* Xử trí ban đầu
+     + Khi gặp một người bị ngất, cần tránh cho bệnh nhân bị chấn thương và bảo đảm là vẫn đang tự thở, có mạch (kiểm tra động mạch cảnh ở ngay dưới hàm).
+
+     + Nếu người bệnh không tự thở hoặc không có mạch, phải gọi ngay cấp cứu.
+     + Nếu tự thở và có mạch, cần để bệnh nhân nằm dưới nền cứng và phẳng rồi từ từ nâng nhẹ chân lên cao, tuyệt đối không nâng ngay bệnh nhân dậy.
+     + Đối với người có nguy cơ bị ngất do phản xạ thần kinh tim, cách tốt nhất là tránh môi trường quá nóng hoặc người quá đông.
+     + Cần uống nhiều nước, bổ sung thêm muối.
+     + Ngoài ra, có thể dùng các thuốc chẹn beta giao cảm như Propranolol, Atenolol, Metoprolol, Bisoprolol.
+     + Nếu các biện pháp trên thất bại, có thể xem xét việc cấy máy tạo nhịp.
+     + Đối với người hay bị ngất khi thay đổi tư thế, cần dùng thuốc theo chỉ định và tránh đi tất chân chặt, nằm ngủ cao đầu.
+     + Còn với trường hợp ngất do rối loạn nhịp, có thể dùng máy tạo nhịp tim nếu nhịp chậm, hoặc dùng thuốc điều chỉnh nhịp hay sóng radio trong trường hợp nhịp tim quá nhanh.
+
+
+V.Xử trí cấp cứu:
+     + Khi chứng kiến
+          - Còn mạch đập:
+                 Đặt BN nằm đầu thấp, chân cao, ngăn tụt lưỡi, atropin...
+          - Không có mạch đập:
+                 Đấm trước tim + xử trí như với ngưng tim
+
+     + Phân biệt xử trí
+          - Ngất do cường phó giao cảm:
+                 Scopolamine 1.5mg tiêm dưới da q3 ngay.
+          - Ngất do tư thế:
+                 Midodrine (ProAmatine) 2.5mg PO tid, rồi thì tăng tới 5-10mg PO tid [2.5, 5 mg]; không dùng với BN có bệnh vành.
+                 Fludrocortisone 0.1-1.0mg PO qd.
+
+VI. Kiểm tra: làm thêm
+          + CXR, ECG, 24h Holter monitor, tilt test, CT/MRI.
+          + Lam các XN máu (CBC) (SMA) CK-MB, troponin T, Mg, calcium, định lượng nồng độ thuốc. Làm các XN phân tích nước tiểu...

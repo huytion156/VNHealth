@@ -1,0 +1,148 @@
+﻿FENTANYL
+
+
+Tên chung quốc tế: Fentanyl.
+
+Mã ATC: N01A H01, N02A B03.
+
+Loại thuốc: Thuốc giảm đau nhóm opioid.
+
+Dạng thuốc và hàm lượng: Thuốc tiêm fentanyl citrat; thuốc tiêm phối hợp fentanyl với droperidol.
+
+Ống tiêm 2 ml, 5 ml, 10 ml, 20 ml (50 microgam/ml); lọ 20, 30 và 50 ml (50 microgam/ml).
+
+Ống tiêm 2 ml chứa 50 microgam fentanyl và 2,5 mg droperidol/ml.
+
+Dược lý và cơ chế tác dụng
+
+Fentanyl là thuốc giảm đau mạnh kiểu gây ngủ morphin, tác dụng giảm đau mạnh gấp 100 lần morphin. Fentanyl liều cao vẫn duy trì chức năng tim ổn định và làm giảm biến chứng nội tiết do stress. Fentanyl giảm đau nhanh tối đa khoảng 3 - 5 phút sau khi tiêm tĩnh mạch và kéo dài khoảng 1 - 2 giờ đồng thời ức chế hô hấp. Giống như các dạng opi khác, fentanyl có thể làm cơ co cứng và tim đập chậm. Fentanyl chuyển hóa ở gan và mất hoạt tính. Khoảng 10% được đào thải ở dạng không đổi qua nước tiểu. Khoảng 80% fentanyl liên kết với protein huyết tương; fentanyl phân bố một phần trong dịch não tủy, nhau thai và một lượng rất nhỏ trong sữa.
+
+Chỉ định
+
+Giảm đau trong và sau phẫu thuật.
+
+Phối hợp với droperidol để giảm đau, an thần.
+
+Chống chỉ định
+
+Ứ đọng đờm - suy hô hấp (nếu không có trang bị hỗ trợ hô hấp).
+
+Ðau nhẹ (trong trường hợp này, nên dùng các thuốc giảm đau khác như acetaminophen, thuốc giảm đau không steroid).
+
+Bệnh nhược cơ.
+
+Thận trọng
+
+Các trường hợp bệnh phổi mạn tính.
+
+Chấn thương sọ não và tăng áp lực sọ não.
+
+Bệnh tim (nhịp tim chậm).
+
+Trầm cảm.
+
+Nghiện rượu, ma túy.
+
+Luôn luôn theo dõi đề phòng suy hô hấp, khi cần thì phải làm hô hấp nhân tạo.
+
+Thời kỳ mang thai
+
+Thuốc giảm đau opioid có thể gây ức chế hô hấp của thai nhi, tác dụng này có thể kéo dài. Với phụ nữ sắp sinh (2 - 3 giờ trước khi sinh), fentanyl chỉ được chỉ định trong các trường hợp thật cần và được theo dõi chặt chẽ.
+
+Thời kỳ cho con bú
+
+Fentanyl được chỉ định đối với phụ nữ cho con bú, mặc dù có mặt ở trong sữa mẹ, nhưng ở liều điều trị fentanyl không gây tác động đối với trẻ đang bú.
+
+Tác dụng không mong muốn (ADR)
+
+Khoảng 45% trường hợp điều trị với fentanyl có thể xuất hiện tác dụng không mong muốn
+
+Thường gặp, ADR >1/100
+
+Toàn thân: Chóng mặt, ngủ lơ mơ, lú lẫn, ảo giác, ra mồ hôi, đỏ bừng mặt, sảng khoái.
+
+Tiêu hóa: Buồn nôn, nôn, táo bón, co thắt túi mật, khô miệng.
+
+Tiết niệu: Ðái khó.
+
+Tuần hoàn: Chậm nhịp tim, hạ huyết áp thoáng qua, đánh trống ngực, loạn nhịp, suy tâm thu.
+
+Hô hấp: Suy hô hấp, ngạt, thở nhanh.
+
+Cơ xương: Co cứng cơ bao gồm cơ lồng ngực, giật rung cơ.
+
+Mắt: Co đồng tử
+
+Hiếm gặp, ADR < 1/1000
+
+Toàn thân: Phản ứng dị ứng, phản vệ, co thắt phế quản, ngứa, mày đay.
+
+Hô hấp: Co thắt thanh quản.
+
+Tuần hoàn: Giảm nhịp tim và suy tim có thể tăng nếu người bệnh đang dùng thuốc điều trị kháng cholinergic, hoặc fentanyl kết hợp với các thuốc giãn cơ (hủy thần kinh đối giao cảm).
+
+Có thể làm giảm nguy cơ cứng cơ nếu tiêm tĩnh mạch chậm và được chỉ định dùng các thuốc benzodiazepin trước khi dùng fentanyl. Có thể xảy ra suy hô hấp thứ cấp sau mổ.
+
+Hướng dẫn cách xử trí ADR
+
+Nhịp tim chậm: Dùng atropin.
+
+Suy hô hấp: Trong khi mổ, nếu suy hô hấp vẫn còn sau khi mổ thì phải hô hấp nhân tạo kéo dài. Ngoài ra có thể phải tiêm tĩnh mạch naloxon. Phải dò liều naloxon thật cẩn thận để đạt hiệu quả mong muốn mà không ảnh hưởng đến việc kiểm soát đau sau mổ hoặc không gây tác dụng không mong muốn khác như tăng huyết áp và nhịp tim nhanh. Liều khởi đầu có thể là 0,5 microgam naloxon/kg thể trọng, tiêm tĩnh mạch. Phải tiếp tục theo dõi suy hô hấp để tiêm bổ sung naloxon nếu cần. Tiêm truyền tĩnh mạch liên tục có thể liên tục kiểm soát được các tác dụng không mong muốn của opioid.
+
+Hạ huyết áp: Bồi phụ nước và điện giải. Ðặt người bệnh ở tư thế máu dễ trở về tim, nếu điều kiện mổ cho phép. Nếu cần thiết, tiêm thuốc tăng huyết áp (trong hoặc sau mổ) và/hoặc naloxon (chỉ tiêm sau mổ).
+
+Cứng cơ: Tiêm thuốc ức chế dẫn truyền thần kinh cơ và hỗ trợ hô hấp hoặc có thể tiêm naloxon.
+
+Những biện pháp hỗ trợ khác cần phải sử dụng nếu cần thiết.
+
+Liều lượng và cách dùng
+
+Liều lượng dao động tùy theo phẫu thuật và đáp ứng của người bệnh.
+
+Dùng cho tiền mê: 50 - 100 microgam có thể tiêm bắp 30 - 60 phút trước khi gây mê, tuy nhiên thường hay tiêm tĩnh mạch chậm ít nhất từ 1 đến 2 phút.
+
+Bổ trợ trong gây mê: Liều lượng có thể thay đổi tùy theo tiểu, trung hoặc đại phẫu thuật và có hỗ trợ hô hấp hay không. Với người bệnh tự thở: 50 - 200 microgam, sau đó tùy theo tình hình có thể bổ sung 50 microgam, 30 phút sau. Với liều trên 200 microgam, suy hô hấp đã có thể xảy ra. Với người bệnh được hô hấp hỗ trợ có thể dùng liều khởi đầu từ 300 - 3500 microgam (tới 50 microgam/kg thể trọng), sau đó từng thời gian bổ sung 100 - 200 microgam tùy theo đáp ứng của người bệnh. Liều cao thường áp dụng trong mổ tim và các phẫu thuật phức tạp về thần kinh và chỉnh hình có thời gian mổ kéo dài.
+
+Giảm đau sau phẫu thuật: 0,7 - 1,4 microgam/kg thể trọng, có thể nhắc lại trong 1 - 2 giờ nếu cần.
+
+Dùng phối hợp với droperidol để gây trạng thái giảm đau an thần (neuroleptanalgesia) để có thể thực hiện những thủ thuật chẩn đoán hoặc phẫu thuật nhỏ như nội soi, nghiên cứu X quang, băng bó vết bỏng, trong đó người bệnh có thể hợp tác làm theo lệnh thầy thuốc. Liều dùng: 1 - 2 ml (tối đa 8 ml). Loại ống tiêm chứa 50 microgam fentanyl và 2,5 mg droperidol/ml. Tiêm bắp hoặc tiêm tĩnh mạch.
+
+Với người cao tuổi phải giảm liều.
+
+Với trẻ em (từ 2 - 12 tuổi): Trường hợp không có hỗ trợ hô hấp, liều khởi đầu từ 3 - 5 microgam/kg thể trọng, liều bổ sung 1 microgam/kg; trường hợp có hỗ trợ hô hấp, liều khởi đầu có thể tăng lên là 15 microgam/kg thể trọng. Hoặc có thể dùng liều 2 - 3 microgam/kg ở trẻ em 2 - 12 tuổi.
+
+Fentanyl chỉ dùng ở bệnh viện do cán bộ có kinh nghiệm về gây mê bằng đường tĩnh mạch và quen xử trí các tai biến của thuốc giảm đau opioid. Cơ sở phải có sẵn thuốc đối kháng opioid, thuốc hồi sức, phương tiện đặt nội khí quản và oxygen, trong và sau khi dùng fentanyl.
+
+Tương tác thuốc
+
+Tác dụng giảm đau của fentanyl tăng bởi các tác nhân ức chế thần kinh trung ương như: Rượu, thuốc gây mê, thuốc ngủ, thuốc chống trầm cảm ba vòng, phenothiazin.
+
+Tác dụng trên đường tiêu hóa của fentanyl làm giảm hấp thu một số thuốc: mexiletin, metoclopramid...
+
+Huyết áp giảm mạnh thường xảy ra khi phối hợp fentanyl với thuốc chẹn beta - adrenergic và thuốc chẹn kênh calci.
+
+Ðộ ổn định và bảo quản
+
+Thuốc tiêm fentanyl citrat bền khi bảo quản ở điều kiện thường, tránh ánh sáng.
+
+Hỗn hợp trộn fentanyl với dung dịch tiêm truyền natri clorid 0,9% có độ ổn định trong 30 ngày khi bảo quản ở nhiệt độ 23OC.
+
+Tương kỵ
+
+Fentanyl citrat tương kỵ với thiopenton, methohexiton natri.
+
+Kết tủa sẽ tạo thành khi tiêm truyền fentanyl phối hợp với droperidol ngay sau khi tiêm nafcilin natri.
+
+Fentanyl citrat tương hợp với dung dịch glucose 5% và natri clorid 0,9%.
+
+Quá liều và xử trí
+
+Trong trường hợp ngộ độc, để người bệnh nằm thoải mái, điều trị suy hô hấp và sốc.
+
+Sau đó dùng thuốc giải độc naloxon hydroclorid: 0,4 - 2 mg tiêm tĩnh mạch, nhắc lại sau mỗi 2 - 3 phút, có thể dùng với liều 10 mg. Naloxon có thể tiêm dưới da, tiêm bắp, hoặc tiêm tĩnh mạch.
+
+Thông tin qui chế
+
+Fentanyl có trong danh mục thuốc thiết yếu Việt Nam ban hành lần thứ tư năm 1999.
+
+Thuốc gây nghiện.

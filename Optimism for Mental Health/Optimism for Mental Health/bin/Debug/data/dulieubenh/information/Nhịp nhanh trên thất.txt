@@ -1,0 +1,144 @@
+﻿I. Tiêu chuẩn chẩn đoán
+          + Nhịp tim thường > 140
+          + Ít liên quan vận động
+          + Khởi phát và kết thúc thường đột ngột
+          + P có thể thay đổi
+          + T thường âm sau cơn.
+          + Có thể vô triệu chứng
+
+
+II.Điều dưỡng theo dõi..
+(cơ bản giống với nhóm loạn nhịp nhanh trên thất)
+          + Theo dõi sinh hiệu: mỗi 30'/3 giờ đầu mỗi 60'/các giờ tiếp cứ 3 giờ /3 ngày đầu.
+          + Monito ECG, Oxy
+          + Chế độ ăn: it béo cholesterol thấp, không caffeine.
+          + Bù dịch cơ bản: Glucosa 5% IV giữ ven (TKO)
+          + Hoạt động: tại giường.
+          + Gọi Bs nếu: 50< mạch >130;  90/60<HA>160/90;  10< Thở >25;  Thân nhiệt >38.5
+
+III.Điều trị:
+     1. Không đặc hiệu
+          + Oxygen 2-4 Lit/phút
+          + Hỗ trợ huyết áp
+          + Thao tac Valsalva hoặc xoa ép xoang cảnh.
+
+     2. Đặc hiệu
+   a. Sốc điện
+          + Khử rung bằng điện (nếu không ổn định được với thuốc):
+          + Điều kiện làm: Không dùng digoxin đường uống trong vòng 6 giờ, mức digoxin phải < 2.4; nồng độ K và Mg phải ở mức bình thường.
+               - Đầu tiên cho Midazolam (Hypnovel) 2.5mg IV .
+               - Dạng ổn định, dùng chuyển nhịp đồng bộ với 10-50J, và tăng dần từng 50J nếu cần.
+               - Dạng chưa ổn định, bắt đầu với 75-100J, rồi thì tăng đến >200J...
+
+   b. Dùng thuốc
+          + Adenosine (Adenocard) 6mg tiêm nhanh IV/1-2" có thể IV nhắc lại 12mg sau 2-3', cho tới tổng liều 30mg là tối đa;
+                 (ATP 20mg cùng nhóm do có tác dụng giãn mạch hạ HA mạnh, nên khó tiêm nhanh); hoặc
+          + Verapamil (Isoptin) 2.5-10mg tiêm IV trong vòng 2-3 phút (có thể cho Ca gluconat 1gm tiêm IV trong 3-6' trước khi tiêm Isoptin; rồi thì uống 40-120mg mỗi 8 giờ; hoặc
+          + Diltiazem (Cardizem) 0.25mg/kg tiêm IV trong vòng 2-5 phút; hoặc
+          + Propranolol (Inderal ống 2ml: 1-5mg) 1-5mg tiêm IV chậm mỗi 1mg trong vòng 1' (0.15mg/kg); rồi thì 60-80mg uống (vien 40mg-100mg) ba lần mỗi ngày; hoặc
+          + Esmolol (Brevibloc) 500 mcg/kg tiêm IV trong vòng 1 phút, rồi thì truyền để dò liều chuẩn 50 mcg/kg/p tới khi mạch <60 (tối đa <300mcg/kg/ph); hoặc
+          + Digoxin (ong 0, 5mg) 0.25mg mỗi 4 giờ khi cần ; cho tới 1.0-1.5mg; rồi thì 0.125-0.25mg uống mỗi ngày
+
+     3. Điều trị triệu chứng
+          + Lorazepam (Ativan) 1-2mg uống ba lần mỗi ngày khi cần ; hay
+          + Seduxen uống khi bệnh nhân quá lo âu, bồn chồn?
+
+IV. Xét nghiệm: cho kiểm tra.
+          + Chụp XQ ngực di động
+          + ECG lại nếu đau ngực
+          + Hội chẩn CK tim mạch.
+          + Làm XN máu (CBC)
+          + Làm XN t.hợp (SMA)
+          + Mg, các XN tuyến giáp
+          + Làm XN nước tiểu.
+
+
+          Danh từ "Loạn nhịp trên thất" bao gồm nhiều loại loạn nhịp xuất phát từ nút xoang, cơ nhĩ, bộ nối nhĩ thất, cầu dẫn truyền phụ…kịch phát hay trường diễn, nhưng hay gặp và quan trọng hơn cả vẫn là bệnh rung nhĩ trường diễn rồi đến các nhịp nhanh trên thất kịch phát (NNTTKP).
+
+          Các nhịp nhanh trên thất kích phát đại đa số là do cơ chế vào lại xảy ra trong nút nhĩ-thất (N/T) (nhịp nhanh vào lại nút nhĩ thất) hay trong nút N/T kèm với một cầu nối phụ có dẫn truyền chiều xuôi nhĩ-thất (hội chứng tiền kích thích) hoặc trong nút N/T kèm với một cầu nối phụ chỉ dẫn truyền theo chiều ngược thất-nhĩ (nhịp nhanh vào lại nhĩ-thất, với cầu nối bị ẩn giấu), loại này cùng với nhịp nhanh vào lại nút nhĩ thất chiếm tới 90% các ca nhịp nhanh trên thất kịch phát nhưng lại là một khái niệm ít biết đến.
+
+     1. Các loại loạn nhịp ở xoang hoặc loạn nhịp ở nhĩ ít quan trọng hoặc ít gặp bao gồm:
+          a. Các ngoại tâm thu nhĩ (NTT/N) (đôi khi xoang) và các ngoại tâm thu bộ nối (xuất phát từ bó His vì nút nhĩ thất không có tính tự động) thường lành tính và không cần điều trị gì.
+Ðôi khi chúng gây triệu chứng (trống ngực) khó chịu hoặc làm cò nẩy cho cơn nhịp nhanh kịch phát trên thất (xem dưới) thì có thể cho an thần, thuốc chẹn beta, đôi khi quinidine và nhóm I. Có khi chúng báo hiệu suy tim (ứ máu lên nhĩ) cần điều trị suy tim.
+
+          b. Các nhịp nhanh vào lại xoang hoặc nhĩ (không bao gồm nhịp nhanh xoang thông thường do tăng tính tự động nút xoang chỉ cần điều trị nguyên nhân) bao giờ cũng bị phát động bởi một NTT/N và thường hay do một bệnh tim thực tổn. Chẩn đoán ÐTÐ:
+               - Của nhịp nhanh vào lại xoang dựa vào một dạng tim nhanh với sóng P hình dạng xoang nhưng PR dài ra, trái hẳn với nhịp nhanh xoang thông thường có PR ngắn lại. Khác với blốc nhĩ thất cấp 1 nó không kèm nhịp nhanh, không do một NTT/N phát động và ít khi có kèm bệnh tim thực tổn.
+               - Của nhịp nhanh vào lại nhĩ: có P hình dạng khác P xoang và PR dài ra. Ðiều trị giống như các nhịp nhanh vào lại trên thất khác trừ thủ thuật triệt bỏ qua giây thông ít kết quả vì có thể có nhiều ổ vào lại.
+
+     c. Các nhịp nhanh nhĩ không vào lại (mà do hoạt động nẩy cò - xem trên) có thể do ngộ độc digitalis hoặc một bệnh tim hay phổi nặng với giảm kali huyết hoặc dùng theophyline hay các thuốc cường giao cảm. Hinh thái ÐTÐ hay gặp nhất là dạng nhịp nhanh nhĩ nhiều ổ (multifocal atrial tachycardias = MAT) với những loạt từ 3 sóng P liên tiếp trở lên có hình dạng khác nhau cách nhau bởi những khoảng đồng điện với tần số trên 100/phút. Nhịp thất cũng không đều vì dẫn truyền nhĩ thất thay đổi; 50-70% số ca đố bị biến thành rung nhĩ. Ðiều trị chủ yếu là hướng về nguyên nhân gây loạn nhịp như suy tim, tâm phế mạn, nghiện rượu. Ðặc biệt, metoprolol và esmolol có tác dụng tốt (Braunwald).
+
+          Loạn nhịp do digitalis có thể do cơ chế nẩy cò và hoặc tăng tính tự động. Nó hay có kèm Blốc nhĩ/thất với tần số nhĩ ít khi vượt quá 180C/phút, thường khỏi bệnh khi ngừng digitalis.
+
+          Nhịp nhanh nhĩ với cơ chế tăng tính tự động và không do digitalis rất khó chữa khỏi. ở đây chữa chủ yếu là khống chế tần số thất ở mức bình thường bằng thuốc ức chế dẫn truyền ở nút nhĩ-thất như digitalis, chẹn bêta, chặn dòng calci hoặc triệt bỏ thân bó His qua giây thông hay bằng phẫu thuật (xem trên) (rồi cấy máy tạo nhịp thất). Phương án triệt bỏ ổ gây loạn nhịp ở nhĩ sau khi làm đồ bản điện học nhĩ khó thành công vì hay có nhiều ổ phát xung.
+
+     2. Rung nhĩ (RN)
+
+     3. Cuồng nhĩ (CN)
+
+     4. Nhịp nhanh vào lại nút nhĩ thất
+          + AV nodal reentrant tachycardia - trước kia thường gọi là nhịp nhanh bộ nối, hoặc nhịp nhanh nút, là loại nhịp nhanh trên thất kịch phát hay gặp nhất.
+               - Nó do một vòng vào lại xảy ra ngay trong lòng nút N/T bao gồm một nhánh alpha dẫn truyền chậm nhưng có thời kỳ trơ ngắn và một nhánh bêta dẫn truyền nhanh nhưng có thời kỳ trơ dài.
+               - Khi vì một lý do nào đó sự dẫn truyền trong đường alpha bị chậm thêm đủ mức để khi xung động xoang qua đó xuống tới bó His thì thời kỳ trơ của đường bêta cũng đã hết: xung động lúc đố sẽ có thể đi ngược lên qua đường bêta, rồi "vào lại" đường alpha, tạo nên một kích thích mới (NTT/N) nó có thể tiếp tục vận động vòng tròn như trên nhiều lần (nếu có mối cân giữa tốc độ dẫn truyền và tính trơ của hai nhánh) để sinh ra cơn nhịp nhanh.
+
+          + Cơ chế đó cắt nghĩa hình ảnh ÐTÐ của cơn nhịp nhanh như sau:
+               - Tần số tim từ 120-150 C/phút (trước kia quy định từ 140-240).
+               - QRS vẫn hẹp như lúc ngoài cơn (xoang) vì xung động vẫn đi xuống thất qua bó His bình thường (trừ trường hợp dẫn truyền lệch hướng thì QRS dãn rộng).
+               - Sóng P phần lớn là vắng mặt đôi khi thể hiện thành một chỗ biến dạng ở phần cuối của QRS do xung động đi ngược lên nhĩ (khử cực ngược chiều) cùng đồng thời với đầu kia đi xuống thất nên P nhĩ bị vùi hẳn (hay phần đầu) trong QRS.
+               - Ngoại tâm thu nhĩ khởi phát cho cơn bao giờ cũng có PR dài ra do bị dẫn truyền chậm trong đường alpha. Tất cả các điều kiện đó có thể chứng minh bằng thăm dò và phát xung vào bó His (thấy khoảng AH dài, khử cực nhĩ ngược chiều, …)
+
+          + Ðiều trị:
+               - Nhịp nhanh này hay gặp ở nữ hơn nam và thường gây hồi hộp, trống ngực thậm chí có khi tụt HA, ngất, suy tim; mặt khác nút N/T lại nhận đặcbiệt nhiều nhánh phế vị và có cấu trúc tế bào khử cực dựa vào dòng calci chậm (pha 2 của điện thế hoạt động) chứ không phải dòng natri nhanh (pha 0), do đó điều trị hợp lý nhất là dùng các phương pháp cường phế vị (adenosine, digitalis,…) hoặc tác dụng vào kênh calci (verapamil, diltiazem,…)
+
+* Theo kinh nghiệm của Bv BM, nên chọn thuốc theo thứ tự ưu tiên như sau:
+          a. Cắt cơn nhịp nhanh
+               - Các thủ thuật cường phế vị như day xoang cảnh, động tác Valsalva… (xem phần I, mục B.1) có thể cắt cơn 80% ở các ca.
+               - Verapamil: 2,5-10 mg tiêm tĩnh mạch chậm trong 2-3 phút.
+               - Adenosine: 6-12 mg tiêm tĩnh mạch thật nhanh vì nửa đời sống cực ngắn. Gây một cường phế vị rất mạnh, có thể làm ngừng tim vài giây nhưng thường bệnh nhân hồi phục ngay. Dù sao, cũng nên chuẩn bị atropine để đối phó (tiêm tĩnh mạch 0,5-1,0 mg) khi cần thiết.
+               - Phenylephrine (neosynephrine) ống 0,1 mg tiêm tĩnh mạch có thể cắt cơn đồng thời làm HA tăng lên. Do đó nên dùng khi bệnh nhân có tụt HA.
+               - Isolanide (digitalis) ống 0,4 tiêm vào tĩnh mạch có thể nhắc lại 2-3 lần cách nhau 3-4 giờ. Cắt cơn chậm hơn. Nên dùng khi có kèm suy tim.
+               - Propranolol 0,05-0,2 mg/kg hoặc chẹn bêta khác, chỉ dùng vào hàng ưu tiên thấp.
+               - Tạo nhịp tạm thời vào nhĩ hoặc thất.
+               - Sốc điện: nên dùng để cắt cơn nhanh chóng khi bệnh nặng, có thiếu máu cục bộ cơ tim nặng và/hoặc tụt HA.
+
+          b. Dự phòng tái phát cơn.
+               - Thường phải dùng thuốc lâu dài, vậy cho nên nếu các cơn quá nặng, quá mau mà bệnh nhân không thể tự dùng động tác để tự cắt cơn (xem trên):
+               - Digitalis hoặc chẹn bêta, hoặc chẹn dòng calci nên được chọn ưu tiên hàng đầu vì có tỷ lệ lợi ích/nguy cơ rất tốt. Chúng tác dụng đúng vào nhánh alpha dẫn truyền chậm của vòng vào lại.
+               - Các thuốc nhóm IA (Quinnidine…) hoặc IC (Flecainide…) hoặc Amiodarone, hoặc sotalol đều có thể dùng nhưng chỉ có tác dụng gián tiếp (vào nhánh bêta) nên kém hơn và nhiều ứng tác bất lợi.
+               - Và chính xác hơn cả là thăm dò điện sinh lý học, kích thích có chương trình để chọn được thứ thuốc có khả năng ngăn cản cơn tốt nhất (xem phần II, mục A.2).
+               - Tác động lên chức năng nút N/T bằng tần số radio qua giây thông hiện nay là thủ thuật hàng đầu để chữa khỏi hẳn chứng nhịp nhanh này tới trên 90% các ca một cách an toàn. Chỉ có từ 1 đến 5% gây ra blốc N/T, lúc đó ta cho cấy thêm một máy tạo nhịp thất.
+
+     5. Nhịp nhanh vào lại nhĩ - thất
+               - AV reentrant tachycardia - trước kia được gọi lầm là nhịp nhanh nút (hay bộ nối) dưới.
+               - Nó do một vòng vào lại bao gồm một đường cho xung động từ nhĩ đi xuống thất là bộ nối nhĩ thất Tawara-His bình thường và một đường đi tiếp ngược lên nhĩ là một cầu dẫn truyền phụ thất/nhĩ (VA accessory pathway) để rồi "vào lại" bộ nối N/T lập nên một vận động tròn liên tục tạo ra cơn nhịp nhanh.
+               - Ở đây cầu dẫn truyền phụ không bao giờ dẫn truyền theo chiều xuôi từ nhĩ xuống thất, do đó không bao giờ có hiện tượng tiền kích thích để hiện ra các hình ảnh ÐTÐ kiểu W-P-W hay kiểu PR ngắn (Lown - Ganong - Levine) do đó được gọi là cầu dẫn truyền phụ ẩn giấu (concealed W-P-W).
+               - Vòng vào lại như vậy sẽ tạo ra tình huống thất hoạt hóa trước rồi đến nhĩ hoạt hóa sau theo kiểu ngược dòng làm cho ÐTÐ có một sóng P âm (ở DII, DIII, aVF) đứng hẳn ra sau mỗi QRS, một hình ảnh mà lâu nay người ta vẫn gọi là nhịp nhanh nút dưới.
+               - Cơn nhịp nhanh có thể được phát động (hoặc kết thúc) không những bởi một NTT/N như NNVLNN/T mà có thể bởi một NTT/T xuất phát từ đoạn vòng vào lại đi qua tâm thất.
+               - Ở 1/3 số ca có luân phiên hình dạng của QRS và/hoặc sóng T.
+
+   Thăm dò điện sinh lý học để xác định chẩn đoán NNVLN/T, có thể:
+          a. Phát hiện ra cầu nối phụ ẩn giấu dẫn truyền ngược lên nhĩ bằng cách:
+               - Cho kích thích thất vào thời điểm bó His đang trơ, thấy xung động dẫn truyền được lên nhĩ.
+               - Cho kích thích thất vào một thời điểm không dẫn truyền được lên nhĩ nhưng lại cắt được cơn nhịp nhanh.
+          b. Xác định được vị trí cầu nối phụ ẩn giấu bằng cách ghi đồ bản điện học nhĩ. Người ta đặt một giây thông nhiều điện cực trong nhĩ và sâu trong xoang vành (vùng nhĩ trái) và đại đa số các ca, ghi được loạt hoạt động điện học sớm nhất ở vùng nhĩ trái, có nghĩa là cầu dẫn truyền phụ (ẩn giấu) nằm ở mé bên trái. Phương thức hoạt hóa lệch tâm này khác hẳn với thứ thự hoạt hóa ngược chiều thông thường trong đó điểm hoạt hóa sớm nhất là ở vùng bộ nối N/T, nghĩa là đúng tâm.
+
+     Ðiều trị
+     + Vì vòng vào lại ở đây cũng đi qua nút N/T nên cũng có thể dùng các thuốc điều trị giống như với NNVLNN/T (xem trên).
+     + Nhưng tốt hơn cả là nên triệt bỏ cầu dẫn truyền phụ sau khi đã thăm dò điện sinh lý kỹ lưỡng như trên, cũng là để chẩn đoán phân biệt với các LN khác chúng cũng có thể gây ra các triệu chứng khó chịu tương tự. Triệt bỏ có thể bằng:
+        a. Tần số radio qua giây thông, hiện nay là ưu việt nhất, với thành công ở trên 90% các ca mà nguy hiểm cực kỳ ít.
+        b. Phẫu thuật cắt cầu phụ dưới sự hướng dẫn của đồ bản điện học (xem trên); nên làm ở một số ít ca mà tần số radio thất bại.
+
+     6. Hội chứng tiền kích thích (W-P-W…)
+
+     7. Nhịp nhanh bộ nối không kích phát
+          + Bệnh này là do trong bộ nối nhĩ thất xảy ra hoạt động nẩy cò, hoặc tăng tính tự động, phát ra xung động nhanh đoạt quyền chỉ huy tim của nút xoang.
+               - Cơ chế như vậy thường nhất là do ngộ độc digitalis, nhồi máu cơ tim sau dưới viêm cơ tim, tăng quá mức catecholamine nội sinh hoặc ngoại sinh, thấp khớp cấp hoặc sau một phẫu thuật van tim.
+               - Nhịp nhanh khởi phát không đột ngột mà từ từ với một thời kỳ "ấm dần lên" (warm up) cho tới khi ổn định ở tần số 70-150C/phút. Nếu nhanh hơn nữa thì thường là di digitalis.
+               - Hình dạng điện tâm đồ là kiểu nhịp bộ nối QRS hẹp giống như lúc nhịp xoang. Có dạng blốc hay N/T hay phân ly nhĩ thất (khi do digitalis) hoặc dạng dẫn truyền ngược dòng khi do tình trạng cường giao cảm xảy ra ngay sau một phẫu thuật tim.
+               - Ðặc biệt, giống như ở nút xoang, tần số nhịp nhanh bộ nối ở đây có thể bị ảnh hưởng của trương lực hệ thần kinh tự trị, tăng lên do catecholamine, do các thuốc cắt phế vị, gắng sức, và giảm xuống với một mức độ nào đó khi xoa xoang cảnh.
+
+          + Ðiều trị
+               - Chủ yếu là loại bỏ nguyên nhân. Với ngộ độc digitalis, phải ngừng thuốc ngay vì nếu xuất hiện những loạn nhịp nhĩ hay thất nặng nề thì phải cho Lidocaine, chẹn bêta và khi cần, cho kháng thể kháng digitalis (Fab fragments).
+               - Tạo nhịp nhĩ, nếu không có blốc nhĩ thất, có thể bắt được và gối lên ổ ngoại vị bộ nối, tạo ra hoạt hóa đồng bộ nhĩ thất để có thể có được một cung lượng tim tối ưu.
+               - Chú ý: Không nên làm sốc điện, nhất là nếu có ngộ độc digitalis.
+
+          + Tiên lượng tim nhanh bộ nối không kích phát thường tốt, bệnh không hay tái phát hoặc trở thành mạn tính và thường hay khỏi hẳn nếu ta chú ý điều trị nguyên nhân cấp tính gây ra nó.

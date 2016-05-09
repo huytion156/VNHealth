@@ -1,0 +1,44 @@
+﻿1. Nguyên nhân và triệu chứng
+  * Hôn mê nhiễm a.Lactic
+     + Thiếu oxy tổ chức (suy tim, suy thở, thiếu máu, shock...).
+     + Do uống biguanid qua liều (tăng hủy glucogen thành a.lactic)
+     + Do thiếu Insulin làm tăng hoạt tính pyruvat dehydrogenase, nên a. pyruvic (không chuyển thành acetyl coenzym A) tích luỹ lại chuyển thành a.lactic.
+     + Nhiễm axit  Lactic thường gặp ở bệnh nhân ốm nặng do suy tim mất bù, suy hô hấp hay suy gan, nhiễm trùng máu, hay nhồi máu ruột hay chi. 
+  1.1.Tiêu chuẩn Chẩn đoán
+     + Nhiễm axit nặng với sự thông khí quá mức.
+     + pH Máu < 7.30.
+     + Bicacbonat huyết thanh < 15 mEq/l.
+     + Anion Gap > 15 mEq/l.
+     + Không có ceton huyết thanh.
+     + Lactat huyết thanh> 5 mmol/L. (b.t < 1.44mmol/L - 22mg%).
+  1.2. Triệu chứng lâm sàng
+   a.Lâm sàng
+     + Đặc tính lâm sàng chính là sự thông khí quá mức.
+     + Thường khởi đầu nhanh (thông thường trong vai giờ)
+     + Buồn nôn, ngủ gà, thở Kussmault, giảm thân nhiệt, giảm HA, trụy mạch, đái ít, vô niệu.
+     + T.chứng âm tính: không có mùi ceton, glucose máu và niệu không cao; thẩm thấu máu tăng it.
+     + T.chứng dương tính: bicacbonat máu giảm; pH máu giảm; a.lactic và tỷ lệ lactat/pyruvat tăng (> 7mmol/L là h.mê không hồi phục).
+     + Năm 1976, Cohen và Woods phát triển một hệ thống
+xếp hạng được công nhậ̣n rộng rãi, chia nhiễm axit lactic vào trong 2 typ:
+        - Typ A: Là nhiễm axit lactic xảy ra với bằng chứng lâm sàng tưới máu mô hay oxi hoá máu kém.
+        - Typ B: Là nhiễm axit lactic xuất hiện khi không có bằng chứng lâm sàng của tưới máu mô hay oxy hoá máu kém. Kiểu B được chia vào trong 3 typ con.
+          . Kiểu B1- nhiễm axit lactic xuất hiện liên quan với những bệnh nằm bên dưới.
+          . Kiểu B2- nhiễm axit lactic vì thuốc và độc tố.
+          . Kiểu B3- nhiễm axit lactic vì những rối loạn chuyển hóa di truyền.
+  b.Cận lâm sàng
+     + XN máu: glucose -/+; bicacbonat thấp; Acetone 0/+; Lactat huyết thanh> 5 mmol/L.
+     + XN niệu: glucose 0/+; Acetone 0/+
+
+2. Cách chữa trị thông thường
+     + Bão hoà oxy và tưới máu cơ quan thích hợp (thông khí, truyền dịch đầy đủ).
+     + Cho kháng sinh khi nhiễm trùng máu sau khi đã cấy máu trên bất kỳ bệnh nhân nào.
+     + Thiếu B1 có thể gây suy tim beriberi... cho 50-100mb IV sau đó 50mg/d khoảng 1-2 tuan. Có thể cho coenzyme Q...
+     + Kiềm hoá với bicacbonat để giữ độ pH > 7.2 trong điều trị khẩn cấp nhiễm axit lactic; nhưng còn nhiều tranh luận, có thể truyền NaHCO3 2, 5% 1-2 lit tốc độ 336ml/giờ; tổng liều NaHCO3 = (27 - NaHCO3 BN) x 0, 2 x BW
+     + Truyền Xanh methylen 1% 50-100ml (2, 5mg/kg) để chuyển a.lactic thành a.pyruvic.
+     + Insulin 6-8UI pha glucose 5% IV.
+     + Thẩm tách máu có thể hữu ích trong vai trường hợp. 
+
+3. Cách phòng tránh
+     _Kiểm soát chặt chẽ huyết áp.
+     _Không hút thuốc lá và uống rượu.
+

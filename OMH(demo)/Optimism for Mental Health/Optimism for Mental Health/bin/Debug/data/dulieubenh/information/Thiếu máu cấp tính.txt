@@ -1,0 +1,108 @@
+﻿I.Tổng quan
+Đặc điểm
++ Thiếu máu là khi thể tích của khối hồng cầu (hematocrit) < 41% (số lượng huyết cầu tố - hemoglobin < 13.5 g/dL) ở đàn ông, hay < 37% (hemoglobin < 12 g/dL) ở nữ giới.
++ Phân 2 loại: cấp & mãn. Thiếu máu cấp biểu thị bằng giảm RBC do Tan huyết hay chảy máu cấp.
++ Trong ED, chảy máu cấp là bệnh lý hay gặp nhất.
+- chảy máu từ giãn TM thực quản: khoảng 30% BN xơ gan chết vi bệnh này. 
+- Rách, tách đ.m chủ: chết xấp xỉ 80% dù được p.t ngay.
+- Những nguyên nhân khác:
+ . Thai ngoài dạ con: tỷ lệ chết khoảng 1-2%.
+ . Hội chứng HUS: nếu không đ.t chết > 40%, 80% phát triển suy thận.
+ . Giảm tiểu cầu vô căn (ITP)
+ . DIC.
+
+II.Triệu chứng chẩn đoán
+1.Lâm sàng
+a, Tuần hoàn-hô hấp
++ Trong chấn thương hiện nay phân loại mất máu cấp gây shock thành 4 mức:
+ - Mức độ I:  mất < 15% máu, có thể nhip hơi nhanh, nhưng huyết áp bình thường.
+ - Mức độ II: mất 15-30%, tim nhanh, nhip thở nhanh và mạch yếu.
+ - Mức độ III: mất 30-40%, luôn giảm HA cùng với nhịp tim nhanh và mạch nhỏ nhẹ.
+ - Mức độ IV: mất > 40% cần phải hồi sức cấp vi HA tụt mạnh và tim quá nhanh.
+ - Khi mất máu > 50% mất mạch và huyết áp.
++ Nhịp thở nhanh xuất hiện với mất máu > 15% (mức độ II)+ Những bệnh nhân mất thêm từ thiếu máu kinh niên̉, có thể có những dấu hiệu và triệu chứng của suy tim xung huyết.
+
+b, Thần kinh
++ Khi mất máu > 40% KLTH, bệnh nhân có thể bất tỉnh.
+
+c, Niệu sinh dục -  Thiểu niệu ở mức III & vô niệu ở mức IV.
+
+d, Da
++ Trong sốc xuât huyết sớm, thời gian lưu máu tại mao quản tăng nên da có thể có cảm giác lạnh khỉ sờ. Khỉ sốc tăng, da lạnh, nhớt nhát và lốm đốm chấm.
++ Vết bầm máu cạnh bẹn (dấu hiệu Grey-Turner) gợi ý chảy máu sau màng bụng, trong khi vết bầm máu trung tâm (dấu hiệu Cullen) gợi ý chảy máu trong màng bụng hay sau màng bụng. Cả hai hiếm thấy trong tình trạng cấp.
+
+2.Kết quả XN
+* Khi nghi ngờ thiếu máu, XN giúp xác định độ cấp và và bệnh lý học.
++ Hb và hematocrit là những XN ban đầu có ý nghĩa quan trọng nhất.
+Thiếu máu là khi hematocrit < 41% (hemoglobin < 13.5 g/dL) ở đàn ông, hay < 37% (hemoglobin < 12 g/dL) ở nữ giới.
+
++ Chỉ số MCV
+- Chỉ số MCV cho phép phân loại HC nhỏ, bình thường hay lớn.
+- Thiếu máu hồng cầu nhỏ (MCV< 80): gồm những thiếu máu mãn tính, thiếu sắt, ngộ độc chì và bệnh hemoglobin (bệnh tế bào hình liềm, thiếu máu sideroblastic, thalassemias).
+- Thiếu máu hồng cầu to (MCV> 100): gồm thiếu máu liên quan đến nghiện rượu, thiếu folate và B12 (thiếu máu ác tính), và một số tiền leukemic.
+- Thiếu máu đẳng sắc (MCV 80-100): gồm những thiếu máu do mất máu cấp, tan huyết, ure huyết, và ung thư.
+
++ Xét nghiệm nước tiểu - Hemoglobin-nieu hay urobilinogen chỉ hướng tan huyết.
++ Bilirubin gián tiếp hay liên hợp tăng lên ở bệnh nhân tan huyết ở trong huyết quản.
++ BUN/creatinin cao với những bệnh nhân chảy máu GI trên.
++ Nhóm máu và p.ung cheo
++ Đếm Hồng cầu lưới - gợi ý tuỷ xương đáp lại với thiếu máu...
+
++ Xét nghiệm DIC
+- Gồm có thời gian protrombin (PT), thời gian tromboplastin bộ phận (aPTT), fib-ri-no-gen, PDF và tiểu cầu. Dấu hiệu cổ điển là tăng thời gian máu đông, giảm tiểu cầu và fibrinogen, thây PDF tăng.
+- DIC phải xem xét trong nhiễm trùng máu cấp, tai biến sản khoa, bỏng, hay ung thư.
+
++ Thời gian chảy máu - test hữu ích tham do chức năng tiểu cầu. Những bệnh nhân với thời gian chảy máu >10 phút có nguy cơ gia tăng chảy máu. test này luôn tương quan với mức tiểu cầu bình thường, trừ phi tiểu cầu rất thấp có thể kéo dài thời gian chảy máu.
+
++ Test Coombs - test quan trọng này có thể giúp chẩn đoán tan huyết do tu miễn dịch.
+
++ XQ Ngực (CXR). Xem xét với thiếu máu quan trọng. tìm tràn máu màng phổi chấn thương, dập phổi hay đứt động mạch chủ...
++ Siêu âm là một test cạnh giường nhanh, hữu ích để chẩn đoán chảy máu trong màng bụng. đặc biệt hữu ích với chảy máu liên quan mang thai.
+IV.Điều trị
+A.Chăm sóc ban đầu
++ Cho thở oxy ngay từ đầu, dich HS IV; dùng sức ép trực tiếp vào bất kỳ xuât huyết ngoại nạo, đặt nẹp chỗ gẫy, và vận chuyển nhanh.
++ Những nghiên cứu gần đây gợi ý rằng những bệnh nhân chấn thương cần phải truyền dịch hồi sức cự̣c tiểu, còn gây bàn cãi.
++ trang phục MAST điều trị chống sốc của quân đội thỉnh thoảng được dùng cho những bệnh nhân chấn thương chậu hông và vết thương chi dưới. Chống chỉ định với phù phổi, hay rách cơ hoành, hay ở bệnh nhân có thai.
+
+B.Khoa Hồi sức:
+* Ước lượng ABCs và ngay lập tức xử lý bất kỳ nguy có đe doạ cuộc sống nào. Dịch tinh thể là dich truyền lựa chọn ban đầu.
+
+1.Do mất máu
++ Theo dõi liên tục oxy mach,   điện tim và huyết áp.
++ bổ xung oxy qua sond hay mask.
++ Thiết lập 2 dung IV cho truyền nhanh 1-2 lit dịch tinh thể, theo dõi sát những dấu hiệu của suy tim xung huyết do thầy thuốc.
++ Xem xét truyền máu nhóm O với BN vẫn trụy HA sau khi đã truyền 2 lit dich tinh thể mà hematocrit < 20% ở người trẻ và < 30% ở người già.
++ Thuốc co mạch chống chỉ định tương đối trong điều trị shoc giảm lưu lượng máu.
++ Ra lệnh cho plasma frozen tươi mới (FFP), các yếu tố đông máu, và tiểu cầu nếu có chỉ định.  
++ Những bệnh nhân có thai chảy máu cần phải cho globulin miễn dịch Rh (Rhogam) nếu họ là Rh (-).
++ Khi ổn định, bắt đầu những biện pháp đặc biệt để xử trí nguyên nhân nằm bên dưới căn bản của viec chảy máu.
+
+2.Do bệnh hemoglobin
++ Quyết định truyền phụ thuộc vào mức độ rơi của huyết cầu tố và tình trạng lâm sàng của bệnh nhân.
++ Trong thiếu máu hồng cầu hinh liềm, sữa chữa thiếu máu đơn giản bởi truyền máu thích hợp.
+
+3.Do rối loạn tiểu cầu
++ Những bệnh nhân giảm số lượng tiểu cầu mà có bằng chứng lâm sàng của việc chảy máu cần được truyền tiểu cầu.
++ Những bệnh nhân số luong tiểu cầu < 10, 000/mcL có nguy cơ xuât huyết não tự phát và yêu cầu truyền để phòng bệnh.
++ Điều trị cho TTP và hội chứng ure huyết tán máu: được ưu tiên là phương pháp điều trị bằng huyết tương đã tinh chế thể tích lớn với thay thế FFP.
++ Nhiều bệnh nhân yêu cầu phương pháp điều trị bằng huyết tương đã tinh chế hàng ngày. Tăng tiểu cầu giảm LDH thì đáp ứng tốt điều trị. Đa số được dùng glucococticoit liều cao cũng như cả thuốc ức chế tiểu cầu (ASA). Những bệnh nhân không thích hợp phương pháp điều trị bằng huyết tương đã tinh chế có thể cắt bỏ lách hay dùng ức chế miễn dịch.
+
+4.Do bệnh bẩm sinh
++ Điều trị Bệnh Volt Willebrand với cryoprecipitate. Mỗi đơn vị cryoprecipitate sẽ nâng VWF lên 3%.
++ Bệnh ua chảy máu A: cho dùng yếu tố VIII.
++ Bệnh ua chảy máu B: cho bổ xung yếu tố IX.
+
+5.Thiếu máu cấp do DIC
++ Vai trò của heparin trong điều trị DIC vẫn gây bàn cãi. Neu heparin được dùng, no cần phải phối hợp với truyền tiểu cầu.
++ Bảo đảm tiểu cầu > 50, 000/mcL. dùng FFP và cryoprecipitate để bù đủ các yếu tố đông máu và fibrinoge.
+
+C.Những sản phẩm Máu
+1.Mau Toàn bộ: chứa hồng cầu, tiểu cầu, và các yếu tố đông máu.
+
+2.Hồng cầu khối (Packed red blood cells-PRBC) là những thành phần còn lại của máu toàn bộ sau khi loại bỏ plasma và tiểu cầu. Một đơn vị PRBC là sản phẩm của một đơn vị máu toàn bộ và có thể tich 250-300ml. Người ta hy vọng mỗi đơn vị PRBC sẽ nâng hematocrit lên 3%.
+
+3. Một đơn vị tiểu cầu: chứa 50 mL plasma có lượng fibrinogen và yếu tố đông máu bình thường. yếu tố V và VII ít hơn so với máu toàn bộ. Mỗi đơn vị tiểu cầu nâng tiểu cầu lên xấp xỉ 10, 000/mcL. Liều dùng cho người lớn thông thường là 1 đơn vị/10 Kg.
+
+4. Plasma frozen Tươi mới (FFP): là môi trường không có RBCs và tiểu cầu nhưng chứa đựng tất cả yếu tố đông máu. Yêú tố đông máu loãng. Những bệnh nhân yếu tố V và X thiếu hụt vi bệnh lý gan là những ứng cử viên tốt nhất.
+
+5. Cryoprecipitate: được chọn lọc từ FFP. Nó chứa fib-ri-no-gen, yếu tố VIII, yếu tố Volt Willebrand và yếu tố XIII. là lý tưởng cho điều trị bệnh ưa chảy máu A và những tình trạng dẫn đến thiếu fibrin máu.

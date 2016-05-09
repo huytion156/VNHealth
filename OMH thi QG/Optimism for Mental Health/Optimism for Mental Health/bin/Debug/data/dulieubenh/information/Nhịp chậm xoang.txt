@@ -1,0 +1,77 @@
+﻿I.Tổng quan:
+          + Thuật ngữ HC suy nút xoang (SND)
+          - Đầu tiên xuất hiện trong y văn năm 1967 để mô tả một nhịp nhĩ nhanh tiếp liền nhịp chậm theo sau khử rung.
+               - Ngày nay, thuật ngữ được ứng dụng vào một phạm vi rộng của bất thường điện sinh lý, bao gồm nhịp tim chậm xoang, ngưng xoang, block nút xoang, rung nhĩ kinh niên và HC nhịp nhanh-chậm. 
+
+          + Hay gặp ở người già (3/5000 người > 50 tuổi) với một tiền sử tim mạch. Phần lớn không biết, thường có bất thường và nặng dần lên. Vi lý do này, điều nhịp tim đã trở nên liệu trình cơ bản cho bệnh nhân có triệu chứng.
+
+          + Sinh lý bệnh: SND, được đặc trưng bởi dẫn truyền trễ hay suy giảm giữa nút xoang và tâm nhĩ vì nút xoang pacemaking không đủ hay vì rối loạn nội sinh hay do ngoại lai. Nếu rối loạn chức năng là cực tiểu, bệnh nhân thường không triệu chứng
+               - Khi nặng hơn dấu hiệu liên quan đến loạn chức năng não hay tim.
+
+II. Triệu chứng chẩn đoán
+     1.Dấu hiệu Lâm sàng
+          + Giai đoạn sớm đa số không triệu chứng
+          + Khi bệnh tiến triển, thường chậm nhịp xoang trường diễn, nặng, ngắt quãng hoặc không thích nghi; và thêm các triệu chứng liên quan: Ngất, xỉu, choáng váng, đánh trống ngực, đau ngực và khó thở.
+
+* Lưu ý TC giúp chẩn đoán:
+          + Các triệu chứng Não
+               - Bệnh nhân triệu chứng nhẹ kêu mệt mỏi, cáu kỉnh, hay quên.
+               - Khi bệnh tiến triển hơn, biểu hiện nói líu nhíu, xỉu, ngất khi nhịp tim chậm thường gặp.
+
+          + Triệu chứng Tim
+               - Giai đoạn sớm có thể mạch không đều hoặc chậm bất thường.
+               - Khi bệnh tiến triển, 3 t.chứng tim mạch hay gặp nhất là hồi hộp, đau thắt ngực, và khó thở vì suy tim xung huyết (CHF).
+               - Hồi hộp đánh trống ngực có thể quy cho SVT hay do HC tim nhanh-chậm.
+               - Đau thắt ngực và triệu chứng CHF thường gặp vì giảm tưới máu tim. có khi phù phổi.
+               - Giai đoạn muộn, tăng tai biến nhanh thất, rung thất, có thể chết đột ngột.               
+
+          + Triệu chứng khác
+               - Giảm tưới máu Thận dẫn đến thiểu niệu.
+               - Một số rối loạn dạ dày ruột có thể do bão hoà oxy không đủ.
+
+* Khám: Đa số nhịp tim chậm (75%).  Vài nghiệm pháp cơ bản có thể giúp thiết lập chẩn đoán.
+               - Nghiệm pháp Valsalva - ở người mạnh khoẻ, nghiệm pháp Valsalva sẽ tăng số lần đập của tim. Với SND thường sẽ không trả lời phù hợp (nhip không thay đổi).
+               - Xoa xoang cảnh: có thể làm ngưng xoang >3", SND phải được xem xét cẩn thận.
+
+* Nguyên nhân:
+          + Qui cho nội sinh và ngoại lai.
+               - Đa số nguyên nhân noi sinh lý bệnh suy bien thoai hoa và bệnh động mạch vanh tự phát.
+               - Đa số nguyên nhân ngoai lai là do thuốc và quá mức hoạt tính tự trị (cuong pho giao cam).
+               - Luôn nhớ rằng SND luôn luôn là một tình trạng tập nhiễm.
+
+          + SND nội sinh
+               - Bệnh sử xơ hoá tự phát là nguyên nhân lớn nhất như già, hoặc xơ nút xoang
+               - Bệnh động mạch vành cũng có thể gây ra SND. SND tạm thời đã được báo cáo ở 5-10% trong nhồi máu cơ tim cấp.
+               - Các nguyên nhân khác: Bệnh thoái hoá tinh bột, Bệnh nhiễm sắc tố sắt, khối u;  Bệnh cơ tim; Tăng huyết áp; SLE, Bệnh cứng bì; Bệnh tim Bẩm sinh...
+               - RL CN TK thực vật.
+
+          + SND Ngoai lai Thuốc hay gây SND:
+               - Chẹn Beta; chẹn kênh can xi (diltiazem, Verapamil);
+               - Glycosit Tim (digoxin);
+               - Hạ HA ức chế giao cảm (clonidine, methyldopa, Resecpin);
+               - Thuốc chống loạn nhịp (Amiodarone, sotalol, Bretylium)
+               - Ít gặp hơn là phenytoin, amitriptyline, Lithi, và phenothiazine
+          + RL điện giải
+               - Giảm kali-huyết hay giảm cacbon dioxyt-huyet,
+               - Giảm năng tuyến giáp hay tăng năng tuyến giáp, giảm thể nhiệt và nhiễm trùng máu.
+
+     2. Dấu hiệu Xét nghiệm
+               - ECG : là tốt nhất với SND,   ECG 12 đạo trình cần phải làm. SND có thể biểu lộ như bất kỳ dạng nào như sau:
+                    . Nhịp tim chậm xoang Không thich hợp: nhịp tim chậm xoang dai dang, là biểu thị sớm nhất SND.
+                    . Ngưng xoang: Một tạm dừng > 3 giây khêu gợi SND.
+.                     Block xoang nhĩ: các đạo trình không thấy sóng P.
+.                     Rung nhĩ mãn
+                    . Hội chứng nhịp nhanh-chậm.
+               - Xét nghiệm máu it có ích trong SND.
+               - Vi giảm kali-huyết, giảm natri-huyết, và giảm cacbon dioxyt-huyết đôi khi có thể làm nặng thêm đó cần làm để kiểm tra.
+
+III. Điều trị
+     1. Nội khoa: Khi xác chẩn SND, kế hoạch điều trị cần tuy thuộc từng bệnh nhân.
+          + SND Không triệu chứng
+               - Không yêu cầu điều trị. BN nhịp tim chậm hay tạm dừng xoang không triệu chứng đơn giản có thể chi cần quan sát.
+          + Thuốc ức chế nút xoang cần phải được ngưng bất cứ khi nào có triệu chứng nhip cham.
+          + Bệnh nhân với rung tâm nhĩ kinh niên có nguy cơ tắc mạch. cần phòng bệnh với warfarin hay aspirin.
+          + Hội chứng tim chậm - nhanh thường cần một kế hoạch điều trị cả hai thành phần.
+          + Theophiline có thể cải thiện mạch chậm trong một số trường hợp
+
+2. Phẫu thuật: ở phương tây 25-50% SND cần cấy ghép máy điều nhip.

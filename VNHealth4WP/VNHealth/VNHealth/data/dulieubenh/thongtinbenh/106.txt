@@ -1,0 +1,107 @@
+﻿I. Đại cương
+1.Lịch sử
+ Hippocrate (460-370 B.C.) đã sử dụng thuật ngữ Sepsis để đặt tên bệnh này
+ là nguyên nhân gây tử vong hàng đầu tại các đơn vị hồi sức không phải tim mạch.
+ được chẩn đoán từ 11% - đến 25% tất cả bệnh nhân điều trị tại các đơn vị điều trị tích cực.
+ tỉ lệ NTH huyết tăng đều vào khoảng 1,5%/năm.
+ tình hình đề kháng kháng sinh cũng làm khó khăn hơn công tác điều trị NTH.
+ 
+2.Các định nghĩa
+*Năm 1992 ACCP và SCCM công bố các định nghĩa về NTH,
+ và các hội chứng liên quan như sau:
+
++Nhiễm trùng (infection):
+Một hiện tượng vi sinh vật được đặc trưng bởi đáp ứng viêm đối với sự hiện diện hoặc sự xâm nhập của các vi sinh vật vào các tổ chức của vật chủ bình thường vốn vô trùng.
+
++Vãn khuẩn huyết (bacteremia):
+Hiện diện của các vi khuẩn sống trong máu.
+
++Hội chứng đáp ứng viêm hệ thống (Systemic Inflammatory Reponse Syndrome-SIRS):
+Một đáp ứng viêm toàn thể đối với nhiều kích tác lâm sàng nặng nề khác nhau được đặc trưng bởi sự hiện diện của ít nhất 2 trong các tiêu chuẩn sau:
+- Nhiệt độ cơ thể > 38°C hoặc < 36°C;
+- Tần số tim > 90 lần/phút;
+- Tần số thở > 20 lần/phút hoặc PaCO2 < 32 mmHg;
+- Số lượng bạch cầu máu ngoại biên > 12 000 BC/mm3 hoặc < 4000 BC/mm3 hoặc bạch cầu non dạng band chiếm > 10%.
+
++NTH (Sepsis):
+Hội chứng đáp ứng viêm hệ thống do nhiễm trùng.
+
++NTH nặng (severe Sepsis):
+NTH có biểu hiện rối loạn chứng năng cơ quan, giảm tưới máu hoặc hạ huyết áp.
+Giảm tưới máu và hạ huyết áp có thể bao gồm nhưng không chỉ giới hạn ở nhiễm toan lactic,
+thiểu niệu hoặc một biến đổi tình trạng tâm thần kinh cấp tính.
+
++Sốc NTH (septic shock):
+NTH có hạ huyết áp không đáp ứng với liệu trình bù dịch thỏa đáng đi kèm với sự hiện diện của các bất thường tưới máu như nhiễm toan lactic,
+thiểu niệu hoặc một biến đổi tình trạng tâm thần kinh cấp tính.
+
++Hội chứng rối loạn chức năng đa cơ quan (Multiple Organ Dysfunction Syndrome-MODS):
+Hiện diện của những thay đổi chức năng cơ quan ở một bệnh nhân mắc bệnh cấp tính và cân bằng nội môi không thể được duy trì nếu không có sự can thiệp thỏa đáng.
+
+*Năm 2001, Hội nghị quốc tế về định nghĩa Sepsis sửa đổi thêm như sau:
+
++Sepsis nặng (Severe Sepsis):
+Sepsis + Rối loạn chức năng cơ quan, hoặc giảm tưới máu mô:
+Có ít nhất 01 biểu hiên sau:
+- Rối loạn vận mạch (da nổi bông).
+- Đổ đầy mao mạch ≥ 3”.
+- Lượng nước tiểu < 0,5mL/Kg/giờ, hoặc có điều trị thay thế thận.
+- Lactate máu > 2 mmol/L..
+- Thay đổi tâm thần đột ngột.
+- Bất thường trên điện não đồ.
+- Tiểu cầu < 100.000/mm3.
+- Đông máu nội mạch lan toả (DIC).
+- Tổn thương phổi cấp hoặc ARDS.
+- Rối loạn chức năng tim qua siêu âm hoặc đo trực tiếp chỉ số tim.
+
++Sepsis shock: Sepsis nặng + 01 trong những biểu hiện sau:
+- Tụt HA: HA tâm thu < 90 mmHg, hoặc HA tụt > 40mmHg so với trước,
+hoặc HA trung bình < 60 mmHg (<80mmHg nếu BN có tăng HA trước đó)
+mặc dù hồi sức dịch đầy đủ. (áp lực động mạch phổi bít ≥ 12mmHg hoặc áp lực TM trung tâm ≥ 8mmHg).
+- Hoặc cần thuốc vận mạch để duy trì HA tâm thu ≥ 90mmHg.
+
++Refractory Sepsis Shock:
+Septic shock kéo dài > 1 giờ mà không đáp ứng với dịch và vận mạch.
+
++Rối loạn chức năng đa cơ quan (MODS):
+Rối loạn chức năng > 1 cơ quan cần can thiệp để duy trì hằng định nội mô.
+
+*Lưu ý: Thuật ngữ septicaemia trước đây được dùng để chỉ tình trạng nhiễm trùng có bằng chứng về sự sinh trưởng mạnh của vi khuẩn trong máu, thường hay được hiểu như là Sepsis. Hiện nay thuật ngữ này không còn thông dụng và khuynh hướng bị loại bỏ hoàn toàn.
+
+3.Dịch tể học:
+- Tần suất của Sepsis và sốc nhiễm trùng gia tăng 15 năm gần đây.
+- Tại Mỹ:
+. 750.000 ca/năm; là 1 trong 10 nguyên nhân tử vong thường gặp
+. là 1 trong 2 nguyên nhân thường gây tử vong ở ICU không do mạch vành.
+- Xảy ra hầu hết các tuổi nhưng thường > 60 tuổi, và thường ở nam.
+
+4.Nguyên nhân:
+a.Nguồn gốc nhiễm trùng:
+- Đa số định được nguồn gốc, trừ bệnh nhân ức chế miễn dịch với giảm bạch cầu, nguồn gốc nhiễm trùng thường không tìm thấy.
+- Nhiễm trùng đường hô hấp: viêm phổi là nguyên nhân thường gặp
+. Không hẳn chờ đợi xem phim X quang rồi mới điều trị
+. Nếu có những biểu hiện mới như ho khạc đờm hoặc khó thở, hoặc những dấu hiệu như ran nổ lúc nghe đủ để nghi ngờ lâm sàng và kèm ≥ 2 tiêu chuẩn của SIRS là chẩn đoán Sepsis do viêm phổi.
+- Nhiễm trùng ổ bụng: gặp trong 25 % trường hợp
+. Bệnh lý gia tăng nguy cơ Sepsis nặng là: viêm ruột thừa cấp, thủng dạ dày, thiếu máu cục bộ ruột.
+- Nhiễm trùng tiểu: gặp trong 7 -10% Sepsis nặng
+. Chẩn đoán xác định dựa trên cận lâm sàng thường muộn
+. Biểu hiên mới như: rối loạn tiểu tiện, nước tiểu đục, đau thắt lưng, tiểu máu là đủ.
+- Nhiễm trùng xương/khớp, mô mềm: chiếm khoảng 10% tường hợp
+. Biểu hiện: viêm mô tế bào, viêm khớp nhiễm trùng, viêm cơ, và nhiễm trùng vết thương.
+- Nhiễm trùng khác: chú ý những catheter tĩnh mạch, những ống dẫn lưu; viêm màng não, viêm nội tâm mạc nhiễm trùng.
+
+b.Vi sinh vật:
+- Vi trùng Gr (+): 25 -50%, Gr (-): 25- 30 %,
+- nấm: 1-3 %, Ký sinh trùng 1-3 %,
+- virus 2-4%, đa khuẩn: 5,6 – 18,4%.
+- Mầm bệnh thường gặp: Escherichia coli, Staphylococcus aureus, Pseudomonas aeruginosa, Enterococcus faecalis, Streptococcus pneumoniae, Klebsiella pneumoniae, Enterobacter species.
+
+5.Những yếu tố khởi phát (prodisposing factors):
+- Tuổi: > 60 tuổi.
+- Bệnh lý cơ bản: xơ gan, K, nghiện rượu, đái tháo đường, suy thận mạn, bệnh tim phôi.
+- Úc chế miễn dịch: giảm bạch cầu, điều trị thuốc ức chế miễn dịch, điếu trị Corticoids, nghiện thuốc đường tĩnh mạch, cắt lách.
+- Phẩu thuật lớn, chấn thương, bỏng.
+- Những thủ thuật xâm lấn: catheter, dụng cụ tĩnh mạch, dụng cụ nhân tạo, ống nội khí quản.
+- Điều trị kháng sinh trước đó.
+
+

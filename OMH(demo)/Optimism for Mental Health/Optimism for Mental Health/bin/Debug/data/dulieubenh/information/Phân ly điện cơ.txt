@@ -1,0 +1,42 @@
+﻿Tổng quan:
++ Tim vẫn co bóp, nhưng tuần hoàn ngừng trệ, sự co bóp của tim không có hiệu quả vì tim bơm không có máu (giảm V máu do chấn thương, thuyên tắc mạch phổi nặng, chấn thương tràn khí ngực nặng, chèn ép tim cấp...)
++ hay do rối loạn nhịp nặng, cường dây X (phải dùng Atropin liều cao),
++ sắp chết đuối, hạ thân nhiệt (tim lạnh), hạ đường huyết...
+
+Phác đồ xử trí
+1. Dấu hiệu:
+* Có nhịp tim trên monitor, nhưng không có mạch.
+
+2. Cấp cứu ABCD ban đầu
+* Mục tiêu: cấp cứu ngừng tuần hoàn cơ bản & sốc điện
+ (Đánh giá đáp ứng; gọi người hỗ trợ; chuẩn bị máy sốc điện)
+ A (đường thở): Khai thông
+ B (hô hấp): Thông khí NT áp lực dương
+ C (tuần hoàn): Ép tim
+ D (sốc điện): nhanh thất vô mạch/rung thất
+
+3. Cấp cứu ABCD cơ bản
+* Mục tiêu: đánh giá và điều trị chuyên sâu
+ A (đường thở): đặt NKQ càng sớm càng tốt
+ B (hô hấp): kiểm tra vị trí NKQ
+ B (hô hấp): cố định NKQ chắc chắn
+ B (hô hấp): đảm bảo thông khí và oxy
+ C (tuần hoàn): đặt đường truyền tĩnh mạch
+ C (tuần hoàn):xác định nhịp tim trên monitor
+ C (tuần hoàn):cố gắng tìm dòng máu ẩn (giả phân ly điện cơ)
+ D (chẩn đoán phân biệt): tìm và điều trị các nguyên nhân có thể phục hồi
+
+4. Các nguyên nhân thường gặp
+ + Giảm thể tích, giảm oxy, toan, tăng/giảm K máu
+ + Giảm thân nhiệt
+ + Ngộ độc thuốc
+ + Tai nạn
+ + Ép tim cấp
+ + Tràn khí màng phổi áp lực
+ + Hội chứng vành cấp
+ + Nhồi máu phổi
+
+5. Xử trí thuốc
+ + Adrenalin 1mg/IV, nhắc lại mỗi 3-5 phút
+ + Atropin 1mg IV (nếu tần số phân ly điện cơ chậm),
+   nhắc lại mỗi 3-5 phút nếu cần; tổng liều 0,04/kg (2mg/50kg) 

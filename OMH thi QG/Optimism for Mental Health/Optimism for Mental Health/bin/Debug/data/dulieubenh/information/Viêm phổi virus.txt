@@ -1,0 +1,55 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1. Tổng quan:
+     + Đặc điểm
+        - Một nửa viêm phổi nguyên nhân là virus
+        - Viêm phổi do nhiều loại virus hô hấp gây ra, nhưng hay gặp virus cúm và virus hợp bào hô hấp.
+        - Bệnh thường xuất hiện vào mùa lạnh ở những quần thể dân cư đông.
+        - Triệu chứng cơ bản gần tương tự với Cúm: thường bắt đầu ho khan, đau đầu, sốt, đau cơ và mệt lả; luôn dè chừng ô nhiềm trong viêm phổi virus.
+        - Các loại điển hình như là Cúm; RSV (repiration sycytial virus-hợp bào); herpec; Mealess; Adenovirus; SARS...
+     + Trẻ con: thường do virus hợp bào hô hấp, virus cúm A và B. Phần lớn viêm phổi ở trẻ dưới 3 tuổi là do virus hợp bào hô hấp.
+     + Người lớn: Viêm phổi virus ở cộng đồng thường do virus cúm A. Virus hợp bào hô hấp gây viêm phổi ở người già, người ghép tạng, bệnh nhân suy giảm miễn dịch. Virus Herpes và virus thủy đậu gây viêm phổi ở người ghép tạng, người bệnh ác tính, điều trị hoá chất, suy dinh dưỡng hoặc bỏng nặng.
+  1.2.Lâm sàng:
+   * Triệu chứng lâm sàng thường không đặc hiệu cho từng loại virus.
+   * Tham khảo thêm ở website: http://www.mayoclinic.org/
+   a. Triệu chứng hô hấp:
+        - Ho khan là chính, đờm nhày trong.
+        - Khám phổi: nghèo nàn, ít triệu chứng.
+   b. Triệu chứng ngoài phổi:
+        Đau cơ khớp, đau đầu, chảy mũi, sốt.
+   c. X quang phổi :
+   * Không đặc hiệu, khó phân biệt với viêm phổi do vi khuẩn.
+   * Những hình ảnh xquang thường gặp:
+     + Lắng đọng khoảng kẽ; thâm nhiễm phế nang 1 hay cả 2 phổi
+     + Dày xung quanh thành phế quản.
+     + Bóng mờ quanh phế quản.
+     + Các tia mờ quanh rốn phổi.
+     + Các nốt mờ có tính di chuyển.
+     + Tràn dịch màng phổi.
+  1.3. Chẩn đoán:
+        * Xác định căn nguyên viêm phổi do virus rất khó khăn.
+        * Muốn chẩn đoán xác định cần phân lập virus, hoặc chẩn đoán huyết thanh.
+        * Chẩn đoán dựa vào:
+          a.Lâm sàng và đđ dịch tễ: Triệu chứng nêu trên.
+          b. Phân lập virus:
+     =>Kết quả dương tính 60%, nhưng âm tính cũng không loại trừ viêm phổi virus.
+          c. Miễn dịch huỳnh quang: Thường dùng trong chẩn đoán cytomegalovirus và một số loại virus khác.
+          d. Chẩn đoán huyết thanh
+             + Cố định bổ thề
+             + Ngăn ngưng kết hồng cầu.
+             + Trung hoà
+             + ELISA Hiệu giá kháng thể tăng 4 lần: giai đoạn cấp tính hoặc dưỡng bệnh, có dương tính giả.
+          e. Chẩn đoán mô bệnh: Bằng sinh thiết, tử thiết thấy hình ảnh hạt vùi trong viêm phổi do Herpes, adenovirus.
+
+2. Cách chữa trị thông thường
+     + Điều trị triệu chứng:
+       - Bổ xung nước, điện giải nếu thiếu.
+       - Hạ sốt; giảm đau; nghỉ ngơi.
+       - Thở Oxy, thuốc dãn phế quản.
+     + Điều trị đặc hiệu:
+       - Đối với virus cúm: amantadin, rimantadin.
+       - Với virus hợp bào hô hấp: khí dung ribavirin 20 mg/ml nước trong 3 - 7ngày.
+       - Dùng kháng sinh dự phòng bội nhiễm.
+
+3. Cách phòng tránh
+     Dùng vac xin cúm A, B cho đối tượng có bệnh tim mạch hoặc phổi mạn tính, tình trạng suy giảm miễn dịch, đái đường, bệnh thận mạn tính, người già trên 65 tuổi
+

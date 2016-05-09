@@ -1,0 +1,31 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Hen là bệnh phổi với đặc điểm lâm sàng là có cơn đột ngột khó thở ra chậm, do tăng nhạy cảm, viêm và tắc nghẽn đường thở, tự hồi phục hay hồi phục sau khi dùng các thuốc dãn nở phế quản.
+     _Hen bị mắc khoảng 5% dân số, có quan hệ đến di truyền và yếu tố môi trường đặc biệt là dị ứng, kích thích và nhiễm virus.
+     _Phân loại: ngoại sinh (dị ứng); nội sinh (nhiểm khuẩn, vô căn); hỗn hợp; hen vận động (gắng sức); hen nghề nghiệp ...
+        + Hen nhẹ: nếu ho và thở khò khè chỉ khoảng 1-2 lần/tuần.
+        + Hen vừa: nếu cơn ho và khò khè xảy ra hơn 2 lần mỗi tuần, hay quá khó chịu hoặc hen về đêm (nocturnal asthma).
+        + Hen nặng: có đặc điểm khò khè liên tục cả ngay trong tuần và có xu hướng ngay một tăng nặng.
+
+2. Cách chữa trị thông thường
+  A. Beta-agonists
+     _Nên cho ngay từ ban đầu ở hầ̀u hế́t bệnh nhân, và được dùng như thuốc cơ bản khi cần. 
+     _Có 2 loai:
+        + Tác dụng ngắn:
+           - Salbutamol (ventolin) v 2mg x 3-4 lần/ngay; ống 0,5mg (hay dùng trong doạ sảy thai hơn, liều tham khảo 2,5mg pha 250ml Glucoza 5% truyền chậm); ống 5mg khí dung.
+           - terbutalin, fenoterol, abuterol, metaprotenerol đều dùng để cắt cơn hen.
+        + Tác dụng kéo dài: 6-12h (salmeterol-bình xịt serevent 25mcg, salbutamol td dài viên 4mg, oxeol-bricanyl td dài)
+          - Dùng đ.t dự phòng cơn hen.
+          - Tác dụng phụ: đánh trống ngực, run tay, kích thích, mất ngủ.
+
+  B. Hít corticosteroids
+     _Cũng được khuyến cáo cho bệnh nhân hen dùng - chỉ trừ ra các trường hợp hen nhẹ hay thỉnh thoảng mới lên cơn.
+
+  C. Chố́ng viêm dạng hít
+     _Nonsteroid như Cromolyn (Intal), không dãn PQ, không tác dụng cơn cấp, nên dùng xen kẽ với hít corticosteroids hoặc cho phụ thêm với các thuốc khác như ipratropium, atroven-nhóm kháng cholinergic (thường pha trong bình phun, td chậ̣m). Điển hình như Berodual, Combivent hay dùng trong viêm phế quản mãn co thắt dạng hen.
+
+  D. Theophylline được coi là thuốc đứng hàng thứ ba và phù hợp cho những ca hen về đêm.
+
+3. Cách phòng tránh
+     _Tránh bụ̣i nhà, lông động vật từ chăn gối.
+     _Hít steroids sẽ bắt đầu cho khi bệnh nhân đã cần dùng liều lớn beta-agonists mới làm giảm triệu chứng.
+

@@ -1,0 +1,151 @@
+﻿I. Tổng quan:
+          + Định nghĩa: Ngoại tâm thu là co bóp thất sớm (PVC), là một tình trạng Tạo nhịp tim lạc chỗ từ vị trí trong thất.
+          + Còn được gọi với các tên: Premature ventricular complexes; PVCs; Ventricular premature beats;  Ectopic heartbeats; Extrasystoles
+          + Đặc điểm - PVCs được đặc trưng bởi:
+               - Xuất hiện sớm phức bộ QRS hình dạng kỳ quái, với chiều rộng QRS thường lớn hơn 120 msec.
+               - Không có sóng P đi trước QRS.(h1)
+               - Sóng T thường lớn & có thể làm lệch QRS.
+          + Ý nghĩa lâm sàng của PVCs tùy thuộc vào tần số PVC, phối hơp & đáp ứng của huyết động.
+          + Sinh lý bệnh:
+               - PVCs phản chiếu tăng cường hoạt động của những tế bào điều nhịp tâm thất.
+               - Những cơ chế gợi ý gây ra PVCs là vào lại; thúc đẩy khởi phát và tăng cường tính tự động.
+          + Tần số mắc
+               - Là loại loạn nhịp thường gặp nhất; gặp cả ở người có và không mắc bệnh tim.
+               - Ở người trung niên bình thường, trên 60% có PVCs nếu đo bằng Holter.
+               - Tần số >10 PVC/giờ, biến đổi, nhiều hình thái và PVCs xuất hiện sớm trong chu kỳ
+        (Hiện tượng R/T: R-on-T phenomenon) là liên quan đến số người chết và những kiện loạn nhịp kế tiếp gia tăng.
+
+
+II. Lâm sàng
+
+     1.Dấu hiệu cơ năng
+          + Thường không triệu chứng.
+          + Hồi hộp và khó chịu ở cổ/ngực có thể gây ra bởi một sóng "đại bác" hay bởi lực co bóp gia tăng sau giai đoạn nghỉ của PVC.
+          + Bệnh nhân có thể báo cáo có cảm giác ngưng tim sau một PVC.
+          + Những bệnh nhân với PVCs thường xuyên hay nhịp đôi, ngất có thể được báo cáo vì thể tích tâm thu không đủ, hoặc giảm hiệu suất của tim.
+          + PVCs kéo dài cũng có thể dẫn đến chứng huyết áp thấp.
+          + Tập luyện có thể tăng hay giảm bớt nhịp độ PVC.
+
+     2. Dấu hiệu thực thể
+          + Có thể thấy sóng "đại bác" ở tĩnh mạch cổ.
+          + Nghỉ bù theo sau một ngoại tâm thu sẽ được phát hiện ra khi nghe bệnh.
+          + Ngoại tâm thu có thể làm nhẹ hay mất mạch.
+
+     3. Nguyên nhân:
+   a, Do tim mạch
+          + Nhồi máu/ thiếu máu cục bộ cơ tim cap
+          + Viêm cơ tim
+          + Bệnh cơ tim, giãn hay phì đại
+          + Giảm magne-huyết, giảm kali-huyết, tăng canxi-huyết
+          + Sa van hai lá
+   b, Giảm oxy-huyết
+   c, Do thuốc (vd: Digoxin, cường giao cảm, tricyclic antidepressants, Aminophylin, Caffein).
+   d, Do chất trái phép (vd: Cocain, thuốc kích thích, rượu cồn, thuốc lá)
+
+     4. Phân biệt
+          + Đau thắt ngực
+          + Nhồi máu Cơ tim
+          + Viêm cơ tim
+          + Rung tâm thất
+          + Chứng tim đập nhanh thất
+
+III. Cận lâm sàng
+
+     1.Xét nghiệm
+          + Điện giải huyết thanh; đặc biệt là Kali; khi K thấp cần kiểm tra mức Mage.
+          + Kiểm tra nồng độ thuốc dễ phát loạn nhịp như digoxin, theophylin.
+
+     2.Chẩn đoán hình ảnh
+   a,Điện tâm đồ (ECG)
+          + ECG với những PVC phức tạp có vai trò đánh giá bệnh tim thực thể.
+          + Hữu ích với đánh giá EF, tiên lượng và cả lượng định bệnh van tim và phì đại cơ tim.
+          + Giúp chẩn đoán xác định và xử trí các PVCs
+          + Những thể hiện trong ECG có thể rất có ích trong việc xác định nguyên nhân như thiếu máu cục bộ/nhồi máu cấp (đoạn ST, T- thay đổi); những bất thường chất điện giải (T- biến đổi tinh vi, kéo dài QT); hiệu ứng thuốc (QRS mở rộng và kéo dài QT); hay phì đại cơ tim...
+          + Dấu hiệu PVCs thể hiện trên ECG:(h2)(h3)
+               - Xảy ra sớm so với nhịp kế tiếp cơ bản
+               - Tạm dừng theo sau ngoại tâm thu thường là bù lại đầy đủ.
+               - Khoảng R - R vây quanh ngoại tâm thu thì bằng hai lần R-R cơ bản, cho thấy ngoại tâm thu đó không phải xuất phát từ nút xoang.
+          + PVCs có thể xuất hiện dạng nhịp đôi, ba hay bốn.
+          + PVCs với hình thái đồng nhất trên một đạo trình được gọi là đơn hay đồng dạng. Nếu PVCs trình diễn 2 hoặc hơn hình thái khác nhau, được coi là đa dạng hay đa hình.
+
+          + Phân loại PVCs thường được sắp xếp theo hệ thống sau
+               - Mức 0= không có ngoại tâm thu nào
+               - Mức 1= thỉnh thoảng (< 30/giờ)
+               - Mức 2= thường xuyên (> 30/giờ)
+               - Mức 3= Nhiều dạng
+               - Mức 4= Lặp lại (A = Couplets, B = Salvos bảo lưu= Hay > 3)
+               - Mức 5= R-trên-T (R-on-T/sóng R của ngoại tâm thu chồng lên sóng T phía trước)
+
+   b, Những XN khác:
+          + Holter 24-giờ hữu ích trong việc đánh giá đặc tính và chất lượng của ngoại tâm thu. Có ý nghĩa quan trọng nhất trong theo dõi tai biến trên BN mới nhồi máu cơ tim hay loạn chức năng tâm thất.
+ 
+IV. Điều trị
+     1. Chăm sóc ban đầu
+          + Theo dõi từ xa (Telemetry)
+               - Lập đường truyền IV
+               - Oxi
+               - Lidocain - Sử dụng cho những bệnh nhân có ngoại tâm thu phức tạp nhưng huyết động ổn định, không được chỉ định dùng với đau ngực.
+
+     2. Xử trí tại HSCC
+          + Việc xử trí PVCs tại HS hay không tùy theo bệnh cảnh lâm sàng.
+               - Không có  bệnh tim, ngoại tâm thu đơn độc, không triệu chứng, bất chấp của cấu hình hay tần số, không yêu cầu điều trị.
+               -  Có bệnh tim, nhiễm độc và mất cân bằng điện giải, điều trị là cần thiết.
+               - Thiết lập telemetry, đường IV, oxi và ECG 12 đạo trình.
+          + Giảm oxi - điều trị nguyên nhân gây ra và cung cấp oxi và ABCs.
+          + Độc tính của Thuốc - chỉ định các phương pháp điều trị đặc hiêu, ví dụ với độc vì digoxin (dùng kháng thể Fab), do tricyclics (cacbonat axit), và aminophylin (rửa ruột, và có thể thẩm tách máu).
+          + Bổ xung đúng cân bằng điện giải, đặc biệt là magiê, can xi, và kali
+          + Thiếu máu cục bộ/nhồi máu cấp
+               -  Chẩn đoán và điều trị nhồi máu/thiếu máu cục bộ cấp sớm là nền tảng của việc chữa bệnh.
+               - PVCs thường xuất hiện ngay sau dùng tan huyết khối.
+               - Lidocain là thích hợp ở bệnh nhân nhồi máu có phức hợp ngoại tâm thu
+               - Block Bêta được chứng minh có hiệu lực trong nhồi máu cơ tim cấp và an toàn để sử dụng.
+
+     3. Thuốc đặc hiệu
+* Thuốc chống loạn nhịp - làm thay đổi cơ chế điện sinh lý gây ra PVCs.
+          + Lidocain (Dilocaine):
+               - Nhóm IB - làm ổn định màng tế bào và pha 0 của điện thế tác động. Hơn nữa, nó rút ngắn tái phân cực. Kết quả sẽ giảm bớt sự kích động của ổ lạc chỗ và cho phép trở về lại nhịp bình thường.
+               - Liều 1-1.5 mg/ Kg IV boulus; lặp lại prn - sử dụng 1.5 mg/ Kg bolus q3-5' tới mức tối đa 3 mg
+
+Kết quả:  tiếp theo sau với 2 mg/phút truyền IV liên tục sau khi tưới máu trở lại; nếu không truyền IV liên tục thì bolus bổ sung 0.5mg/ Kg q10min để bảo đảm hiệu quả của thuốc; Liều ET (qua NKQ) nếu dùng cần phải gấp 2-2,5 lần liều IV.
+
+          + Procainamide (Procanbid)
+               - Nhóm IA - Tăng thời kỳ trơ của tâm nhĩ và thất. Tính tăng động của Cơ tim được giảm bớt bởi tăng ngưỡng kích thích và kìm hãm hoạt tự động điều nhịp của ổ lạc vị.
+               - Liều 30mg/phút truyền IV liên tục; cho đến mọi chứng loạn nhịp tim được ổn định, bệnh nhân hiện diện huyết áp thấp, hoặc QRS mở rộng 50% ở trên đường cơ sở, nhưng không để vượt liều tối đa 17 mg/Kg; khi loạn nhịp tim đã ổn định, có  thể truyền duy trì với liều 1-4mg/phút.
+
+          + Bretylium (Bretylate)
+               - Nhóm III - Cần tránh dùng như một thuốc điều trị ban đầu bởi những tác dụng phụ và vì thuộc tính giải phóng catecholamin khởi đầu của nó.
+               - Có tác dụng hạn chế PVCs do tăng thời kỳ trơ; Tăng ngưỡng và gây ra một thời kỳ trơ bằng việc giảm bớt độ dẫn truyền của kali.
+               - Liều 5 mg/Kg (Không pha) mỗi 1 phut IV; nếu PVCs vẫn còn, 10 mg/Kg (không pha) mỗi 1 phut 
+
+IV. lặp lạimooixphut' prn; không được vượt hơn 30-35 mg/Kg
+               - Liều duy trì: 1-2 mg/phút khi điều trị đã trở nên có hiệu quả.
+   * Thuốc ức chế Bêta - những thuốc này có tiềm năng áp chế ổ lạc vị tâm thất vì thiếu máu cục bộ hay do tăng quá mức catecholamin. Trong khởi phát thiếu máu cục bộ cơ tim, ức chế bêta có những thuộc tính chống loạn nhịp và giảm bớt yêu cầu oxi cơ timuwcsthuwcs phát tới tăng nhịp và inotropy.
+          + Metoprolol (Lopressor)
+               - Ức chế bêta1 có chọn lọc - Giảm bớt tính tự động co cơ.
+               - Liều 5 mg IV q2phút; cho bolus 3 lần tiêm.
+
+          + Esmolol (Brevibloc)
+               - Một thuốc tuyệt vời để sử dụng cho những bệnh nhân từng có nguy cơ tai biến do ức chế bêta. Đặc biệt với loạn chức năng thất trái từ nhẹ tới vừa, bệnh phản ứng đường thở, và bệnh mạch máu ngoại vi. Thời gian bán hủy ngắn 8' nên dễ chuẩn độ theo mong muốn, và khả năng dừng lại nhanh prn.
+               - Liều Tải : 500 mcg/Kg/truyền trong khoảng 1 phút.
+               - Liều duy trì: 50 mcg/Kg/truyền trong khoảng 4'; nếu trong vòng 5' chưa thấy hiệu quả, lặp lại liều tải và tiếp theo sau truyền duy trì 100 mcg/Kg/phút; tiếp tục thủ tục chuẩn độ, lặp lại truyền tải và tăng truyền duy trì 50 mcg/Kg/phút (khoảng 4 phút); khi số lần đập của tim đạt mong muốn hay đến điểm kết thúc điều trị (vd hạ thấp huyết áp), bỏ liều tải và giảm bớt liều gia tăng trong truyền duy trì từ 50 mcg/Kg/phút tới 25 mcg/Kg/min hay thấp hơn; nếu cần, tăng khoảng chuẩn độ từ 5 đến 10'.
+
+          + Propranolol (Inderal)
+               - Nhóm II - Có hoạt tính làm ổn định màng và giảm bớt tính tự động co bóp.
+               - Liều 1-3 mg; kiểm tra dưới monitoring cẩn thận; tốc độ tiêm không vượt hơn 1 mg/phút (tránh giảm huyết áp và ngừng tim); cho đủ thời gian để đạt đến chỗ hoạt động, đặc biệt khi tuần hoàn chậm; cho liều thứ hai sau 2' prn; sau đó, không điều chỉnh bổ xung thuôc trong vòng < 4h.
+               - Chuyển tới PO càng sớm càng tốt; phạm vi liều thông thường là 10-30 mg tid/ qid.
+
+   * Các chất điện giải - Được xem xét như là giải pháp chữa bệnh khi PVCs bất trị. Những bệnh nhân có PVCs bền bỉ hay dễ tái phát cần được đánh giá các chất điện giải là nguyên nhân loạn nhịp bất trị. Giảm magne-huphatscungx liên quan đến khởi phát PVCs.
+          + Magie Sulphate
+               - Có tác dụng chống loạn nhịp và làm giảm tần số của PVCs, Đặc biệt khi thiếu máu cục bộ thứ phát cấp.
+               - Liều 1-2g pha loãng vào 100 mL D5W truyền trên 1-2' cho VF bất trị và khi biết hay nghi ngờ giảm magne-huyết (Mg+2 < 1.4mEq/ L); không vượt hơn 30-40g/ ngày, hay duy trì truyền tỷ lệ 1-2g/h
+
+   * Thuốc ức chế kênh Can xi - Trong những tế bào tự động và dẫn truyền đặc hiệu của tim, Can xi tham gia phát sinh điện thế tác động. Những thuốc block kênh can xi chia sẻ khả năng ngăn chặn chuyển vận của những Ion can xi ngang qua màng tế bào. Hiệu ứng này có thể làm giảm cả việc hình thành xung (tính tự động) lẫn vận tốc truyền dẫn.
+          + Verapamil (Calan, Covera, Verelan)
+               - Có thể làm giảm PVCs có liên hệ với giam tưới và giảm bớt nguy cơ về rung tâm thất và chứng tim đập nhanh tâm thất. Bằng việc làm gián đoạn vào lại tại nút AV, verapamil có thể khôi phục nhịp nút xoang bình thường ở những bệnh nhân co chứng tim đập nhanh trên thất kịch phát (PSVT).
+               - Liều 80 - 160mg tid
+
+V. Tiên lượng
+          + Những bệnh nhân không triệu chứng, không có bệnh tim cở bản bên dưới, dự đoán dài hạn tương tự dân cư chung.
+          + Những bệnh nhân không triệu chứng với EF > 40% thì xấp xỉ 3.5% có tác động của chứng tim đập nhanh hay tim ngừng đột ngột.
+           + Trong thiếu máu cục bộ/nhồi máu vành cấp, những bệnh nhân với PVCs đơn giản hiếm khi tiến triển tới những chứng loạn nhịp tim ác tính. Tuy nhiên ngoại tâm thu bền bỉ sau một nhồi máu cơ tim có liên quan đến tăng nguy cơ về chết thình lình.
+          + Những bệnh nhân với bệnh tim mãn bên dưới (vd, Bệnh cơ tim, nhồi máu, bệnh van tim) và NTT phức tạp (hay > 10 PVCs/h) có tỷ lệ chết tăng một cách đáng kể.(tham khảo)

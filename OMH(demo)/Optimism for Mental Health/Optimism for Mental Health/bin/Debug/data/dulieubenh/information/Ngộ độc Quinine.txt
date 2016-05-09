@@ -1,0 +1,58 @@
+﻿Ngộ độc cấp quinine
+Quinine là một alkaloid của vỏ cây canh -ki-na. Nó là đồng phân tả tuyền của quinidine.
+Ngày nay, Quinine chỉ được dùng để điều trị sốt rét khi ký sinh trùng kháng vơí các thuốc khác.
+
+I. Chẩn đoán:
+1.Chẩn đoán dương tính
+a. Lâm sàng:
++ Hỏi bệnh :
+- đang điều trị sốt rét bằng quinine,
+- hoặc có ý muốn phá thai,
+- hoặc có lí do để tự tử, có vỏ thuốc hoặc thuốc rơi vãi.
+
++ Triệu chứng:
+- ù tai, hoa mắt, chóng mặt, nôn mửa, rối loạn ý thức,
+- giảm hoặc mất thị lực, điếc một phần hoặc hoàn toàn,
+- nặng thì da tím, lạnh, hạ thân nhiệt, đái ra huyết sắc tố,
+- loạn nhịp tim, tụt huyết áp, hôn mê, chết do ngừng thở sau vài giờ đến vài ngày.
+
+b. Cận lâm sàng:
+Xét nghiệm tìm quinine trong nước tiểu đóng vai trò quyết định
+Điện tim: QT kéo dài, T dẹt hoặc đảo ngược, QR S dãn rộng, blốc nhĩ thất cấp 1, khoảng PR kéo dài.
+
+2.Chẩn đoán phân biệt:
+Với ngộ độc quinidine hoặc chloroquine: triệu chứng tim mạch nặng hơn, chẩn đoán bằng xét nghiệm độc chất.
+
+II. Nguyên nhân:
+Ngộ độc thường xảy ra do quá liều điều trị sốt rét, do tự t ử hoặc do uống liều cao với mục đích phá thai.
+
+III.Tiên lượng:
+Liều điều trị và liều độc của Quinine rất gần nhau
+( liều điều trị: 1800 mg chia làm 3 lần trong khi liều gây tử vong là 1800 mg đến 8g).
+Mặt khác, ngay với liều điều trị cũng có thể gây ra những rối loạn dẫn truyền cơ tim.
+Vì vậy trong quá trình điều trị sốt rét bằng quinine cần theo dõi điện tim để phát hiện kịp thời các rối loạn điện tim.
+Dự phòng: quản lý thuốc; giải quyết các nguyên nhân dẫn đến tự tử.
+
+IV. Điều trị
+1. Tuyến cơ sở:
+Gây nôn nếu bệnh nhân chưa nôn, chưa rối loạn ý thức.
+Than hoạt: 1g/1kg cân nặng uống kèm sorbitol 2g/kg cân nặng (nếu có).
+Truyền dịch: Glucose 5%, Natri clorua 0,9%.
+Chuyển bệnh nhân đến khoa cấp cứu gần nhất.
+
+2. Tuyến Huyện:
+- ổn định các chức năng sống:
+theo dõi các dấu hiệu sống (mạch, huyết áp, hô hấp, điện tim),
+thở oxy, truyền dịch glucose 5% và natri clorua 0,9%, natri bicarbonate 1,4%.
+- nếu có suy hô hấp: thông khí nhân tạo bằng thở máy với phương thức CMV, Vt 10 ml/ kg, tần số: 16-20lần/phút,
+- Nếu tụt huyết áp: Dopamin 200mg 1 ống, pha vào 500 ml glucose 5% truyền tĩnh mạch 15 giọt/ phút( khoảng 8 mg/kg/phút), điều chỉnh tốc độ truyền để duy trì huyết áp mong muốn ( huyết áp tâm thu > 90 mmHg )
+- Theo dõi điện tim, phát hiện và xử trí loạn nhịp. Truyền kiềm để đạt được pH máu từ 7,45 đến 7,50 có thể ngăn ngừa rối loạn dẫn truyền nặng lên và phòng được các loạn nhịp gây tử vong. Không sử dụng các thuốc chống loạn nhịp nhóm 1A và 1C...
+- Hạn chế hấp thu độc chất: gây nôn nếu không rối loạn ý thức, rửa dạ dày 2 -3lit nước(đến khi nước trong).
+Than hoạt 60g kèm sorbitol 120 g hoà trong 100ml nước, uống chia làm 3 lần cách nhau 1-2 giờ 1 lần.
+- Tăng đào thải độc chất: Truyền nhiều dịch(4 -5l/ngày) glucose 5% và natri clorua 0,9%, lasix 20mg tiêm tĩnh mạch , duy trì lượng nước tiểu 4 -5 lít/ngày. Nếu đái ít hoặc vô niệu cân nhắc chỉ định thận nhân tạo hoặc lọc màng bụng.
+-Điều trị hỗ trợ: chú ý điều chỉnh cân bằng nước điện giải, dinh dưỡng, chăm sóc toàn diện.
+Chuyển tuyến tỉnh nếu suy h ô hấp mà không có máy thở, suy thận mà không có thận nhân tạo, hoặc loạn nhịp phức tạp mà không có máy tạo nhịp.
+
+3. Tuyến tỉnh:
+Điều trị như tuyến huyện, nếu suy hô hấp cho thở máy, chạy thận nhân tạo nếu có chỉ định và đặt máy tạo nhịp nếu có loạn nhịp phức tạp
+

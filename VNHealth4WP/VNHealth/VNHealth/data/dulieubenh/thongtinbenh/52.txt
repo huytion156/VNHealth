@@ -1,0 +1,89 @@
+﻿1. Tổng quan
+          + Hội chứng Wolf-Parkinson-White (WPW, hội chứng tiền kích thích) là một bệnh liên quan đến sợi điện thế trong tim.
+
+          + Bình thường, một tính hiệu điện thế sẽ bắt đầu tại 1 phần của tim (nút xoang nhĩ phải) và truyền qua vùng giữa tâm nhĩ và tâm thất (nút nhĩ thất), đến những phần khác của tim (tâm thất).     
+          + Trong bệnh lý này, có 1 sự bất thường về nối kết điện thế khi đi qua nút nhĩ thất, có thể đưa đến nhịp tim nhanh hoặc bất thường.
+
+2. Hội chứng
+          + Thường nhịp tim nhanh đưa đến đánh trống ngực hoặc kèm theo những triệu chứng khác như hoa mắt hoặc đau ngực.
+          + Tuy nhiên, trên vài bệnh nhân không bao giờ tiến triển đến những vấn đề tim mạch điển hình, và chẩn đoán được bằng những xét nghiệm thường qui
+
+3. Nguyên nhân
+          + Là do sự bất thường về vòng điện thế trong tim. Ngoài vòng điện thế bình thường, bệnh nhân bị WPW có thêm sự nối kết trực tiếp giữa 2 phần của tim.
+          + Nguyên nhân của vòng điện thế bất thường vẫn chưa được biết, nhưng hầu hết bệnh nhân khi sinh ra đã có những vấn đề này
+
+4. Chẩn đoán
+          + Thấy sóng delta bất thường trên ECG :
+               - Đoạn PR ngắn (0,11s)
+               - QRS rộng (0,12s)
+               - Sóng delta (d) ở DI
+               - Sóng delta âm ở V1
+
+          + Cần thực hiện thêm một số xét nghiệm tim chuyên biệt khác:
+               - Như điện tim theo dõi 24 giờ Holter hoặc EPS (Nghiên cứu điện thế sinh lý trong tim) đều có thể xác định vị trí của đường WPW đi kèm.
+               - Đôi khi chẩn đoán bằng ECG thường qui trên bệnh nhân có nhịp tim nhanh hoặc bất thường.
+
+
+5. Điều trị
+          + Không điều trị nếu không có bất kỳ triệu chứng nào.
+          + Điều trị bằng thuốc hay phẫu thuật khi có những triệu chứng tiến triển.
+
+     a, Điều trị bằng thuốc
+               - Thuốc dùng điều trị gồm Amiodarone, Quinidine, Procainamide, và Flecainide.
+               - Nên tránh những thuốc như:
+                    Digoxin,
+               - Chẹn kênh Calcium (Verapamil hoặc Diltiazem), và
+               - Chẹn beta (như Atenolol hoặc Metoprolol) .
+
+     b, Đ.trị bằng phẫu thuật cắt đốt  Một số bệnh nhân, chọn lựa điều trị cắt bỏ bằng tầng số radio
+               - Điều trị bằng cắt đốt
+               - Được sự hỗ trợ của chuyên gia BV Bạch Mai (Hà Nội), BV Nguyễn Trãi TP.HCM vừa triển khai kỹ thuật cắt đốt bằng năng lượng sóng radio để điều trị hội chứng Wolff-Parkinson-White (WPW), một chứng loạn nhịp tim chiếm tỷ lệ 0,25% ở người lớn tuổi.
+               - Khi lên cơn, tim bệnh nhân sẽ đập rất nhanh vì ngoài đường dẫn truyền bình thường, trong tim còn có những đường dẫn truyền phụ khiến tim bị kích thích liên tục.
+               - Phương pháp điều trị này tương đối mới trên thế giới.
+                    Trước tiên, người ta luồn một ống thông thăm dò vào tim, sau đó đưa tiếp một ống thông cắt đốt và qua ống này tần số radio được phóng ra (tạo nhiệt độ khoảng 65 độ C) để phá huỷ đường dẫn truyền phụ.
+                    So với phương pháp dùng thuốc uống như trước đây, kỹ thuật này rẻ tiền, tỷ lệ thành công rất cao và giải quyết tận gốc hội chứng WPW. Tại TP.HCM, kỹ thuật đã được triển khai ở BV Thống Nhất, Viện Tim và nay là BV Nguyễn Trãi.
+
+* Nếu bệnh nhân bị bệnh trầm trọng, shock tim lập tức nên được thực hiện.
+
+I. Tổng quan
+          + Hội chứng tiền kích thích bao giờ cũng do một hay nhiều cầu phụ có thể dẫn truyền hai chiều: nhĩ xuống thất và ngược lại.
+          + Khi đang ở nhịp xoang, xung động đi xuôi chiều từ nhĩ xuống thất theo cả 2 đường: đường cầu phụ và đường bộ nối N/T bình thường lập nên tình huống hoạt hóa thất hỗn hợp làm hiện ra hình ảnh ÐTÐ hỗn hợp kiểu W-P-W (P ngắn, sóng delta, QRS rộng hay hội chứng P ngắn, trước đây gọi là Lown-Ganong-Levine (L-G-L)… Như vậy, đây là một cầu nối phụ không ẩn giấu (non concealed conduction).
+
+          + Các cầu phụ đó là những dải cơ có cấu trúc như cơ tâm nhĩ và có thể nằm ở bất kỳ chỗ nào quanh vòng cơ nhĩ - thất.
+          + Hội chứng có thể đi một mình hoặc kèm với một dị tật bẩm sinh mà hay gặp nhất là bệnh Ebstein.
+
+          + Khi có điều kiện thuận lợi nào đó (cường giao cảm…) một xung động đi xuống thất bằng đường His sẽ đi ngược lên nhĩ bằng đường cầu phụ rồi "vào lại" đường His để đi xuống lặp lại hoạt hóa tâm thất gây ra một vòng vào lại và cơn nhịp nhanh trên thất kịch phát giống hệt như cơn nhịp nhanh vào lại nhĩ/thất đã tả ở trên.
+
+          + Chỉ có 5% các ca xung động đi theo chiều ngược lại xuống thất qua cầu nối, hoạt hóa toàn bộ thất (làm QRS dãn rộng) rồi đi ngược lên nhĩ qua đường His để vào lại cầu nối phụ: vòng vào lại ngược này có QRS dãn rộng nên rất khó chẩn đoán phân biệt với nhịp nhanh thất.
+
+          + Khi có rung hay cuồng nhĩ phối hợp với tiền kích thích (xem trên, mục "rung nhĩ") cầu nối (là một dải cơ nhĩ) không có cấu trúc làm giảm chậm dẫn truyền như nút N/T nên có thể dẫn truyền các xung động rất nhanh của rung, cuồng nhĩ xuống thất gây ra nhịp nhanh thất (chứ không phải nhịp nhanh vào lại như trên) thậm chí gây ra rung thất và chết đột ngột.
+
+               + Tình trạng này càng dễ xảy ra khi ta cho bệnh nhân dùng digitalis vì nó làm rút ngắn thời kỳ trơ và tăng tính dẫn truyền của các dải cơ cầu phụ.
+
+II.Thăm dò ÐSLH, rất cần khi can thiệp bằng các thủ thuật, có thể giúp:
+     1. Xác định chẩn đoán.
+     2. Xác định vị trí và số lượng các cầu phụ.
+     3. Chứng minh vai trò của cầu phụ gây ra loạn nhịp
+     4. Xác định mức điện thế có thể gây ra cơn nhịp nhanh đe dọa tính mạng khi có mặt rung cuồng nhĩ.
+     5. Ðánh giá các phương án điều trị
+
+III.Ðiều trị
+     1. Ðiều trị ngăn chặn cơn nhịp nhanh
+          a. Ðiều trị thuốc: mục tiêu là tác động lên một hay nhiều thành phần của vòng vào lại để ngăn chặn nó khỏi hoạt động và gây ra nhịp nhanh. Cụ thể như sau:
+
+               - Hay dùng nhất là bêta, verapamil, diltiazem, digitalis… để làm chậm dẫn truyền và tăng tính trơ của nút nhĩ thất.
+
+               - Rồi đến quinidine, flecainide, propafenone… làm chậm dẫn truyền và tăng tính trở chủ yếu của cầu phụ.
+
+               - Các thuốc khác cũng có tác dụng và đều có thể dùng tùy theo tỷ lệ hiệu quả/nguy cơ của từng ca bệnh như: procainamide, disopyramide, eucainide, sotalol, Amiodarone.
+
+* Chú ý: Khi có rung, cuồng nhĩ đi kèm với W-P-W thì có chống chỉ định của digitalis (lý do xem trên) và điều đó càng tuyệt đối cấm đối với đường tiêm tĩnh mạch. Cũng với lý do đó, verapamil cũng không được dùng tiêm tĩnh mạch nhưng có thể điều trị mạn tính theo đường uống. Trong trường hợp các xung động của rung nhĩ được dẫn truyền xuống thất qua cầu phụ thì các chẹn bêta cũng không có lợi ích gì vì không khống chế được đáp ứng tăng tần số của thất.
+
+          b. Triệt bỏ cầu phụ bằng tần số radio qua giây thông thật tuyệt vời vì có thể đạt hiệu quả chữa khỏi bệnh tới trên 90% các ca, lại rất an toàn. Tỷ lệ giá thành/hiệu quả rẻ nên rất được ưa dùng.
+
+          c. Phẫu thuật cắt đứt, triệt bỏ cầu phụ dưới sự hướng dẫn của đồ bản điện học: tuy cũng đạt hiệu quả như vậy nhưng phức tạp hơn nên chỉ còn dùng khi tần số radio thất bại.
+
+     2  Ðiều trị cấp cơn nhịp nhanh
+          a. Nếu là cơn nhịp nhanh trên thất kích phát do W-P-W thì điều trị cũng tương tự như nhịp nhanh có cầu nối ẩn giấu như kích thích phế vị, adenosine… (xem trên). Riêng về máy tạo nhịp nhĩ hoặc thất thì có thể cắt cơn rất tốt nhưng chỉ nên dùng kiểu cấp chứ không nên dùng kiểu mạn tính vì nó có thể gây ra rung nhĩ bất lợi (xem trên).
+
+          b. Nếu là cơn nhịp nhanh do rung nhĩ trên cơ sở W-P-W thì nên sốc điện ngay vì dễ bị rung thất (xem trên). Nếu không có máy sốc điện thì có thể làm chậm nhịp thất xuống bằng Lidocaine (3-5mg/kg) hay procainamide (15mg/kg) tiêm tĩnh mạch trong 15-20 phút.

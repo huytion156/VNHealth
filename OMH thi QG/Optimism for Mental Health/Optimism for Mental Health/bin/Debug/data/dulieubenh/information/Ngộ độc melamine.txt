@@ -1,0 +1,79 @@
+﻿I.Đại cương
+1.Bản chất công nghiệp
+ 
+a. Tên hóa học: 1,3,5-triazine-2,4,6-triamine, công thức: C3H6N6, được tổng hợp lần đầu tiên năm 1834
+b. Melamine là là một chất ba-dơ hữu cơ – trong công nghiệp, thường sử dụng urê [(NH2)2CO] để sản xuất melamin theo phản ứng: 6(NH2)2CO -> C3H6N6 + 6NH3 + 3CO2. Loại chế biến từ than thì rẻ hơn; chúng thường ở dạng bột màu trắng, rất ít tan trong nước, rất giàu chất nitơ - nó có khoảng 66% nitơ.
+c. Được cho phản ứng với formaldehyt tạo nhựa nhiệt cứng melamine - formaldehyt, áp dụng trong sản xuất chất kết dính, vải, vật liệu gia dụng như tô, chén, dĩa, muỗng, các đồ dùng bằng plastic, kệ bếp, keo dán, miếng chùi bảng, phân bón, quần áo chống cháy, thuốc nhuộm, hồ và nhiều vật gia dụng khác.
+d. Đồ dùng bằng nhựa melamine - formaldehyt có đặc điểm bền, đẹp, nhưng khi sử dụng chúng chứa thức ăn nóng, chua, có thể tiết vào thức ăn melamine và formaldehyt.
+e. Melamine bị cấm dùng trong sản xuất thực phẩm cả cho người và động vật.
+ 
+2. Vì sao pha melamine vào sữa ?
+a. Ở mỗi sản phẩm sữa, ngoài nhãn mác còn có in những thông tin về hãng sản xuất, nguyên liệu, và con số về hàm lượng protein…(ví dụ hộp Fresh milk 100ml-ghi Chất đạm là 3g...)
+b. Con số này được ghi nhận thông qua một phương pháp kiểm tra có tên gọi Kjeldahl, lấy theo tên một nhà hóa học Đan Mạch. Phương pháp Kjeldahl, về cơ bản, đo lượng nitơ trong sữa bằng cách xem xét mức ammonia…
+c. Để tăng lợi nhuận, người ta pha loãng sữa tươi với nước, đậu tương hay các thành phần thay thế khác rẻ hơn - việc làm này khiến hàm lượng protein trong sữa bị giảm thấp.
+d. Vì chất melamine chứa rất nhiều nitơ nên người ta đã trộn melamine vào sữa bị pha loãng để làm tăng nồng độ nitơ, nhằm làm gia tăng một cách giả tạo hàm lượng protein trong sữa, được cần đến để đánh lừa thiết bị kiểm tra, khiến các nhà kiểm định chất lượng và người tiêu dùng lầm tưởng rằng sữa có hàm lượng protein bình thường hoặc cao (tức là sữa vẫn nguyên chất, không bị pha nước).
+e. Ngoài melamine, người ta biết cả với acid cyanuric, cũng là chất giúp làm tăng “nồng độ đạm” trong sản phẩm, dù nồng độ đạm thật trong đó rất thấp. Acid cyanuric là chất tổng hợp, dùng nhiều trong công nghiệp, có nhiều tên gọi khác nhau, có màu trắng, không mùi, là dẫn chất trong ngành nhuộm vải, thuốc tẩy, thuốc diệt cỏ, chất diệt trùng trong bể bơi hay ao nuôi tôm (TCCA)… Acid cyanuric rẻ hơn melamine nhiều, đó là lý do có thể có sự hiện diện cả đôi trong thực phẩm dẫn tới gây độc. Do dung acid cyanuric đi đôi với melamine, chúng kết hợp làm thành một hỗn hợp có độc tính cao hơn, nên đã gây ra cơn sốt về ngộ độc sữa có melamine như hiện nay (2008).
+
+Máy đo Clo, pH & acid cyanuric trong nước.
+
+3. Thêm vào trong khi chế biến sữa.
+a. Thứ nhất, nông dân nuôi bò sữa - pha nó vào trước khi giao sữa cho trạm thu mua. Tuy nhiên, lượng sữa nguyên liệu mà mỗi hộ sản xuất được rất ít, nên thêm melamine, acid cyanuric vào thì cũng chẳng thu lợi hơn được bao nhiêu.
+b. Thứ hai, con buôn thêm melamine, acid cyanuric vào sữa tại các trạm thu mua; sẽ có lời lớn hơn (và hầu hết kẻ tình nghi đã bị bắt giữ, tính đến thời điểm hiện tại, đều liên quan đến khâu này).
+c. Thêm melamine, acid cyanuric vào tại nhà máy sản xuất chế biến sữa (như ở nhà máy Tam Lộc TQ – đối tác nước ngoài có phản đối, nhưng cổ phần <50% nên đã không ngăn được), là đây khả năng cuối cùng – nhưng nó cũng là cách làm thu lợi cao nhất!.
+
+II. Độc tính gây hại đối với người, động vật
+1. Độc tính chung
+a. Melamine ít độc ở  liều thấp, nhưng khi kết hợp với acid cyanuric nó có thể gây ra sỏi thận nguy hiểm do sự hình thành chất không tan melamine cyanurate.
+b. Là chất "có hại" nếu nuốt, hít hay thấm qua da. Là chất gây kích thích hô hấp, mắt, da.
+c. Tiếp xúc lâu ngày có thể là nguyên nhân ung thư hoặc tổn thương sinh sản.
+d. Tuy nhiên, liều lượng độc LD50 là hơn 3 gam/KGTT.
+e. FDA giải thích rằng khi melamine và acid cyanuric hấp thụ vào trong máu, chúng tập trung và tương tác với  những vi cấu trúc ống thận, rồi kết tinh và hình thành những tinh thể tròn, vàng, và đến lượt mình chúng làm tổn tế bào thận và các đường dẫn, dẫn đến giảm chức năng thận.
+
+
+2. Nhiễm độc cấp
+a. Là một chất gây kích thích khi hít, tiếp xúc với da hay mắt
+b. Melamine có LD50 đường uống là 3248 mg/ Kg trên chuột. LD50 da > 1000 mg/ Kg ở thỏ.
+c. Một nghiên cứu vào năm 1945, cho chuột, thỏ và chó uống liều lớn melamine đã quan sát thấy "những hiệu ứng độc không quan trọng"?.
+d. Nghiên cứu ở Liên Xô vào 1980 gợi ý melamine cyanurate, (thường sử dụng như một chất làm chậm cháy), có thể độc hơn một mình melamine hoặc acid cyanuric.
+e. Trộn vào thức ăn nuôi chó, mèo thấy gây tổn thương suy thận cấp.
+
+3. Nhiễm độc mãn
+a. Ăn uống có melamine có thể dẫn tới tổn hại cơ quan sinh sản, bàng quang hay sỏi thận, và có thể dẫn tới ung thư bàng quang.
+b. Nghiên cứu năm 1953 thông báo rằng chó được dùng 3% melamine/một năm có những sự thay đổi sau đây trong nước tiểu của chúng:
+-  giảm tỷ trọng, đa niệu,
+- lắng Melamine crystalluria,
+- có protein và máu ẩn.
+c. Một khảo sát khác gợi ý rằng những tinh thể được hình thành trong thận, do melamine kết hợp với a-xít cyanuric " không dễ hoà tan, thải thì rất chậm".
+d. Ngoài ra, đưa melamine vào dạ dày trong một thời gian dài có thể gây ung thư ruột.
+
+III. Triệu chứng lâm sàng
+1. Người bị nhiễm độc có những triệu chứng sau:
+- Kích thích
+- Tiểu ra máu
+- Tiểu ít hoặc không tiểu được
+- Các dấu hiệu nhiễm trùng tiểu
+- Cao huyết áp
+- Lâu dài sẽ dẫn đến suy thận
+
+2. Trẻ em bị nhiễm melamine tạo sỏi thận do uống sữa   thường có những dấu hiệu sau:
+- Dấu hiệu sớm là bé thường khóc nhiều, đặc biệt là khóc khi đi tiểu và kèm theo là bị buồn nôn.
+- Những dấu hiệu tiếp theo là trẻ đi tiểu ra máu. Tình trạng ra máu ít hay nhiều phụ thuộc vào việc viên sỏi gây tổn thương như thế nào ở đường tiết niệu.
+- Em bé cũng có thể có biểu hiện thiểu niệu (tức là đi tiểu ít hơn bình thường) hoặc là vô niệu (tức là hoàn toàn không đi tiểu)
+- Kèm theo đó là các triệu chứng đau đớn ở vùng thận nếu chẳng may người lớn chạm vào, sờ nắn vào vùng thận của bé.
+- Ngoài ra, có những bé bị tăng huyết áp do bị sạn, sỏi thận. Thậm chí, có những trường hợp đi tiểu ra cả viên sạn.
++ Khi thấy trẻ có các biểu hiện trên nên đưa ngay trẻ đến các bệnh viện để được chẩn đoán và điều trị kịp thời.
+
+IV. Điều trị
+1.Tùy thuộc vào mức độ nặng nhẹ của bệnh,
+- bệnh nhân có thể được điều trị như truyền dịch, kiềm hóa nước tiểu, …
+- Điều chỉnh rối loạn nước, điện giải thăng bằng kiềm toan, phẫu thuật lấy sỏi.
+- Nếu có suy thận, bệnh nhân có thể được lọc thận hoặc thẩm phân phúc mạc.
+
+2. Với trẻ nhiễm độc melamine bị sạn thận, sỏi thận - việc điều trị không có gì khác biệt.
+- Điều đặc biệt và đáng quan tâm nhất ở đây chính là việc trẻ em bị sỏi thận, sạn thận là điều rất hiếm khi xảy ra, nhất là trong độ tuổi đang bú mẹ.
+- Phác đồ điều trị căn bệnh sạn thận và sỏi thận ở trẻ hoàn toàn giống với phác đồ điều trị các bệnh về sỏi thận thông thường khác.
+- Quá trình và thời gian điều trị phụ thuộc vào lượng melamine đã được hấp thu trong cơ thể trẻ.
+- Tùy thuộc vào tình trạng bệnh của đứa trẻ mà có những phác đồ diều trị thích hợp.
+- Với những sạn thận nhỏ có thể cho trẻ dùng thuốc để đẩy quá trình đi tiểu nhằm đào thải sạn ra khỏi thận và bàng quang.
+- Nếu ở thể nặng có thể dùng biện pháp siêu âm để tán sỏi.
+- Nếu viên sỏi quá to sẽ phải mổ để lấy sỏi.

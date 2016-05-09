@@ -1,0 +1,117 @@
+﻿* Biến chứng nội sọ do tai là một biến chứng nguy hiểm với tỷ lệ tử vong là 17% ở VN cũng như ở các nước tiên tiến, ngày nay dưới thời đại kháng sinh biến chứng này ít gặp tuy nhiên tỷ lệ tử vong vẫn còn cao.
+* Các biến chứng thường gặp là viêm màng não mủ, áp xe não.
+
+A- Áp xe đại não & tiểu não
+I.Chẩn đoán:
+1.Hỏi - Khám - XN
+a. Hỏi bệnh:
+· Tiền căn chảy mủ tai,
+· Triệu chứng hồi viêm: đau nhức tai, chảy mủ tai thối, sốt, nhức đầu.
+· Triệu chứng liên quan đến biến chứng nội sọ: nhức đầu, nôn ói, thay đổi tri giác, co giật
+
+b. Khám bệnh:
+· Khám các dấu hiệu sinh tồn: mạch, huyết áp, nhiệt độ, nhịp thở, tri giác
+· Thăm khám tìm các dấu hiệu:
+- Sốt cao, vẽ mặt nhiễm trùng.
+- Hội chứng tăng áp lực nội sọ: mạch chậm, huyết áp tăng, thay đổi tri giác, nhức đầu, oí mửa
+- Dấu hiệu của áp xe đại não: yếu nữa người, liệt VII trung ương, liệt các dây thần kinh sọ, dấu hiệu tháp BABINSKI (+).
+- Dấu hiệu của áp xe tiểu não: động mắt, thất điều vận động, qúa đà rối tầm.
+· Soi đáy mắt: có thể thấy phù gai thị
+
+c. Xét nghiệm:
+· Công thức máu
+· Chọc dò tủy sống thường ít thực hiện khi nghi ngờ có áp – xe não vì có khả năng gây tụt não.
+· Chụp phim tư thế Schuller tìm các tổn thương xương của tai: viêm xương, cholesteatome
+· M. ECHO có thể thấy đường M di lệch
+· CT scan khi nghi ngờ có khối choán chổ trong não hay MECHO có di lệch đường M
+
+2. Chẩn đoán xác định:
++ Tiền sử chảy mủ tai, hội chứng hồi viêm,
++ Lâm sàng có sốt,
++ Thay đổi tri giác, hội chứng tăng áp lực nội sọ, dấu hiệu của tháp hay ngoại tháp, dấu thần kinh định vị.
++ XQ có tổn thương xương chũm, CT có hình ảnh khối choán chỗ trong não.
+
+3.Chẩn đoán có thể
++ Tiền sử chảy mủ tai, hội chứng hồi viêm,
++ Lâm sàng có sốt,
++ Thay đổi tri giác, hội chứng tăng áp lực nội sọ, dấu hiệu của tháp hay ngoại tháp, dấu thần kinh định vị.
++ XQ có tổn thương xương chũm.
+
+II.Điều trị:
+1.Nguyên tắc điều trị
+· Loại bỏ ổ áp xe,
+· Loại bỏ ổ viêm xương chũm,
+· Kháng sinh chống nhiễm khuẩn
+
+2.Điều trị đặc hiệu
+a.Mổ cấp cứu
+- Trong vòng 24 giờ khi phát hiện có ổ áp xe.
+- Nếu có tình trạng tăng áp lực nội sọ phải được mổ ngay, trong khi chờ đợi phẫu thuật cho manitol truyền tĩnh mạch để chống phù não.
+- Dẫn lưu áp xe là công việc ưu tiên trong pt còn tổn thương xương chủm có thể giải quyết sau khi bệnh nhân ổn định. (thường là pt khoét rộng đá chủm toàn phần mở rộng).
+- Nhanh chóng bộc lộ màng đại não hay tiểu não, nếu màng đại não xanh nhẵn bóng đập theo nhịp mạch là màng não bình thường, tại chỗ tổn thương màng não thường dầy sùi và không đập, ngay tại chỗ tổn thương thường là tiếp điểm của ổ áp xe do đó ta dùng kim chọc dò đầu tròn có ống cao su đục lỗ bọc ngoài đưa thẳng vào ổ áp xe khi thấy mủ trào ra ta rút kim ra lưu ống cao su lại để dẫn lưu, thử mủ tìm vi khuẩn làm kháng sinh đồ, tránh chọc mò như lúc chưa có CT scan gây tổn thương lan tỏa trong não, ống dẫn lưu được hút mỗi ngày cho đến khi không thấy mủ chẩy ra sẽ được rút bỏ.
+
+b.Kháng sinh trị liệu
++ Là quan trọng, nên phối hợp kháng sinh phổ rộng dễ xâm nhập vào dịch não tủy thường dùng:
+- Kháng sinh chọn lựa ban đầu:
+. Cefotaxime 50mg/kg/lần x 4lần /ngày tiêm tĩnh mạch + metronidazol 10mg/kg/lần x 3lần ngày/truyền tĩnh mạch.
++ Nếu có KSĐ sẽ chọn lựa kháng sinh theo kháng sinh đồ
++ Nếu nghi ngờ tác nhân tụ cầu dùng Oxacilline + cefotaxime. Nếu tụ cầu kháng methicilline hay không đáp ứng với phác đồ trên thì dùng Vancomycine + cefotaxime
+
+c.Tích cực chống phù não
+- với Manitol 20% 1g kg/lần truyền TM nhanh trong 15 – 30 phút và duy trì chống phù não với corticoid (Dexamethasone 0, 3mg/kg /2lần ngày) cho đến khi hết tình trạng tăng áp lực nội sọ.
+- Nếu đáp ứng sẽ tiếp tục kháng sinh nêu trên cho đến khi hết tổn thương áp-xe ít nhất 2 – 3 tuần.
+
+3.Điều trị hỗ trợ
+· Dịch truyền: duy trì nước điện giải.
+· Đặt sonde dạ dày nuôi ăn theo chế độ giàu dinh dưỡng để bệnh nhân chóng hồi phục (nên hội chẩn khoa dinh dưỡng).
+
+a.Nếu không chụp được CT scan
+- ổ áp xe không được tìm ra bệnh nhân sẽ không đáp ứng với điều trị, ở giai đoạn cuối bệnh nhân sẽ có dấu hiệu đe dọa tụt kẹt hạnh nhân tiểu não (Nhức đầu không thuyên giảm, oí mửa, tri giác ngày càng xấu dần đi, sau cùng mạch chậm dần, huyết áp tăng chỉ có giá trị ở trẻ lớn, rối loạn nhịp thở ngưng thở, ngưng tim tử vong)
+- lúc này bệnh nhân phải được đưa ngay vào phòng mổ dò theo tổ chức bệnh lý mở rộng màng đaị não hay tiểu não rồi chọc dò tháo mủ nếu không tìm được ổ áp xe thì dùng một kim vô trùng đưa thẳng vào não thất tháo bớt dịch não tủy đồng thời lúc đó dùng manitol 20% truyền tĩnh mạch thật nhanh làm giảm bớt áp lực nội sọ, đặt bệnh nhân nằm đầu thấp để giảm nguy cơ tụt kẹt hạnh nhân tiểu não sau đó hội chẩn ngoại thần kinh để loại bỏ ổ áp xe.
+
+b.Sau khi loại bỏ ổ áp xe
+- bệnh nhân phải được theo dõi sát mạch huyết áp mỗi giờ cho đến khi ổn định.
+- Dấu sinh tồn, tình trạng nhức đầu, tri giác, dịch não tủy phải cải thiện đi đôi với nhau thì điều trị mới có kết quả.
+Kháng sinh sẽ tiếp tục dùng cho đủ một tháng.
+
+III.Theo dõi và tái khám:
+- Một tuần sau khi xuất viện bệnh nhân cần được khám lại,
+- một tháng sau nên tái khám lại nếu tai khô, bệnh nhân không nhức đầu, là kết quả điều trị tốt nếu không phải mổ lại.
+ 
+
+
+B.Viêm màng não do tai
+* Viêm màng não do tai là một biến chứng thường gặp nhất trong các biến chứng của viêm tai xương chũm (theo thống kê tại khoa tai mũi họng bệnh viện Nhi đồng I trong 12 năm thì viêm màng não chiếm 45, 54% trong biến chứng nội sọ do tai),
+* bệnh xảy ra ở con trai nhiều hơn con gái.
+
+I.Chẩn đoán:
+* Dựa vào tiền sử chảy mủ tai và hội chứng màng não
+1.Lâm sàng
+* Một bệnh nhân có tiền sử chảy mủ tai đột nhiên có:
+· Hội chứng hồi viêm:
+  sốt, mạch nhanh, bạch cầu cao kèm theo có chảy mủ tai ù tai nghe kém.
+· Hội chứng màng não:
+  nhức đầu, ói mửa, cứng gáy, Kernig - Brudginski (+)
+
+2.Cận lâm sàng
+· Chọc dò dịch não tuỷ: dịch não tủy mờ, đường giảm, đạm tăng, tế bào thay đổi đa số là bạch cầu đa nhân trung tính.
+· Chụp XQ thấy có tổn thương xương chủm:hình ảnh viêm xương, hủy xương cholesteatome
+
+3.Chẩn đoán xác định:
+.  Bệnh nhân được chẩn đoán (+) viêm màng não do tai, nếu bệnh nhân có tiền sử chảy mủ tai đột nhiên có triệu chứng hồi viêm kèm theo có hội chứng màng não.
+
+II.Điều trị:
+1.Nguyên tắc điều trị:
+· Chống nhiễm khuẩn.
+· Loại bỏ ổ viêm xương chũm.
+
+2.Điều trị đặc hiệu:
+· Bệnh nhân được điều trị kháng sinh theo phác đồ như trong áp xe não trong ba tuần.
+. Kháng sinh được thay đổi tùy theo kết quả của dịch não tủy.
+· Dịch não tủy được theo dõi sau 24 giờ, 48 giờ, 72 gìờ, 7ngày.
+· Bệnh nhân được mổ sau 24-72 giờ để giải quyết ổ viêm trong xương chủm
+
+3.Điều trị hỗ trợ: hạ sốt giảm đau với paracetamol 10 - 15mg/kg
+
+III.Theo dõi và tái khám:
+Bệnh nhân được tái khám mỗi tuần một lần cho tới khi ổn định

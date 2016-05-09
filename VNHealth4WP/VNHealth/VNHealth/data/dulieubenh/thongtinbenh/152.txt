@@ -1,0 +1,107 @@
+﻿I.Phản ứng Tan máu cấp
+
+
+A. Đặc điểm:
+   Thường do ABO không tương hợp, và thường liên quan đến sai sót ghi chép hay dán nhãn sai.
+
+
+B. Triệu chứng chẩn đoán:
+1. Lâm sàng:
++ Triệu chứng sớm
+- dấu hiệu cơn tan huyết cấp từ nhẹ đến nặng.
+- như thình lình xuất hiện lo lắng, bứt rứt, vật vã, mặ́t bừng đỏ, tim đập nhanh và huyết áp thấp, trụy tim mạch.
+- Đau lung-nhức đầu dữ dội, khó thở và sốt cao thường gặp.
+- Vàng da, tiểu huyết sắc tố sau vài giờ...
+
++ Trong Gây mê thường it khi biểu hiên rõ-có thể chỉ thấy máu ở vết mổ chảy nhiều và it nước tiểu.
+
++ Những biểu hiện đe doạ tử vong: trụy mạch (shock), suy thận, co thắt phế quản và DIC.
+
+2. KQ Xét nghiệm:
+a.Hb máu-niệu: giảm Hb máu do tan HC (lấy máu quay ly tâm: huyết tương có màu hồng) + tiểu có Hb: tan huyết nội mạch.
+b.Bilirubin gián tiếp tăng khi tan huyết nôi mô.
+c.test Cooms dương tính nếu tan huyết do kháng thể.
+
+C. Xử trí
+1.Ngưng truyền máu ngay lập tức, gửi 1 mẫu trong bao máu đang truyền, 1 mẫu máu BN để làm lại phản ứng chéo kiểm tra độ tương hợp,   test Cooms để loại trừ do tan huyết kháng thể.
+
+2.Kiểm tra Hb trong máu & nước tiểu để xác định do tan huyết.
+
+3.Xử trí huyết áp thấp với dich muối đẳng trương hay plasma. thuốc tăng huyết áp có thể dùng nếu thay thế bù thể tich một mình không đủ để bảo đảm huyết áp. theo dõi sát HATMTW, có thể cho hydrococtisol liều cao IV.
+
+4.Duy trì tưới máu thận thích hợp với truyền dù dịch.
+  Manitol 25% IV nhanh 25g trong 5-10' (<100g/24h);   furosemide có thể dùng khi đã cho dù dịch.
+  Lọc máu hay TppM nếu có chỉ định.
+
+5.Truyền yếu tố đông máu
+ Theo dõi pt/ptT, tiểu cầu, fi-bri-no-gen và những sản phẩm phân giải fibrin trong DIC. 
+ Truyền yếu tố đông máu cùng với plasma đông lạnh, truyền tiểu cầu và/hoặc cryoprecipitate.
+
+6.Thay máu nếu tan huyết trong lòng mạch quá nặng.
+
+II.Sốt do truyền máu
+   (không tan máu)
+A. Biểu hiện Lâm sàng:
++  Khoảng 0.5-3% trong truyền máu, ở những người truyền máu nhiều lần xảy ra sớm, do p.ứng đặc dị của BN với BC, TC hay Protein máu người cho.
+
++ Lạnh run & sốt, thường trong lúc truyền hay sau vài giờ. Phản ứng có thể rất nặng, nhưng thường vừa và nhẹ.
+
+B.Xử trí
+ 1.Cho acetaminophen và diphenhydramine.
+- Meperidine 50mg IV  hữu ích trong lạnh, run.
+- Kháng Histamin it tác dụng với sốt này.
+
+
+2.Dùng bầu lọc máu phù hợp cho các lần truyền.
+
+3.Phân biệt: Những phản ứng do truyền máu nghiêm trọng hơn phải được loại trừ (vd, phản ứng tan máu cấp hay nhiễm bẩn vi khuẩn của máu người tặng).
+
+III.Phù phổi không do tim
+A.Biểu hiện LS-CLS
++ suy hô hấp cấp đột ngột do tăng gánh tuần hoàn phát triển là đặc trưng, liên hệ với sốt, lanh run, đau ngực, và huyết áp thấp.
+
++ XQ Nguc biểu hiện phù phổi lan toả. Phản ứng này có thể cấp và đe doạ tử vong nhưng nói chung tự khỏi trong 48h.
+
+B. Xử trí ngưng truyền
+ 1.Chống phù phổi và giảm oxy-huyết bằng thông khí hỗ trợ và theo dõi huyết động nếu cần.
+
+2.Cho thuốc lợi tiểu là hữu ích khi do truyền qua tải.
+
+3.Dùng bộ lọc máu thích hợp cho lần truyền tiếp theo & truyền chậm 2ml/kg/giờ với KL< 300ml/lan.
+
+* Các P.Ung khác
+IV.Phản ứng dị ứng
++ Mề đay, ngứa, hen - dùng kháng Histamin.
+
+V.Nhiễm trùng máu
++ Lạnh, sốt, rét run, nôn, mửa, iả, trụy tim mạch.
++ Điều trị như với shock nhiễm trùng.
++ Nhiễm virus viêm gan, HIV...
+
+VI.Bản xuất huyết muộn
++ có thể Ban XH dưới da sau 6-7 ngày_do thành lập kháng thể kháng Tiểu cầu/thường tự khỏi.
+
+VII.Xuất huyết do truyền lượng lớn
++ do giảm TC và các yếu tố đông máu.
++ truyền TC, plasma tươi
+
+VIII.Dư thùa sắt (Fe)
++ Do truyền 1 lit đưa vào 500mg Fe; Cơ thể chỉ thải 1mg/ngày !.
++ có khi thiếu máu do tăng HC sắt (Sideroblastic anemia) và tích tụ ở các cơ quan.
++ Có thể cho Desferrixamin (Desferal) 500mg IM bid.(TK ngộ độc sắt).
+
+IX.Tắc cục đông, tắc khí...
+
+X.Ngộ độc Xitrat
++ Dấu hiệu ha Ca máu (citrat là chat khử Ca): rối loạn nhịp tim, hạ HA, dấu hiệu hạ Ca máu).
++ Cho Calcium gluconat 10% x 10ml IV chậm.
++ Phòng ngừa: 2 dv máu truyền cho 1 ống Ca gluconat 10% IV chậm.
+
+XI.Ngộ độc Kali
++ do trữ máu lâu ngày - Điều trị như với hạ K huyết.
+
+XII.Giảm thân nhiệt
++ Lạnh quá có thể ngưng tim-sưởi ấm BN và làm ấm bình máu.
+
+XIII.Máu quá hạn
++ Có thể mắc H.c nổi hạch toàn thân giống như Bệnh nhiễm khuẩn có tăng BC đơn nhân (Mononucleose infection) tự khỏi nhưng rất chậm.

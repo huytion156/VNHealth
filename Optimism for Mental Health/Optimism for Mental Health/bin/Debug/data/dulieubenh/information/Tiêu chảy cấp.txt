@@ -1,0 +1,150 @@
+﻿1.Tổng quan
+* Đồng tên Iả chảy cấp nhiễm khuẩn; ngộ độc thức ăn; NTNĐ ăn uống...
+* Tùy nguyên nhân, thường chia 2 dạng trên lâm sàng: có HC Lỵ & HC Tả
+
+a.Tiêu chảy cấp có H.c Lỵ̣:
+* Do cơ chế xâm nhập, làm  tổn thương niêm mạc GI
++ VK Thương hàn Salmonella.
+
+ Ủ̉ bệnh 8-10h sốt>38 liên tục, có rối loạn mê sảng (typhos).
+ RLTH: ỉa lỏng vài lần/ngày, phân lỏng không máu, bụng chướng,lọc sọc HCP.
+
++ Lỵ trực khuẩn Shigella.
+ Ủ̉ bệnh 2-5ngày
+ sốt >39 đột ngột, ớn lạnh, đau người,
+ RLTH: HC lỵ (đau bụng, mót rặn,  phân lâần đầu nước vàng, sau đi 20-40 lần/ngày, đau quặn, phân máu lẫn nhầymũi).
+
++ ly amib cấp.
+ Không sốt; có HC lỵ (đau quặn bụng, mót rặn, phân nhầy  máu, 5-15 lần/ngày).
+ Nặng có thể thủng bụng.
+
+ + E.coli.
+ Ủ bệnh vài ngày
+ Sốt cao, rét run sau nk thực phẩm (uống sữa,ăn thức ăn bẩn...)
+ Ỉa chảy nước. Nặng có tan máu,suy thận do nội độc tố (trẻ <5tuổi).
+
+
+b.Tiêu chảy cấp có H.c Tả:
+* Gây bệnh bằng các ngoại-nội độc tố, qua AMPc làm tăng tiết quá mức & giảm tái hấp thu...
+
++ Bệnh tả (TK cholera).
+ Do khuẩn Vibrio cholerae.
+
+
++ E.coli sinh nội độc tố.
+ Không sốt, ỉa chảy dạng tả
+
++ Virus: Rotavirus - Adenovirus
+- Rotavirus: ủ bệnh 2-4 ngày, hay gặp ở trẻ <2 tuổi,
+ nôn ỉa chảy cấp, sốt cao đột ngột; hay có phát ban hoặc sẩn, viêm long đường hô hấp; dễ dẫn đến ỉa chảy máu.
+- Adenovirus: ủ bệnh 8-10ngày, hay gặp ở trẻ < 2 tuổi; có thể viêm long đuờng h.hấp, sốt, nôn, ỉa chảy khoảng dưới 10 ngày.
+
+c. NK-NĐ ăn uống (Alimentary Toxinfection)
+ + Rất hay gặp, do ăn đồ đã bị ô nhiễm bởi VK hoặc Độc tố của VK.
+ + Bệnh cảnh LS hay gặp nhất là HC viêm d.d-ruột cấp.
+ + Được chia 2 loại chính:
+  - T.ăn có Vi khuẩn gây bệnh đột nhập vào n.mạc d.dày-ruột (điển hình S.typhimurium).
+  - T.ăn chứa Độc tố VK (đ.hình độc tố Tụ cầu vàng, Cl.perfringer, Cl.botulinum).
+
++ S.typhimurium
+ - Ăn phải thức ăn chứa Salmonella
+(S.typhimurium và S.enteritidis / Nhóm này không gây bệnh thương hàn, phó thương hàn, sống trong nước được vài tuần, nguồn bệnh chủ yếu từ súc vật & ng lành mang trung, 100 độ C trong 5' mới diệt được VK này...)
+ - Thời gian ủ bệnh trung bình 12-36 giờ sau ăn.
+ - Bệnh khởi phát đột ngột
+ - Sốt, đau bụng vùng thượng vị hoặc quanh rốn, không mót rặn, tiêu chảy nhiều lần, phân thối, nhiều nước đôi khi có nhày, máu, gần giống phân trong lỵ trực khuẩn.
+ - Trường hợp nặng có HC nhiễm khuẩn-nhiễm độc + HC viêm d.day-ruột cấp + HC rối loạn điện giải (do mất nước, môi khô, mắt trũng, khát nước), nặng có thể tử vong do trụy mạch.
+ - Ngoài ra bệnh còn có thể xuất hiện khi ăn phải thức ăn có chứa độc tố của vi khuẩn đã hình thành sẵn trong thức ăn, và chính độc tố này cũng gây bệnh
+ - Có 4 thể chính: Thể viêm d.d-ruột cấp; thể NK huyết; thể khu trú nội tạng; thể mang trùng lành.
+ - Điều trị: với Salmonella
+ . Có T.giả không cho dùng KS vì nguy cơ tăng thời gian mang trùng;
+ . Chỉ dùng ở người suy giảm thể dịch, người già và trẻ nhỏ với Ampicillin 1g/lần x 3-4 lân/ngày x 5-7 ngày (trẻ em 100mg/kg/ngày - chia 3-4 lần uống), hay Bactrim 0,48 x 4-67 viên/ngày x 2-3 lần/ngày x 5-7 ngày (người lớn).
+
++ Độc tố (của tụ cầu vàng Staphylococus aureusu, Clostridium perfrigens, Clostridium botulinum, bacilluscerus và Vibrio parahaemolyticus).
+*Tụ cầu:
+- Ngoại độc tố tụ cầu chịu được nhiệt cao 100 độ phải 1-2 giờ mới bị hủy, không bị men tiêu hóa phá hủy, nhanh chóng thấm vào n.mạc ruột-tác động lên hệ TKTV làm cường phó giao cảm, tăng co bóp dạ dày dẫn đến đau quặn, nôn, ỉa lỏng và trụy tim mạch. bụng
+- Nguồn bệnh thường từ người bị viêm họng, xoang, mụn nhọt da do tụ cầu; vú bò bị viêm...
+- Ủ bệnh ngắn thường từ 2-4 giờ
+- Biểu hiện lâm sàng là:
+ . Đau bụng dữ dội, quặn từng cơn, đau t.vị nhiều hơn quanh rốn;
+ . Tiêu chảy nhiều lần trong ngày (50% không ỉa lỏng), đau bụng, không sốt, buồn nôn và nôn sớm trước khi ỉa lỏng.
+- Không có điều trị đặc hiệu; bổ xung nước điện giải là chính.
+*Do Clostridium perfringgens.
+- ngoại độc tố chủng A,F gây t.thương n.mạc, rl CN hấp thu và tổn thương thành mạch các phủ tạng
+- điều trị triệu chứng như với Tụ cầu, thể NKH cho dùng nhóm Flagyl, Cloramphenicol,  hoặc Augmentin Unasyl (nhóm betalactam p.họp chất td uc men betalactamasse).
+*Do Cl.botulinum
+- nhiễm độc thịt hộp thường có sốt cao, HC Đ-Ruột, đồng tử dãn, khô miệng, mất phản xạ & bại liệt cơ nhiều do tác động tổn thương hệ TK phó giao cảm & các TBTK vận động ở hành não, tủy sống gây TC liệt & giảm tiết ...ủ bệnh 5 giờ đến 5 ngày; Toàn phát có TC liệt đối xứng + giảm tiết nước mắt, nước bọt, khô miệng, khó nuốt, liệt cơ hô hấp...
+- Điều trị HS TH,HH là chính, KS chỉ là đề phòng bội nhiễm; huyết thanh kháng độc tố sẵn có thì dùng; tỷ lệ tử vong còn cao.
+
+2.Điều dưỡng
++ Theo dõi sinh hiệu: q6h
++Hoạt động: Không hạn chế
++Chăm sóc: cân hàng ngày & lượng ra-vào.
++Ăn kiêng:Không NPO trong 24h (ngoại trừ uống hoặc ORS/1lit = gluco 20g; NaCl 3,5g; bicacbonat Na 2,5g ; KCl 1,5g); sau đó ăn lọ̉ng, nhẹ, dễ tiêu; không dùng sữa.
++Truyền đường IV: 1 -2 L NS trong 1 -2 h; sau đó cho D5 - NS cộng với 40 mEq KCL/Lit truyền tốc độ 125 ml/h.
++Gọi BS nếu: BP >160/90, <80/60;  P >120; R>25; T >38.5C.
+
+3.Điều trị đặc hiệu chung:
++ Soi cấy máu đại thể trong phân hay vi thể có b.cầu.
++ KS chỉ định trường hợp iả chảy có viêm ruột
+  (cơ chế tổn thương ruột thường do vk),
+  và khi có hội chứng ly:
+  - Ciprofloxacin (Cipro) 500mg PO bid hay
+  - Norfloxacin (Norcoxin) 400mg PO bid hay
+  - Ofloxacin (Floxin) 300mg bid hay
+  - Trimethoprim/SMX (Bactrim DS)(160/800mg) 1v PO bingày.
+  
+4.Thuốc cho từng bệnh
++ Bệnh tả (TK cholera).
++Lỵ Shigella
+ -Trimethoprim/SMX, (Bactrim) 1v PO bid x5 d hay
+ -Ciprofloxacin (Cipro) 500mg PO bid x 5d hay
+ -Azithromycin (Zithromax)  500mg PO x 1, sau đó 250mg PO qd x 4.
+
++T.hàn Salmonella (NK Máu)
+ -Ofloxacin (Floxin) 400mg IV/PO q12h x 14d hay
+ -Ciprofloxacin (Cipro) 400mg IV q12h hoặc 750mg PO q12h x 14d hay
+ -Trimethoprim/SMX (Bactrim) 1v PO bid x 14d  hoặc
+ -Ceftriaxone (Rocephin)  2 gm IV q12h x 14ngày.
+
++ Viêm hỗng tràng do Campylobacter
+ -Erythromycin 250mg PO qid x 5 -10d hoặc
+ -Azithromycin(Zithromax)  500mg PO x 1, sau đó 250mg PO qd x 4 hoặc
+ -Ciprofloxacin (Cipro) 500mg PO bid x 5ngày.
+
++ E coli (Iả chảy du lịch) Enterotoxic/Enteroinvasive
+ -Ciprofloxacin (Cipro) 500mg PO bid x 5 -7d  hoặc
+ -Trimethoprim/SMX (Bactrim)1v PO bid x 5-7ngày.
+
++ Viêm đ.t giả mạc do KS Pseudomembran Colitis (Clostridium difficile)
+ -Metronidazole (Flagyl) 250mg PO hoặc IV qid  x 10 -14d hoặc
+ -Vancomycin 125mg PO qid x 10d(500 PO qid  x 10 -14d).
+
++ Yersinia Enterocolitica (sepsis)
+ -Trimethoprim/SMX (Bactrim) 1v PO bid x5-7d hoặc
+ -Ciprofloxacin (Cipro) 500mg PO bid x 5 -7d hoặc
+ -Ofloxacin (Floxin) 400mg PO bid hoặc
+ -Ceftriaxone (Rocephin) 1 gm IV q12h.
+
++Amib Entamoeba Histolytica (Amebiasis)
+Nhẹ & vừa:
+ -Metronidazole (Flagyl) 750mg PO tid x 10d hoặc
+ -Tinidazole 2 gm/d  PO x 3d sau đó cho:
+ -Iodoquinol 650mg PO tid x 20d hoặc
+ -Paromomycin 25-30mg/kg/d PO tid x 7ngày.
+Nặng:
+ -Metronidazole (Flagyl)  750mg PO tid x 10d hoặc
+ -Tinidazole 600mg PO bid x 5d sau đó cho:
+ -Iodoquinol 650mg PO tid x 20d hoặc
+ -Paromomycin 25 -30mg/kg/d POtid x7ngày.
+
++Trùng roi Giardia Lamblia
+ -Quinacrine 100mg  PO tid x 5d hoặc
+ -Metronidazole 250mg PO tid x 7ngày.
+
++ Cryptosporidium
+ -Paromomycin 500mg  PO qid x 7 -10d [250mg].
+
+5.XN thêm:
++ SMA7 &12, CBC, UA, cấy máu tìm thương hàn, lỵ TK.
++ P.ứng H.thanh để c.đoán t.hàn, lỵ TK.
++ Soi tim tả, amib...

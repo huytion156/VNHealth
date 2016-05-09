@@ -1,0 +1,39 @@
+﻿1. Nguyên nhân và triệu chứng
+     - ARDS biểu thị suy hô hấp giảm oxy máu cấp theo sau một rối loạn hệ thống hay phổi mà không có bằng chứng của suy tim.
+     - Là dạng khốc liệt nhất của tổn thương phổi cấp và được đặc trưng bởi thâm nhiễm phổi hai bên, lan rộng, nhưng áp lực đm phổi bít bình thường (= 18 mmHg) và
+tỷ lệ PaO2/FIO2< 200.
+     - Những yếu tố nguy cơ gây ARDS bao gồm nhiễm trùng máu, hít những chất chứa trong dạ dày, sốc, truyền nhiễm, dập phổi, chấn thương không phải vùng ngực, hít chất độc, chết đuối, và truyền nhiều máu. Khoảng 1/3 bệnh nhân ARDS thoạt tiên có hội chứng nhiễm trùng máu.
+     - Dù cơ chế tổn thương phổi thay đổi với nguyên nhân, tổn thương tế bào nội mô mao mạch phế nang và tế bào biểu bì phế nang thường dẫn tới ARDS bất chấp nguyên nhân.
+     -Dấu hiệu:
+        +ARDS thường khởi phát nhanh sau 12-48 giờ tình trạng khó thở trầm trọng. Nỗ lực thở, Nhịp thở nhanh, co rút gian sườn...
+        +Chụp X quang Ngực cho thấy thâm nhiễm hai bên khuyếch tán và nhanh chóng trở nên hội tụ. Sung huyết tĩnh mạch khu vực phổi trên đặc biệt khác thường.
+        +Kích thước Tim bình thường, vài tràn dịch màng phổi nhỏ hay không tồn tại.
+        +Giảm oxy-huyết rõ ràng xuất hiện và đối kháng với điều trị hỗ trợ̣ oxy.
+        +Nhiều bệnh nhân ARDS tiếp diễn đến suy đa tạng, đặc biệt gồm suy thận, gan, ruột, hệ thần kinh TW và hệ tim mạch
+
+2. Cách chữa trị thông thường
+     _Nguyên tắc Điều trị ARDS phải gồm phát hiện và đặc trị bệnh nền tảng gây ra, cùng với những bệnh lý thứ phát (vd, Nhiễm
+trùng máu)
+     _Điều trị giảm oxy-huyết ở ARDS
+        +Thường yêu cầu đặt ống thở và thông khí PEEP.
+        +Dùng mức thấp nhất của PEEP (tránh xẹp phổi) và bổ xung oxi để bảo đảm PaO2 > 60 mmHg hay SaO2 > 90%.
+        +Nỗ lực làm giảm FIO2 < 60% càng sớm càng tốt để tránh độc oxi.
+        +PEEP có thể gia tăng khi cần miễn là hiệu suất của tim và sự hấp thu oxi không giảm bớt và sức ép đường thở không tăng quá mức.
+        +Nằm sấp cải thiện sự bão hòa oxy ở những bệnh nhân xẹp phổi; tuy nhiên, khó khăn cho các loại dẫn lưu.
+     _Cải thiện cung lượng tim
+        +Giảm CO khi PEEP; có thể bằng việc giảm bớt mức PEEP.
+        +Hay bởi sử dụng khôn khéo những thuốc tăng cường lực co cơ tim (vd, norepinephrin).
+        +Việc điều trị tăng thể tích trong huyết quản cần thật thận trọng bởi vì tăng áp mao mạch phổi trở nên tồi hơn gây phù phổi trong trường hợp tính thấm mao quản đang gia tăng. Bởi vậy, mục đích bù dich là bảo đảm áp lực mao quản phổi ở mức thấp nhất thích hợp với hiệu suất của tim.
+        +Thuốc lợi tiểu cần phải được sử dụng để giảm bớt thể tích nếu áp lực đ.mạch phổi bít tăng lên.
+     _Tăng hấp thu Oxi có thể làm gia tăng ở BN thiếu máu bằng việc bảo đảm huyết cầu tố ít nhất > 7 g/dL; cao hơn có vẻ không có lợi.
+     _Làm giảm tiêu thụ oxy bằng áp dụng các biện pháp như sử dụng thuốc an thần, thuốc giảm đau và thuốc hạ sốt thích hợp.
+     _Corticosteroids hệ thống cho những kết quả mâu thuẫn. Những nghiên cứu gần đây gợi ý có lợi ích với Pha ARDS-muộn.
+
+3. Cách phòng tránh
+     - Không có biện pháp nào có hiệu quả ngăn ngừa ARDS; đặc biệt, sử dụng PEEP dự phòng trong những bệnh nhân nguy cơ bị ARDS đã không có hiệu quả.
+     - Methylprednisolone tĩnh mạch không ngăn ngừa được ARDS dù khi cho sớm với những bệnh nhân có hội chứng nhiễm trùng máu hay sốc nhiễm trùng.
+
+4. Thông tin thêm
+     _Người sống sót điều trị trung bình trong 2 tuần.
+     _Tỷ lệ chết có liên hệ với ARDS là 30-40%. Nếu ARDS được hộ tống bởi nhiễm trùng máu, tỷ lệ chết có thể đạt đến 90%. Những nguyên nhân chính gây chết là bệnh sơ cấp gây ra và những tổn thương thứ phát như suy đa tạng hay nhiễm trùng máu.
+

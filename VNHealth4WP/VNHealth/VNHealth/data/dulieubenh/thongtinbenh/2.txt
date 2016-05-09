@@ -1,0 +1,50 @@
+﻿I. Tổng quan
+* Histamin là một loại hóa chất trung gian
++ có nhiều trong các tế bào Mast.
++ Khi được giải phóng, histamin sẽ gắn vào các thụ cảm thể histamin ở cơ quan đích và gây tácdụng.
++ Ở ngoài da chủ yếu gây ra cảm giác ngứa và thường gặp trong các bệnh da dị ứng.
+
+* Kháng histamin là các thuốc có tác dụng cạnh tranh với các thụ thể histamin ở cơ quan đích, do đó là thuốc được sử dụng rất rộng rãi để điều trị triệu chứng ngứa.
+
+II. Phân loại
++Thuốc kháng histamin có các loại:
+ bôi tại chỗ, sirô uống, viên uống và ống tiêm.
++Có kháng histamin H1 và kháng histamin H2.
+
+1. Kháng histamin H1
+* Hiện nay có 3 thế hệ thuốc kháng histamin H1
+a. Thế hệ I:
++ chlopheniramin, hydroxyzin, dexchlopheniramin maleat, promethazin...
+- Có tác dụng giảm ngứa, chỉ định điều trị mày đay, phù mạch, viêm da cơ địa, các bệnh da có biểu hiện ngứa.
+- Chống chỉ định cho phụ nữ có thai 3 tháng đầu.
+- Tác dụng phụ hay gặp nhất là gây buồn ngủ, vì vậy không dùng cho những người làm nghề lái tàu, xe, phi công, vận hành máy, nghề cần tập trung tinh thần nhiều.
+- Còn gây buồn nôn, nôn, khó tiêu, tiêu chảy. Dùng thuốc trong bữa ăn có thể giúp giảm các triệu chứng này.
+- Thuốc nhóm này còn có tác dụng kháng cholinergic do vậy gây khô miệng, tiểu khó, liệt dương...
+- Cần thận trọng khi dùng các thuốc này ở bệnh nhân u tuyến tiền liệt.
+- Tăng tác dụng gây ngủ khi uống chung với các đồ uống có cồn do đó tránh uống rượu bia, khi dùng thuốc.
+- Dùng thuốc còn có thể xảy ra các phản ứng của da như: viêm da, dị ứng, mày đay, xuất huyết, nhạy cảm ánh sáng.
+- Ở trẻ em có thể bị ngộ độc biểu hiện: ảo giác, chóng mặt, múa vờn, co giật... vì vậy cần thận trọng khi dùng cho trẻ dưới 2 tuổi.
+
+b.Thế hệ II,, III:
++ Thế hệ II: cetirizin, loratadin, astemizol, acrivastin...
++ Thế hệ III: fexofenadinn, terfenadin.
+- Là các thuốc kháng histamin không gây buồn ngủ.
+- Chỉ định trong các trườnghợp mày đay mạn tính vô căn, phù mạch và các bệnh da có ngứa khác. .
+- Các thuốc kháng histamin thế hệ II và III ít tác dụng phụ hơn so với thế hệ I
+- ít gây buồn ngủ và ít tác dụng kháng cholinergic.
+- Tuy nhiên, một số thuốc lại có ảnh hưởng tới tim mạch.
+- Terfenadin và astemizol làm kéo dài khoảng QT trên điện tâm đồ còn acrivastin, mizolastin và emedastin không có tác dụng này.
+- Hiện nay astemizol được khuyến cáo không nên dùng, đặc biệt các trường hợp có vấn đề về tim mạch.
+
+2.Kháng_histamin_H2
+- Tác dụng ức chế chủ yếu các thụ cảm thể H2 ở dạ dày, làm giảm tiết dịch vị do đó dùng trong điều trị loét dạ dày, tá tràng.
+- Tuy nhiên ở các mao mạch nhỏ ngoài da cũng có các thụ cảm thể H2 nên nhóm này còn được sử dụng kết hợp với kháng histamin H1 trong các trường hợp mày đay không rõ nguyên nhân và phù mạch.
+
+- Cimetidin là loại kháng H2 rất thông dụng trong điều trị các bệnh lý loét và dư acid dạ dày cũng rất hiệu quả điều trị các trường hợp ngứa trong các bệnh như xơ hóa tủy, bệnh tăng hồng cầu vô căn.
+- Kết hợp kháng H1 vàkháng H2 rất có hiệu quả để điều trị chứng đỏ bừng mặt trong bệnh ác tính hoặc dị ứng do rượu.
+
+3. Các thuốc khác
+- Ngoài các loại thuốc ở trên, còn một số thuốc khác cũng có tác dụng kháng histamin như:
+- doxepin, Doxepin là thuốc chống trầm cảm và có tác động lên cả thụ thể H1 và H2, có thể dùng trong các trường hợp sẩn phù, mày đay vô căn và mày đay do các yếu tố vật lý. Chống chỉ định dùng cho phụ nữ có thai và cho con bú.
+
+- -ketotifen. Ketotifen có tác dụngkháng H1 và chẹn kênh canxi, ngăn chặn tế bào Mast giải phóng histamin. Ketotifen thường dùng trong các trườnghợp mày đay mạn tính không rõ nguyên nhân, mày đay lý học, mày đay sắc tố.

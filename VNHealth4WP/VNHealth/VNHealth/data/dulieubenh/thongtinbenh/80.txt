@@ -1,0 +1,168 @@
+﻿I. Tổng quan
+* Có 3 loại cồn dễ gây ngộ độc nhất là Ethanol, Methanol, và Isopropanol (cồn isopropylic).
+1. Ethanol
++ Ethanol (rượu etylic)
+- Xem lịch sử về rượu (trong nghiện rượu)
+- Được dùng nhiều mọi nơi, trong y học và cả công nghiệp.
+- Có cả trong dầu thơm dùng khi cạo râu, nước hoa, hương thơm, dung dịch xúc miệng, và vô số của đồ uống có cồn.
+- Ethanol trực tiếp làm suy giảm CNS, giảm chức năng vận động và giảm mức ý thức.
+- Ở nồng độ cao, như là một chất gây mê và có thể gây ra loạn chức năng thực vật (vd, giảm thể nhiệt, huyết áp thấp), hôn mê, và chết do suy hô hấp và trụy tim mạch.
+- Nói chung rượu trong máu 1-1,5g/l có thể gây say; 4-6g/lít có thể gây tử vong.
+
++ Hấp thu-chuyển hóa
+- Ethanol dễ dàng được hấp thu từ dạ dày và ruột non. Khi dạ dày trống rỗng, mức đỉnh ở phút 30- 90 sau khi uống. Khi thức ăn có mặt trong dạ dày thì hấp thụ chậm. Hấp thụ toàn bộ có thể kéo dài trong 6 giờ.
+- Chuyển hóa của Ethanol được thực hiện ở gan bởi một số men, bao gồm dehidrogenaza cồn, dehidrogenaza andehit, hệ thống Microsomal Ethanol Oxy hóa (MEOS) Hay CYP2E1, và Catalaza peroxisomal. Đa số (90- 95%) men bị chuyển hóa bởi cồn và dehidrogenaza andehit. MEOS chiếm khoảng 5% nhưng tăng lên đến 25% ở người uống kinh niên.
+- Bình thường, catalaza tham gia ít trong chuyển hóa Ethanol; vai trò của nó trở nên quan trọng hơn tại nồng độ Ethanol huyết thanh cao.
+- Ethanol chuyển hóa trên bệnh nhân ít uống rượu vào khoảng 13- 25 mg/ dL/giờ. Ở người nghiện rượu, nhịp độ này tăng tới 30- 50 mg/ dL/ giờ. Nhịp độ chuyển hóa thay đổi nhiều giữa từng cá nhân và không thể dự đoán dược.
+
++ BACs (blood alcohol concentrations)
+- Nồng độ cồn máu (BACs) phải được giải thích phối hợp với lịch sử và biểu diễn lâm sàng ở người quen uống rượu.
+- Một số cá nhân nghiện rượu kinh niên có thể có một tình trạng tinh thần và các thử nghiệm thần kinh gần như bình thường trong khi có BACs mức 400 mg/dL. Nói chung, người không quen uống có thể ngộ độc với BACs rất thấp.
+
++ Các nguy hiểm do rượu
+- Ethanol và hỗn hợp của nó với nước chứa trên 50% Ethanol là các chất dễ cháy và dễ dàng bắt lửa.
+- Ethanol trong cơ thể người được chuyển hóa thành axetaldehit do enzym alcohol dehydrogenas phân hủy rượu và sau đó thành axít axetic bởi enzym axetaldehyt dehydrogenas phân hủy axetaldehit.
+- Axetaldehyt là một chất có độc tính cao hơn so với Ethanol. Axetaldehyt cũng liên quan tới phần lớn các triệu chứng lâm sàng liên quan tới rượu.
+- Người ta đã thấy mối liên quan giữa rượu và các nguy cơ của bệnh xơ gan, nhiều dạng ung thư và chứng nghiện rượu.
+- Ethanol tuy độc tính không cao, nhưng khi nồng độ cồn trong máu đạt tới 0,5% hoặc cao hơn nói chung là dẫn tới tử vong.
+- Nồng độ thậm chí thấp hơn 0,1% có thể sinh ra tình trạng say, nồng độ 0,3-0,4% gây ra tình trạng hôn mê.
+- Tại nhiều quốc gia có luật về nồng độ cồn trong máu - khi lái xe hay khi phải làm việc với các máy móc thiết bị nặng, thường giới hạn dưới 0,05% tới 0,08%. (Luật ATGT Việt nam là nồng độ cồn trong máu <80mg/dL ~ 0,08%).
+- Người ta cũng đã chỉ ra mối liên quan tỷ lệ thuận giữa Ethanol và sự phát triển của Acinetobacter baumannii, vi khuẩn gây ra viêm phổi, viêm màng não và các viêm nhiễm hệ bài tiết. Sự phát hiện này là trái ngược với sự nhầm lẫn phổ biến cho rằng uống rượu có thể giết chết nhiều loại vi khuẩn gây các bệnh tryền nhiễm. (Smith và Snyder, 2005)
+
+2. Methanol
+
+3. Isopropanol
+
+II. Lâm sàng
+1. Triệu chứng cơ năng:
+ Ethanol-dấu hiệu cơ năng ~ Các biểu hiện chính của ngộ độc rượu
+- Giảm và mất khả năng vận động tự chủ như không cầm được bát đũa, rót nước ra ngoài...
+- Không còn điều khiển được hành vi, nói líu lưỡi, gọi nhầm tên người...
+- Sau khi uống quá nhiều, người uống không thể đi lại được, mất cân bằng cơ thể, không tự ngồi được.
+- Bệnh nhân có thể đỏ bừng mặt hay toát mồ hôi và có thể kích động đập phá hay nói huyên thuyên vì giải ức chế sớm.
+- Khi say rượu, ngoài mất các giác quan và phản xạ, người say rượu còn dễ bị viêm phổi do lạnh hay sặc chất nôn. Đây là lý do làm người bệnh phải nằm viện điều trị dài ngày và rất tốn kém.
+- Ethanol có thể gây độc ngẫu nhiên, như thường xuất hiện ở trẻ con, do cố tình, bởi bệnh nhân với tệ nghiện rượu hay do giải trí.
+- Ethanol có thể có liên hệ với nguyên nhân khác của tình trạng tinh thần biến đổi (vd, giảm đường- huyết, chấn thương đầu, uống pha trộn, trạng thái đột quỵ, gây mê khí các bô ních, giảm oxy- huyết, truyền nhiễm, bệnh não gan).
+
+2. Triệu chứng thực thể :
+ Ethanol-dấu hiệu khám
+- Biểu hiện Lâm sàng độc Ethanol phụ thuộc vào BAC và sức chịu đựng tùy theo từng cá thể.
+- Tình trạng say có thể tiến triển tới chứng vận động khó khăn, nói lộn xộn, ngủ lơ mơ, hôn mê hay hôn mê.
+- Giật cầu mắt (nystagmus - ngang) thường quan sát thấy.
+- Rối loạn nhịp tim các loại, tăng giảm huyết áp tùy người.
+- Khi cơ thể không còn chuyển hóa được, rượu uống vào sẽ bị nôn ra.
+- Nhiều trường hợp người uống rơi vào hôn mê, mất tri thức, gọi hỏi không biết, mất các phản xạ, đặc biệt hay gặp hiện tượng này ở người mới uống rượu hay ít uống mà lại uống quá nhiều.
+- Những trường hợp ngộ độc quá nặng, rượu sẽ ức chế trung tâm hô hấp và gây ngừng thở. Người uống có thể nguy hiểm tới tính mạng nếu không được cấp cứu kịp thời.
+- Cần đặc biệt chú ý với người có tuổi hay có sẵn bệnh lý tim mạch, say rượu thường che lấp những triệu chứng của tai biến tim mạch như xuất huyết não, nhồi máu cơ tim. Vì vậy nếu xử trí ngộ độc rượu tốt mà bệnh nhân không tỉnh phải tìm ngay nguyên nhân sọ não.
+III. Xét nghiệm
+1. Glucoza máu
+- Với độc Ethanol và Methanol, bệnh nhân có thể hạ đường huyêt.
+- Với độc isopropanol, bệnh nhân không tăng đường huyết. Điều này giúp phân biệt ngộ độc cồn với ketoacidosis do đái đường (DKA).
+
+2. Điện giải, urê creatinin máu,
+- Với độc Ethanol và Methanol, tìm kiếm tăng osmolal huyết thanh.
+- Với độc Isopropanol cũng gây osmolal cao, có thể huyết áp thấp và nhiễm axit.
+- Tăng giả mạo creatinin huyết thanh như một kết quả của aceton có thể thấy.
+- Mức axit formic huyết thanh là một chỉ định tốt hơn của tính độc so với mức Methanol.
+- Mức amylaza hay lipaza huyết thanh để phát hiện viêm tụy phối hợp.
+
+3. Đếm máu
+- Ethanol: tăng bạch cầu, thiếu máu, hoặc giảm tiểu cầu có thể có mặt. kết quả như vậy cũng thấy ở cá nhân với tệ nghiện rượu kinh niên.
+- Methanol: Thiếu máu có thể có mặt.
+- Isopropanol: thiếu máu huyết tán có thể xuất hiện trong trong trường hợp hiếm.
+
+4. Thẩm thấu máu
+- Ethanol tăng độ thẩm thấu 22 mOsm/ L cho mỗi 100 mg/ dL.
+- Methanol tăng độ thẩm thấu 32 mOsm/ L cho mỗi 100 mg/ dL.
+- Isopropanol tăng độ thẩm thấu 17 mOsm/ L cho mỗi 100 mg/ dL
+
+5. Khí máu động mạch
+- Methanol : Một nhiễm toan chuyển hóa với gap nặng là đặc trưng. Nhiễm axit nặng là dự báo tốt nhất khi tình trạng lâm sàng được xem xét.
+- Isopropanol: bệnh nhân là không nhiễm acidotic.
+
+6. Xét nghiệm nước tiểu
+- Mùi của formđehyt.
+
+7. Tác động của Ethanol tại mức BAC khác nhau đối với người không quen uống như sau:
+- 20- 50 mg/dL - Giảm bớt chức năng vận động tinh xảo
+- 50- 100 mg/dL - Làm suy yếu phán xử và phối hợp
+- 100- 150 mg/dL - Khó đi bộ và cân bằng
+- 150- 250 mg/dL - Tê liệt
+- 300 mg/dL - Hôn mê
+- 400 mg/dL - suy Hô hấp
+- 500 mg/dL - Khả năng tử vong cao
+* (Luật ATGT Việt nam cho phép nồng độ cồn trong máu <80mg/dL ~ 0,08%; trong hơi thở:<?)
+
+IV. Điều trị
+1. Trước nhập viện
+- Giữ lại chai của chất đã tiêu thụ để giúp xác định loại rượu cồn.
+- Xử trí tắc nghẽn đường thở, khi không tỉnh táo hay tình trạng biến đổi tinh thần.
+
+2. HSCC
+a, Xử trí chung
+- Đảm bảo đường thở, đánh giá tuần hoàn và hỗ trợ khi cần thiết.
+- Rửa dạ dày (sond Ewald) cố gắng trước 4 giờ sau uống
+- Than hoạt không hấp thu rượu cồn tốt nhưng cần dùng một khi nghi ngờ đồ uống có pha trộn.
+- Dùng naloxone nếu nghi dùng thuốc giảm đau.
+- Dùng thiamin (100 mg) và gluco D50W ( 25- 50 G) IV cho bệnh nhân.
+
+b, Xử trí riêng
++ Xử trí với Ethanol khi quá say hay ngộ độc
+* Nhớ rằng khi say hay tăng nguy cơ bị thương và cấp cứu nội khoa, cần phát hiện xử lý phù hợp.
+- Điều trị các rối loạn về tri giác, nếu rối loạn cao độ có thể gây liệt hô hấp.
+- Chống toan chuyển hóa.
+- Đề phòng hạ đường huyết thứ phát.
+- Rửa dạ dày bằng dung dịch natri bicarbonat, không dùng apomorphin.
+- Cho uống từ 1-2 giọt amoniac trong một cốc nước muối (hay cà phê) hoặc cho hít amoniac.
+- Trợ tim mạch.
+- Lợi tiểu: Lasix tiêm tĩnh mạch.
+- Nếu vật vã: cho an thần (cần thận trọng).
+- Trường hợp nặng: thở oxy, hô hấp hỗ trợ và cho thở nhiều để loại nhanh cồn ethylic.
+- Truyền glucose 10% 500ml, luân chuyển với dung dịch bicarbonat 14%o - 2 giờ 1 lần.
+- Đề phòng viêm phổi nếu hôn mê (kháng sinh).
+
+* Kinh nghiệm cá nhân:
+- Đã từng chữa say và ngộ độc bằng nalorphine (công hiệu hơn naloxon); adrenaline bắp thịt...
+- Các thuốc uống để chống say của Mỹ, Nga (hình minh họa)... đều chỉ làm hạn chế hấp thu hay giảm các triệu chứng do aldehyt gây ra cho nên nếu nồng độ cồn máu ở mức say thì vẫn say, mức chết thì tử vong.
+- Một bạn Hải quân từng ở Nga nhiều năm có nói kinh nghiệm của dân nghiện Nga: "Cồn nào đổ nước lã vào mà không đục là uống được !" Hèn nào tỷ lệ ngộ độc cồn ở Nga là rất cao. 
+
+* Kinh nghiệm dân gian chữa say rượu:
+- Cho người say uống 1 ít dấm ăn. Hoặc dùng 50g dấm ăn, 25g đường đỏ, ba lát gừng sống đung qua 1 tí rồi đem cho uống. Công hiệu đều rất tốt.
+- Khi say, nếu thấy hiện tượng ngủ mê mệt, có thể dùng nước sôi pha một ít cà phê đặc cho uống liên tiếp, một lúc sau sẽ tỉnh lại
+- Trà xanh chứa chất axit tannic có khả năng giải trừ được ngộ độc do cồn. Ngoài ra, trong trà còn chứa một số lượng đáng kể cafein và kiềm chè (tein), chúng có tác dụng trị liệu hiện tượng hôn mê và ức chế hô hấp. Vì thế có thể dùng trà đặc để giải rượu rất tốt
+- Cho người say húp cháo lỏng. Khi gặp phải cháo gạo loãng, chất cồn trong rượu sẽ bị ngưng tụ lại, do đó mà giảm mạnh khả năng hấp thụ cồn của cơ thể.
+- Chữa ngộ độc rượu bằng búp cau non: Lấy búp cau non 100 g giã vắt lấy nước cốt, cần kết hợp bôi vôi tôi vào hai bên gan bàn chân.
+- Lấy nước cốt rau má hòa với nước chanh (chừng 300 ml) để uống, cần kết hợp bôi vôi tôi vào hai bên gan bàn chân.
+- Lấy 100 g búp lá dong (loại lá dùng để gói bánh chưng) giã nát, vắt lấy nước cốt uống.
+
+
++ Trước hết, cần cho người say uống một lượng nước vừa đủ, ít nhất cũng bằng lượng rượu uống vào, nhằm pha loãng nồng độ rượu trong cơ thể và giúp cho quá trình đào thải rượu được nhanh chóng và thuận lợi.
+
++ Và biện pháp bấm huyệt:
+- Trước hết, tiến hành day bấm huyệt yêu nhãn từ 3-5 phút.
+ Vị trí huyệt yêu nhãn: giơ cao tay và nghiêng mình một chút, chỗ lõm hai bên thắt lưng (tương ứng với đốt sống thắt lưng 4) hiện rõ, huyệt nằm ở giữa đáy lõm từ mỏm gai đốt sống thắt lưng 4 đo ngang ra 3,8 tấc.
+- Tiếp theo, tiến hành day bấm huyệt thái xung từ 3-5 phút.
+ Vị trí huyệt thái xung: ép ngón chân cái vào ngón thứ 2, huyệt nằm ở mu bàn chân, đo từ đầu kẽ hai ngón chân lên 2 tấc. Cũng có thể xác định bằng cách lấy huyệt ở điểm giữa đường nối đầu ngón chân cái với nếp gấp ngang cổ chân.
+- Cuối cùng, tiến hành xoa xát toàn bộ mu bàn chân. Nếu người say có thể đứng được thì dùng gót chân này giẫm mạnh và xoa mu bàn chân kia và ngược lại từ 5 - 6 phút.
+
++ Một số cách giã rượu khác bằng đồ ăn thức uống:
+- Giấm 60 g, đường đỏ 15 g, gừng 3 lát giã nát, hòa lẫn rồi cho uống.
+- Búp rau cải trắng rửa sạch, thái sợi, cho đường và giấm để ăn, một lát sau sẽ giã rượu.
+- Củ cải sống giã nát, vắt lấy nước, thêm chút đường đỏ cho dễ uống, uống liên tục nhiều lần sẽ tỉnh ra.
+- Củ mã thầy rửa sạch, gọt vỏ, ăn sống hoặc giã lấy nước uống.
+- Mía rửa sạch, róc vỏ, ép hoặc nghiền nát, chắt lấy nước cho người say uống dần, vài lần sẽ tỉnh.
+- Đậu xanh 100 g, cam thảo 12 g ninh nhừ, ăn cả nước lẫn cái.
+- Mứt hồng ăn 2-4 quả một lần, uống nước nóng. Cũng có thể giã nát hồng cho ăn hoặc cho ăn cả quả.
+- Đậu chao (đậu phụ để chua) 30 g, hành khô 5 củ, nấu canh ăn cả nước lẫn cái.
+- Uống nước cơm: Cồn gặp nước cơm sẽ tạo nên hiện tượng kết tủa, từ đó có thể giảm bớt lượng cồn bị hấp thu.
+- Củ sắn dây 25-50 g (hoặc hoa sắn dây 10-15 g) nấu nước uống.
+- Giã một ít khoai lang sống, trộn với một ít đường để ăn.
+- Ngó sen tươi thái thành sợi, thành miếng, trộn với đường và giấm để ăn. Cũng có thể giã ngó sen, vắt lấy nước uống.
+- Rau cần vắt lấy nước uống, không những có thể giã rượu mà còn giúp người say không bị choáng váng khi tỉnh rượu.
+- Cam hoặc quýt 5 quả vắt lấy nước uống.
+- Trứng muối một quả, ăn từ từ với giấm.
+- Nuốt 2 lòng trắng trứng gà còn tươi.
+- Sữa bò
+- Ăn các loại quả chua như vải, táo tây, cam, quýt hoặc dâu tươi. Nếu không có quả tươi, có thể lấy quả khô đun với nước, cho đường vào uống.
+
++ Không nên uống nước có ga: Một số người cho rằng loại nước này cũng có thể hoá giải rượu tốt. Đây là quan niệm rất sai lầm vì ga có thể làm cho cồn nhanh chóng lan toả khắp người và sinh ra một lượng lớn CO2, rất có hại cho dạ dày, ruột, gan, thận. Ngoài ra, chất này còn ảnh hưởng đến tim và hệ thống thần kinh trung ương, gây nên tình trạng hưng phấn quá mức hoặc hôn mê, thậm chí dẫn đến tử vong. Vì vậy, khi say rượu, tuyệt đối không được uống nước có ga.

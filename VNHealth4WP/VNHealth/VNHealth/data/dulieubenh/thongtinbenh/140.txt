@@ -1,0 +1,58 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Là tình trạng phổi đột ngột không bảo đảm chức năng trao đổi khí, gây ra thiếu Oxy máu tới mức không đáp ứng kịp nhu cầu chuyển hóa, làm suy kém hoặc đe dọa chức năng các cơ quan sinh tồn như não, tim (có thể không kèm tăng CO2 máu).
+
+2. Cách chữa trị thông thường
+     _Đặc điểm
+        +SHHC thấy trong bệnh lý phổi & ngoài phổi, hay do thông khí không đủ, nhưng cũng có thể gặp khi thông khí thì b.thường nhưng t.hoàn máu phổi hoặc ch.hoá bị rối loạn.
+        +SHHC có thể là do suy oxy hoá, suy thông khí hoặc phối hợp cả hai.
+        +PaO2, PaCO2, pH là "chià khoá" để Δ SHHC; chỉ số PaO2 bình thường có thể tính theo công thức liên quan tuổi: PaO2 =109-(0.43 x tuổi).
+        +Khí máu trong SHHC không đúng hoàn toàn nhưng có thể dùng đê chẩn đoán xác định khi pO2 < 50 mmHg & pCO2 > 50 mmHg.
+        +Thuật ngữ hô hấp = respiration, chỉ sự trao đổi khí ở mức tế bào
+        +Thuật ngữ thông khí = ventilation, chỉ sự vận chuyển khí vào ra phổi.
+
+3. Cách phòng tránh
+A.Thở oxy
+     Khả năng phân phối oxy tùy theo các phương thức:
+        + Canul mũi: 1 - 6lit/ph;  FiO2:0.25 - 0.55
+        + Mask hở : 6 - 12lit/ph;  FiO2:0.35 - 0.65
+        + P.hợp mask+canul mũi:6-12l/p; FiO2:0.44-0.85
+        + Lều Oxy: 8 - 10lit/ph;  FiO2:0.21 - 0.55
+        + Mask không hít lại: Tuỳ thuộc van thở; FiO2:0.60-0.80
+        + Mask venturi: 4-12lit/p; FiO2:0.24 - 0.40
+
+B.Loại bỏ chất tiết
+     1. Làm ẩm khí thở.
+        _Dùng thuốc long nhày.
+        _Hút mù dịch qua mũi
+     2. Soi hút phế quản.
+     3.Xử trí co thắt phế quản
+        a. Thuốc hít:
+           Ventolin - ấn mỗi lần 2 hơi (90mcg/lần ấn) hoặc Neubulizer liều 5mg/ml.
+        b. Thuốc tĩnh mạch:
+           + Aminophilin khởi đầu 5mg/kg (IV > 30') sau duy trì truyền liều 0.5 - 1mg/kg/phút.
+           + Adrenalin(0.25-1mcg/p) hoặc
+           + Isupren(0.5-10mcg/p) truyền tới khi bớt.
+           + Methylprednisolon (Solu-medrol)30-60mg/h
+   4.Xử trí thở rít
+      _Thường do phù họng hầu, liệt dây thanh âm, phù thanh môn.
+      _Epinephrine triệt quang (Vaponefrin 0.5 ml trong dd 2, 25% pha 2, 5ml nước muối 0.9%) cho nebulizer ẩm với O2 lập lại mỗi giờ.
+      _Steroid (decadron) 4 - 8mg tiêm một lần hoặc aerosol mỗi 4 giờ.
+
+D. Đảo chiều hoặc đối kháng
+     1. Do suy giảm hệ TK TU:Dùng Narcan, naloxone  khi do nhóm opioides.
+     2.Giai dãn cơ & chú ý số thuốc khác như kháng sinh cũng gây tình trạng dãn cơ, hay như trong giảm canxi, tăng mage,giảm nhiệt, toan hô hấp.
+
+E.Trị liệu vật lý
+     _Tập thở qua phế dung kế
+     _Vỗ, hút dịch tiết.
+     _Dẫn lưu tư thế
+     _Rửa phế quản.
+
+F.Trị liệu giảm đau
+     - Cho thuốc ngủ IV hay IM
+     - Block t.kinh cạnh sườn.
+     - Tê ngoài màng cứng.
+
+G. Mask (CPAP)
+     Thường dùng 1 - 2 giờ ngắt quãng 10 - 15 phút với áp lực 5 cm H2O tăng dần từng 2, 5 - 5 cmH2O cho tới khi áp lực dương khoảng 15 - 20 cmH2O.
+

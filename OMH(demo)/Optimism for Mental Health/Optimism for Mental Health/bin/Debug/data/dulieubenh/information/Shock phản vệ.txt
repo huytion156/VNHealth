@@ -1,0 +1,103 @@
+﻿1. Tổng quan:
++ Shock phản vệ là một cấp cứu liên quan đến tiên lượng sống còn.
++ Thường diễn tiến đột ngột như là tình trạng phản ứng nặng khi tiếp xúc với tác nhân gây dị ứng, với thuốc (đặc biệt là kháng sinh), vì côn trùng đốt; do ăn nhộng, hải sản, dứa...
++ Adrenalin là thuốc điều trị cơ bản của shock phản vệ; cocticoid là để phối hợp-ngăn ngừa tái phát và phù nề thanh quản, ít có ý nghĩa về huyết động
+
+2. Lâm sàng:
++ Hay xuất hiện vài phút ngay sau khi tiếp xúc với tác nhân gây dị ứng,
++ Biểu hiện hay gặp là:
+ - Hạ HA tâm thu(<90); mạch nhanh nhỏ (>120);
+ - Da thường xung huyết, có thể nổi ban tỏa lan; mày đay.
++ Hay có cảm giác tức ngực, khó thở cấp:
+ - Co thắt khí phế quản với ran rít tỏa lan, khó thở ra, tím tái, mạch nghịch thường.
+ - Khó thở thanh quản, Phù nề thanh quản thường kèm theo phù nề mặt, mi mắt..
++ Thường có đau bung, buồn nôn, nôn ỉa chảy ...
+
+3. Chẩn đoán:
+Tiêu chuẩn chẩn đoán
+FAAN & NIAID 7.2005 đưa ra tiêu chuẩn lâm sàng để chẩn đoán phản ứng phản vệ:
+Khi có 01 trong 03 tiêu chuẩn sau:
+a,Tiêu chuẩn 1
+Khởi phát cấp tính (vài phút đến vài giờ) với những biểu hiện ở da và niêm mạc hoặc cả hai (nổi mẩn toàn thân, ngứa hoặc đỏ da; phù môi, lưỡi và lưỡi gà. Kèm ít nhất 01 trong 02 biểu hiện:
++ Suy giảm chức năng hô hấp: khó thở, khò khè do co thắt phế quản, giảm lưu lượng đỉnh thở ra (PEF), giảm oxy máu.
++ Tụt HA hoặc kết hợp những triệu chứng của rối loạn cơ quan đích.
+
+b.Tiêu chuẩn 2
+≥ 02 biểu hiện sau đây, xảy ra cấp tính sau khi tiếp xúc với những chất có khả năng là dị ứng nguyên:
++ Biểu hiện da-niêm mạc.
++ Suy giảm chức năng hô hấp.
++ Tụt HA hoặc kết hợp những triệu chứng của rối loạn chức năng cơ quan đích.
++ Triệu chứng tieu hóa kéo dài: đau quặn bụng, ói mửa, tiêu chảy.
+
+c.Tiêu chuẩn 3
+Tụt HA sau khi tiếp xúc với dị ứng nguyên đã biết:
++ Người lớn: HA tâm thu < 90mmHg, hoặc giảm 30% so với trước.
++ Trẻ em: tụt HA tùy theo tuổi:
+- từ 01 tháng-01 tuổi: < 70mmHg
+- Từ 01 tuổi - 10 tuổi:<70+(2xtuổi)
+- Trên 10 tuổi: <90mmHg, hoặc giảm 30% so với trước.
+
+4.Trị liệu đặc hiệu:
+* Về cơ bản như xử trí shock, một số đặc điểm riêng:
+a, Tại nhà, tại chỗ, hay trước nhập viện:
++ Adrenalin 1mg x tiêm bắp hay dưới da ngay vì IV thường khó.
++ Adrenalin 1mg pha 10ml (nước cất, đường, muối) x IV 1ml/1phút, tới khi HA >90 mmHg. (nếu đặt đuwọc đường truyền thì càng tốt)
++ Solu-medrol 40mg x 1ống/tiêm IV.
+
+b, Tại phòng CC+khoa HS
++ Đặt ngay đường truyền TM ngoại biên cỡ lớn, bù thể tích bằng NS hay RL
+ - Adrenalin tiêm ngay 1mg vào dây truyền,
+ - Tiếp tục bằng bơm tiêm điện (syringe electric-SE) với liều 0,25-1mg/giờ.
+ - Nếu không có SE: pha 8 ống (8mg) adrenalin vào chai 500ml glucose 5% ~ điều chỉnh tốc độ truyền theo huyết áp.
+ - Nếu co thắt phế quản: tăng tốc độ truyền adrenalin, oxy.
+ - Trong tinh trạng hồi sinh: tiêm như với ngưng tuần hoàn
+ - Có thể cho tiêm luôn dưới da ở vị trí gây dị ứng, hoặc khí dung (Aero 2%) adrenalin 0.5-0.75 ml
+ 
++ Thuốc giãn phế quản:
+- Albuterol (Ventolin) 0.5%, 0.5 mL trong 2.5 mL d.d muối 0, 9% mỗi 30 ' bởi máy khí dung.
+
++ Corticosteroids:
+- Hydrocortisone Succinate 200-500mg IV mỗi 4-6h (IV steroids trước, sau đó sẽ cho đường uống).
+- Phù thanh quản: Solu-Medrol 50mg Methylprednisolone tiêm IV mỗi 4-6 giờ
+- Depo-Medrol 40-80mg tiêm bắp thịt ngừa tái phát.
+ ( 100mg hydrococtíone hemisuccinat = 4mg soludecadron = 4mg celesten = 20 mg solu-medrol)
+
++ Antihistamines, thường dùng một số thuốc sau:
+ - Diphenhydramine (Benadryl) 25-50mg IV, IM, PO mỗi 2-4 giờ
+ - Hydroxyzine (Vistaril) 25-50mg tiêm IM hay PO mỗi 2-4 giờ.
+ - Cimetidine (Tagamet) 300mg IV hay PO mỗi 6h
+ - Ranitidine (Zantac) 150mg IV hay PO 2 lần/ng
+
++ Nâng HA, thường dùng một số thuốc sau:
+- Noradrenaline (Noradrenaline, Levophed) 8-12 mcg/phút IV, do liều để HA t.thu dat 100mmHg (8mg trong 500 mL dd Glucosa 5%).
+- Isoproterenol (Isuprel) 0.5-5 mcg/phút IV hoặc
+- Dopamine (Intropin) 5-20 mcg/kg/phút IV.
+
++ Tẩy dạ dày ruột (GI), làm khi đã ổn định:
+- Rửa dạ dày chỉ định khi do chất gây dị ứng nhiễm từ đường miệng.
+- Than hoạt tinh cho 50-100 gm, sau khi đã cho thuốc xổ.
+
+4. Điều dưỡng:
++Theo dõi sinh hiệu: mỗi giờ
++ Hoạt động: nghỉ tại giường
++ Chăm sóc: O2-6 Lit/phút bởi catheter mũi hay mask
++ Đặt bệnh nhân ở tư thế Trendelenburg,
++ Đặt NKQ ống số 4 - 5 (nhỏ, không cuff) tại giường nếu cần.
++ Chế độ ăn: NPO
++ Truyền bù dịch cơ số: cho 2 dường IV truyền Dung d.d muối 0, 9% hoặc Ringer lactat 1-2 L truyền trong vòng 1-2 giờ, rồi thì truyền d.d mặn ngọt đẳng theo tốc độ 150-200 ml/h
++ Đặt sond Foley để theo dõi sát lưu lượng tiểu ...
++ Gọi Bác sĩ khi:  50< mạch >130; 90/60<HA>160/90 ; 10< Thở >25 ; Thân nhiệt >38.5 ; SpO2 < 90%
+
+NỘI DUNG
+HỘP THUỐC CẤP CỨU
+CHỐNG SỐC PHẢN VỆ
+( Kèm theo thông tư số 08/199- TT – BYT, ngày 04 tháng 05 năm 1999)
+* Các khoản cần thiết trong hộp chống sốc (tổng cộng : 07 khoản )
+1. Adrenaline 1mg – 1ml 2 ống
+2. Nước cất 10 ml 2 ống
+3. Bơm tiêm vô khuẩn (dùng một lần): 10ml 2 cái; 1ml 2 cái
+4. Hydrôcortissone hemusuccinate 100mg hoặc Methyperdnissolone
+(Solumedrol 40mg hoặc Depersolone 30mg 02 ống).
+5. Phương tiện khử trùng(bông, băng, gạc, cồn)
+6. Dây garo.
+7. Phác đồ cấp cứu sốc phản vệ.

@@ -1,0 +1,87 @@
+﻿1. Nguyên nhân và triệu chứng
+1.1. Định nghĩa:
+     _Là một tình trạng bệnh lý có tích tụ khí trong khoang màng phổi, có thể là hậu quả của một chấn thương, vết thương ngực hoặc các thủ thuật của thầy thuốc can thiệp trên cơ thể bệnh nhân như: đo áp lực tĩnh mạch trung tâm và truyền dịch bằng tĩnh mạch dưới đòn, các động tác chọc dò xoang màng phổi v.v...
+     _TKMP tự phát - là có hiện tượng tích tụ khí trong khoang màng phổi mà không liên quan đến các nguyên nhân chấn thương.
+     _TKMP tự phát nguyên phát: thường không có nguyên nhân rõ ràng, xảy ra ở những bệnh nhân không có triệu chứng lâm sàng và hình ảnh X-quang của một bệnh lý phổi trước đó.
+     _TKMP tự phát thứ phát: xảy ra như là hậu quả của một quá trình bệnh lý phổi sẵn có.
+1.2. Bảng phân loại (theo Townsend và Robbin)
+     _Tự phát (Spontaneous)
+     _Nguyên phát
+     _Thứ phát
+     _Theo chu kỳ kinh
+     _Sơ sinh
+     _Do chấn thương
+     _Vết thương ngực
+     _Chấn thương ngực
+     _Do thầy thuốc (Iatrogenic)
+     _Thủng thực quản
+1.3. Tỷ lệ mắc
+     - TKMP tự phát gặp ở mọi lứa tuổi,
+     - TKMP thể tự phát nguyên phát - thường ở người trẻ, 85% <40 tuổi.
+     - TKMP thể tự phát thứ phát - là bệnh của người lớn tuổi.
+     - TKMP xảy ra ở nam nhiều hơn nữ, tỷ lệ thay đổi có thể là 2,75:1 hay 4:1.
+     - TKMP tự phát bên phải 64%, bên trái 32,9%, hai bên 3,1%.
+     - TKMP tự phát nguyên phát > TKMP tự phát thứ phát (60,2% so 39.8%)
+     - Bệnh xảy ra nhiều ở những người hút thuốc lá.
+     - 11,5% có tính gia đình liên quan đến kiểu gen đơn bội HLA, A2, B40 và kiểu hình alpha I-antitrypsin M1M2.
+1.4 Triệu chứng cơ năng
+     + Đau chói ở ngực: người bệnh đột nhiên đau chói ở ngực đau như xé phổi, có thể gây sốc, tái xanh người, vã mồ hôi, mạch đập nhanh, huyết áp hạ.
+     + Khó thở: xảy ra ngay sau người bệnh đau chói ở ngực khó thở rất nhiều.
+     + Tc sốc: người bệnh thường ở trong bệnh cảnh sốc, Tc này cũng biến dần đi cùng các triệu chứng chức năng kể trên, đau giảm đi, khu trú ở vùng xương bả hay dưới núm vú.
+     + Tràn khí trung thất: bệnh nhân có thể hay có thể không có những triệu chứng:
+          -67% đau ngực; 42% ho kéo dài không bớt; 25% viêm họng; và 8% có khó nuốt, hay buồn nôn/nôn.
+          - Đau ngực dưới xương ức, thường lan tới cổ, tăng bởi ho, hay khi nằm ngửa.
+          - Khó thở; Đau Cổ; Khó nuốt, khó phát âm và đau bụng
+1.4 Triệu chứng thực thể
+     + Triệu chứng thực thể rất phong phú trong TKMP toàn bộ:
+           -Nhìn: nửa ngực bị tràn khí thì lồng ngực bất động, khoảng liên sườn giãn ra, ngực bên đó cũng phình ra.
+           - Sờ: Rung thanh mất.
+           - Gõ: tiếng vang trống, một dấu hiệu điển hình của TKMP.
+           - Nghe: triệu chứng chủ yếu là mất tiếng rì rào phế nang.
+
+      * Tam chứng Galliard= Ba triệu chứng: Rung thanh mất; Rì rào phế nang mất; Tiếng gõ vang trống ~ Hợp thành tam chứng Galliard.
+      * Nhịp thở nhanh, tim nhanh, giảm oxy máu, xanh tím, HA thấp.
+     + Tc t.thể TK trung thất
+           - Tràn khí dưới da (đa số là dấu hiệu chắc chắn)
+           - Dấu hiệu Hamman (Tiếng ồn vùng trước tim đồng bộ với nhịp tim, Thường được nhấn mạnh trong thời gian cuối, thay đổi.)
+           - Không có triệu chứng (vắng mặt trong một số bệnh nhân.)
+
+2. Cách chữa trị thông thường
+     + Bất động, có thể cho Morphine; Thở oxy 1-2l/phút với FiO2=30-40%; Thuốc trợ tim, chống hạ HA; Kháng sinh chống bội nhiễm.
+     + Chỉ định theo dõi bảo tồn: đối với bệnh nhân TKMP lượng ít (không quá 20%), có lâm sàng ổn định và không có triệu chứng. Cần phải chụp X-quang phổi để đánh giá diễn tiến của TKMP sau 24-48 giờ.
+     + Chỉ định chọc hút đơn thuần: được khuyến cáo như là pp đầu tiên cho các TKMP trên 15%. Ưu điểm của nó là đơn giản, ít xâm lấn và rẻ tiền.
+     + Chỉ định đặt ống dẫn lưu màng phổi:
+        - Phổi nở chậm, TKMP tự phát kéo dài, hay lâm sàng không ổn định; ống dẫn lưu được đặt ở liên sườn 4 hay 5 ngay sau đường nách trước, hay ở liên sườn 2 đường giữa đòn. (Hiện người ta vẫn ưa chuộng vị trí đặt ở liên sườn 4 hay 5 đường nách giữa vì ống không bị gập, săn sóc ống dẫn lưu dễ, bệnh nhân dễ chịu và dễ dùng máy hút).
+        - Lưu ống dẫn lưu hút liên tục có thể sử dụng nếu phổi chưa nở hoàn toàn, hoặc khi khí tràn vào khoang màng phổi nhanh hơn khí thoát ra ngoài qua ống dẫn lưu. Khi hai màng phổi áp sát nhau, chỗ dò khí thường lành lại. Duy trì tiếp ống dẫn lưu 24 giờ trước khi rút ống. Thời gian dẫn lưu trung bình là 5,6 ngày ở thể nguyên phát và 7,8 ngày ở thể thứ phát.
+     + Chỉ định gây dính màng phổi:
+        - Bệnh nhân lớn tuổi, thể tràn khí màng phổi tự phát thứ phát, tổng trạng chung kém, có bệnh lý đi kèm như tim mạch, gan, thận, nội tiết, rối loạn đông máu, phổi- màng phổi xơ dính nhiều.
+        - Có hai pp gây dính màng phổi: bằng hóa chất hay qua pt.Nhiều hóa chất đã được sử dụng gồm: Tetracycline hydrochloride, Quinacrine, bột Talc, mù tạc Nitơ, dầu có Iode, đường ưu trương, Betadine-Polyvidine rất có hiệu quả.
+     + Chỉ định can thiệp PT:
+        - 9-20% TKMP tự phát được đốt hay cắt bóng khí và làm dính màng phổi.
+        - Các đường mổ bao gồm đường trước, đường bên, đường ngang nách, đường chẻ dọc giữa xương ức.
+     + Các chỉ định mở ngực trong TKMP tự phát:
+        - Dò khí nhiều, phổi không nở
+        - Còn dò khí sau 5 ngày
+        - TKMP tự phát tái phát (lần thứ hai)
+        - Các biến chứng của TKMP tự phát
+        - Tràn máu màng phổi
+        -Mủ màng phổi
+        - TKMP mạn tính.
+     + Chỉ định can thiệp vì của nguyên nhân TKMP tự phát thứ phát
+        - Do nghề nghiệp (sau lần TKMP tự phát đầu tiên)
+        - Phi công
+        - Thợ lặn
+        - Cư dân sống ở vùng sâu, vùng xa
+        -Tiền căn TKMP tự phát đối bên
+        - TKMP tự phát cùng lúc hai bên
+        - Bóng khí lớn trên phim X-quang phổi.
+
+3. Thông tin thêm
+     Chỉ định, k.thuật nội soi lồng ngực video:
+        +Tràn khí màng phổi dai dẳng, hay tái phát, sau khi đặt dẫn lưu 5 ngay vẫn không tiến bộ, sau khi làm xơ bằng hoá chất và ưu tiên nghề nghiệp (phi công, thợ lặn).
+        +Kỹ thuật
+                - pp vô cảm: gây mê nội khí quản hai nòng với thông khí một phổi, xẹp phổi bên pt.
+                - Tư thế bệnh nhân: tương tự như mở ngực, nằm nghiêng 750, trục thân người 300.
+                - Đặt trocar 10 mm ở liên sườn V hay VI đường nách giữa hoặc qua lỗ dẫn lưu màng phổi cho vị trí camera, một hoặc hai trocar 5 mm nữa cho hai vị trí liên sườn IV đường nách trước và đường nách sau cho dụng cụ thao tác.
+                - Quan sát, kiểm tra phổi, tìm chỗ xì khí và nguyên nhân bằng camera. Gỡ dính bằng máy đốt điện. Nếu thấy bóng khí, dùng kẹp để kẹp cố định bóng khí, cắt bóng khí, sau đó khâu cột lại nhu mô phổi. Hoặc khâu cột trực tiếp bóng khí. Đổ nước kết hợp cho phổi nở từ từ kiểm tra phổi thấy không còn xì hay còn xì ít. Chà màng phổi bằng gạc như pp mở ngực. Nếu không thấy bóng khí, kiểm tra chỗ xì khí, chà dính màng phổi. Cuối cùng bóp bóng phổi nở và đuổi khí. Đặt ống dẫn lưu màng phổi qua trocar máy camera và may vết mổ.
+

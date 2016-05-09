@@ -1,0 +1,538 @@
+﻿I.Định nghĩa
+1.Nhiễm HIV
++Là tình trạng có virus HIV trong cơ thể.
+- tuy chậm, nhưng chúng tấn công dần một số cơ quan và chức năng của cơ thể,
+- như hệ thần kinh trung ương, và đặc biệt hệ miễn dịch,
+- làm cơ thể mất dần khả năng miễn dịch và
+- cuối cùng tử vong do nhiễm trùng, hay do chính virus HIV.
+ 
++Đến nay, là một bệnh chưa có thuốc điều trị thật sự,
+- chỉ kìm hãm được tiến triển của bệnh,
+- và tử vong chắc chắn khi không có thuốc
+- hay sự kìm hãm mất hiệu quả do nhiều nguyên nhân khác nhau.
+
+
+2.Lịch sử
++Năm 1981, những trường hợp nhiễm trùng cơ hội, hay u Kaposi do suy giảm miễn dịch đầu tiên được ghi nhận chính thức tại Hoa kỳ.
+
++Năm 1983, Luc Montagnier (Pháp) phân lập được HIV 1, năm sau 1984, tìm được HIV2.
+ 
++Cuối thập niên 1980, bệnh nhanh chóng lan truyền và phát hiện lần lượt trên thế giới, đặc biệt các nước châu Phi, Mỹ và châu Âu, lan đến châu Á muộn hơn, nhưng hiện nay có nguy cơ tăng nhanh hơn các châu lục khác, sau châu Phi.
+
+
++Trên lâm sàng, nhiều phương thức để cố gắng hệ thống hóa biểu hiện hết sức đa dạng của căn bệnh này.
+
++Những cách xếp lọai của hội nghị Bangui (1985), của Walter Reed (1986), của CDC (1987), của WHO rồi của CDC cải tiến (1993) với những ưu và khuyết điểm riêng, lần lượt ra đời để giúp cho các nhà lâm sàng, dịch tễ và miễn dịch, thống nhất quan điểm, phân lọai và theo dõi bệnh nhân.
+
++Về điều trị, cũng có những tiến bộ vượt bậc.
+- Thuốc kháng HIV đầu tiên (AZT) được thử nghiệm (1985) rồi nhanh chóng áp dụng (1987).
+- Tiếp theo các nhóm thuốc kháng HIV khác lần lượt phát hiện.
+- Kể từ 1995, liệu pháp kết hợp 3 thuốc kháng HIV đã đem lại nhiều hiệu quả trong việc chận đứng tiến triển của bệnh, thậm chí có hy vọng biến nhiễm HIV thành một bệnh mạn tính suốt đời.
+- Tuy nhiên do giá thành quá đắt, tác dụng phụ và sự xuất hiện virus kháng thuốc khi dùng lâu dài làm cho hiệu quả áp dụng thực tế trên thế giới còn rất nhiều hạn chế.
+
+II.Tác nhân gây bệnh
+1.Có 2 lọai HIV1 và HIV2
++Khác nhau khá nhiều về một số kháng nguyên.
+- Tuy nhiên về cơ chế gây bệnh và diễn tiến lâm sàng không khác nhau lắm.
+- Nhiễm HIV2 có tiến triển đến giai đọan AIDS chậm hơn HIV1.
+
+
++Cả hai lọai đều là những Retrovirus, với acid nhân là RNA,
+- chúng có khả năng tổng hợp thành DNA từ những mã di truyền của RNA
+- nhờ vào một men đặc biệt gọi là men sao mã ngược (reverse transcriptase, viết tắt là RT).
+- Sự sao mã ngược này thường không hòan chỉnh, hay có sai sót so với nguyên bản ban đầu.
+- Điều nầy, giúp cho virus thay đổi kháng nguyên, tạo nên nhiều biến chủng khác nhau, giúp cho virus thóat khỏi sự tìm diệt của hệ miễn dịch.
+
+
+2.Virus được bọc bởi một lớp vỏ ngòai,
++Gồm các glycoprotein 120 và glycoprotein 41,
+- có khả năng nhận diện các receptor là nhóm CD4 và các coreceptor khác.
+- hai coreceptor nổi tiếng của HIV là những thụ thể của chemokine,
+- một có cấu trúc dạng –CCR5, một có cấu trúc –CXCR4.
+
++Một số người (thường thuộc chủng tộc Cacause, da trắng),
+- không có thụ thể CCR5, nên miễn dịch một phần với virus HIV,
+- điều này giải thích những trường hợp nhiễm HIV tiễn triển kéo dài đến 15-16 năm.
+
+
+3.Một nhóm men quan trọng của virus là các men tiêu proteine (các protease).
++Các men này giúp các thành phần virus vừa được tổng hợp,
+- nhóm lại thành những virus hòan chỉnh,
+- và phá vỡ tế bào vật chủ để phóng thích các virus thế hệ sau ra bên ngòai,
+- tiếp tục tấn công các tế bào đích khác.
+
++Ức chế được nhóm men này sẽ ức chế được sự nhân lên của virus.
+
+4.Virus HIV
++Không có khả năng tồn tại lâu ở ngọai cảnh.
+- Chúng bị diệt bởi nhiệt độ > 56 độ C, với cồn,
+- với các chất tẩy và diệt trùng thông thường như dung dịch cloramin, nước Javel, hơi nước nóng.
+
++Tuy nhiên trong cơ thể người nhiễm, virus khó bị tiêu diệt.
+- Chúng tấn công các tế bào có mang phân tử CD4
+- Cùng với các phân tử có ái tính với chemokin như các tế bào lympho T giúp đỡ (được gọi là các tế bào CD4+), tế bào Langerhans dưới da, các tế bào đệm (glial cell) ở hệ thần kinh, các đại thực bào, các tế bào mono và các tế bào lympho ở vùng mầm của hạch bạch huyết.
+- Chúng ẩn trong các hạch bạch huyết ở giai đọan đầu, khả năng thay đổi kháng nguyên thường xuyên giúp tránh được các kháng thể và các tế bào giết đang tìm cách diệt chúng.
+- Sau đó, nhờ vào chức năng trình diện kháng nguyên của các đại thực bào, chúng được tiếp cận với các tế bào có receptor thích hợp, đặc biệt tế bào T CD4+, xâm nhập và phá hủy tế bào nầy.
+
+5.Tế bào T CD4+
++Là tế bào quan trọng trong điều hòa miễn dịch của cả hai hệ miễn dịch thể dịch và miễn dịch trung gian tế bào.
+
++Sự giảm dần số lượng T CD4+ làm cơ thể mất khả năng miễn dịch với ngọai cảnh, dẫn đến nhiễm trùng dễ dàng và tử vong.
+
++Bản thân virus HIV cũng có thể tấn công một số cơ quan có nhiều tế bào mang receptor CD4 như tế bào đệm thần kinh, gây nên các biến chứng thần kinh quan trọng.
+
+III.Dịch tễ
+1.Phát hiện đầu tiên năm 1981 tại Hoa kỳ,
++Bệnh nhanh chóng lan truyền khắp thế giới theo chân sự nghiện chích ma túy và mãi dâm.
+
++Từ đó lan đến cho người hôn phối và trẻ em ra đời từ những người mẹ HIV (+).
+
++Một số trường hợp lây qua đường truyền máu và chế phẩm của máu, nhưng đường này ngày càng hạn chế do những biện pháp phát hiện HIV trước khi cho máu ngày càng tốt hơn và hầu như được xử dụng bắt buộc.
+
+
+2.Báo cáo của WHO
++Vào cuối thiên niên kỷ qua cho thấy:
+- Số người nhiễm HIV như sau:
+- Châu Mỹ: 2 580.000 100
+- Châu Âu: 880.000
+- Châu Phi vùng hạ sa mac Sahara: 23.000.000
+- Bắc Phi và Trung Đông: 220.000
+- Châu Úc: 12.000
+- Châu Á: chủ yếu ở Nam Á và ĐNA: 6.000.000.
+- Số người nhiễm mới ở các nước Tây Âu và Bắc Mỹ ngày càng giảm,
+- Trong khi đó tăng rất nhanh ở các nước Đông Âu và Đông Nam Á.
+- Vùng biển Caribe và vùng hạ sa mạc Sahara châu Phi vẫn còn giữ ở mức độ cao.
+- Đến 2005, số nhiễm HIV trên toàn thế giới ước tính đến hơn 36 triệu người.
+
++Ở Việt Nam,
+- báo cáo của UB phòng chống HIV/AIDS quốc gia tính đến cuối 2005,
+- đã phát hiện gần 280.000 người nhiễm kể từ 1990,
+- trong đó có 60.000 đã chuyển sang giai đoạn AIDS,
+- các tỉnh và thành phố có số lượng nhiễm HIV cao: TP HCM, Hà nội, An giang, Hải phòng, Quảng ninh, Vũng tàu, Khánh hòa.
+
+3.Nguồn lây:
+- Hiện nay HIV chỉ có vật chủ là người.
+- Các virus tương tự (như SIV), có thể gây bệnh cho một số khỉ, nhưng lại không gây bệnh cho người.
+- Ngược lại, HIV1 và HIV2 cũng không gây bệnh cho các động vật khác, kể cả các lọai khỉ.
+- Tuy nhiên, mô hình mắc bệnh ở khỉ tương tự nhiễm HIV ở người và là mô hình tốt để nghiên cứu HIV ở người.
+
+4.Đường lây truyền:
+* Hiện nay, HIV lây qua ba đường:
+
+
+a. Đường máu:
++Máu, huyết tương, các dịch cơ thể người nhiễm HIV đưa trực tiếp vào máu hay qua da và niêm mạc bị xây xát đều có thể lây bệnh.
+- Tuy nhiên, mức độ lây tùy thuộc vào nồng độ virus.
+- Nồng độ này thay đổi tùy theo giai đọan của bệnh nhân, tùy theo lọai dịch.
+
++Các dịch ngọai tiết
+- như mồ hôi, nước bọt, đàm, nước tiểu, phân...có mật độ virus thấp.
+- Chỉ lây khi có cơ hội tiêp xúc rất lâu hoặc rất nhiều lần và nơi tiếp xúc là da hay niêm mạc đã bị xây xát.
+
++Dịch sinh dục và các dịch kín trong cơ thể
+- như dịch não tủy, dịch khớp, máu, huyết tương...có mật độ virus cao.
+- Nhưng trừ quan hệ tình dục, đa số lây qua các dịch này là tai nạn nghề nghiệp của ngành y tế.
+
++Trong thực tế, lây truyền qua đường máu
+- chủ yếu xẩy ra ở những người nghiện chích ma túy dùng chung bơm và kim tiêm.
+- Lây nhiễm từ truyền máu hay các chế phẩm của máu ngày càng ít, nhưng không triệt tiêu hẳn vì không thể phát hiện được nhiễm HIV trong thời kỳ cửa sổ.
+
++Các xây xát qua da và niêm mạc
+- do dùng chung những dụng cụ như dao cạo râu, dụng cụ cắt móng tay,
+- dụng cụ y tế không thanh trùng kỹ.. là những đường lây cần lưu ý.
+
++Đến nay chưa có bằng chứng lây qua các côn trùng hút máu (muỗi, rận, rệp...)
+
+b.Ðường tình dục:
++Là con đường lây truyền khá phổ biến và khó ngăn cản do thiếu hiếu biết.
+
++Nguy cơ lây lan tùy thuộc vào nhiều yếu tố:
+- Nguy cơ lớn hơn khi giao hợp qua đường trực tràng,
+- sang chấn khi giao hợp, có bệnh hoa liễu khác ở bộ phận sinh dục.
+- Nam thường gây nhiễm cho nữ nhiều hơn.
+
+c.Lây từ mẹ qua con:
+- có thể lây trong giai đọan thai kỳ,
+- trong thời gian chu sinh và
+- trong khi cho con bú, dù rằng mật độ virus trong sữa mẹ thấp.
+
+IV. Các giai đoạn nhiễm HIV
+1.Giai đọan sơ nhiễm
++Giai đọan này tính từ lúc virus HIV xâm nhập vào,
+- đến lúc cơ thể có kháng thể chống lại HIV (chuyển đổi huyết thanh).
+- Thường kéo dài 4-6 tuần.
+- Trong giai đọan nầy, mật độ virus rất cao, nên rất dễ lây nhiễm.
+- Số lượng tế bào T CD4+ giảm thấp. 
+
++Có một số biểu hiện lâm sàng của nhiễm virus chung chung
+- như sốt, đau cơ, nhức đầu, đau khớp, nổi hạch.
+- Có khi biểu hiện viêm phổi, rối lọan tiêu hóa, thậm chí những triệu chứng thần kinh.
+- Những biểu hiện sơ nhiễm có giá trị tiên lượng thời gian tiến đến AIDS.
+- Biểu hiện càng nặng, càng nhanh tiến đến giai đọan cuối.
+
++Các xét nghiệm tìm kháng thể đều âm tính vì cơ thể chưa sản xuất.
+- Chỉ phát hiện virus (phương pháp PCR)
+- hay các sản phẩm của HIV (gp 20, gp40..).
+- Ở nước ta, các xét nghiệm này chưa phổ biến.
+
++Cuối giai đọan sơ nhiễm, lượng virus trong máu giảm xuống, và
+- kháng thể kháng HIV bắt đầu xuất hiện.
+- Lúc này các xét nghiệm tìm trực tiếp virus có thể âm tính do lượng virus quá thấp hay do virus ẩn trong các hạch bạch huyết.
+- Nhưng các xét nghiệm tìm kháng thể vẫn chưa dương tính.
+- Giai đọan âm tính giả này gọi là giai đọan cửa sổ.
+
+2. Giai đọan tiềm ẩn
++Sau thời kỳ sơ nhiễm, cơ thể bắt đầu tạo kháng thể tìm diệt HIV.
+- Trong giai đọan nầy, virus thường khu trú trong vùng mầm (germinative zone) của các hạch bạch huyết.
+- Chúng thay đổi kháng nguyên và ở trong các đại thực bào nên tránh được sự tìm diệt của các tế bào gây độc và tế bào giết.
+- Mật độ virus lúc này trong máu thấp,
+- nhưng nguy hiểm vì người nhiễm không có biểu hiện gì,
+- vẫn tham gia sinh họat bình thường trong xã hội,
+- tiếp tục họat động tình dục nên làm tăng khả năng truyền bệnh.
+- Bên trong cơ thể virus tiếp tục sinh sản và hủy họai dần tế bào T4.
+
++Sau một giai đọan khá dài, thay đổi tùy từng cá nhân
+ (Nhanh nhất là 3 năm, dài nhất có thể đến 16 năm. Trung bình 10 năm),
+- lượng tế bào T4 không còn khả năng bù trừ sự hủy diệt của virus sẽ có biểu hiện suy giảm miễn dịch.
+- Nồng độ virus trong máu tăng dần theo thời gian (do đó khả năng lây càng mạnh hơn).
+- Do được bù trừ, lượng T4 ở giai đọan này vẫn nằm trong giới hạn bình thường.
+- Giai đọan này có thể phát hiện nhiễm HIV bằng các phương pháp tìm kháng thể, hiện đang xử dụng ở nước ta.
+
+3.Giai đọan tiền AIDS
++Trước đây gọi là giai đọan có biểu hiện các phức hợp liên quan đến AIDS:
+- Giai đọan nầy, bệnh nhân thường có các biểu hiện lâm sàng với những hội chứng gợi ý đến nhiễm HIV:
+- sốt kéo dài, tiêu chảy trên 1 tháng, sụt cân 10% trọng lượng cơ thể mà không tìm được lý do nào khác.
+ (lao, cường giáp, ung thư, đái đường không điều trị...).
+- Bệnh nhân thường bị nấm candida xoang miệng, ở âm đạo, đáp ứng kém với điều trị.
+- Phụ nữ có thể lọan sản hay K cổ tử cung tại chỗ, viêm vòi trứng đưa đến áp xe buồng trứng-vòi trứng.
+- Zona nhiều vùng trên cơ thể, tái phát nhiều lần là một bệnh hay gặp ở giai đọan nầy.
+- Giai đọan này T4 đã giảm nhưng còn cao hơn 200/mm3.
+
+4.Giai đọan AIDS
++Theo quy định của CDC,
+- mọi trường hợp có T4 < 200/mm3 đều xếp vào giai đọan AIDS.
+- Hệ miễn dịch lúc này không còn có khả năng bảo vệ cơ thể.
+
++Trên lâm sàng bệnh nhân thường mắc các nhiễm trùng cơ hội,
+- và một số bệnh ác tính có thể có nguồn gốc virus (K cổ tử cung xâm lấn, u Kaposi).
+- Một số có các biến chứng do chính virus HIV gây ra (viêm não do HIV..).
+- Các bệnh này được xếp vào nhóm C trong phân lọai của CDC 1993.
+
++Các bệnh cơ hội thường khó chữa, và dễ kháng thuốc.
+- Nếu chữa khỏi thường hay tái phát,
+- đòi hỏi phải uống thuốc phòng đều đặn và suốt đời.
+- Bệnh nhân lại thường mắc nhiều bệnh nhiễm trùng cùng lúc
+- cho nên rất khó điều trị và bệnh nhân thường tử vong .
+
++Giai đọan này mật độ virus trong máu rất cao.
+- Nhưng do không còn họat động được nên nguy cơ lây lan cho xã hội giảm nhiều.
+- Chủ yếu lây cho bạn cùng tiêm chích hay do tai nạn nghề nghiệp y tế.
+
++Trong bối cảnh ở nước ta,
+-  người nhiễm HIV thường có những biểu hiện nhiễm trùng cơ hội.
+- Một số có biểu hiện ung thư như lymphoma, K cổ tử cung xâm lấn.
+- Nhưng u Kaposi, dù rất phổ biến ở các nước, ở nươc ta chưa thấy báo cáo.
+- Các bệnh do chính virus HIV thì chưa có phương tiện để khẳng định.
+- Vì thế, ở đây chỉ đề cập đến nhiễm trùng cơ hội.
+
+V. Nhiễm trùng cơ hội 
+1.Định nghĩa
++Là những bệnh chỉ xẩy ra trên những cơ địa suy giảm miễn dịch
+- leucemie, dùng thuốc ức chế miễn dịch,
+- hay nhiễm HIV giai đọan AIDS.
+- Trên cơ thể bình thường, các tác nhân gây bệnh thường bị hệ miễn dịch cơ thể tiêu diệt.
+
++Tuy nhiên, khái niệm này hiện nay được mở rộng
+- gồm cả những bệnh nhiễm trùng ở những bệnh nhân suy giảm miễn dịch do AIDS, mặc dù chúng cũng có thể gây bệnh ở ngừơi bình thường như lao, viêm phổi vi khuẫn thông thường.
+- Điều khác biệt là trên bệnh nhân AIDS, các bệnh này thường tiến triển nhanh chóng, đáp ứng chậm với kháng sinh đặc hiệu, tái phát nhiều lần.
+ 
+2. Một số bệnh cơ hội hay gặp ở Việt Nam
+a. Lao
+- Lao là bệnh cơ hội hàng đầu ở người nhiễm HIV nước ta.
+- Lao làm tiến triển HIV nhanh hơn đến giai đọan cuối.
+- Ngược lại, nhiễm HIV làm lao dễ lan tỏa tòan thân,
+- khó điều trị và làm xuất hiện các chủng kháng thuốc nhiều hơn.
+
+b. Nấm Candida
+- Hay xuất hiện ở xoang miệng và âm đạo.
+- nấm lan đến thực quản, gây nuốt đau, khó nuốt hay lan vào nhu mô phổi ...
+- thậm chí gây nhiễm nấm huyết, lan đến các nội tạng khác.
+- Điều trị rất khó.
+ 
+c. Nhiễm nấm Penicillum marnerffei
++Lọai nấm này chỉ phổ biến ở Đông nam Á,
+- có nguồn gốc từ chuột đồng (Bambou Rat).
+- Ở Thái Lan được báo cáo là NTCH thứ ba.
+- Ở Việt Nam, tuy chưa có công bố chính thức,
+- nhưng đã phát hiện nhiều trường hợp ở cả ba miền.
+
++Thường có biểu hiện nhiễm nấm huyết, phổi và da.
+- Ở da, biểu hiện dễ lầm với u nhầy lây (Molluscum contagium).
+- Điều trị khó khăn với thuốc kháng nấm. Tử vong cao.
+
++Điều trị với Itraconazol
+- tiêm TM 400mg/ngày khi có nhiễm nấm huyết hay nội tạng.
+- Uống thường cho kết quả chậm hơn.
+- Sau khi điều trị khỏi phải uống thuốc phòng
+ (Fluconazole suốt đời cùng với thuốc kháng HIV).
+
+d. Viêm phổi
++do Pneumocystis carinii (còn gọi là P. jeroveci)
+- Là bệnh cơ hội phổ biến ở các nước Châu Âu và Mỹ.
+- Ở nước ta báo cáo chính thức chỉ có 5 trường hợp ở thành phố HCM.
+
++Trong thực tế
+- chúng ta có thể gặp nhiều trường hợp viêm phổi kẽ,
+- không đáp ứng với các kháng sinh phổ rộng và các thuốc kháng nấm,
+ - nhưng đáp ứng với Bactrim liều cao.
+- Có thể đây là do nhiễm P. jeroveci.
+
++Đây là một bệnh phòng được.
+- Khi bệnh nhân có TCD4+ < 200/mm3.
+- Cần cho dùng thuốc này hàng ngày để dự phòng.
+
+e. Tiêu chảy
+- Do rất nhiều nguyên nhân.
+- Đáp ứng với Fluoroquinolone phối hợp với Metronidazole,
+- bệnh thường tái phát nhiều lần với khoảng cách rất gần.
+- Có trường hợp chỉ đáp ứng với Bactrim .
+
+f. Viêm màng não
+- do nấm Crytococcus neoformant
+- Cần cảnh giác khi bệnh nhân HIV(+) có hội chứng màng não.
+- Cần cho xét nghiệm dịch não tủy (nhuộm bằng mực tàu để phát hiện).
+- Điều trị với Amphotericine B hay Fluconazole.
+
+g. Nhiễm Toxoplasma
+- Là một bệnh có thể phòng được
+- bằng cách khuyên bệnh nhân không tiếp xúc với mèo và phân mèo.
+- Có thể phòng bệnh bằng cách xử dụng Bactrim hay Pyrimethamine.
+
+VI. Chẩn đoán
+1. Chẩn đoán nhiễm HIV
+*Có tính chất quan trọng về
+- tính trầm trọng, lại không chữa được,
+- chắc chắn tử vong, lại nguy hiểm cho cộng đồng,
+- ảnh hưởng rất lớn cả về thể chất cũng như tâm lý,
+- ảnh hưởng đến uy tín cá nhân và danh dự gia đình, ...
+- Nên phải rất thận trọng khi kết luận một người nhiễm HIV.
+- Cần tuân thủ tốt các chỉ tiêu về LS, CLS về nhiễm HIV...
+ (Các test thử nhanh độ chính xác vẫn còn giới hạn).
+
+
+a. Xét nghiệm phát hiện kháng thể
++Là các xn đang được xử dụng phổ biến ở nước ta.
+- Các xét nghiệm này không phát hiện được HIV ở giai đọan sơ nhiễm.
+- Vì vậy khi âm tính, phải khuyên bệnh nhân xét nghiệm lần 2, sau 3 tháng không có tiếp xúc với nguồn lây nhiễm nào khác.
+- Nếu vẫn âm tính mới có quyền kết luận là không nhiễm.
+
++Ngược lại, ở trẻ < 1 tuổi, mẹ HIV (+),
+- nếu xét nghiệm dương tính, vẫn không kết luận được cháu bị nhiễm,
+- vì đó là kháng thể kháng HIV của mẹ truyền qua.
+- Do đó phải xét nghiệm lại trong những năm sau từ 18 tháng tuổi trở lên.
+
++Có ba lọai xét nghiệm phát hiện kháng thể kháng HIV đang dùng ở nước ta:
+- Test Serodia:
+. Độ nhạy thấp, nhưng độ đặc hiệu cao.
+. Chỉ có giá trị sàng lọc ban đầu.
+. Những người Serodia (+) là những người có thể nhiễm,
+. Cần xác định thêm bằng các xét nghiệm khác trước khi khẳng định.
+. Ngược lại, người Serodia (-) thì rất ít có nguy cơ nhiễm HIV.
+
+- Test ELISA:
+. Phát hiện một lọai kháng thể tùy theo kit chọn trước.
+. Phản ứng này có độ nhạy cao > 90%.
+. Độ nhạy và độ đặc hiệu càng cao với các thế hệ XN sau.
+. Tuy nhiên vẫn không chắc chắn 100%.
+. Nay thường đóng sẵn trong các kit thương mại
+(vd: Bv199 dùng kít SD Bioline HIV 1/2 3.0; >25.000đ/kit; độ nhạy 100%, độ đặc hiệu 99.8%)
+
+
+- Test Western - Blot:
+. Kết luận được chắc chắn 100%, khi người bệnh có xét nghiệm HIV (+) với phương pháp Western - Blot.
+. Phương pháp này phát hiện một loạt nhiều kháng thể đặc hiệu, chống nhiều lọai kháng nguyên khác nhau của virus HIV.
+. Do đó lọai trừ được phản ứng dương tính giả.
+. Tuy nhiên do xét nghiệm Western-blot rất đắt tiền, khó có thể xử dụng đại trà ở nước ta!
+
+
++Hiện nay ngành Y tế quy định:
+- Vẫn xem như là (+), những trường hợp ELISA (+) 2 lần, với 2 lọai kit khác nhau (phát hiện 2 kháng thể kháng HIV khác nhau ).
+ (ví dụ SD Bioline HIV 1/2 3.0 + Determine HIV 1-2 test)
+
+- Xác suất dương tính giả, khi xét nghiệm 2 lần, với 2 lọai kháng nguyên khác nhau hết sức thấp, nên hiếm khi gặp sai lầm trong thực tế.
+
+b. Xét nghiệm tìm trực tiếp virus hay các sản phẩm virus
++Phương pháp khuyếch đại gen (PCR)..
+- Có thể phát hiện trực tiếp sự hiện diện của virus trong máu hay dịch cơ thể,
+. bằng phương pháp khuyếch đại gen (PCR),
+. phương pháp dùng gen mồi thăm dò.
+- Các phương pháp này đặc hiệu,
+. cho phép phát hiện ngay cả trong giai đọan sơ nhiễm.
+. còn dùng để đánh giá hiệu quả của các thuốc kháng virus (đo nồng độ virus trong máu),
+. phát hiện trẻ sơ sinh có nhiễm HIV hay không.
+- Tuy nhiên do kỹ thuật phức tạp và đắt tiền, hiện nay chỉ xử dụng ở các trung tâm nghiên cứu quốc gia, chưa áp dụng đại trà.
+
++Các kỹ thuật tìm các protein virus
+- Hiện nay test ELISA thế hệ 4
+- vừa cho phép phát hiện kháng thể, vừa phát hiện kháng nguyên p24.
+- có tính đặc hiệu, nhưng không hằng định.
+
++Phân lập virus HIV:
+- chính xác và có thể khảo sát được nhiều đặc tính của virus.
+- Nhưng chưa thực hiện được ở nước ta.
+
+
+2. Chẩn đoán giai đoạn của bệnh
++Có nhiều phương pháp xếp loại được đề nghị phù hợp hơn với lâm sàng và dịch tễ học.
+- Mặc dầu tiến triển về mặt sinh lý bệnh có 4 giai đoạn, nhưng trên thực tế lâm sàng, biểu hiện bệnh do nhiễm HIV rất phong phú và đa dạng.
+- Trên thực tế lâm sàng, người ta thường chẩn đoán giai đoạn nhiễm HIV dựa vào một trong những cách xếp loại được công nhận rộng rãi.
+
++Cách xếp loại của CDC 1993 là nổi tiêng nhất
+- dành cho người lớn nhiễm HIV
+- Tuy nhiên tiêu chuẩn đếm số tế bào T CD4+ khó thực hiện ở đa số các nước nghèo (như Việt nam).
+
++Các phương pháp tính gián tiếp số tế bào T CD4+
+- qua số lượng tế bào lympho ngoại vi,
+- qua các phản ứng bì, được ứng dụng ở một số nơi
+-  nhưng kết quả không thống nhất nên chưa được công nhận rộng rãi
+
++Tổ chức Y tế thế giới (WHO)
+- Giới thiệu một cách xếp loại khác,
+. trong đó không xử dụng số lượng tế bào T CD4+
+. mà thay thế bằng mức độ sinh họat của bệnh nhân trong ngày.
+
+- Cách chia của WHO chỉ có 4 giai đoạn. 
+. Các xếp loại của Tổ chức Y tế Thế giới dễ dàng cho các nước nghèo, thuận tiện cho dịch tễ học.
+. Tuy nhiên, nó không giúp nhiều cho các nhà lâm sàng quyết định dùng thuốc kháng HIV hay cho thuốc phòng một số bệnh cơ hội.
+
+- Đối với trẻ em, do các đặc thù riêng, được có một bảng xếp loại khác của CDC 1993. 
+
+VII. Chăm sóc & Điều trị 
+1.Nguyên tắc
+a.Chăm sóc tòan diện
+- Không chỉ về mặt bệnh tật
+- mà còn về tinh thần, uy tín và giao tiếp xã hội.
+
+b. Về tâm lý và xã hội
+- Bệnh nhân phải được tư vấn, tránh khủng hoảng tâm lý vào lúc phát hiện nhiễm HIV.
+- Tránh các phản ứng tiêu cực nguy hiểm cho bản thân (tự tử) hay xã hội (trả thù bằng cách cố ý gây lây nhiễm cho người khác).
+- Tạo điều kiện cho bệnh nhân ổn định cuộc sống.
+- Giữ bí mật cá nhân cho bệnh nhân.
+- Động viên bệnh nhân có ý thức giữ gìn cho bạn tình, các người khác không bị lây nhiễm.
+ 
+c. Về thể chất
++Khám sức khỏe định kỳ cho bệnh nhân và bất kỳ lúc nào có bệnh.
+- mục đích theo dõi gồm: phát hiện bệnh cơ hội để điều trị sớm.
+- xác định tình trạng miễn dịch của bệnh nhân (lý tưởng là đếm số lượng tế bào T CD4+),
+- tình trạng virus (nếu có điều kiện) để khẳng định hiệu quả của thuốc kháng HIV nếu đang dùng.
+
++Khi bệnh nhân sắp rơi vào giai đọan AIDS,
+- có thể xử dụng thuốc phòng một số bệnh cơ hội như Bactrim phòng viêm phổi do P. carinii, Toxoplasma...
+- các thuốc kháng nấm phòng một số bệnh về nấm..
+- vấn đề tiêm vaccine phòng một số bệnh như phế cầu, cúm, H. influenza.. cho bệnh nhân HIV ở nước ta chưa áp dụng.
+
+d. Giải thích cho thân nhân và những người liên quan đã biết bệnh nhân nhiễm HIV
+- Để đối xử hợp lý với bệnh nhân, không xa lánh, cách ly không cần thiết.
+- Đồng thời phải biết một số đường lây do vô tình (dùng chung dao cạo râu, bàn chải đánh răng),
+- biết cách phòng hộ cho cá nhân khi phải săn sóc bệnh nhân ở giai đọan cuối (xử lý bệnh phẩm, áo quần, chăn màn có dính máu, dịch của bệnh nhân..)
+ 
+2.Thuốc kháng virus HIV
+* Đến nay có 2 nhóm
+a.Các thuốc ức chế men sao chép ngược RT: gồm có
++Các thuốc tương tranh, có cấu trúc nucleoside:
+- Gồm AZT (Zidovudine), Didanosine (ddI),
+- Zalcitabine (ddC), Stavudine (d4T),
+- Lamivudine (3TC), Abacavir (ABC).
+
++Các thuốc không có cấu trúc nucleoside:
+- Nevirapine, Efavirenz, Delavirdine.
+
++Các thuốc nhóm này dễ bị đề kháng
+- Nên không bao giờ được dùng một mình.
+- Nhiều tác dụng phụ.
+
+b. Các thuốc ức chế men protease:
+Ức chế giai đọan trưởng thành của virus, gồm:
+- Indinavir (Crixivan), Ritonavir (Norvir),
+- Saquinavir HGC (Invirase), Saquinavir SGC (Fortovase),
+- Nelfinavir (viracept), Amprenavir (Agenerase), ABT 378/r (Lopinavir/r: Kaletra).
+
+c.Một số phác đồ phối hợp
++ 3 thuốc kháng HIV:
+- AZT + ddI + Indinavir
+- AZT + 3TC + Nelfinavir
+- d4T + ddI + Ritonavir
+- d4T + 3TC + Efavirenz
+ (hayNevirapine, Abacavir, Lopinavir)
+
++Có thể thay đổi như sau:
+- AZT + ddC + Amprenavir
+- DdI + 3TC + Saquinavir...
+
+3. Chỉ định sử dụng
+a.Nhằm làm giảm nồng độ
+- nhưng không diệt được virus, phối hợp 3 thuốc được những người giàu có xem như là một cứu cánh, thậm chí không còn cảnh giác với căn bệnh.
+- trong thực tế, dùng lâu dài đem đến nhiều tác dụng không mong muốn quan trọng và hiện tượng kháng thuốc,
+- nên chỉ định hiện nay có phần hạn chế hơn so với chỉ định ở những năm đầu tiên khi liệu pháp này mới ra đời.
+- chỉ định chung cho tất cả mọi người nhiễm HIV dù ở giai đọan nào đang có nhiều bàn cãi, và chưa ngã ngũ.
+- còn tùy theo thầy thuốc và trường hợp cụ thể.
+
+b.Những chỉ định sau đây đã được thống nhất:
++ Những bệnh nhân có triệu chứng (giai đọan B và C theo CDC 1993)
+
++ Bệnh nhân không có triệu chứng, nhưng số lượng T CD4+ < 350/mm3.
+
++ Bệnh nhân không triệu chứng, 350 < T4 < 500/mm3 nhưng  nồng độ RNA HIV > 30.000 copies/mm3. Nếu RNA < 30.000 thì tùy quyết định thầy thuốc.
+
++ Bệnh nhân không triệu chứng, T4 > 500: Hiện nay có khuyến cáo không nên dùng.
+
++ Điều trị phơi nhiễm (tai nạn nghề nghiệp)
+
+c.Những người có tiếp xúc
++với nguồn có nguy cơ nhiễm HIV
+- tai nạn nghề nghiệp của y tế,
+- có quan hệ tình dục với người nhiễm HIV,
+- bị tấn công bời dụng cụ có chứa máu hay dịch người nhiễm.
+ 
++Nếu có điều kiện,
+- XN ngay nồng độ HIV nguồn nhiễm và ở người bị nạn.
+- Sau đó xử dụng thuốc kháng HIV trong vòng 1 tháng.
+ (3 thuốc, nếu không đủ, có thể xử dụng hai lọai thuốc) 
+
++Sau khi chấm dứt liệu trình,
+- nên xét nghiệm tìm kháng nguyên p24 sau 15 ngày
+- rồi sau 1 tháng, 3 tháng, 6 tháng để theo dõi sự chuyển đổi huyết thanh nếu có.
+
++Ngoài ra cũng cần tư vấn cho nạn nhân trong giai đọan chờ đợi kết quả (+) hay (-).
+
+VIII. Phòng bệnh
++Khi tiếp xúc với người bệnh,
+- Không dùng chung những dụng cụ có khả năng gây tổn thương da hay niêm mạc như dao, kéo, dụng cụ làm móng tay, cạo râu, bàn chải đánh răng đặc biệt bơm và kim tiêm.
+- Trường hợp nhân viên y tế, khi thao tác có khả năng xâm nhập vào bệnh nhân nhiễm HIV, cần mang găng có chất lượng, áo quần, khẩu trang, kính đeo mắt, ủng, áo choàng kín.
+- Thanh trùng ngay sau khi dùng, không vất bỏ bừa bãi các dụng cụ và bệnh phẩm bệnh nhân sau dùng xong.
+- Dụng cụ phải được ngâm cồn, cloramin T hay hấp hơi nước 100 độ/20 phút.
+
++Không quan hệ tình dục
+- với người không biết có nhiễm HIV hay không.
+- Nên nhớ, bao cao su chỉ an tòan khi tiếp xúc tình dục kiếu tự nhiên ( sinh dục-sinh dục),
+- không an tòan khi quá trình tình dục có những hành vi khác (tay bị xây xát sẵn tiếp xúc với dịch sinh dục người nhiễm),
+- tiếp xúc miệng-sinh dục không an tòan vì có thể bị xây xát ở lợi, niêm mạc họng, amygdale mà không biết.
+
++Trong truyền máu,
+- tốt nhất là truyền máu tự thân.
+- Truyền máu từ người khác vẫn không an tòan tuyệt đối vì có giai đọan cửa sổ.
+
++Phụ nữ nhiễm HIV
+- không nên có thai.
+- Nếu có thai, phải dùng thuốc kháng HIV (AZT, nevirapine để giảm nguy cơ cho thai nhi.).
+- Mẹ nhiễm HIV không nên nuôi con bằng sữa mẹ.
+
++Không nghiện hút ma túy
+(rồi sẽ đưa đến giai đọan chích ma túy),
+- không xử dụng chung bơm, kim tiêm khi đã lỡ nghiện chích ma túy.
+- Quyết tâm cai ma túy cho cá nhân.
+- Về mặt cộng đồng, tăng cường bài trừ ma túy,
+- giúp đỡ những người nghiện ma túy cai nghiện.
+
++Hạn chế mãi dâm.
+Nếu không hạn chế được, phổ biến tình dục an tòan cho những người hành nghề mãi dâm và khách hàng dùng bao cao su.

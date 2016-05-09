@@ -1,0 +1,21 @@
+﻿Xoắn đỉnh là một rối loạn nhịp thất trung gian giữa nhịp nhanh thất và rung thất, xuất hiện do cơ chế vào lại (ré-entreé).
+Nếu do độc digoxin, lạm dụng furosemit cần bù kali kịp thời sẽ cải thiện nhanh nguy cơ rung thất; nhưng nếu do biến chứng từ nhịp chậm vì block AV độ III - thì phải dùng isuprel và đặt máy tạo nhịp...
+
+Xoắn đỉnh là một loại nhịp nhanh thất đặc biệt không bền bỉ có từng đợt QRS đa hình hay tái phát, cơn có kèm ngất thậm chí có thể chuyển thành rung thất và chết đột ngột.
+
+ÐTÐ cơ bản (ngoài cơn) thường có QT dài vượt quá 0,44 sec, có khi quá 0,60 sec và nó có thể do rối loạn điện giải (đặc biệt giảm Kali huyết và magiê huyết), do dùng một số thuốc chống loạn nhịp (đặc biệt loại quinidine và sotalol), thuốc chống trầm cảm 3 vòng (tricyclic) và phenothiazines, do chế độ ăn quá kiêng khem hoặc do bệnh sa van hai lá, do một bệnh lý nội sọ cấp, do các nhịp chậm, đặc biệt blốc nhĩ-thất cấp 3, những cũng có thể là QT dài tự phát đơn độc mắc phải hay bẩm sinh, gia đình (thường phát động bởi cơn cường giao cảm như xúc động, gắng sức…)
+
+
+Ðiều trị
+
+- Cắt cơn cấp tính: dùng mặt dẹt của nắm đấm tay mình đập mấy cái thật mạnh lên xương ức và vùng tim bệnh nhân.
+
+- Loại bỏ các nguyên nhân trên nếu có, như phải dừng ngay các thuốc gây xoắn đỉnh, chống bệnh hạ kali huyết: dù chỉ nghi ngờ trên lâm sàng, cần cho kali truyền tĩnh mạch liều cao (tói 10-15g/24h).
+
+- Sulfate magiê 1-2g tiêm tĩnh mạch cả gói bao giờ cũng có tác dụng cắt cơn xoắn đỉnh rất tốt. Nếu sau đó, truyền duy trì magiê 4-8g/24h mà vẫn tái phát thì có thể nhắc lại liều tấn công nói trên.
+
+- Nếu magiê thất bại thì cho tạo nhịp tạm thời với tần số tăng dần tới mức vượt lên cản phá được cơn nhịp nhanh, có khi tới 100-120 C/phút. Còn Isuprel thì chỉ nên dùng khi không có điều kiện tạo nhịp và khi xoắn đỉnh do tần số tim chậm.
+
+- Nếu là hội chứng QT dài bẩm sinh thì các chẹn bêta (trừ sotalol) đóng vai trò chủ chốt rất tốt vì loại bỏ được cơn cường giao cảm. Có thể kết hợp thêm phẫu thuật cắt bỏ các hạch giao cảm cổ - ngực bên trái; hoặc cho các thuốc làm ngắn QT lại như phenytoin. Nếu thất bại có thể cấy máy tạo nhịp hay máy phá rung.
+
+Chú ý: Cần phân biệt xoắn đỉnh với loại NN/T đa hình do cơ chế vào lại, có QT bình thường, có bệnh tim thiếu máu cục bộ, phát động bởi một ngoại tâm thu R/T và điều trị khác hẳn xoắn đỉnh. ở đây, các thuốc dạng quinidine có hiệu quả nhất và có thể cho liều đầy đủ, mà nếu do thiếu máu cơ tim cục bộ cấp và nặng nề thì chỉ có cách làm các thủ thuật tái tạo tuần hoàn mới khỏi NN/T.

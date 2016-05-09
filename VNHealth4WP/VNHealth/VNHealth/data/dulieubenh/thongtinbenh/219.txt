@@ -1,0 +1,69 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1.Triệu chứng:
+     a. Triệu chứng toàn thân:
+        Sốt, ớn lạnh, mệt mỏi, ăn kém ngon, đau đầu, ban ngoài da.
+     b. Triệu chứng hô hấp:
+        - Viêm mũi họng, viêm xoang.
+        - Ho khan, đôi khi có đờm nhày trong, ít gặp đờm mủ.
+        - Ít khi có đau ngực, ho ra máu.
+        - Nghe phổi có ran nổ, ran rít, ran ẩm.
+     c. Triệu chứng ngoài phổi
+        - Tan máu tự miễn, giảm tiểu cầu, đông máu rải rác trong lòng mạch.
+        - Tiêu hóa: Viêm dạ dày - ruột, viêm gan không vàng da, viêm tụy.
+        - Cơ xương: Đau cơ khớp, viêm đa khớp.
+        - Da: Ban sẩn nốt, hội chứng Stevens - Johnson.
+        - Tim: Viêm màng ngoài tim, viêm cơ tim, rối loạn dẫn truyền...
+        - Thần kinh: Viêm màng não, viêm não, bệnh thần kinh ngoại vi ...
+        - Triệu chứng khác: Hạch to, lách to, viêm thận kẽ, viêm cầu thận.
+     d. Xét nghiệm
+        - Bạch cầu tăng (25%), N tăng, L tăng, M tăng. Bạch cầu giảm: ít gặp.
+        - Xquang phổi: chủ yếu tổn thương một bên và ở thuỳ dưới với hình ảnh lưới hoặc lưới nốt. Tổn thương dạng nốt ở thùy dưới rất hay gặp. Triệu chứng xquang mất sau 4-6 tuần, ít khi kéo dài hơn.
+     e.Tiến triển và biến chứng
+        - Tiến triển chậm: sốt, đau đầu, mệt giảm hoặc hết sau 3-10 ngày, ho và ran hết chậm hơn, có khi kéo dài hàng tháng.
+        - Biến chứng: ít gặp, ví dụ: thâm nhiễm nhiều thùy, viêm màng phổi khô, tràn dịch màng phổi.; suy hô hấp; Bùng phát hen phế quản ở người lớn; dày dính màng phổi...
+
+  1.2.Chẩn đoán:
+     +Lâm sàng triệu chứng nêu trên.
+     +Cận lâm sàng:
+        - Nhuộm Gram đờm có bạch cầu (N, M), không có vi khuẩn.
+        - Phân lập được M.pneumoniae từ dịch tiết đường hô hấp là xét nghiệm quyết định chẩn đoán.
+        - Chuẩn độ kháng thể (+), hiệu giá ≥ 1:64.
+        - IgM: dương tính sau 7-9 ngày, hiệu giá cao tối đa sau 4 tháng, mất sau 4-6 tháng.
+        - Ngưng kết tố lạnh: dương tính khi hiệu giá ≥ 1:64.
+        - Điện di miễn dịch phát hiện kháng nguyên M. pneumoniae.
+        - Phản ứng chuỗi polymeraza - PCR: nhạy và đặc hiệu.
+        - Kháng thể đơn clon.
+
+2. Cách chữa trị thông thường
+  a. Kháng sinh:
+     +Mặc dù điều trị đúng, triệu chứng lâm sàng - xquang có thể tái phát sau 7-10 ngày
+     +Tetraxyclin, Erythromycin, các triệu chứng hết nhanh.
+        - Tetraxyclin, Erythromyxin: 2 gam/ngày trong 10 - 14 ngày.
+        - Chloramphenycol; Clindamycin; Aminoglycozid
+     + Penixilin, cephalosporin: kết quả rõ.
+     + KhángTetraxyclin,Tetraxyclin: Nhóm Marcrolid mới: Roxy-Clary arithromycin.
+  b. Corticoid:
+     Chỉ định đối với những trường hợp có tổn thương ngoài phổi, thường dùng prednisolon 20 mg/ngày, thời gian dùng 7 - 10 ngày.
+
+3. Cách phòng tránh
+     Cách ly trẻ bệnh vẫn là biện pháp phòng ngừa chính để giảm lây lan.
+
+4. Thông tin thêm
+  5.1. Dịch tễ:
+     +M. pneumoniae gây viêm phổi, viêm đường hô hấp trên, bệnh ngoài phổi.
+     +Bệnh xuất hiện quanh năm, chủ yếu ở người trẻ tuổi (20 - 30 tuổi), lây qua đường hô hấp từ người bệnh cấp tính.
+     +Bệnh nhẹ, tự khỏi, ít khi tử vong.
+  5.2. GPB và bệnh sinh:
+    a. Giải phẫu bệnh:
+     + Niêm mạc phế quản xung huyết.
+     + Phế nang nhiều dịch tiết chứa bạch cầu M; thâm nhiễm tương bào ở khoảng kẽ, tập trung nhiều M và đại thực bào ở lớp dưới niêm mạc phế quản.
+    b. Cơ chế bệnh sinh
+     + M. pneumoniae xâm nhập bằng cách gắn thụ thể axid neuramic vào tế bào biểu mô đường hô hấp gây tổn thương tại chỗ; sau đó do tác động của hydrogen peroxide, M. pneumoniae thâm nhập vào niêm mạc phế quản.
+        - Bạch cầu N được huy động đến sẽ gây viêm ở bề mặt niêm mạc.
+        - Sau đó thâm nhiễm đại thực bào, lympho ở lớp dưới niêm mạc.
+     + Đáp ứng miễn dịch của cơ thể không có tác dụng bảo vệ;
+        - Cơ chế bảo vệ tại chỗ thông qua IgA có vai trò quan trọng, không cho M. pneumoniae gắn với biểu biểu mô đường hô hấp.
+        - Đáp ứng miễn dịch của cơ thể với các phức hợp miễn dịch lưu hành gây tổn thương phổi và các cơ quan khác.
+        - Nồng độ IgG cao trong thời kỳ cấp tính, liên quan đến mức độ viêm phổi, yếu tố thấp (TgF) tăng cao ở giai đoạn hồi phục.
+        - Ngưng kết tố lạnh thường xuất hiện khi nhiễm M. Pneumoniae nặng.
+

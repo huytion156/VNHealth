@@ -1,0 +1,71 @@
+﻿<phone:PhoneApplicationPage
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity" xmlns:eim="clr-namespace:Microsoft.Expression.Interactivity.Media;assembly=Microsoft.Expression.Interactions"
+    x:Class="VNHealth4WP.infomation"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True" Background="White">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+	<Grid x:Name="LayoutRoot" Background="White">
+		<VisualStateManager.VisualStateGroups>
+			<VisualStateGroup x:Name="VisualStateGroup">
+				<VisualStateGroup.Transitions>
+					<VisualTransition GeneratedDuration="0"/>
+				</VisualStateGroup.Transitions>
+			</VisualStateGroup>
+		</VisualStateManager.VisualStateGroups>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<!--TitlePanel contains the name of the application and page title-->
+		<StackPanel Grid.Row="0" Margin="12,17,0,28">
+			<TextBlock Text="VNHealth for Windows Phone" Style="{StaticResource PhoneTextNormalStyle}" FontWeight="Bold" Foreground="#DE000000"/>
+			<TextBlock Text="Thông tin phần mềm" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="#DE000000" FontSize="32" FontWeight="Bold"/>
+		</StackPanel>
+		<TextBlock HorizontalAlignment="Left" Height="279" Margin="154,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="436" FontFamily="Times New Roman" Foreground="#DE000FA4" Grid.Row="1">
+			<Run FontWeight="Bold" Text="Phần mềm:      "/>
+			<Run Text="VNHealth4WP"/>
+			<LineBreak/>
+			<Run/>
+			<LineBreak/>
+			<Run FontWeight="Bold" Text="Phiên bản:       "/>
+			<Run Text="1.0.0"/>
+			<LineBreak/>
+			<Run/>
+			<LineBreak/>
+			<Run FontWeight="Bold" Text="Tác giả:           "/>
+			<Run Text="Huỳnh Võ Nhật Huy"/>
+			<LineBreak/>
+			<Run/>
+			<LineBreak/>
+			<Run FontWeight="Bold" Text="Đơn vị:            "/>
+			<Run Text="Sở giáo dục và đào tạo Đồng Tháp"/>
+			<LineBreak/>
+			<Run/>
+			<LineBreak/>
+			<Run FontWeight="Bold" Text="Điện thoại:      "/>
+			<Run Text="0120 724 1756"/>
+			<LineBreak/>
+			<Run/>
+			<LineBreak/>
+			<Run FontWeight="Bold" Text="Email: "/>
+			<Run Text="             huytion156@gmail.com"/>
+		</TextBlock>
+		<Image Margin="0,90,638,161" Source="/picture/icon.png" Stretch="Fill" Grid.Row="1"/>
+		<Image Margin="600,83,10,140" Source="ads.png" Stretch="Fill" Grid.Row="1"/>
+
+        <!--ContentPanel - place additional content here-->
+	</Grid>
+
+</phone:PhoneApplicationPage>

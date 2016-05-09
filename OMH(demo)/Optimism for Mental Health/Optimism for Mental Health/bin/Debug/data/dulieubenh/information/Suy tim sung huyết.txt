@@ -1,0 +1,122 @@
+﻿I. Tổng quan:
+* Suy tim sung huyết (Congestive heart failure - CHF) là mất cân bằng do chức năng bơm của tim không bảo đảm tuần hoàn máu đầy đủ.
+* CHF có thể là do suy tim tiền gánh hay hậu gánh. Suy hậu gánh làm tăng áp hệ thống tĩnh mạch, trong khi suy thất trái làm giảm lưu lượng máu tiền gánh bơm vào hệ thống tuần hoàn...
+* Biểu thị CHF cấp nặng nhất  là Phù phổi (OAP - œdème aigu du poumon - có 2 loại: do tim và tổn thương, ở đây chỉ đề cập do tim), phát triển khi sự mất cân bằng này gây ra tăng ứ dịch thứ phát từ mao quản phổi vào khoảng kẽ và trào vào phế nang.
+
+1.Phân loại CHF (của Hiệp hội tim mạch New York là hữu ích nhất).
+- Độ I bệnh nhân không hạn chế các hoạt động thể lực.
+- Độ II xuất hiện khi hoạt động thể lực bình thường dẫn đến mệt mỏi, khó thở hay những triệu chứng khác.
+- Độ III đặc trưng bởi một hạn chế rõ ràng trong các hoạt động thể lực.
+- Độ IV được xác định bởi mệt khi nghỉ hay với bất kỳ hoạt động thể lực nào.
+
+2. Sinh lý bệnh:
++ Bình thường: việc bảo đảm áp suất keo plasma (>25 mmHg) cao hơn áp lực mao mạch phổi (7-12 mmHg), bảo đảm mô liên hợp và hàng rào tế bào không thấm đối với protein huyết thanh, và bảo đảm một hệ bạch huyết thông thoáng là những cơ chế giữ cho khoảng kẽ và phế nang khô ráo.
++ Cơ chế CHF: Lúc thường, khi dịch lỏng chuyển vào khoảng kẽ, không tăng thể tích ở khoảng kẽ là do hệ thống bạch huyết tăng lưu lượng. Khi quá khả năng thoát của hệ thống bạch huyết, chất lỏng tích lũy lại trong khoảng kẽ vây quanh các tiểu phế quản và hệ mạch phổi, tạo ra CHF.
+
+II. Lâm sàng CHF
+1. TC Cơ năng:
++ Khó thở lúc nghỉ là triệu chứng nhạy cảm nhất, tuy thế tính đặc thù của khó thở là < 60%;
+- khó thở khi nằm và khó thở kịch phát về đêm (paroxysmal nocturnal dyspnea-PND); tuy nhiên, tính nhạy cảm của khó thở nằm và PND là chỉ là 20-30%.
+- Ho bọt hồng, nghĩ tới CHF. Phù.
++ Các triệu chứng không đặc hiệu, bao gồm: Lo lắng, Yếu mêt; đau bụng; thở khò khè; buồn nôn.
++ Tiền sử bệnh có thể gồm: Bệnh cơ tim; Bệnh van tim; Nghiện rượu; Tăng huyết áp: Đau thắt ngưc; Trước nhồi máu cơ tim; Bệnh tim Gia đình.
+
+2. Thực thể:
++ Tam chứng  như phù, tĩnh mạch cổ nổi và tim đập nhanh là dự đoán cao của CHF. Mạch so le (Xen kẽ mạnh và yếu biểu thị của suy chức năng thất trái); Tĩnh mạch cổ nổi (JVD) thường xuyên có mặt. Phù chi dưới cũng có thể gặp, đặc biệt trong bán cấp tiến triển. Nói chung tính đặc thù là 90%; tuy nhiên, có nghiên cứu báo cáo độ nhạy chỉ 10-30%.
++ Nhịp thở nhanh, sử dụng những cơ thở phụ; Thở khò khè hay ran có thể nghe như bệnh phổi.
++  Nghe tim có thể để lộ ra những bất thường ở van động mạch chủ hay hai lá, S3 hay S4. Tăng huyết áp.
++ Da có thể toát mồ hôi hay lạnh, xám, và xanh.
+
+3. Nguyên nhân:
+* Nhiều dạng bệnh tim gây ra CHF và phù phổi.
++ Đa số nguyên nhân gây suy tim là do bệnh động mạch vành, thứ phát do mất cơ tâm thất trái, thiếu máu cục bộ tiến triển, hay giảm độ chun giãn khi thất trương.
++ Những bệnh khác bao gồm tăng huyết áp, bệnh van tim, bệnh tim bẩm sinh, viêm cơ tim, và viêm màng trong tim ác tính.
++ CHF thường xuất hiện bởi thiếu máu cục bộ hay loạn nhịp tim, nhiễm trùng màng tim; tắc mạck phổi, stres ...
++ Thai sản và tăng năng tuyến giáp là vấn đề cũng phải chú ý vì cũng có thể gây ra CHF.
++ Bệnh tim kết hợp với bệnh hen hay bệnh phổi tắc ngẽn mãn (COPD) là những ca lâm sàng khó.
+
+IV. Xét nghiệm
+1. Beta-natriuretic peptide
++ Cho đến gần đây, phân biệt bệnh hen và bệnh phổi kháccòn khó khăn trong tình trạng cấp, đặc biệt ở người triệu chứng cơ năng và thực thể không rõ. Thường chữa theo kiểu "shotgun", tức là xử lý cả CHF lẫn hen, với cả hai thuốc là lợi tiểu lẫn chủ vận bêta.
++ Nghiên cứu gần đây thấy mức Beta-natriuretic peptide (BNP) và BNP precursor, Pro-BNP có thể giúp nhận biết CHF khi có khó thở cấp. nghiên cứu này thấy tính nhạy cảm là 90% với tính đặc hiệu là 76%. Mueller thấy giảm nằm viện 3 ngày khi BNP được dùng và giảm bớt những chi phí nằm viện 15%.
++ BNP có thể cho kết quả trong 15 phút; mức huyết thanh của BNP < 100 pg/ mL không chắc là CHF. Ngang mức 100-500 pg/ mL có thể là CHF. Tuy nhiên, những bệnh khác cũng làm tăng như tắc huyết phổi, tăng áp động mạch phổi; suy thận giai đoạn cuối, bệnh xơ gan, cũng gây ra tăng BNP cao mức trong phạm vi này. Mức BNP > 500 pg/ mL là phù hợp nhất với chẩn đoán CHF.
+
+2. Tăng Nitơ-huyết, hay ALT, AST, và bilirubin cao khêu gợi một bệnh gan xung huyết.
++ Các anzym tim và marker đánh dấu khác của Tim về thiếu máu cục bộ hay nhồi máu có thể hữu ích.
++ Khí máu động mạch (ABG) có thể lợi ích trong đánh giá giảm oxy-huyết, thông khi/tưới máu (V/Q) không thích ứng, tăng cacbon dioxit-huyết và nhiễm axit.
++ Nitơ-huyết tăng nhẹ, tốc độ lắng hồng cầu (ESR) giảm, và protein niệu được thêý trên bệnh mới, nhẹ hay vừa.
++ Tăng creatinin, tăng bilirubin-huyết và giảm natri-huyết thường thấy trên những ca ác tính.
+
+3. Chẩn đoán hình ảnh
+a, Chụp X quang Ngực
++ Mặc dù XN này ít thích hợp trong CHF cấp, chụp X quang ngực vẫn là công cụ hữu ích nhất, cần thực hiện trong mọi trường hợp. Một nghiên cứu gần đây chỉ ra rằng 1 trong 5 bệnh nhân nhập viện với CHF thiếu dấu hiệu của tắc nghẽn trên phim rơn ghen ngực.
++ Các bất thường về tim :
+ - To tim (cardiomégalie) với rốn phổi có bờ mờ (hiles à bords flous), phản ánh suy tâm thất trái, với index cardiothoracique > 0,50.
+ - Dấu chứng này không có trong 30% trường hợp phù phổi cấp.
++ Các bất thường phế mạc và phổi :
+ - Thường xảy ra hai bên, do tái phân bố bất bình thường lưu lượng máu phổi từ các thùy dưới lên đỉnh phổi.
+ - CHF sớm có thể biểu hiện trên mạch máu phổi bằng các bóng nhỏ, phản chiếu một áp lực đm phổi bít (PCWP) khoảng12-18 mmHg. Khi dịch kẽ tích lũy, CHF tăng hơn có thể biểu hiện bằng đường Kerley B (PCWP: 18-25 mmHg).
+ - Hình ảnh phù phổi cấp điển hình nhất là hình ảnh phù hình cánh bướm cổ điển (oedème en ailes de papillon), phản chiếu một PCWP lớn hơn 25 mmHg.
+ - Cũng có thể gặp tràn dịch màng phổi (épanchement pleural), tràn dịch màng phổi có thể hiện hữu hai bên hay một bên và thường là bên phải.
+
+b, Siêu âm tim khẩn cấp
++ Siêu âm tim khẩn cấp có thể giúp xác định những chuyển động bất thường của vách tim cũng như mức suy giảm chức năng của thất trái.
++ Siêu âm cũng hữu ích trong chẩn đoán các bệnh ép tim, co thắt màng ngoài tim và tắc huyết phổi.
++ Siêu âm cũng hữu ích trong việc xác định bệnh van tim, như hẹp hay chảy ngược van hai lá hay van động mạch chủ.
+
+c,Những XN khác:
++ Điện tâm đồ (ECG) là một công cụ không đặc hiệu nhưng có thể hữu ích trong việc chẩn đoán thiếu máu cục bộ tim đang xảy ra, nhồi máu cơ tim trước đó, Những loạn nhịp tim, tăng huyết áp kinh niên và những nguyên nhân khác của phì đại tâm thất trái.
++ Các thủ thuật xâm lấn không đóng vai trò quan trọng do mất nhiều thì giờ...Thông tim chỉ cần thiết cho một đánh giá đầy đủ và định giá của dự đoán
+V. Điều trị
+1. Săn sóc khi nhập viện
++ Thông báo trước cho nhân viên ED khi bệnh nhân cónhững dấu hiệu và triệu chứng của CHF và phù phổi.
++ Bắt đầu điều trị với ABCs. Thở oxi, thoạt tiên 100% mask không hít lai (nonrebreather facemask).
++ Theo dõi kiểm tra tim và định lượng oxi-huyết mạch liên tục.
++ Truy nhập tĩnh mạch, cũng như một lắp ECG, Nếu sẵn có.
++ Cho dùng nitroglyxerin dưới lưỡi hay spray và furosemide IV khi đau ngực cấp ở bệnh nhân không có huyết áp thấp quá mức.
+
+2. Xử trí ở phòng cấp cứu hồi sức
++ Bắt đầu điều trị ED bệnh nhân với những dấu hiệu và những triệu chứng của CHF và phù phổi với ABCs. Thở oxi, thoạt tiên 100% mask không hít lai . Theo dõi kiểm tra tim và định lượng oxi-huyết mạch liên tục.Truy nhập tĩnh mạch.
++ Liệu trình điều trị nói chung bắt đầu với những nitrat và thuốc lợi tiểu nếu huyết động ổn định. Nhiều cách điều trị khác có thể có vai trò nào đó trong xử trí trường hợp cấp
++ Điều trị nguyên nhân gây ra. Có thể đánh giá mứcBNP huyết thanh BNP được thì rất hữu ích trong khó thở cấp không điển hình, hay trong tương lai có thể hữu ích để đánh giá thành công trong chữa bệnh. Loại trừ những nhân tố đóng góp khi có thể.
++ Hạn chế dịch và natri.
++ Những cách điều trị khác, bao gồm nesiritide. Nesiritide có thể hữu ích thay vì nitroglyxerin trên những bệnh nhân với suy hô hấp vừa, đặc biệt nếu bệnh nhân sẽ không thích hợp với thông khí không xâm nhập hay với bệnh nhân không thể dùng nitroglyxerin bởi đặc ứng đã ghi nhận.
+
+VI. Tham khảo thuốc men
+* Mục tiêu dùng thuốc là nhằm đạt được một PCWP 15-18 mmHg và một chỉ số tim > 2.2 L/phút/ m2, trong khi bảo đảm huyết áp và tưới máu thích hợp tới những cơ quan quan trọng. Mục đích này sẽ được sửa đổi tùy từng bệnh nhân.
+* Thuốc lợi tiểu, nitrat, thuốc giảm đau, và những tác nhân co cơ được chỉ định cho điều trị CHF và phù phổi.
+
+1. Thuốc lợi tiểu - Thuốc hàng đầu, Đầu tiên là furosemide (40-100mg); Một cách dùng hợp lý cho furosemide có lẽ như sau:
+ 10-20 mg IV cho những bệnh nhân có triệu chứng CHF chưa sử dụng thuốc lợi tiểu
+ 40-80 mg IV cho những bệnh nhân đã sử dụng thuốc lợi tiểu
+ 80-120 mg IV cho những bệnh nhân có triệu chứng kháng đối với liều ban đầu sau 1 H
+ Những liều cao và nhanh hơn có thể thích hợp cho bệnh nhân ác liệt
+
+2. Những nitrat- Giảm nhu cầu oxi cơ tim bởi giảm tiền gánh và hậu gánh. Trong những bệnh nhân tăng huyết áp ác tính, nitroprusside gây giãn nở huyết mạch hơn nitroglyxerin. Tuy vậy, tính độc thiocyanate và cướp máu vành lliên quan đến nitroprusside, Nitroglyxerin IV còn là cách chữa bệnh lựa chọn để giảm afterload.
+Nitroglyxerin ( Nitroglyxerin Nitrostat)- SL và nitrospray đặc biệt hữu ích ở bệnh nhân có mặt với phù phổi cấp với một huyết áp tâm thu ít nhất 100 Hg mm.
+Nitrospray: spray đơn (0.4 mg) chuẩn liều 1/ 150 SL single; có thể lặp lại q3-5 min nếu huyết động cho phép tới liều tối đa 1.2mg
+Thuốc mỡ: áp dụng dán nitropaste 1-2 inch vào thành ngực
+Tiêm bắt đầu 20 mcg/ min IV và nhịp độ để tác dụng 5-10 mcg tăng dần q3-5 min
+
+3. Morphine - Morphine IV là tuyệt vời trong cấp cứu. Ngoài việc là một an thần (anxiolytic) lẫn giảm đau, hiệu ứng quan trọng nhất của nó là giãn tĩnh mạch (venodilation), và giảm bớt tiền gánh. Cũng giãn nở huyết mạch, giảm bớt sức kháng của mạch máu (SVR) và tăng hiệu suất của tim. Narcan cũng có thể đảo ngược những hiệu ứng của mócphin. Tuy nhiên, sử dụng mócphin trong phù phổi cấp có thể tăng số cần đặt ống để thở.
+Morphine sulfate 2-5mg IV và q10-15 min lặp lại trừ phi nhịp thở < 20/ min hay huyết áp tâm thu < 100 mmHg
+
+4. Block kênh Can xi, (CCB) như nifedipine và nondihydropyridines, tăng số người chết và tăng tái phát CHF định kỳ với trường hợp sử dụng kinh niên. Hiện thời còn tồn tại mâu thuẫn vừa có lợi vừa có hại khi sử dụng block kênh can xi trong trường hợp cấp; hiện nay giới hạn sử dụng trong tình trạng cấp ở những bệnh nhân với loạn chức năng tâm trương và suy tim, là một điều kiện không dễ dàng xác định trong hồi sức khẩn cấp.
+
+5. AEC - ức chế men biến đổi Angiotensin, như captopril SL hay enalapril IV, có thể đảo ngược nhanh chóng tình trạng bất ổn định huyết động. Captopril có thể đóng vai trò duy nhất trong điều trị bệnh nhân suy thận và CHF cấp cùng xảy ra trong khi đợi thẩm tách...
+
+6. Block Bêta, có lẽ bằng việc khôi phục hoạt tính recepter Bêta-1 hay qua ngăn ngừa hoạt động catecholamin, có thể bảo vệ tim mạch ở những bệnh nhân suy chức năng thất trái. Block Bêta, đặc biệt carvedilol, cho thấy cải thiện những triệu chứng ở những bệnh nhân suy tim vừa tới nặng. Vai trò của block bêta trong trường hợp cấp, hiện thời còn chưa rõ ràng;
+
+7. Khí dung chủ vận beta 2 - vì phân biệt CHF lẫn hen thường khó, xử lý kiểu shotgun thường được sử dụng, đặc biệt khi cả hai đều có thể gây ra co thắt phế quản. Khí dung những chủ vận beta 2 là có chọn lọc hơn, để giảm bớt tim đập nhanh, loạn nhịp, và công tim trong khi nhất thời cho tăng cường thuốc trợ tim. Terbutaline đã được chỉ định thành công trong trường hợp này,cũng như albuterol, isoetharine, và Bitolterol.
+
+8. Theophylline và aminophylin chỉ có vai trò giới hạn trong trường hợp cấp. Chúng là tác nhân tăng co cơ trung gian nhờ làm tăng catecholamin, và làm nở vành cũng như lợi tiểu nhẹ. Tuy vậy, chúng có thể làm tăng loạn nhịp (như Nhịp tim nhanh nhĩ nhiều ổ, Thiếu máu cục bộ) bởi làm tăng công của tim.
+
+9. Steroid, IV hay PO, cho thấy làm suy tim tăng vì giữ natri và tăng thể tích, giảm kali-huyết, và thỉnh thoảng tăng huyết áp. Khi hít những chất steroid, bởi ít tác dụng phụ, có thể là một tùy chọn hợp lý trong bệnh dai dẳng; tuy nhiên, do tác dụng chậm nên cần nghiên cứu thêm.
+
+10. Inotropic agents - Những tác nhân co cơ thiết yếu, bao gồm dopamin, dobutamine, Inamrinone ( trước đây là amrinone), milrinone, dopexamine, và Digoxin. Trong bệnh nhân giảm huyết áp cùng với CHF, Dopamin và dobutamine là thuốc thường được dùng. Inamrinone hay milrinone ngăn chặn phosphođiesteraza, dẫn đến tăng AMP vòng và thay đổi vận chuyển can xi ở trong tế bào. Nên tăng tính co cơ tim và giảm trương lực mạch máu làm giãn mạch.
+Dopexamine là một catecholamin tổng hợp mới với bêta-2 và những thuộc tính dopaminergic gây ra giãn mạch và hướng lực co cơ gia tăng với tim đập nhanh nữa. Cuối cùng dobutamine có lẽ là thuốc hiện thời lựa chọn.
+Digoxin không có vai trò trong xử trí CHF cấp vì hấp thụ chậm và đôi khi làm tăng trương lực giao cảm. Tuy nhiên, dù nhỏ, nó có lợi ích trong bệnh nhân có mặt cùng với rung tâm nhĩ và đáp lại tâm thất nhanh.âSử dụng digoxin chủ yếu với CHF kinh niên là tốt nhất. Những thuốc này làm tăng luồng máu cả vành lẫn thận.
+Dopamin 5 mcg/kg/min IV tăng mỗi 5 mcg/kg/min tăng dần tới 20 mcg/kg/min dose
+
+11. Human B-type natriuretic peptides - Những peptit tăng bài natri-niệu kiểu như Nesiritide có thể có hiệu quả trong việc giảm bớt áp lực mao quản phổi bít và cải thiện khó thở trong những bệnh nhân với suy tim sung huyết cấp mất bù Những Nesiritide như một nhân tố truyền tin thứ hai để làm giãn những tĩnh mạch và động mạch
+Nesiritide-2 mcg/ Kg bolus IV trong 60'; sau bởi 0.01 mcg/ Kg / phút truyền liên tục;Bolus thể tich (mL)= 0.33 X trọng lượng BN ( Kg); tốc độ truyền bolus ( mL/ H)= 0.1 x Wt bệnh nhân ( kg).

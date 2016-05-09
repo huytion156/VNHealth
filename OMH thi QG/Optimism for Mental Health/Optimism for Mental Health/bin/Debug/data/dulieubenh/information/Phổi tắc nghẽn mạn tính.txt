@@ -1,0 +1,36 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Phát hiện sớm khó, chỉ là kém thích nghi khi hoạt động nặng; HC muộn bao gồm thở khò khè, khó thở, ho kinh niên, tăng nước bọt, viêm phổi tái phát và viêm phế quản.
+     _Dấu hiệu:Thở khò khè, giảm sự chuyển độ̣ng không khí trong ngực, khí phế thũng, kéo dài thời gian thở ra, ngực hình trống đặc trưng.
+
+2. Cách chữa trị thông thường
+     _Điều dưỡng:
+        + Theo dõi sinh hiệu: mỗi 4 giờ. Gọi Bác sĩ nếu Mạch >130; Thở >30, <10; Thân nhiệt >38.5; Sat PO2<90%.
+        + Hoạt động: Theo mức độ thích nghi; ghế (bô đi cầ̀u tại giường).
+        + Chăm sóc: Oximeter mạch. Đo lưu lượng thở đỉnh bằng máy di động 2 lần mỗi ngày và ghi biểu đồ kèm với sinh hiệu. Không dùng an thần.
+        + Chế độ ăn: không thêm muối, không caffeine. Giảm dịch.
+        + Truyền dịch: dung dịch mặn ngọt đẳng trương (D51/2NS) với 20 mEq KCL/L theo tốc độ 125 ml/giờ.
+     _Trị liệu đặc hiệu:
+        + Thở O2 1-2 Lit/phút bởi catheter hoặc 24-35% bởi Venturi mask, giữ SpO2 90-91%.
+        + Beta Agonists.
+        + Nebulized Albuterol (Ventolin) 0.2-0.5 mL (2.5mg) trong 3 mL NACl) ,9% q2-8h khi cần (5mg/mL sln).
+        +Albuterol (Ventolin) MDI 2-4 puffs mỗi 4-6 giờ khi cần.
+        +Albuterol/Ipratropium (Combivent) 2-4 puffs qid.
+        +Corticosteroids và -Anticholinergics
+        +Methylprednisolone (Solu-Medrol) 60-125mg IV mỗi 6 giờ hoặc 30-60mg.
+        + Prednisone 20-60mg PO qd.
+        + Triamcinolone (Azmacort) MDI 2-4 nhát phụt (puffs) hay
+        + Beclomethasone (Beclovent) MDI 2-6 puffs qid, sau khi dùng thuốc giãn p.quản khoảng 5 phút, cho súc miệng với nước rồi dùng.
+        + Flunisolide (AeroBid) MDI 2-4 puffs 2 lần mỗi ngày.
+        + Ipratropium (Atrovent) MDI 2 puffs ba lần mỗi ngày-qid hoặc
+        + Fluticasone (Flovent) 2-4 puffs 2 lần mỗi ngày (44 hoặc 110 mcg/puff); dùng trong 1-2 tuần để có hiệu quả đầy đủ.
+        +Seretide (Fluticasone + Salmeterol) 2 liều hít (acuhaler-bột hít: 25/250mcg) hoặc 1 liều hít (50/250mcg) x ngày 2 lần.
+
+3. Cách phòng tránh
+     - Cần bỏ thuốc lá, có thể dùng các biện pháp hỗ trợ bỏ thuốc.
+     - Tăng cường chế độ dinh dưỡng: dùng các Vitamin A,C, E,(chống oxy hoá ).
+     - Cố gắng giảm ô nhiễm không khí ở nơi làm việc và nơi sống.
+
+4. Thông tin thêm
+     - Liệu pháp a1 antitrypsin: khi bệnh nhân thiếu a1 antitrypsin, thuốc kháng Protease tổng hợp ( Prolastin ) tác dụng ức chế Elastase bạch cầu.
+     - Điều trị phẫu thuật: ghép phổi, phẫu thuật cắt bỏ bóng khí thũng, phẫu thuật giảm thể tích phổi. Là những biện pháp được một số nơi áp dụng.
+

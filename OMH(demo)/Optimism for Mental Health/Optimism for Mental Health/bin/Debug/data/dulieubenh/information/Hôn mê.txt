@@ -1,0 +1,218 @@
+﻿Định nghĩa:
+* Hôn mê là tình trạng không đáp ứng chủ động với kích thích từ bên ngoài...
+* Là tình trạng suy giảm về tri giác, cảm giác, vận động và rối loạn các chức năng thực vật ...
+* Hôn mê có thể nhanh chóng dẫn đến tổn thương não không hồi phục, nên việc hồi sức và điều trị cần phải làm đồng thời với việc tiến hành đánh giá, xác định.
+* Từ điển Larousse đã định nghĩa về hôn mê rất ngắn gọn: "Mất ý thức từng phần hoặc toàn phần".
+
+I.Sinh lý bệnh
+* Là kết quả của của bệnh tác động đến
+(1) Cả hai bán cầu não
+(2) Hoặc thân não.
++ Tổn thương não một bên (ví dụ: đột quị, u, tụ máu dưới màng cứng) hiếm khi gây suy giảm tri giác nếu khối tổn thương không quá lớn đủ ép bên bán cầu đối diện (đẩy đường giữa và thoát vị dưới liềm tiểu não) hoặc ép thân não (thoát vị xuyên qua lều).
++ Khối tổn thương ở hố sau thường gây hôn mê bởi ép thân não.
++Các rối loạn chuyển hóa gây suy giảm tri giác bởi tác dụng lan tràn cả trên hai bán cầu.
+
+II. Nguyên nhân
+* 60% do rối loạn chuyển hóa & bệnh toàn thể:
+ Thuốc & độc tố; Viêm não; Viêm màng não; thiếu máu não; bệnh ly tăng áp nội sọ; chảy máu dưới nhện; DIC; Thiếu B1; Bệnh lý não gan; Ure huyết cao; Rối loạn điện giải (giảm Na máu, tăng Na máu, tăng Ca máu); giảm oxy máu; tăng CO2 máu; tăng - giảm thân nhiệt; động kinh; tăng áp nội sọ; chấn thương đầu kín.
+
+* 30% do tổn thương trên lều (supratentorial):
+chảy máu trong não; tụ máu dưới hoặc quanh màng cứng; ngâlp máu tuyến yên; nhồi máu não; tắc xoang tĩnh mạch; u, abce; não úng thủy.
+
+* 10% do tổn thương dưới lều (infratentorial):
+chảy máu hoặc nhồi máu thân não; chay hoặc nhồi máu tieu nao; u; abces; tu máu duoi hoặc quanh mang cung; phĩnh mạch nên nao.
+
+* 1% tình trạng tâm lý bat chước hôn mê:
+Tình trạng trì trệ, tình trạng căng trương lực; giả vờ; hysteria.
+
+III. Phân độ Hôn mê
+1.Tiền hôn mê:
++ u ám (Obnubilation),
++ ngủ gà (Somnolence),
++ đờ đẫn (Stupor)
+
+2.Hôn mê (mất ý thức + mất vận động tự chủ)
+a, Hôn mê độ I (coma sopor)
+* hôn mê nhẹ, do ức chế vỏ não lan rộng
++ ý thức mất - gọi không đáp ứng, kích thích đau mạnh có thể nhăn mặt, rên
++ Phản xạ - đồng tử với ánh sáng, Phản xạ giác mạc, Phản xạ nuốt còn nhưng chậm
++ TKTV - chưa có rối loạn hô hấp, tim mạch
+
+b, Hôn mê độ II (coma confirme)
+* Hôn mê vừa, thực sự, do ức chế lần tới gian não, não giữa
++ ý thức - gọi hỏi không trả lời, kích thích đau mạnh không đáp ứng.
++ Phản xạ - đồng tử, giác mạc kém hoặc mất, Phản xạ nuốt chỉ còn thì miệng
++ TKTV - rối loạn nhịp thở (kussmalt, Cheyne-Stokes), loạn nhịp tim, huyết áp giao động, loạn thân nhiệt, đại tiểu tiện không tự chủ, có thể thấy co cứng mất não.
+
+c, Hôn mê độ III (coma carus)
+* Hôn mê sâu, do ức chế lan cầu não, một phần hành não
++ ý thức - không đáp ứng với mọi kích thích.
++ Phản xạ - mất hết tất cả phản xạ nuốt, đồng tử giãn.
++ TKTV - suy tim, tụt huyết áp, thở yếu, loạn nhiệt, ỉa đái dầm dề, duỗi mất não?
+
+d, Hôn mê độ IV (coma depasse)
+* Hôn mê quá mức, do ức chế hành não
++ Thở máy do không còn tự thở được, đồng tử giãn, lạnh, tim yếu, huyết áp bằng không?
+
+BẢNG ĐIỂM GLASGOW
+Mắt:
++ Mở tự nhiên (4)
++ Mở khi ra lệnh (3) mở khi gây đau (2)
++ Không mở khi kích thích(1)
+
+Nói:
++ Trả lời dụng (5)
++ Trả lời hạn chế (4)
++ Trả lời lộn xộn (3)
++ Không rõ (2)
++ Không nói (1)
+
+Vận động:
++ Làm đúng theo lệnh (6)
++ Đáp ứng khi đau (5)
++ Cử động không tự chủ (4)
++ Co cứng mất vỏ não (3)
++ Duỗi cứng mất não (2)
++ Không đáp ứng gì cả (1)
+
+Đánh giá:
+(+) = 3 điểm: Hôn mê sâu
+(+) = 4-5 điểm: t.trạng xấu
+(+) =  hay <7: Hôn mê
+  6-10 điểm: tiến triển xấu
+     10 điểm: rối loạn ý thức...
+
+IV.Khám trọng tâm về TK
+ A.ý thức
++ Mức ý thức có thể đánh giá và theo dõi bàng thang điểm hôn mê Glasgow (GCS).
++ Thông qua cho điểm đáp ứng tốt nhất của: Mắt (1-4) + Lời nói (1-5) + Vận động (1-6)
+
+ B.Nhịp và kiểu thở
+1.Thở kiểu Cheyne-Stokes:
++ thường thấy trong hôn mê do chuyển hóa, tổn thương trên lều, bệnh phổi mãn, suy tim sung huyết.
+
+2.Tăng thông khí:
++ thường là dấu hiệu của acid chuyển hóa, giảm oxy máu, viêm phổi, nhưng cũng có thể do tổn thương phần trên của thân não.
+
+3.Ngừng thở kéo dài sau khi hít vào, tho gap, thở mất điều hoà (thở không đều chẳng theo kiểu nào) thường là dấu hiệu của tổn thương thân não. Các kiểu thở này gợi ý sắp xảy ra ngưng hô hấp.
+
+C.Khám đồng tử mắt
+1.Đồng tử một bên giãn và cố định ở trên bệnh nhân thay đổi tri giác: đòi hỏi phải ngăn chặn tình trạng thoát vị và điều trị ngay.
+2.Thuốc làm giãn đồng tử (atropine...) có thể làm đồng tử giãn không đối xứng ..
+3.Đồng tử giãn nhưng còn phản ứng: dường như là do quá liều thuốc ngủ, bệnh não chuyển hóa, tổn thương dưới đồi...
+4.Đồng tử cố định chính giữa: ngụ ý tổn thương não giữa và trong thoát vị trung tâm.
+5.Đồng tử giãn và cố định cả hai bên: quan sát thấy trong bệnh lý não thiếu oxy nặng hoặc độc do thuốc như scopolamine, atropine, glutethimide, hoặc methyl alcohol.
+
+D.Chuyển động nhãn cầu
++ Thử nghiệm măt-đầu (oculocephalic, doll's eyes, mắt búp bê) có thể làm nếu không tổn thương cột sống cổ bằng cách xoay nhanh đầu sang bên hoặc theo chiều dọc. Nếu thân não còn nguyên vẹn, mất vận động liên hợp ngược chiều với đầu.
++ Khi bệnh nhân tổn thương cột sống cổ thì có thể dùng thử nghiệm mắt-tiền đình (dùng nước lạnh), nâng đầu bệnh nhân cao 30 độ bơm 10-50 ml nước đá lạnh vào lỗ tai qua sonde, mắt sẽ chuyển động liên hợp về phia tai bị kích thích. Nhìn chằm chằm theo chiều thẳng đứng có thể thấy nếu bơm nước lạnh cả hai tai.
+
+1.Mất toàn bộ vận động mắt:
+  chỉ định một tổn thương cầu não cả hai bên hoặc gây ra bởi thuốc (vd an thần, phenytoin, tricyclic antidepressants).
+2.Nhìn chằm chằm không liên hợp gợi ý một tổn thương thân não.
+3.Nhìn chằm chằm theo chiều ngang (hai mắt liên hợp cùng một phiá) chỉ định tổn thương cầu não hoặc thùy trán cùng bên .
+4.Mắt lệch về hướng bên nửa thân liệt gợi ý một tổn thương cầu não đối bên.
+5.Mắt lệch xa nửa thân liệt gợi ý tổn thương thùy trán đối ngược với bên liệt.
+6.Trong tổn thương thùy trán mắt chuyển động liên hợp về phía đồng bên kích thích và ngược lại khi tổn thương một bên cầu não mắt chuyển động ngược phía nhưng không ngang qua đường giữa.
+7.Mất khả năng nhìn chằm chằm chiều dọc xảy ra trong tổn thương não giữa, thoát vị trung tâm và não úng thủy cấp.
+
+ E.Phản ứng vận động
+Phản ứng vận động, cả chủ động và đáp lại với kích thích đau cần được quan sát cả tính đối xứng cũng như mục đích chủ định.
+1.Chỉ vận động chi một bên - chỉ ra phia liệt nửa người là phía chi không hoạt động.
+2.Điệu bộ rập khuôn, phần nào vận động với mục đích phòng ngừa là không có giá trị định khu và có thể thấy trong hôn mê do chuyển hóa.
+3.Xoay ngoài phần cuối cẳng chân có thể do liet nửa thân cùng phía hoặc do trật khớp hoặc gãy chậu hông.
+V.Nguyên tắc Chẩn đoán và Điều tri
+Cần lưu ý:
+* Hôn mê luôn có nguy cơ:
+   + Ngạt thở cấp
+   + Suy tim mạch
+   + Thiếu máu não
+* Phải nghĩ trước tiên đến:
+   + Do chấn thương
+   + Mạch não
+   + Chuyển hóa
+   + Nhiễm độc
+* Làm ngay:
+   + Đặt canun Mayo
+   + Truyền dịch (không muối).
+Chẩn đoán và điều trị bệnh nhân hôn mê cần làm một cách hệ thống, khẩn trương theo các chỉ dẫn gợi ý và cần có chẩn đoán xác định nếu việc xử trí phẫu thuật thần kinh là cần thiết:
+
+A.Đường thở, co, nhiệt độ
+Đường thở cần bảo đảm chắc chắn, trở giúp thông khí và tuần hoàn, duy trì nhiệt độ có thể ổn định. Cần phải giữ cố định có nếu có khả năng bị chấn thương cho tới khi chụp phim cột sống cổ loại trừ được có thương tổn hoặc di lệch.
+
+B.Duy trì đường truyền TM;
+Đường truyền tĩnh mạch phải được thiết lập. Xét nghiệm máu cần phải làm ban đầu gồm glucose, điện giải, urea, CBC, calcium, khí máu động mạch, kiểm nghiệm thuốc/rượu/độc chất, nuôi cấy vi khuẩn, men gan, thời gian prothrombin (pt) và thời gian thromboplastin cục bộ (ptT). Nhóm và làm máu chéo nếu lường trước tổn thương cần mổ.
+
+C.Vitamine B1:
+Vitamin B1 cho 100mg IV, sau đó cho dextrose 1 g/kg truyền nhanh đường tĩnh mạch.
+
+D.Naloxone
+Naloxone, 0.01mg/kg IV tiêm nhanh (tối đa 2mg), và flumazenil 0.2mg tiêm nhanh IV lập lại mỗi 1 phút tới tổng liều 1mg.
+
+E.Đánh giá ban đầu
+1.Tiền sử của bệnh nhân sẽ được tham khảo qua các mỗi liên hệ, bạn bè, người lái xe cấp cứu, cảnh sát hoặc bất cứ ai hiện diện gần nạn nhân khi bị chấn thương, động kinh, dùng thuốc, rượu, tiểu-đường hoặc biết bệnh hệ thống khác.
+2.Khám toàn thể có thể phát hiện ra một bệnh hệ thống
+phối hợp với hôn mê (vd xơ gan, đường nối động mạch để lọc máu, ban bản đồ đặc hiệu của nhiễm khuẩn huyết màng não cầu). Hoặc các dấu hiệu của chấn thương đầu (vd vết rách, bầm máu...).
+3. Khám thần kinh cần tập trung xác định mức của ý thức, định khu tổn thương, có khả năng xảy ra thoát vị không. Khám lập lại khi cần để phát hiện và can thiệp nếu lâm sàng xấu di.
+
+F.Thoát vị não
+Xác định có thoát vị cần xử trí ngay lập tức. điều trị gồm làm giảm tạm thời áp lực nội sọ cho tới khi can thiep phẫu thuật nếu có chỉ định. Nếu thoát vị đang tiến triển, cần làm các buoc sau.
+1.Tăng thông khí với mục tiêu PCO2 hạ còn khoảng 25-30 mmHg sẽ làm giảm áp lực nội sọ, đỉnh cao tác dụng thường xảy ra trong khoảng 2-30 phút. giảm PCO2 thấp dưới 25 mmHg là không nên bởi có thể làm giảm lưu lượng máu não quá đáng.
+2.Mannitol (100 g trong 500 ml Daxtro 5%) sẽ truyền nhanh kiểu bolus theo liều 1-2 g/kg trong vòng 10-20', sau đó duy trị liều 50-300mg/kg/IV mỗi 6h. Liệu trình có tác dụng ngay trong vòng ít phút, với dỉnh cao tác dụng trong khoảng 90', và giảm xuống trong khoảng ít giờ.
+3.Glucocorticoid làm giảm phù quanh u và ổ abces; dexamethasone 10mg cho tiêm tĩnh mạch nhanh, sau đó cứ 4mg IV mỗi 6h.
+4.Chụp CT đầu cần làm ngay khi tình trạng bệnh tạm ổn, nếu xác định phẫu thuật là cần thiết. Tổn thương không mổ được càng yêu cầu sự săm sóc cảm thông.
+
+G.Nếu thoát vị không xảy ra
+* Nếu không thoát vị, khám cẩn thận đối với các dấu hiệu thần kinh khu trú và chụp CT scan là cần thiết.
+1.Phẫu thuật các thương tổn cần tham khảo ý kiến của các nhà phẫu thuật thần kinh.
+2.Cac tổn thương không mô được cung can s? sốc thong cam.
+3.Nếu CT scan và các xét nghiệm không đưa ra được chẩn đoán có thể xem xét thủ thuật chọc ống sống để chẩn đoán.
+
+H.Chọc ống sống
+Chọc ống sống không được tiến hành nếu có khối tổn thương chiếm chỗ hoặc đã lệch đường giữa hiện diện trên CT scan. Nếu nghi ngờ viêm màng não, kháng sinh được cho ngay không chờ chọc tủy. Dịch não tủy được gửi làm các xét nghiệm đếm tế bào, protein, glucose, nhuộm Gram's..., và nuôi cấy nấm-vi khuẩn.
+1. Nhiễm trùng sẽ được điều trị với kháng sinh thích hợp ngay lập tức.
+2. chảy máu dưới nhện cần tham khảo ý kiến chuyên gia phẫu thuật thần kinh.
+3. EEG có thể giúp ích nếu dịch não tủy và các xét nghiệm tìm không ra chẩn đoán.
+
+I.Điện não đồ - EEG
+EEG là bất thường ở hầu hết các trường hợp suy giảm tri giac những cũng có thể chỉ điểm một chẩn đoán không ngờ tới nào đó. Một vài trường hợp là bệnh lý não gan, viêm não herpes, do barbiturate hoặc độc tố thuốc mê, động kinh (không có cơn co giật) có thể chẩn đoán bởi EEG. Sóng EEG mà bình thường là gợi ý hôn mê do tâm lý.
+
+J.Bệnh lý đông máu
+Bệnh lý đông máu cần sữa chữa ngay lập tức với huyết tương tươi đông lạnh, truyền tiểu cầu... xuất huyết có thể tiếp tục cho tới khi bệnh lý đông máu được kìm chế và phẫu thuật thần kinh được tiến hành chỉ khi đông máu đã trở về bình thường.
+
+K.Khi không chẩn đoán ra
+Khi kham xét lượng định ban đầu không chẩn đoán ra, hầu hết dường như nguyên nhân hôn mê là do chuyển hóa - độc tố hoặc đột quị thân não. Bệnh nhân cần phải theo dõi sát trong bệnh viện về tình trạng thần kinh và hô hấp trong khi tiếp tuc thực hiện thêm nữa về chẩn đoán gồm có nghiên cứu chức năng giáp trạng, thượng thận và tuyến yên.
+
+VI.Điều dưỡng, chăm sóc người bệnh hôn mê
+A.Mục đích:
+Bảo đảm thông khí, tuần hoàn
+Chống nhiễm khuẩn (đặc biệt với hô hấp, tiết niệu và da), loét mục, teo cơ tắc mạch
+Bảo đảm dinh dưỡng - chế độ ăn đủ calo, phù hợp người bệnh
+
+B.Cách làm
+1.Tư thế người bệnh:
+Thay đổi tư thế 15'-30'/1 lần nếu suy kiệt, gầy yếu; 1-2 giờ /1 lần nếu nằm trên đệm nước chống loét; dùng nhiều gối kê (đầu, 2 vai, gối dài cho nằm nghiêng, gối cứng cho 2 bàn chân thẳng góc với cẳng chân)
+Đầu cao 30 độ cho người bệnh TBMN, người có nguy cơ ứ đọng đờm dãi.
+
+2.Bảo đảm thông khí:
+Neu có dấu hiệu tụt lưỡi (khó thở vào, ngáy to khi nằm ngửa...) đặt ngay canun guedel rồi báo bác si.
+Nếu ứ đờm dãi nhiều, mất phản xạ nuốt-ho phải báo BS ngay để kịp đặt NKQ + chăm sóc ống NKQ, mở KQ đúng qui định.
+
+3.Duy trì tuần hoàn:
+Thường xuyên theo dõi mạch, huyết áp, SpO2 để kịp báo BS khi có dấu hiệu bất thường
+Người hôn mê có thể tăng HA do tắc đờm - cần hút đờm ngay khi có tăng HA
+
+4.Phòng chống nhiễm khuẩn:
+Hút đờm nhẹ nhàng tránh gây thương tích cho khí phế quản, bảo đảm kỹ thuật vô khuẩn khi chăm sóc ống NKQ, ống mở KQ.
+Bảo đảm vô khuẩn với ống thông bàng quang hoặc bao cao su, tuí dụng nước tiểu phải kín
+Chăm sóc da: phát hiện sần loét, dùng bột talc xoa bóp thường xuyên vùng tỳ đè
+Thường xuyên nhỏ mắt chloramphenicol và băng dán mi nếu không chớp được
+
+5.Chống teo cơ tắc mạch:
+Thường xuyên xoa bóp, vận động các chi cho người bệnh dù họ không liệt.
+Dùng heparin hay warfarin theo chỉ định của BS
+
+6.Dinh dưỡng, theo dõi, vệ sinh:
+Cho ăn đủ calo 25-30 Kcalo/kg/24 giờ. Ăn nhạt nếu tăng HA, bảo đảm đủ nước sao cho tiểu đạt 30-50 ml/giờ.
+Theo dõi theo bảng điểm Glasgow; hàng ngày vệ sinh thân thể cho người bệnh và thụt tháo nếu 3 ngày người bệnh không đại tiện.
+giải thích tình hình diễn biến bệnh với người nhà theo ý kiến bác sĩ, không nói khác đi.

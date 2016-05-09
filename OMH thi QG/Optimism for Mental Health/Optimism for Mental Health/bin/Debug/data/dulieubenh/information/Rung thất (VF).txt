@@ -1,0 +1,111 @@
+﻿1.Tổng quan
+ Định nghĩa
++ Rung thất là trạng thái mất mạch, hoạt động điện không đều, lộn xộn và sự co bóp thất giảm lập tức dẫn đến giảm bất thường cung lượng tim,  giảm tưới máu mà cơ tim & não là mẫn cảm nhất.
++ VF là nguyên nhân chính của chết đột ngột (SCD). 
+
+
+2.Chẩn đoán triệu chứng
+Bệnh sử:
+Thường xảy ra bất ngờ, có thể phát hiện trước khi thấy một bệnh tim nặng. 
+Triệu chứng cơ năng
+- Đau ngực và triệu chứng tương tự đau thắt ngực
+- Khó thở
+- Tim đập nhanh
+- Ngất
+- Ngay trước ngưng tim, có thể thấy trước đó có tăng nhịp tim, có PVC hay VT đi trước. 
+Triệu chứng thực thể:
+ - Không thơ, không mạch
+ - Bất tỉnh
+ - QRS rộng & lộn xộn 
+
+3.Xử trí ở Khoa HSCC: 
+a, Đấm trước ngực
+Ít thích hợp cho VF bởi không hiệu quả & có thể gây hại
+Đấm ngực chỉ làm khi có bằng chứng rõ ràng quan sát thấy ngưng tim nơi không có máy phá rung.
+
+b, Khử rung
++ Khử rung điện ngoài lồng ngực là hữu dụng nhất.
++ Shock làm tim trở thành đồng nhất để có thể kích thích khử cực lại sinh co bóp tạo CO có hiệu quả.
++ Hiệu quả khử rung tuy thuộc nhiều vào 2 yếu tố:
+ (1) thời gian xảy ra giữa VF và khử rung, và
+ (2) tình trạng chuyển hóa của cơ tim.
++ Hiệu quả khử rung giảm 5-10% tỷ lệ với mỗi phút xảy ra của VF.
++ Các yếu tố liên quan hiệu quả khử rung gồm:
+- Thời gian trước khử rung
+- Độ rộng của tấm cực
+- Khoảng cực điện
+- Cơ tim
+- Hiệu quả dẫn điện
+- Lực tiếp xúc
+
+Liệu trình khử rung
+* Báo + khởi động kiip CPR
+* làm CPR: hồi sinh tim phổi, cho O2 ngay
+* Kiểm tra xác định VF...
+* Khử rung lần đầu: 200-360 J người lớn; 2-3 J/kg trẻ em
+* Tiếp tục CPR ngay mà không cần kiểm tra mạch cho tới khi xong 5 chu ky CPR:
+ - một chu kỳ CPR = 30 ép & 2 lần thông khí.
+ - 5 ck CPR khoảng 2' (nhịp ép:100 lần ép/p).
+* Chú ý trong khi CPR.
+ - phải bóp liên tục
+ - tìm cách chọc IV
+ - đặt NKQ; đặt được thì thông khí 8-10 lần/p và ép tim 100 l/p không nghỉ khi bóp bóng thông khí.
+* K/t nhịp tim sau 2 phút CPR.
+* Khử rung lập lại lần 1 nếu vấn còn VF hay VT mạch yếu, cường độ với người lớn tương tự, với trẻ em tăng 4j/kg   
+* tiếp tục CPR khoảng 2'. 
+* Lặp lại liên tục chu kỳ sau:
+ - kiểm tra mạch
+ - khử rung
+ - CPR trong 2'
+ (có khi phải CPR > 8h) 
+
+c, Thuốc co mạch
+ - cho trong khi CPR, sau hay trước shock điện theo đường IV hay IO (intraosseous-tg xương)
+ - adrenalin 1mg mỗi 3-5'
+ - cân nhắc cho 40 UI vasopressin thay liều adrenalin đầu hay thứ 2.
+ - cho đường IV hay IO.
+
+d, Thuốc chống loạn nhịp
+ - cho trước hay sau shock điện.
+ - Amiodarone 300mg IV /IO, có thể thêm 150mg.
+ - thay amiodaron = Lidocaine 1-1.5mg/kg liều đầu, rồi thêm 0.5mg/kg tới tối đa 3mg/kg.
+
+e, Thuốc khác  
+ - Nghi xoắn đỉnh (TdP) cho 1-2 g magnesium IV/IO 
+ - Bicarbonat 1mEq/kg IV/IO khi biết chắc do tăng K hay quá liều IMAO. 
+ - Lidocaine, epinephrine có thể cho qua ống NKQ nếu IV/IO không dược, với liều gấp 2, 5 lần liều IV. 
+
+f, Sữa chữa sai sót:
+- giảm dung lượng máu
+- giảm oxy máu
+- do acid máu
+- tăng giảm K
+- rối loạn chuyển hóa
+- giảm đường máu
+- giảm thân nhiệt
+- có độc tố
+- chẹn ép tim (siêu âm)
+- áp lực khí ở màng phổi
+- cục đông đ.m vành, phổi
+- chấn thương  
+
+g, Trạng thái VF tái phát
+- xuất hiện lại sau đáp ứng phác đồ khử rung chuẩn.
+- sau liều Amiodarone bolus xem xét cho Amiodarone 1mg/min IV khoảng 6 h, rồi 0.5mg/min trong 18 h.
+- nếu thiếu máu là nguyên nhân VF tái phát, xem xét dùng thông, tạo mạch cấp cứu hay đặt intra-aortic balloon pump. 
+
+h, Xử trí sau hồi sinh
+- Dùng tiếp các thuốc chống loạn nhịp có hiệu quả
+- Truyền duy trì Lidocaine 1-4mg/min, bretylium 1-2mg/min, Amiodarone 0.5 mg/min.
+- Điều chỉnh tình trạng chưa ổn định huyết động, dùng co mạch theo chỉ định.
+- Kiểm soát các biến chứng (vd, viêm phổi hit, tổn thương do làm CPR).
+- Xác minh cần thiết để can thiệp cấp cứu như thuyên tắc, chống độc hay tẩy uế.
+
+4.Xét nghiệm: cần làm ...
+- ECG để giúp xác định thiếu máu cơ tim hay rối loạn do dẫn truyền
+- Điện giải máu, bao gồm calcium và magnesium
+- Enzymes tim để xác định tổn thương cơ tim
+- CBC để phát hiện thiếu máu phối hợp
+- ABGs để đánh giá mức độ của acidosis, giảm O2 máu
+- Tìm độc tố theo chỉ định.
+- Chẩn đoán hinh anh: XQ ngực để xác định viêm phổi hít; phù phổi; và tổn thương thứ phát do CPR.

@@ -1,0 +1,115 @@
+﻿I.Đại cương
+      +Aspirin (acetylsalicylic acid) - là những sản phẩm có chứa salicylates nhiều nhất thường dùng.
+      +Nguyên nhân ngộ độc:
+            Tình cờ uống; Cố gắng tự tử
+            Liều không phù hợp trẻ em và người cao tuổi người
+      +Sinh lý bệnh:
+            Rối loạn axit-base, bất thường điện giải, hệ thần kinh trung ương ...
+            Việc xuất hiện hàng loạt các hiệu ứng độc hại khác nhau
+            Tùy thuộc vào độ tuổi của bệnh nhân và việc xác định uống là cấp tính hoặc mãn tính.
+            -Hiệu ứng trên chuyển hóa
+                  Salicylates trực tiếp kích thích các trung tâm hô hấp trong medulla, gây tăng thông khí và, sau đó kiềm hô hấp.
+                  Salicylates cũng gây ra không giao phối của oxidative phosphorylation, dẫn đến giảm sản xuất adenosine triphosphate, tăng sự tiêu thụ oxy, tăng sản xuất lượng khí carbon dioxide, và làm tăng nhiệt độ. Xáo trộn trong chu kỳ Krebs và chuyển hóa carbohydrate dẫn đến tích lũy của axit hữu cơ, bao gồm cả pyruvate, lactate, và acetoacetate, gây toan chuyển hóa.
+            -Hiệu ứng trên dịch-điện giải
+                  Tăng chuyển hóa, sốt, thở nhanh, ói mửa dẫn đến mất mất nước.
+                  Bởi vì nước mất đáng kể, hyponatremia có thể không có mặt, tuy nhiên, hypokalemia là nổi bật.
+            -Hiệu ứng trên hệ thần kinh trung ương
+                  CNS nhiều rắc rối từ nhẹ đến coma.
+            -Hiệu ứng trên dạ dày ruột
+                  Có thể gây ra buồn nôn, nôn mửa, đau bụng.
+                  Kích thích của medullary chemoreceptors gây nôn.
+                  Chảy máu đường tiêu hóa có thể xảy ra.
+            -Hiệu ứng trên hô hấp
+                  Phù phổi không do tim là nguyên nhân phổ biến nhất của các tử vong và có thể liên quan đến một gia tăng tính thấm của mạch phổi do salicylates.
+                  ARDS là nổi bật trong mãn tính hơn nhiều so với cấp tính.
+            -Hiệu ứng trên huyết hoc
+                  Salicylates ngăn cản vitamin K-phụ thuộc vào tổng hợp các yếu tố II, VII, VIII, và X, dẫn đến kéo dài thời gian prothrombin.
+                  Salicylates kéo dài thời gian chảy máu do ức chế prostaglandin-bắt đầu chuỗi cần thiết để tập hợp cầu.
+            -Hiệu ứng trên Gan
+                  Liều-hepatotoxi tùy thuộc có thể xảy ra với ngộ độc salicylate.
+                  Một tỷ lệ phần trăm nhỏ của bệnh nhân có thể phát triển bệnh viêm gan, nhưng hầu hết transaminases cao vô triệu chứng.
+            -Hiệu ứng trên Thận
+                  Suy thận cấp tính hiếm khi đã được thông báo.
+
+      +Tóm lại-Bệnh sinh của ngộ độc salicylates là
+            Kích thích trung tâm hô hấp ở hành não làm tăng thông khí phế nang.
+            Tăng thông khí dẫn tới kiềm hô hấp.
+            Toan chuyển hóa với mất bicarbonate qua thận
+            Nhiễm toan nặng thêm do ức chế chu trình Krebs và tăng lượng pyruvate và axít lactic.
+            Thay đổi thể dịch, nôn và tăng tiết dẫn tới hạ kali máu.
+            Trẻ em dưới 2 tuổi: rối loạn về chuyển hóa (toan chuyển hóa) nặng nề hơn rối loạn trên trung tâm hô hấp (kiềm hô hấp do kích thích trung tâm hô hấp đơn thuần)
+
+II.Lâm sàng-CLS
+      +Triệu chứng - từ không có triệu chứng đặc hiệu, đến
+            Thở nhanh sâu mức nhẹ-trung bình, có khi có ngủ lịm.
+            Tăng thông khí nặng, rối loạn về thần kinh, ngủ lịm.
+            Tăng thông khí nặng, hôn mê, co giật.
+
+      +Cấp tính
+            Buồn nôn, ói mửa, thổ huyết
+            Toát mồ hôi và sốt
+            Epigastric đau
+            Tiếng ù tai
+            Ù tai và giảm thính lực.
+            Ban đầu nhiễm kiềm sau đó nhiễm toan.
+            Nôn, tăng thân nhiệt.
+            Biểu hiện ở TKTW do toan máu.
+            Phù não/phù phổi.
+
+      +Độc mãn tính được liên kết với các yếu tố sau đây:
+            Thay đổi trong tình trạng tâm thần ở người cao tuổi bệnh nhân
+            CNS triệu chứng nổi bật, trong đó có nhầm lẫn, mất phương hướng, hoang tưởng, thờ ơ, seizures, và coma
+            Việc điều trị lâu dài của trẻ em không thích hợp với dosing của salicylates
+
+      +Các dấu hiệu quan trọng
+            Sốt; Mạch nhanh; Thở nhanh.Co thắt đường hô hấp.
+            Loạn nhịp; Giảm huyết áp và Shock.
+            Đau thượng vị, Nôn và nôn ra máu.
+            Nhầm lẫn, sự mất phương hướng, hoang tưởng; Thờ ơ, Seizures, Coma.
+
+      Cận lâm sàng
+      +Điện giải, sinh hóa
+            -Khí máu động mạch thường xuyên trong thời gian điều trị, để đánh giá đáp ứng để điều trị, với mục tiêu của việc duy trì một mức độ pH 7,45-7,55. Ngoài ra, để kiểm tra đánh giá kiềm hô hấp - acid chuyển hóa
+            -BUN và creatinine để đánh giá mức Mất nước; Suy thận (hiếm)
+            -Các xét nghiệm đông - chảy máu
+            -Xét nghiệm chức năng gan
+            -Serum salicylate cấp; Trong mãn tính, serum salicylate kém tương quan với các độc tính.
+            -pH nước tiểu: Theo dõi nước tiểu mỗi 2 giờ trong thời gian điều trị, với một mục tiêu duy trì nước tiểu Alkaline với một cấp độ pH lớn hơn 7,5.
+
+      +Hình ảnh học:
+            -XQ Ngực có thể biểu lộ viêm phổi hoặc phù phổi không do tim.
+            -CT scan đầu là cần thiết trong tình trạng tâm thần, nếu không phải là rõ nguyên nhân.
+            -ECG có thể phản ánh hypokalemia (U sóng, flattened T sóng, QT kéo dài) hoặc dysrhythmias (sinus tachycardia, Premature ventricular contractions, ventricular tachycardia, ventricular fibrillation).
+
+III.Điều trị
+      +Uống than hoạt (1 mg / kg) cho tất cả các bệnh nhân bị nghi ngờ (ví dụ, bệnh nhân nghi uống > 150 mg / kg).
+            Than hoạt (Insta-Char, Liqui-Char, Super-Char, Actidose-Aqua) - than hấp thụ 100-1000 mg thuốc/ mỗi g than. Không tan trong nước. Để tối đa hiệu lực, cho dùng trong vòng 30 phút sau khi uống chất độc. 0.5-1 g/kg PO
+            Sử dụng thêm các liều (0,5 mg / kg q4h) nếu chứng cứ xác định có tiếp tục hấp thu được.
+
+      +Rửa ruột toàn bộ với polyethylene glycol có thể hữu ích trong việc giảm hấp thu.
+            Polyethylene glycol (Colovage, Colyte, GoLytely) - tẩy mạnh và hiệu quả;
+            240 mL (8 oz) q10min cho đến một tổng số 4 L được tiêu thụ .
+            Sorbitol -- Thuốc xổ Tăng thẩm thấu có tác dụng động tẩy rộng trên GI. 30-150 mL PO of a 70% solution
+
+      +Bù nước và điện giải phù hợp
+            Tăng đào thải liên tục với truyền D5W 5% với 100-150 mEq của natri bicarbonate .
+            Bù kali bị mất. K cấp đầy đủ để duy trì kiềm nước tiểu.
+            Duy trì lưu lượng nước tiểu: 2-3 ml/kg/hr
+            Kiềm hóa nước tiểu: pH 7.5-8.
+            Khí máu động mạch: 1-2mEq NaCO3 / kg; Theo dõi sát pH
+
+      +Lọc máu thẩm tách cho các ca nặng.
+            Hemodialysis sử dụng trong các trường hợp nghiêm trọng để nâng cao khả năng loại bỏ độc tính của salicylates
+
+            Chỉ định cho hemodialysis bao gồm các triệu chứng trầm trọng, chẳng hạn như bệnh não encephalopathy, coma, seizures, phù não cerebral edema, ARDS, và suy thận.
+
+IV.Tiên lượng:
+      +Độc tính có thể được dự đoán tùy liều uống.
+            - Ít hơn 150 mg / kg, không triệu chứng- độc tính nhẹ
+            - 150-300 mg / kg, độc tính vừa
+            - 300-500 mg / kg, độc tính nghiêm trọng
+            - Lớn hơn 500 mg / kg, có khả năng tử vong
+
+      +Tử vong / Morbidity:
+            - Cấp tính - Tỷ lệ tử vong < 2%
+            - Mãn tính - tỷ lệ tử vong > 25%

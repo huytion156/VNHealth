@@ -1,0 +1,213 @@
+﻿1. Đại cương.
+1.1. Định nghĩa:
+Viêm khớp dạng thấp (rheumatoid arthritis) là một bệnh tự miễn dịch, viêm mạn tính tổ chức liên kết màng hoạt dịch, tổn thương chủ yếu ở khớp ngoại vi, bệnh tiến triển từ từ, dẫn đến teo cơ biến dạng dính và cứng khớp.
+
+1.2. Lịch sử phát triển và tên gọi của viêm khớp dạng thấp:
+Viêm khớp dạng thấp đã biết từ hồi Hypocrate, nhưng mãi đến những năm gần đây mới thống nhất được tên gọi, tiêu chuẩn chẩn đoán và cơ chế bệnh sinh. Bệnh có nhiều tên gọi: goute suy nhược tiên phát (Beauvais A.L:1800), bệnh khớp Charcot (Chrcot:1853), thấp khớp teo đét (Sydenham:1883), viêm khớp dạng thấp (Garrod:1890), viêm đa khớp mạn tính tiến triển, viêm đa khớp nhiễm khuẩn không đặc hiệu. Ngày nay, đa số các nước trên thế giới đều gọi là viêm khớp dạng thấp. ở Việt Nam, hội nghị toàn quốc lần thứ 2 về các bệnh thấp khớp học tại Đà Lạt tháng 3/1996 đã thống nhất tên gọi viêm khớp dạng thấp trong toàn quốc và được sử dụng chính thức trong giảng dạy tại các trường đại học y khoa.
+Viêm khớp dạng thấp gặp tất cả các nước trên thế giới. Bệnh chiếm từ 0,5 - 3% dân số, ở Việt Nam tỷ lệ chung trong nhân dân là 0,5%, chiếm 20% số bệnh nhân mắc bệnh khớp điều trị ở bệnh viện.
+Bệnh gặp chủ yếu ở phụ nữ chiếm 70-80% và 70% số bệnh nhân mắc bệnh ở tuổi trung niên. Một số trường hợp mang tính chất gia đình.
+1.3. Nguyên nhân:
+Cho đến nay nguyên nhân của bệnh viêm khớp dạng thấp còn chưa được biết rõ.
+Người ta coi viêm khớp dạng thấp là một bệnh tự miễn dịch với sự tham gia của nhiều yếu tố:
++ Yếu tố tác nhân gây bệnh: có thể là một loại vi rút epstein-barr khu trú ở tế bào lympho, chúng có khả năng làm rối loạn quá trình tổng hợp globulin miễn dịch.
++ Yếu tố cơ địa: bệnh có liên quan đến giới tính và tuổi.
++ Yếu tố di truyền: đã từ lâu yếu tố di truyền trong bệnh viêm khớp dạng thấp được chú ý vì tỉ lệ mắc bệnh cao ở những người thận trong gia đình bệnh nhân; ở những cặp sinh đôi cùng trứng và mối liên quan giữa kháng nguyên hoà hợp tổ chức HLA-DR4 và bệnh viêm khớp dạng thấp. ở bệnh nhân viêm khớp dạng thấp thấy 60-70% bệnh nhân mang kháng nguyên này.
+1.4. Cơ chế bệnh sinh:
+Người ta cho rằng: viêm khớp dạng thấp là một quá trình bệnh lý qua trung gian miễn dịch mặc dù nguyên nhân ban đầu chưa được xác định, một số cho rằng có vai trò của vi rút epstein-barr. Một quan điểm cho rằng quá trình viêm ở tổ chức được khởi động bởi tế bào TCD+4 xâm nhập màng hoạt dịch. Các lymphocyte T sản xuất một số cytokines như IFN- α và GM-CSF hoạt hoá đại thực bào làm tăng sự biểu lộ các phân tử HLA, đồng thời kích thích tế bào lymphocyte B tăng sinh và biệt hoá thành các tế bào sản xuất kháng thể.
+Sự sản xuất các globulin miễn dịch và yếu tố dạng thấp dẫn đến hình thành các phức hợp miễn dịch.
+Các phức hợp miễn dịch sản xuất tại chỗ gây ra hàng loạt phản ứng tiếp theo như:
+- Hoạt hoá hệ thống đông máu, hoạt hoá bổ thể, tăng tiết lymphokine, các chất được tiết bởi đại thực bào như IL8, TNF-α và leucotriene B4 kích thích tế bào nội mô mao mạch gây kết dính một số tế bào đang lưu hành trong hệ thống tuần hoàn.
+- Mặt khác chúng kích thích di chuyển các bạch cầu đa nhân trung tính vào màng hoạt dịch. Các TNF-α còn kích thích sản xuất prostaglandin E2 gây giãn mạch. Kết quả gây viêm màng hoạt dịch và xuất tiết dịch vào trong ổ khớp.
+- Các đại thực bào, các bạch cầu đa nhân trung tính ở trong khớp thực bào các phức hợp miễn dịch bị hủy hoại tiết ra các chất trung gian hoá học gây viêm như: men tiêu protein, histamin, serotonin, kinin, gây viêm màng hoạt dịch khớp, làm cho quá trình viêm không đặc hiệu diễn ra liên tục từ khớp này qua khớp khác, làm cho viêm mạn tính kéo dài.
+- Mặt khác dịch khớp viêm chứa một số enzym có khả năng phá hủy sụn khớp: collagenase, phospholipase A2 và các gốc tự do superoxide.
+- Ngoài ra các prostaglandin E2 được sản xuất bởi nguyên bào xơ và đại thực bào cũng tham gia làm mất chất khoáng của xương. Các cytokines IL-I và TNF-α kích thích tế bào pannus sản xuất collagenasem, các protease gây phá huỷ sụn tại chỗ.
+
+2. Lâm sàng.
+2.1. Giai đoạn khởi phát:
+Bệnh thường khởi phát sau một yếu tố thuận lợi như: nhiễm khuẩn cấp tính, bán cấp tính, chấn thương, mổ xẻ, cảm lạnh, căng thẳng thể lực hay thần kinh bệnh có thể bắt đầu một cách từ từ tăng dần, có 70% bắt đầu bằng viêm một khớp, 15% bắt đầu đột ngột, 30% bắt đầu viêm khớp nhỏ: cổ tay, bàn ngón, khớp đốt gần.
+Bệnh nhân có thể sốt nhẹ, gầy sút, chán ăn, mệt mỏi.
+Các khớp bị viêm: sưng, hơi nóng, đau; đau tăng về đêm về sáng, có cứng khớp buổi sáng, có thể có tràn dịch ổ khớp.
+Thời kỳ này kéo dài vài tuần, có khi vài tháng. Tình trạng viêm khớp tăng dần và chuyển sang khớp khác.
+2.2. Giai đoạn toàn phát:
++ Bệnh nhân mệt mỏi, gầy sút, chán ăn, teo cơ nhanh, sốt nhẹ, một số bị sốt cao, gai rét, các khớp sưng đau hạn chế vận động. Hay gặp ở các khớp cổ tay, khớp bàn ngón tay, đốt gần, khớp gối, cổ chân, khớp khuỷu, các khớp vai, háng, cột sống ít bị, nếu bị thì thường ở giai đoạn muộn.
+- Khớp cổ tay: sưng, đau, hạn chế vận động gấp, duỗi, thường sưng nề về phía mu tay, biến dạng nổi gồ lên trông như cái “thìa úp” hoặc như “lưng con lạc đà” lâu dần dẫn đến cứng khớp cổ tay ở tư thế thẳng.
+- Khớp ngón tay: viêm các khớp đốt gần, khớp bàn ngón, thường gặp ở ngón 2, 3, 4, ít gặp ngón 1 và 5, sưng đau hạn chế vận động. Bệnh nhân không nắm chặt được các ngón tay vào lòng bàn tay, teo cơ liên cốt, cơ gấp duỗi ngón, dần dần dính và biến dạng tạo thành ngón tay hình thoi, các ngón lệch trục về phía xương trụ tạo nên bàn tay gió thổi. Ngón tay biến dạng, dính giống “cổ thiên nga”, ngón cái giống hình chữ Z.
+- Khớp gối (thường bị sớm): sưng to, đau, hạn chế gấp duỗi, phù nề tổ chức cạnh khớp, có thể có tràn dịch ổ khớp (làm dấu hiệu bập bềnh xương bánh chè dương tính). Đôi khi có thoát vị bao hoạt dịch về phía khoeo tạo nên túi phình Baker, teo cơ đùi, cơ cẳng chân. Khớp gối dính ở tư thế nửa co.
+- Khớp khuỷu: sưng, đau, hạn chế vận động gấp duỗi.
+- Khớp cổ chân: sưng, đau, phù nề cả bàn chân, đôi khi có tràn dịch, có thể dính ở tư thế duỗi “bàn chân ngựa”.
+- Các khớp ngón chân: viêm khớp bàn-ngón và khớp ngón chân cái tạo tư thế ngón cái quặp vào ngón 2, các ngón khác sưng đau, đau gót chân, bàn chân mất lõm. Lâu dần các ngón chân như thu ngắn lại tạo ra hình ảnh ngón chân rụt.
++ Biểu hiện ngoài da:
+- Hạt thấp dưới da: là triệu chứng có giá trị trong chẩn đoán, gặp ở 10-20% trường hợp viêm khớp dạng thấp. Đó là những hạt hay cục nổi gồ lên mặt da, chắc, không di động vì dính vào nền xương, không đau, kích thước từ 5-10 mm. Hay gặp hạt thấp ở đầu trên xương trụ, gần khớp khuỷu; đầu trên xương chày, gần khớp gối; số lượng từ một đến hai hạt.
+
+- Da teo hơi tím, móng khô dễ gẫy, gan bàn chân-bàn tay giãn mạch.
+- Viêm gân Achille.
++ Biểu hiện nội tạng: chiếm tỉ lệ thấp, thường không nặng nề.
+- Lách to kèm theo giảm bạch cầu đa nhân trung tính gặp trong hội chứng felty (tỷ lệ 5%).
+- Tim: có thể viêm màng ngoài tim, rối loạn dẫn truyền, tổn thương màng trong tim, van tim rất ít.
+- Viêm mống mắt: tỉ lệ 1-2%, viêm kết mạc kèm theo teo tuyến lệ và tuyến nước bọt (hội chứng Sjogren).
+- Tràn dịch màng phổi, xơ phổi gặp 1-2%.
+- Thiếu máu nhược sắc.
+
+3. Xét nghiệm và X quang.
+3.1. Xét nghiệm:
++ Xét nghiệm chung:
+- Công thức máu: hồng cầu giảm nhẹ, nhược sắc, bạch cầu có thể tăng hoặc giảm.
+- Tốc độ lắng máu tăng, sợi huyết tăng.
+- Điện di protein: albumin giảm, globulin tăng.
++ Xét nghiệm miễn dịch:
+- Tìm yếu tố dạng thấp trong huyết thanh bệnh nhân bằng phản ứng waaler-rose và γlatex:
+Trong huyết thanh bệnh nhân viêm khớp dạng thấp có một yếu tố gọi là yếu tố thấp là một kháng thể kháng γglobulin bản chất là một IgM (một số IgA hoặc IgG) sinh ra từ tương bào ở các hạch bạch huyết, ở tổ chức màng hoạt dịch. Bình thường yếu tố thấp ở dạng hoà tan, khi gắn với hồng cầu cừu hoặc hạt nhựa latex thì sẽ xảy ra hiện tượng ngưng kết. Dựa vào tính chất này người ta làm phản ứng để phát hiện yếu tố thấp.
+. Phản ứng waaler-rose: lấy hồng cầu cừu ủ với γglobulin sau đó pha loãng huyết thanh bệnh nhân nhỏ vào hồng cầu cừu sẽ xảy ra ngưng kết. Phản ứng (+) có ý nghĩa chẩn đoán khi hiệu giá ngưng kết 1/16.
+. Phản ứng γlatex: làm phản ứng như waaler-rose chỉ thay hồng cầu bằng hạt nhựa latex; phản ứng dương tính có ý nghĩa chẩn đoán khi hiệu giá ngưng kết là 1/32. Yếu tố dạng thấp (+) ở 70% số bệnh nhân bị bệnh viêm khớp dạng thấp, với thời gian bị bệnh trên 6 tháng. Ngoài ra phản ứng còn dương tính ở người già, trong bệnh luput ban đỏ, viêm đa cơ, xơ gan, lao phổi, phong, sốt rét, giang mai.
+- Hình ảnh cánh hồng dạng thấp: lấy hồng cầu gắn với γglobulin, ủ với lympho bào của bệnh nhân. Nếu (+) sẽ thấy hình ảnh cánh hồng mà giữa là lympho bào, bao quanh là những hồng cầu. Phản ứng (+) ở 10% số bệnh nhân viêm khớp dạng thấp xét nghiệm này cũng không đặc hiệu.
+- Tìm kháng thể kháng nhân bằng phương pháp miễn dịch huỳnh quang thường (+) trong thể diễn biến nặng, có tổn thương nội tạng.
+- Tìm tế bào Hargrave thường gặp (+) 5-10%.
+Các xét nghiệm này ít có giá trị chẩn đoán bệnh viêm khớp dạng thấp.
++ Xét nghiệm dịch khớp: có ý nghĩa trong chẩn đoán bệnh, thường chọc hút dịch ở khớp gối.
+- Trong viêm khớp dạng thấp thì số lượng dịch từ 10-50ml loãng, màu vàng nhạt, độ nhớt giảm, lượng muxin dịch khớp giảm, tế bào nhiều nhất là đa nhân trung tính, ít lympho bào. Có khoảng 10% tế bào hình chùm nho (ragocyte), đó là những bạch cầu đa nhân trung tính mà trong bào tương chứa nhiều hạt nhỏ là các phức hợp miễn dịch kháng nguyên- kháng thể.
+- Lượng bổ thể trong dịch khớp giảm so với huyết thanh.
+- Phản ứng phát hiện yếu tố thấp (waaler-rose và γlatex) trong dịch khớp (+) sớm hơn và hiệu giá cao hơn trong máu.
++ Sinh thiết màng hoạt dịch: có 5 tổn thương cơ bản:
+- Tăng sinh các nhung mao của màng hoạt dịch.
+- Tăng sinh lớp tế bào phủ hình lông thành nhiều tế bào.
+- Có các đám hoại tử dạng tơ thuyết.
+- Tổ chức đệm tăng sinh mạch máu.
+- Tế bào viêm xâm nhập tổ chức đệm.
+Có từ 3 tổn thương trở lên thì có ý nghĩa chẩn đoán.
++ Sinh thiết hạt thấp dưới da: có hình ảnh tổn thương điển hình.
+ở giữa là hoại tử dạng tơ huyết, xung quanh bao bọc bởi tế bào viêm (lympho, plasmocyt).
+3.2. X quang:
++ Những biến đổi chung:
+- Giai đoạn đầu: tình trạng mất vôi ở đầu xương và hình ảnh cản quang tổ chức cạnh khớp.
+- Giai đoạn sau: hình ảnh khuyết xương dưới sụn, tổn thương sụn khớp dẫn đến hẹp khe khớp.
+- Giai đoạn cuối phá hủy sụn khớp, hẹp và dính khớp.
++ Hình ảnh X quang đặc hiệu:
+Chụp bàn tay hai bên, tổn thương xuất hiện sớm và có tính chất đặc hiệu.
+Theo Steinbroker chia làm 4 mức độ:
+- Mức độ I: thưa xương, chưa có biến đổi cấu trúc cuả khớp.
+- Mức độ II: biến đổi một phần sụn khớp và đầu xương. Hẹp khe khớp vừa, có một ổ khuyết xương.
+- Mức độ III: biến đổi rõ đầu xương, sụn khớp. Khuyết xương, hẹp khe khớp nhiều, bán trật khớp, lệch trục.
+- Mức độ IV: khuyết xương, hẹp khe khớp, dính khớp.
+
+
+4. Thể lâm sàng.
+4.1. Thể bệnh theo triệu chứng:
+Thể viêm nhiều khớp, thể một khớp.
+4.2. Thể có tổn thương hệ thống:
+- Hệ thống lưới nội mô.
+- Tim, phổi, thận, mắt, mạch máu, thần kinh.
+- Lách, hạch to, bạch cầu giảm trong hội chứng Felty.
+4.3. Dựa theo sự tiến triển của bệnh:
+- Thể lành tính tiến triển chậm.
+- Thể nặng: tiến triển nhanh, liên tục có sốt cao, có tổn thương nội tạng.
+- Thể ác tính: sốt cao, teo cơ biến dạng dính và cứng khớp nhanh.
+4.4. Dựa vào huyết thanh chia thành 2 thể:
+- Thể huyết thanh (+): diễn biến nặng, tiên lượng xấu.
+- Thể huyết thanh (-): tiên lượng tốt hơn.
+4.5. Tiến triển:
+Trong quá trình diễn biến của bệnh theo Steinbroker chia thành 4 giai đoạn về chức năng và tiến triển của bệnh: về chức năng đánh giá khả năng vận động của bệnh nhân, về tiến triển nói lên tổn thương X quang.
++ Giai đoạn I: tổn thương khu trú màng hoạt dịch, sưng đau phần mềm cạnh khớp, X quang không thay đổi; bệnh nhân vận động bình thường.
++ Giai đoạn II: tổn thương đầu xương sụn khớp, X quang có hình ảnh khuyết xương và hẹp khe khớp; khả năng lao động hạn chế. Còn cầm nắm được, đi lại bằng nạng.
++ Giai đoạn III: hẹp khe khớp và dính khớp một phần, lao động chỉ phục vụ được mình, không đi lại được.
++ Giai đoạn IV: dính khớp và biến dạng, không tự phục vụ được mình, tàn phế hoàn toàn.
+5. Chẩn đoán.
+5.1. Chẩn đoán xác định:
+Trong bệnh viêm khớp dạng thấp không có triệu chứng đặc trưng nào về lâm sàng và xét nghiệm quyết định chẩn đoán. Việc chẩn đoán xác định phải dựa vào tiêu chuẩn chẩn đoán.
++ Tiêu chuẩn chẩn đoán của hội thấp Mỹ (ARA) gồm 11 tiêu chuẩn (1966):
+- Cứng khớp buổi sáng.
+- Đau khi thăm khám hoặc vận động từ một khớp trở lên.
+- Sưng tối thiểu ở một khớp.
+- Sưng thêm một khớp mới trong thời gian dưới 3 tháng.
+- Sưng khớp đối xứng.
+- Có hạt thấp dưới da.
+- Tổn thương X quang có hình ảnh khuyết xương và hẹp khe khớp.
+- Yếu tố thấp dương tính (làm 2 lần)
+- Muxin trong dịch khớp giảm.
+- Sinh thiết màng hoạt dịch có 3 tổn thương trở lên.
+- Sinh thiết hạt thấp dưới da có tổn thương điển hình.
+
+Chẩn đoán chắc chắn khi có 7 tiêu chuẩn trở lên, thời gian bị bệnh trên 6 tuần.
+Chẩn đoán xác định khi có 5 tiêu chuẩn, thời gian bị bệnh trên 6 tuần.
+Chẩn đoán nghi ngờ khi có 4 tiêu chuẩn, thời gian bị bệnh 4 tuần.
+
++ Tiêu chuẩn ARA của hội thấp Mỹ (1987) hiện đang được áp dụng- gồm 7 tiêu chuẩn:
+- Cứng khớp buổi sáng kéo dài trên một giờ.
+- Sưng đau kéo dài 3 khớp trong 14 khớp: (2 khớp ngón gần, 2 khớp bàn-ngón, 2 khớp cổ tay, 2 khớp khuỷu, 2 khớp gối, 2 khớp cổ chân, 2 khớp bàn-ngón chân).
+- Sưng đau một trong 3 vị trí: khớp ngón gần, khớp bàn ngón tay, khớp cổ tay.
+- Sưng khớp đối xứng.
+- Có hạt thấp dưới da.
+- Yếu tố thấp dương tính.
+- Tổn thương X quang điển hình.
+
+Chẩn đoán xác định khi có 4 tiêu chuẩn trở lên, thời gian bị bệnh trên 6 tuần.
+
++ ở nước ta (do thiếu phương tiện chẩn đoán cần thiết như: chụp X quang, sinh thiết, chọc dịch ổ khớp, sinh thiết màng hoạt dịch) dựa vào các yếu tố sau:
+- Bệnh nhân nữ tuổi trung niên.
+- Viêm các khớp nhỏ (cổ tay, khớp bàn ngón, đốt ngón gần, khớp gối, cổ chân, khuỷu).
+- Viêm khớp đối xứng.
+- Cứng khớp buổi sáng.
+- Diễn biến kéo dài trên 2 tháng.
+
+5.2. Chẩn đoán phân biệt:
++ Trong giai đoạn sớm: cần phân biệt với thấp khớp cấp, viêm khớp phản ứng, hội chứng Reiter.
++ Giai đoạn muộn:
+Bệnh khớp trong luput ban đỏ, bệnh gút; hội chứng Pierre-Marie, thấp khớp vẩy nến, thoái hoá khớp hoạt hoá, viêm cột sống dính khớp. Biểu hiện khớp của bệnh tiêu hoá, thần kinh, bệnh máu, ung thư.
+
+6. Điều trị viêm khớp dạng thấp.
+6.1. Nguyên tắc chung:
++ Viêm khớp dạng thấp là một bệnh mạn tính kéo dài, việc điều trị phải kiên trì liên tục, có khi cả cuộc đời người bệnh.
++ Sử dụng nhiều biện pháp: nội khoa, ngoại khoa, vật lý trị liệu, chỉnh hình, lao động liệu pháp, đông y châm cứu.
++Tùy theo từng giai đoạn bệnh mà điều trị: nội trú, ngoại trú, điều dưỡng, đông-tây y kết hợp.
++ Phải có thầy thuốc theo dõi, phải được gia đình và xã hội quan tâm.
+6.2. Điều trị nội khoa:
++ Giai đoạn I (nhẹ): dùng một trong những thuốc chống viêm không corticoid sau: indomethacine, voltarel, profenid, piroxicam, meloxicam, ibuprofen, diclofenac, naprosen, nifluril, feldel.
+- Voltarel 25mg x 3 viên/ngày chia đều sáng-trưa-chiều, uống sau khi ăn no (loại 75mg uống 1 viên/ngày).
+Thuốc có tác dụng chống viêm, giảm đau, ức chế kết tập tiểu cầu và hạ sốt nhẹ. Thuốc không có tác dụng điều trị nguyên nhân.
+Tác dụng phụ: viêm xuất huyết tiêu hoá, chảy máu chân răng, bùng nổ cơn hen, dị ứng. Thời gian điều trị từ 15-20 ngày.
+- Delagyl (nivaquine, cloroquine): là thuốc chống sốt rét, có tác dụng điều trị trong viêm khớp dạng thấp. ức chế giải phóng men tiêu thể của các tế bào viêm; uống sau ăn viên 0,2g x 1-2 viên/ngày- uống trong nhiều tháng.
+Tác dụng phụ: rối loạn tiêu hoá, đục giác mạc, xạm da, tổn thương võng mạc (cần kiểm tra mắt định kỳ).
+- Có thể tiêm corticoid tại khớp viêm bằng hydrocortison acetat hoặc depo medrol (phải thực hiện ở buồng vô trùng của bệnh viện) 1ml hydrocortison acetat tương đương 25 mg prednisolon. 1ml depo medrol tương đương 40 mg methylprednisolon.
+Tùy theo khớp: khớp lớn mỗi lần từ 1- 1,5ml; khớp nhỏ 1/2 - 1/3 ml. Mỗi khớp không tiêm quá 3 lần, mỗi lần chỉ tiêm 1-2 khớp.
+Hydrocortison cách 2 ngày tiêm một lần, còn depo medrol 5-7 ngày tiêm một lần. Những khớp có tràn dịch bơm rửa ổ khớp bằng nước muối 0,9% trước khi tiêm (thực hiện ở tuyến bệnh viện).
+Sau khi giảm đau tăng cường vận động, lý liệu, tập luyện.
++ Giai đoạn II (thể trung bình):
+Dùng một trong những thuốc chống viêm không steroid sau: voltaren, profenid, piroxicam, (feldene); tenoxiam (tilcotil), meloxicam (mobic), rofecoxib (vioxx).
+- Delagyl 0,2 x 1-2v/ngày, dùng nhiều tháng.
+- Có thể tiêm ổ khớp bằng hydrocortison hoặc depo-medrol.
+- Hoặc dùng steroid liều trung bình. Prednisolon 5mg x 6v/ngày, sau đó giảm liều rồi cắt, không dùng kéo dài. Chỉ định điều trị khi dùng các thuốc chống viêm khác không hiệu quả.
+- Có thể điều trị kết hợp với methotrexat: viên 2,5mg, 5mg mỗi tuần dùng một viên 7,5mg hoặc 3 viên 7,5mg và 10mg 2,5mg mỗi lần 1 viên, cách nhau 12 giờ.
++ Giai đoạn III, IV (thể nặng, tiến triển nhiều):
+- Prednisolon 1-1,5mg/kg/24h dùng cho những bệnh nhân tiến triển nhanh và nặng có sốt cao, thiếu máu hoặc có tổn thương nội tạng dùng liều cao giảm dần sau đó cắt- tiếp tục điều trị như giai đoạn I, II ở trên. Đồng thời sử dụng một trong những biện pháp sau:
+- Methotrexat viên 2,5 mg và 7,5 mg là một chất tương kỵ với axit folic. Thuốc có tác dụng điều trị hiệu quả bệnh viêm khớp dạng thấp, viêm khớp vẩy nến, hiện tượng giảm bạch cầu trong hội chứng Felty. Mỗi tuần lễ uống một lần 7,5 mg. Thuốc thường có hiệu lực sau một tháng điều trị. Nếu không thấy tác dụng có thể nâng liều đến 20 mg mỗi tuần. Thuốc có tác dụng chống viêm và ức chế miễn dịch- thuốc được dùng trong nhiều tháng.
+Tác dụng phụ bao gồm: rối loạn tiêu hoá, nổi ban, rụng tóc, viêm phổi, tổn thương gan, ngộ độc tủy xương. Nên hàng tháng xét nghiệm HC, BC, tiểu cầu, xét nghiệm chức năng gan.
+- Salazopyrin viên 500 mg x 2 viên/ngày, sau 10 ngày uống 4 viên/ngày. Dùng kéo dài nhiều tháng.
+- D. penicilamin viên 300 mg (Trolovol kuprep) có tác dụng phá hủy phức hợp miễn dịch, yếu tố dạng thấp. Thuốc điều trị thể nặng, điều trị các thuốc khác không hiệu quả của bệnh viêm khớp dạng thấp.
+Cách dùng: mỗi ngày uống 1 viên, kéo dài 1-2 tháng; nếu không tác dụng thì uống 2 viên/ngày, tiếp tục 2-3 tháng nếu không kết quả thì cắt thuốc.
+Tác dụng phụ: viêm da, dị ứng, rối loạn tiêu hoá, viêm thận, giảm bạch cầu, tiểu cầu, hồng cầu.
+Khi điều trị phải theo dõi, nếu có tai biến phải ngừng thuốc.
+- Các thuốc ức chế miễn dịch:
+Làm giảm phản ứng miễn dịch, kìm hãm các tế bào miễn dịch dùng để điều trị thể nặng, các thuốc thông thường không cắt được sự tiến triển của bệnh.
+Khi dùng phải theo dõi chặt chẽ bệnh nhân, xét nghiệm máu hàng tháng. Dùng liều thấp và tăng dần.
+. Cyclophosphamid (endoxan) viên 50 mg. Liều bắt đầu 1,5-2 mg/kg/24h, uống thuốc nhiều nước để tránh viêm bàng quang, xuất huyết.
+. Azathioprin viên 50 mg. Liều bắt đầu 1,5 mg/kg/24h nếu dung nạp tốt, sau 2-3 tháng thì
+nâng liều 2 mg/kg/ngày, khi bệnh thuyên giảm sẽ giảm dần liều.
+6.3. Điều trị ngoại khoa:
++ Điều trị ngoại khoa được chỉ định trong trường hợp viêm một vài khớp kéo dài mà điều trị nội khoa không hiệu quả, khớp viêm và tràn dịch; thường mổ cắt bỏ màng hoạt dịch.
++ Điều trị ngoại khoa để phục hồi chức năng một số khớp bị biến dạng nặng, phá hủy nhiều bằng phương pháp: thay khớp nhân tạo, cắt đầu xương, chỉnh hình khớp, hoặc làm dính một số khớp tránh biến chứng nguy hiểm.
+6.4. Điều trị bằng lý liệu và phục hồi chức năng:
+Trong viêm khớp dạng thấp điều trị bằng lý liệu và phục hồi chức năng là một biện pháp quan trọng và bắt buộc nhằm tránh được thấp nhất các di chứng, trả lại khả năng lao động nghề nghiệp cho bệnh nhân.
+Sau khi dùng thuốc điều trị bệnh nhân giảm đau thì phải kết hợp vật lý trị liệu và vận động liệu pháp. Bao gồm:
++ Tắm nước nóng, nước ấm, bó parafin, dùng đèn hồng ngoại, tử ngoại chiếu vào khớp viêm, tắm bùn..., biện pháp này có tác dụng giãn mạch, tăng cường lưu thông máu, tăng tiết mồ hôi, giãn cơ và giảm đau tại chỗ.
++ Dùng dòng điện một chiều, xoay chiều, điện cao tần, siêu âm với cường độ và bước sóng khác nhau là biện pháp dùng năng lượng để điều trị.
++ Xoa bóp và bấm huyệt: thầy thuốc làm và hướng dẫn bệnh nhân thực hiện, xoa bóp có tác dụng làm lưu thông máu, giảm đau, tăng tính đàn hồi của da, giảm xơ hoá da và dây chằng.
++ Vận động liệu pháp và phục hồi chức năng: hướng dẫn bệnh nhân vận động thích hợp:
+Tập vận động bằng tay không, tập với các dụng cụ phục hồi chức năng: tập bằng gậy, tập tạ, tập trèo thang, co, kéo, bàn đạp.
++ Nước suối khoáng, nước biển và bùn trị liệu:
+- Nước khoáng: khi nguồn nước có độ hoà tan từ một gam chất rắn trở lên trong một lít nước, hoặc nước nóng > 30OC ổn định.
+6.5. Điều trị bệnh viêm khớp dạng thấp theo y học cổ truyền dân tộc:
++ Y học cổ truyền gọi chung các bệnh khớp là chứng tý bao gồm: thấp tý, hàn tý, nhiệt tý, phong tý.
+Kê đơn theo từng loại bệnh kết hợp với châm cứu và bấm huyệt.
++ Các cây thuốc và vị thuốc có tác dụng chống viêm, giảm đau trong các bệnh khớp được ứng dụng như:
+- Thiên niên kiện, thổ phục linh, ngũ gia bì, ý dĩ, độc hoạt, phòng phong, hy thiêm, ngưu tất, lá lốt...
+- Các loại cao động vật (hổ, trăn, rắn, khỉ , nai...).
+- Cây trinh nữ, hạt mã tiền có tác dụng chống viêm trong các bệnh viêm khớp dạng thấp.

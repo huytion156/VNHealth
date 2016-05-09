@@ -1,0 +1,102 @@
+﻿1. Nguyên nhân và triệu chứng
+     + Định nghĩa: Tiểu đường là bệnh
+        - Được đặc trưng bởi tình trạng tăng đường huyết,
+        - Cùng với các rối loạn về chuyển hóa đường, đạm, mỡ, các chất khoáng.
+        - Là bệnh mãn tính có yếu tố di truyền, do hậu quả của tình trạng thiếu Insulin tuyệt đối hoặc tương đối.
+     + Insulin
+        - Được tế bào beta của tuỵ tiết ra (đảo tuỵ),
+        - Insulin gây ra hai tác dụng là bàng tiết & nội tiết.
+     + Bàng tiết: là td của Insulin lên các tế bào lân cận, như tb A ở ngoại vi tủy đảo - sẽ gây giảm tiết glucagon; lên tb D kích thích tiết somatistatin.
+     + Nội tiết: là td của Insulin lên các tb ở xa, như ở Gan, mô Mỡ, cùng với tác dụng đồng hoá (tăng dự trữ glucogen, tăng tổng hợp protein và triglycerid, tăng VLDL-C...) và dị hoá (tăng vận chuyển glucose vào trong tế bào và chuyển hoá tạo năng lượng).
+     + HbA1
+        - Huyết sắc tố kết hợp glucose: có 3 loại HbA1a, HbA1b, HbA1c;
+        - HbA1c tăng khi Tăng đường huyết mãn nếu > 10% tổng số Hb là phản ảnh tình trạng không kiểm soát được của đường huyết,
+        - Chu kỳ HC 120 ngay - nên cần đo HbA1c mỗi 3-6 tháng để đánh giá hiệu quả kiểm soát đường huyết.
+     + Phân loại mức nặng-nhẹ:
+        - Nhẹ:
+          . Đường huyết trở về bình thường chỉ nhờ chế độ ăn;
+          . Không có ceton niệu, các ceton máu bình thường;
+          . Khả năng lao động bình thường;
+          . Có các bệnh mạch máu nhỏ (tổn thương đáy mắt, protein niệu không thường xuyên).
+        - Vừa:
+          . Đường huyết < 14mmol/l (250mg),
+          . Điều trị chế độ ăn đơn thuần không về được bình thường;
+          . Ceton máu tăng, ceton niệu (+) khi có stress;
+          . Liều Insulin trong ngày < 60dv,
+          . Lao động bình thường hoặc giảm;
+          . Có bệnh vi mạch (bệnh võng mạc, protein niệu thường xuyên nhưng chưa rối loạn CN thận).
+        - Nặng:
+          . Đã có hôn mê, diễn biến không ổn định,
+          . Đường huyết > 14mmol/l (>250mg);
+          . Nhiều lần hay thường xuyên tăng ceton máu, ceton niệu dương tính;
+          . Liều Insulin > 60dv/ngày,
+          . Giảm hoặc mất khả năng lao động;
+          . Bệnh vi mạch nặng (tổn thương đáy mắt, rối loạn chức năng thận).
+     + Biến chứng tiểu đường
+        - Cấp:
+           .Hôn mê tăng ceton;
+           .Tăng áp lực thẩm thấu;
+           .Tăng acid lactic máu.
+        - Mãn:
+          . Tổn thương mạch máu lớn (vừa xơ đ.m vành, TBMN);
+          . Tổn thương vi mạch (võng mạc mắt, bệnh Thận, bệnh Thần kinh ngoại biên);
+          . Các biểu hiện Da; Tim mạch; Xương khớp; Nhiễm khuẩn...
+     + Là nguyên nhân hàng đầu của bệnh thận giai doạn cuối (ESRD), cắt cụt chi dưới và mù mắt ở các nước phát triển (Mỹ).
+
+2. Cách chữa trị thông thường
+     + Tiêm Insulin & cho uống thuốc đúng chỉ định về liều, giờ & đường tiêm.
+     + Nhận biệ́t được các triệu chứng hạ đường máu hay tăng đường máu:
+       - HM hạ đường huyết: coma đột ngột, và mồ hôi, mạch nhanh - Báo BS, lấy máu XN, tiêm ngay 100ml gluco 20%
+       - HM nhiễm toan ceton: coma từ từ, thở nhanh và sâu, có mùi ngọt ceton (mùi sơn móng tay).
+       - HM tăng thẩm thấu: coma kèm dấu hiệu mất nước nặng, đái nhiều, khát nhiều trước đo.
+
+3. Cách phòng tránh
+     - Ăn nhiều rau, quả hoặc sử dụng thường xuyên các loại hạt họ đậu, vừng, lạc. Ăn ít hoa quả có độ đường cao.
+     - Nên tăng cường ăn thực phẩm tươi và các món luộc, ăn nhiều rau, củ, trái cây, đảm bảo ăn ít nhất 400 g mỗi người mỗi ngày.
+     - Chú ý không ăn thừa muối, không nên ăn quá 5 g/người/ngày. Hạn chế cho muối và gia vị chứa nhiều muối vào thực phẩm khi nấu ăn, hạn chế chấm thức ăn vào muối và gia vị chứa nhiều muối. 
+     - Chọn gạo lứt, gạo lật nảy mầm hoặc gạo xát rối, bánh mì đen. 
+     - Nên giảm bớt ăn thịt, tăng cường ăn cá, tuần 2-3 lần. Thịt thì nên chọn loại không có mỡ, thịt gia cầm thì nên loại bỏ da vì trong da có nhiều cholesterol.
+     - Chọn sữa gày, sữa đậu nành, đậu tương hoặc các loại phô mai ít béo.
+     - Uống nước chè, nụ vối…, không nên uống các loại nước ngọt.
+     - Dùng dầu thực vật để chế biến.
+     - Không ăn quá nhiều các thức ăn có năng lượng cao, hạn chế sử dụng thức ăn có hàm lượng đường nhiều (bánh, kẹo, mứt...). 
+
+4. Thông tin thêm
+  A. Tiêu chuẩn Chẩn đoán
+     1.Chẩn đoán xác định khi có 1 trong các tiêu chuẩn sau (theo ADA và WHO 1998):
+       + Một lần XN đường huyết bất kỳ ≥ 11.1 mmol/l (200mg%) kết hợp với các triệu chứng của tăng đường huyết (ăn nhiều, uống nhiều, đái nhiều, gầy sút cân...)
+       + Đường huyết lúc đói (sau 8 giờ không ăn) ≥ 7, 1 mmol/l (126mg%) trong ít nhất hai lần xét nghiệm.
+       + Đường huyết 2 giờ sau khi uống 75g glucose ≥ 11.1 mmol/l (200mg%). 
+(Công thức chuyển đổi glucose: 0,055.(mg%) = mmol/l & 18.(mmol/l) = mg%)
+
+     2.Theo tiêu chuẩn CMDT
+       a. Bệnh đái đường typ 1:
+          + Chứng đa niệu, ...
+          + Glucoza máu >126mg%
+          + ceton-huyết, ceton-niệu
+          +Tự kháng thể tuỷ đảo .
+     b. Bệnh đái đường typ 2:
+          + Đa số b.n > 40 và béo.
+          + Ít gặp đa niệu ...
+          + Glucoza máu > 126mg%
+          + THA, rl lipid máu, ...
+  B.So sánh Lâm sàng
+     a.Triệu chứng Typ 1:
+          . Đa niệu, mất nước.
+          . Yếu hay mệt mỏi .
+          . Ăn nhiều với sút cân.
+          . Nhìn mờ định kỳ.
+          . Viêm âm hộ-âm đạo.
+          . Bệnh T.kinh Ngoại vi.
+          . Chứng đái dầm đêm.
+          . Không triệu chứng.
+     b. Triệu chứng Typ 2:
+          . Đa niệu, mất nước.
+          . Yếu hay mệt mỏi.
+          . Ăn nhiều với sút cân.
+          . Nhìn mờ định kỳ.
+          . Viêm âm hộ-âm đạo.
+          . Bệnh T.kinh Ngoại vi.
+          . Chứng đái đêm.
+          . Không triệu chứng.
+

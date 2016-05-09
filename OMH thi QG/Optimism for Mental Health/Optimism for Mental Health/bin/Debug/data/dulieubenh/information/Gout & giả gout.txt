@@ -1,0 +1,73 @@
+﻿1.Tổng quan
++ Lowenhook mô tả từ 1600, hay gặp ở nam, hiếm ở nữ, (tỷ lệ nam/nữ ≈ 9/1).
++ Quan niệm cũ cho là đồ ăn và uống quá nhiều gây ra gout là sai, cũng do khi uống bia rượu nhiều hay gây cơn gout cấp nên lầm tưởng vậy.
++ Phân loại:
+ - Gout nguyên phát: nguyên nhân chưa thật rõ, có tính chất gia đình, khởi phát thường do uống quá nhiều rượu; 30% do tăng tạo; 70% do bài tiết uric qua ống thận giảm.
+
+ - Gout thứ phát: hậu quả của suy thận mãn, thận đa nang, nhiễm độc chì; tiêu tế bào quá mức (leucemie thể tủy mãn tính, bệnh thiếu máu huyết tán...); bệnh vảy nến diện rộng.
+2.Định nghĩa:
++ Gout là chứng sưng viêm do tinh thể monosodium urate monohydrate(MSU) gây ra.
++ Pseudogout - giả gout là chứng sưng viêm do tinh thể calcium pyrophosphate & vài bệnh khác như bệnh do calcium pyrophosphate (CppD).
++ Người bị gout là do có sai sót trong chuyển hóa chất purine (acid nhân tế bào) dẫn đến tăng lượng a.uric máu, từ đó gây bệnh gout.
++ Tinh thể thường lắng đọng ở trong khớp & là ng.nhân gây ra bệnh gout khớp và gây ra các cơn đau khủng khiêṕ (hay bị ở khớp bàn - ngón chân cái).
+
+
+
+
+
++ Khuyết tật này thường có tính di truyền từ cha mẹ hay ông bà nội ngoại, những yếu tố môi trường có vai trò rất quan trọng (chỉ khoảng 20% trong gia dinh có tiền sử gout & gần 10% người có acid uric máu cao có biểu hiện gout cần phải chữa trị - như vậy 90% chỉ là tăng acid uric máu đơn thuần).
++ Tinh thể còn đọng ở da vùng tai, khuỷu sưng, u dạng mụn, nên còn được gọi là củ topy (sạn urat) &đặc biệt đọng ở ống thận gây sỏi thận, ở nhu mô - viêm thận, làm suy thận tiêm tàng là ng.nhân chinh gây tử vong ở người gout.
+
+3.Chẩn đoán gout:
+* Chẩn đoán xác định
+Theo tiêu chuẩn của Bennett & Wood 1968: chẩn đoán xác định khi có tiêu chuẩn a hoặc 2 yếu tố của tiêu chuẩn b.
+a. Tìm thấy tinh thể a.uric trong dịch khớp, trong các hạt tophi;
+b. Hay có > 2 trong các yếu tố sau:
+
+ - Tiền sử hoặc hiện tại có đợt xưng đau đột ngột khớp bàn ngón chân cái, khỏi hoàn toàn trong vòng 2 tuần.
+
+ - Tiến sử hoặc hiện tại có tối thiểu hai đợt xưng đau của một khớp bất kỳ với tính chất như trên.
+
+ - Có hạt tophi.
+
+ - Tiền sử hoặc hiện tại có dáp ứng tốt với colchicin (giảm viêm, giảm đau khớp trong vòng 48 giờ sau khi dùng colchicin hai ngày liền với liều 3mg/ngày).
+* Chẩn đoán căn bản:
+ - Căn cứ vào L.sàng và XN có a.uric máu cao (nam > 420 mcmol/L hay > 7mg%).
+ - Dịch khớp viêm (giàu tế bào, >50.000/ml Neutro không thoái hóa); thấy các tinh thể a.uric (nhọn hai đầu, nằm trong hay ngoài BC)
+* Chẩn đoán phân biệt với: Viêm khớp nhiễm khuẩn; Viêm khớp dạng thấp...
+
+4. Điều trị cơn gout cấp
+* Tuy ng.nhân khác nhau nhưng điều trị gout và giả gout là tương tự nhau.
+ a.Điều dưỡng:
+ - Nằm nghỉ ở giường, nâng cao chân, phủ drap mềm trên chân, ngâm nước ấm, nhuận trường
+ - Ăn kiêng ít purine, giảm calo, thịt <150g/ngày.
+ - Kiềm hóa nước tiểu: 1/2 - 1 lít nước kiềm 14% & 2 lít nước lọc /ngày nhằm duy trì a.uric mức thấp. 
+ b.Thuốc điều trị đặc hiệu:
+ - Diclofenac (Voltaren) 25-75mg tid trong bữa ăn hoặc
+ - Methylprednisolone (SoluMedrol) 125mg IV 1 liều, rồi cho
+ - Prednisone 60mg PO qd (khoảng 5 ngày), cho tới khi thuyên giảm.
+ - Colchicine 2 v (0.5mg), cho tiếp sau 1v mỗi giờ cho tới khi giảm đau, liều tối đa khoảng 9.6mg/24h.
+ - Colchicine duy trì: 0.5-0.6mg PO 1-2 qd.(do hay kèm tiêu chảy nên có thể thay bằng colchima (có kèm opium để chống tiêu chảy); điều trị liên tục bằng colchicine liều thấp 1mg/24h có tác dụng làm giảm số cơn tái phát, nhất là trong trường hợp bệnh nhân viêm nhiều khớp và có nhiều cơn cấp tính tái phát.
+ c.Điều trị triệu chứng:
+ - Ranitidine (Zantac) 150mg uống bid.
+ - Pethidine (Dolargan) 50-100mg IM/IV mỗi 4-6 giờ, hoặc  - Vicodin 1-2 v PO q4-6h.
+
+5. Điều trị gout mãn
+ a.Làm giảm a.uric máu:
+   Allopurinol (Domedol, Apotex, Milurit) v: 0.1-0.3, liều khởi đầu 100mg, sau tăng liều tới 300-400mh/24h, không nên dùng quá 600mg/24h (ức chế men xanthinoxydaza ~ là men chuyển hypoxanthin thành xanthine và chuyển thành a.uric).
+   Thiopurinol liều 250-500mg/24h có tác dụng phụ ít hơn allopurinol
+ b.Tăng phân hủy acid uric:
+   Urat oxidaze (Uricozyme) 1 ống (1000dv)/bt/ngay
+ c.Tăng thải trừ a. uric:
+   Probenecid (Benemid) viên 250-500mg; uống 1-3v/d trong bữa ăn, tăng dần liều 0.5g/tuần, nhưng không quá 2g/24h, nhược điểm là dễ gây sỏi tiết niệu.
+   Sulfipyrazol (anturan) viên 100mg, liều khởi đầu 100mg, tăng dần tối đa không quá 600mg, ít gây tác dụng phụ
+   Benziodaron liều 100-300mg/24h, thải a.urc nhanh, chỉ định được cả trên BN suy thận.
+   Benzobromazon viên 100, liều 100mg/24h, ít tác dụng phụ, chỉ định được cả trên BN suy thận
+   Điều trị liên tục bằng colchicine liều thấp 1mg/24h có tác dụng làm giảm số cơn tái phát, nhất là trong trường hợp bệnh nhân viêm nhiều khớp và có nhiều cơn cấp tính tái phát.
+
+6. Khiêng kem trong gout
+ a.Giảm cân: Phải điều trị nếu quá béo phì để giảm uric trong cơ thể.
+ b.Bia rượu: hạn chế. Hiện nay quốc tế cho phép uống < 3-4 đ.v với đàn ông và 2-3 d.v/ngày với ph.nữ (một đơn vị là 0.3 lit bia chuẩn 5o).
+ c.Uống nước: nên uống nhiều nước để giảm lắng đọng uric ở khớp. Nếu không có ch.chỉ định gì thì nên uống khoảng 3, 5 lit nước mỗi ngày).
+ d.Thịt, cá: nên tránh loại thực phẩm có nhiều Purin mà thôi, cụ thể như: Tim, thận, gan các loại, Trứng vịt, trứng cá, cá trích, thu, cá mòi, rượu bia, hạn chế protid<200g thịt nạc/ngày.
+ e.Tránh hoạt động thể thao-lao động quá mức, tránh yếu tố khởi phát như chấn thương, stress, nhiễm khuẩn.

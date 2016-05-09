@@ -1,0 +1,118 @@
+﻿Chẩn đoán xử trí ngộ độc cấp do Nấm
+I. Đại cương
+1. Nguồn gốc và nguy cơ
+Ước tính có khoảng 50 - 100 loài gây độc. Tại Việt Nam, chẩn đoán ngộ độc nấm dựa vào dịch tễ học, thời gian xuất hiện triệu chứng sau khi ăn nấm và các biểu hiện lâm sàng vì hiện nay tại các phòng xét nghiệm chưa tìm được độc tố của một số loài nấm độc.
+2. Độc tính
+Liều gây độc không rõ vì độc tố thay đổi theo từng thành viên của cùng một loại nấm, thêm nữa độc tính còn thay đổi theo địa lý nơi nấm mọc và điều kiện thời tiết. Trong hầu hết các trường hợp, không xác định chính xác được lượng độc tố của nấm ăn vào vì nạn nhân thường ăn hết nấm.
+3.Phân loại
+Trên thực tế thường phân loại nấm độc dựa vào thời gian triệu chứng đầu tiên sau khi ăn nấm. Nấm độc gây chết người thường xuất hiện triệu chứng đầu tiên muộn sau 6 giờ. Nấm độc được chia làm hai loại:
+Loại gây ngộ độc chậm: rất nguy hiểm. Thuộc nhóm Amanita phalloid (đặc biệt là A. verna và A. virosa), có 6 độc tố: phallin (gây tan máu) Phalloidin, phalloin, amanitin anpha, bêta, gamma: tập trung ở gan và gây viêm gan nhiễm độc.
+Loại gây ngộ độc nhanh, ít nguy hiểm
+
+II. Cơ chế gây độc: tuỳ thuộc vào loại nấm
+1. Giống disulfiram, coprine ức chế chuyển hoá ethanol ở khâu acetaldehyde dehydrogenase, chống sự lạm dụng ethanol
+2. Muscarin kích thích nhận cảm của Muscarinic gây HC cholinecgic ngoại biên
+3. Psilocybin và psilosin tác dụng liên quan tới Serotonin
+4. Gyromitrine gây độc giống quá liều INH cả hai đều thiếu hụt pyridoxine (B6) trong não (co giật) ức chế sảu xuất d - amino butyric acid (GABA)
+5. a - Amanitin gây độc ở nấm A. phalloides, a-amanitin gắn vào nhân RNA polymerase II của tế bào Enkaryotic và ức chế tổng hợp n RNA gây chết tế bào. Gan và thận là hai cơ quan đích tổng hợp protein tốc độ cao nên thượng bị tổn hại nặng nề.
+
+III. Triệu chứng:
+Trong hầu hết các trường hợp, nôn và đi ngoài thường xuất hiện sớm.
+Nếu nôn và đi ngoài xảy ra muộn sau 6 giờ thì gợi ý do ngộ độc nấm loại Amatoxin, Monomethylhydrazine hoặc Orellanine.
+
+IV. Chẩn đoán:
+Thường khó vì bệnh nhân không nghĩ mình bị ngộ độc nấm đặc biệt nếu triệu chứng xuất hiện muộn 12 giờ sau ăn. Nếu còn lại nấm chưa ăn hết thì bảo bệnh nhân mang nấm đến bệnh viện và nhờ các chuyên gia về nấm xác định loại nấm. Tuy vậy cũng cần chú ý là nấm đấy có thể không phải đúng là loại nấm mà bệnh nhân đã ăn.
+Xét nghiệm đặc hiệu tìm độc tố của một số loại nấm độc chỉ làm được ở một vài phòng xét nghiệm cao cấp.
+Các xét nghiệm khác: công thức máu, đường, điện giải đồ, urê, creatinin, AST, ALT, tỉ lệ prothrombin, INR. Nếu bệnh nhân tím thì nghĩ đến loại nấm gây methemoglobin và cho định lượng methemoglobin.
+
+V. Xử trí:
+A. Các biện pháp hồi sức
+1. Truyền dịch nâng huyết áp bằng các dung dịch sinh lý như NaCl9%0 và đặt bệnh nhân nằm ngửa, đầu thấp. Điều trị chống kích thích. Điều trị hạ sốt và chống co giật nếu có.
+2. Theo dõi bệnh nhân ít nhất trong vòng 12 đến 24 giờ để phát hiện những triệu chứng tiêu hoá xuất hiện muộn do loại Amatoxin hoặc Monomethylhydrazine.
+3. Theo dõi chức năng thận trong vòng 7 đến 14 ngày nếu nghi do ăn nấm loại Cortinarius, 2 đến 3 ngày sau khi ăn nấm Amanita smithiana. Chạy thận nhân tạo khi cần.
+
+B. Điều trị đặc hiệu
+1. Đối với loại Monomethylhydrazine: vitamin B6 20-30 mg/kgTMC để điều trị co giật. Đối với loại nấm gây Mehemoglobin điều trị bằng xanh methylen 1mg/kg TM.
+2. Đối với loại nấm gây Hc muscarin: Atropin 0,01-0,03 mg/kg TM sẽ làm giảm các triệu chứng cholinergic.
+3. Physostigmin để điều trị các loạ nấm gây độc bằng axit Ibotenic và muscinol sẽ cải thiện các triệu chứng kháng cholinergic.
+4. Điều trị ngộ độc nấm loại amatoxin (Bài dưới đây).
+
+C. Điều trị tăng cường loại bỏ chất độc
+1. Trước bệnh viện: dùng than hoạt tính càng sớm càng tốt. Nếu bệnh nhân đến muộn sau 60 phút có thể gây nôn bằng Ipecac.
+2. Tại bệnh viện: rửa dạ dày nếu bệnh nhân đến sớm và cho uống than hoạt tính.
+
+D. Các biện pháp tăng cường thải trừ: không có vai trò trong đào thải chất độc.
+
+Ngộ độc nấm loại Amatoxin
+
+Amatoxin (bao gồm a-amanitin, mu-amanitin, và loại khác) là một nhóm peptid có độc tính cao được tìm thấy ở một số loài nấm bao gồm Amanita phalloid, A virosa, A bisporigera, A ocreata, A verna, Gallerina autumnalis, G marginata, và một vài loại Lepiota và Conocybe. Những người ăn các loại nấm này thường là bị nhầm với loại nấm ăn được.
+
+I. Cơ chế gây độc:
+Amatoxin là loại độc tố có độc tính cao và ổn định, không bị phân huỷ bởi nhiệt dưới bất cứ hình thức chế biến nào. Độc tố này ức chế tổng hợp protein của tế bào do tương tác với polymerase của RNA. Amatoxin được hấp thu ở ruột và gây chết các tế bào ruột sau 6 đến 24 giờ. Amatoxin được hấp thu ở gan và thận gây viêm và hoại tử tế bào gan nặng, suy thận.
+Dược động học: Amatoxin nhanh chóng được hấp thu từ ruột và được vận chuyển tới gan nhờ quá trình vận chuyển mật. Khoảng 60% tái hấp thu nhờ chu trình gan ruột. Độc tố này được phát hiện trong nước tiểu từ 90-120 phút sau ăn. Người ta không tìm thấy chất chuyển hoá nào của Amatoxin. Thời gian bán thải của Amatoxin ở ngừơi chưa xác định được, nhưng có sự giảm nhanh của độc tố trong huyết thanh không chắc chắn sau 36 giờ.
+
+II. Liều ngộ độc:
+Amatoxin là loại có độc tố độc nhất trong số độc tố được biết. Liều tối thiểu gây chết người là 0,1 mg/kg. Một chiếc mũ của nấm Amanita có thể chứa tới 10-15 mg, trong khi một cái mũ của nấm Galerina chứa ít độc tố hơn, phải ăn 15 đến 20 mũ nấm mới gây tử vong ở người lớn.
+
+III. Triệu chứng:
+Sau khi ăn nấm các triệu chứng tiêu hoá xuất hiện muộn từ 6 đến 12 giờ, thậm chí có thể sau 24 giờ. Hiếm khi tử vong xảy ra trong 1 -2 ngày đầu do nôn, ỉa chảy mà thường tử vong vào những ngày sau do suy gan.
+1. Viêm dạ dày – ruột: nôn thường kèm theo đau bụng quặn, ỉa chảy dữ dội gây mất nước và điện giải nghiêm trọng, một số bệnh nhân có thể chết vì sốc trong vòng 24 giờ.
+2. Suy gan: tổn thương có thể xuất hiện trong vòng 24 đến 36 giờ, enzym gan tăng nhanh. Suy gan tối cấp với các biểu hiện bệnh não gan, vàng da, toan chuyển hoá, rối loạn đông máu nặng. Khi có hạ đường huyết kèm theo thì thường có tiên lượng xấu và tử vong nhanh.
+
+IV. Chẩn đoán
+- Dựa vào bệnh sử: bệnh nhân có ăn nấm.
+- Triệu chứng dạ dày-ruột xuất hiện muộn sau ăn 6-24 giờ.
+- Cần hỏi xem nấm bệnh nhân lấy về đã ăn hết chưa, nếu còn cả cây nấm thì dặn người nhà bảo quản trong khi vận chuyển không làm nát nấm hoặc dù chỉ là một mảnh nhỏ thì cũng yêu cầu người nhà mang nấm đến để xác định nấm. Thậm chí ngay cả chất nôn có chứa nấm cũng cần đem đến bệnh viện để làm xét nghiệm.
+1. Xét nghiệm tìm Amatoxin:
+- Amatoxin có thể được phát hiện trong huyết thanh, nước tiểu, dịch dạ dày bằng phương pháp miễn dịch phóng xạ hoặc sắc ký lỏng cao áp (HPLC). Đây là những phương pháp hiận đại, đắt tiền, không có sẵn ở các bệnh viện. Với phương pháp sắc ký lỏng cao áp có thể phát hiện được Amatoxin trong huyết thanh sau 36 giờ và trong nước tiểu tới 4 ngày sau ăn. Với phương pháp miễn dịch phóng xạ phát hiện được Amatoxin 100% trong vòng 24 giờ và 80% trong vòng 48 giờ sau ăn.
+- Có thể xác định Amatoxin bằng phương pháp định tính (test Meixner) bằng cách tìm Amatoxin trong mẫu nấm. Nghiền nấm lấy nước, nhỏ nước nấm lên tờ giấy thấm và để khô, sau đó nhỏ một giọt axít hydrochloric đặc nếu giấy có màu xanh gợi ý Amatoxin. Thận trọng vì không đánh giá được độ tin cậy của test và có thể cho kết quả nhầm và không dùng cho những loại nấm ăn được. Dương tính giả xảy ra khi làm khô giấy với nhiệt độ trên 630C, hoặc phơi giấy dưới ánh nắng mặt trời hoặc khi có mặt psilocybin, bufotenin.
+2. Các xét nghiệm khác: điện giải đồ, đường, urê, creatinin, enzym gan, bilirubin, PT, INR, AST và ALT thường tăng cao nhất sau 60-72 giờ sau ăn. Thăm dò chức năng gan bằng INR có ích hơn trong đánh giá mức độ suy gan.
+
+V. Điều trị
+Tỉ lệ tử vong do Amatoxin là khoảng từ 10-15% với các biện pháp điều trị tích cực.
+1. Hồi sức: đảm bảo đường thở, cho thở oxy, đặt nội khí quản và thông khí nhân tạo khi cần.
+2. Bù nước và điện giải tích cực vì mất nước và điện giải nhiều có thể gây ra tụt huyết áp. Truyền Natriclorua 9%0 hoặc ringerlactat 10-20ml/kg bolus, sau đó truyền theo áp lực tĩnh mạch trung tâm hoặc thậm chí truyền theo áp lực động mạch phổi.
+- Điều trị hỗ trợ chức năng gan, suy tế bào gan nặng:
++ Thuốc: silymarine (legalon) : có tác dụng bảo vệ gan, ức chế cạnh tranh với amatoxin tại recepteur; thay đổi tính thấm của màng tế bào gan, có tác dụng ngăn chặn độc tố vào gan, làm tăng tổng hợp protein của ribosom; thúc đẩy quá trình hồi phục của tế bào gan. ; viên 70mg, uống 420-800mg/ngày.
++ Chống rối loạn đông máu bằng truyền huyết tương tươi đông lạnh. Chỉ định ghép gan khi bệnh nhân bị suy gan tối cấp. Liên hệ ngay với trung tâm ghép gan để được hỗ trợ.
+B. Điều trị đặc hiệu: không có thuốc điều trị dặc hiệu khi bị ngộ độc Amatoxin mặc dù trong nhiều năm qua đã có những tiến bộ trong điều trị ngộ độc nấm. . Nhiều nghiên cứu trên động vật và các nghiên cứu so sánh hồi cứu trên người thấy rằng nếu điều trị sớm bằng silibinin tiêm tĩnh mạch chậm với liều 20-50mg/kg/ngày, hoặc với penicillin G (Benzylpenicillin) liều cao. Thực nghiệm trên động vật chứng minh penicillin G có tác dụng ức chế hấp thu amatoxin vào gan. Nghiên cứu hồi cứu trên lâm sàng cũng cho thấy liều cao penicillin làm giảm tỷ lệ tử vong (Floersheim và cs 1982). Penicillin G liều 500 000 UI/kg/ngày hay 300mg/kg/ngày dùng trong 3 ngày. Tuy nhiên dùng liều cao penicillin cũng có nguy cơ gây ngộ độc và theo đánh giá gần đây, điều trị đơn độc penicillin có vẻ kém hiệu qủa (Enjalbert và cs 2002). Không có số liệu ủng hộ cho việc dùng cimetidin hoặc N acetylcystein.
+C. Các biện pháp loại bỏ chất độc
+1. Trước bệnh viện: cho uống than hoạt. Nếu bệnh nhân đến muộn sau 1 giờ cho uống ipecac nếu không có chống chỉ định.
+2. Tại bệnh viện: cho uống than hoạt. Rửa dạ dày nếu bệnh nhân đến trước 1 giờ.
+D. Các biện pháp tăng cường thải trừ: không chứng minh được vai trò của lợi tiểu cưỡng bức, thận nhân tạo hoặc hemoperfusion, hemofiltration trong việc đào thải Amatoxin.
+1. Than hoạt da liều giúp tăng hấp phụ Amatoxin từ chu trình gan–ruột. Liều ban đầu ở ngừơi lớn 1g/kg (50-100g), trẻ em dưới 5 tuổi cho 10-15 g cho uống hoặc bơm qua ống thông dạ dày. Liều nhắc lại: 15-30g (0,25-0,5g/kg) mỗi 2-4 giờ hoặc cho từng giờ (người lớn tốc độ trung bình là 12,5g/giờ; trẻ em tốc độ là 0,2g/kg/giờ), chưa xác định được liều tối đa của than hoạt nhưng có lợi hơn là nên truyền nhỏ giọt dạ dày liên tục. Dùng thêm một liều thuốc tẩy nhỏ cho mỗi liều than hoạt lần 2 và 3. Không nên dùng thuốc tẩy cho mỗi lần dùng than hoạt.
+
+VI. Dự phòng ngộ độc nấm:
+tốt nhất là không nên ăn các loại nấm dại (đặc biệt là khi nấm mọc ở rừng vì có độc tính cao hơn loại nấm ở đồng bằng) vì nấm độc rất dẽ lẫn với nấm không độc. ở miền bắc nước ta, tỉnh Hà Giang, Tuyên Quang, Cao Bằng, Bắc cạn, Lạng sơn, Phú Thọ thường gặp các vụ ngộ độc nấm hàng loạt cả gia đình vào mùa xuân và gây tử vong nhiều người do ăn nấm.
+
+Cách chữa trị cổ truyền
+* Gây nôn
+Lấy ngón tay sạch hoặc lông gà rửa sạch để ngoáy họng cho buồn nôn, nôn cho đến khi ra nước trong mới thôi. Nếu không nôn được thì phải rửa dạ dày,
+
+* Hút chất độc trong đường tiêu hóa
+Uống 20 g than hoạt tính (trộn với ít đường trắng cho dễ uống), sau đó chiêu một chén nước sôi để nguội.
+Than hoạt sẽ hấp phụ chất độc, chuyển vào phân để tống ra ngoài.
+Nếu không có than hoạt thì mua viên Carbogast hoặc Carbophos 400 mg/viên để uống. Nếu nạn nhân mê man bất tỉnh, cần đưa đi cấp cứu ngay.
+
+* Giải độc
+Tuy phần lớn chất độc đã được đưa ra khỏi cơ thể do gây nôn (hoặc rửa dạ dày) và uống chất hút độc, song phần còn dính trong đường tiêu hóa vẫn nguy hiểm cho sức khỏe.
+Vì vậy nạn nhân cần nhanh chóng áp dụng các phương pháp giải độc.
+
+Tùy điều kiện, hoàn cảnh và thể trạng bệnh nhân, có thể dùng một trong những bài thuốc sau:
+
+Bài 1: Nước ép tỏi, giá đỗ
+Tỏi ta đã bóc vỏ 30 g, giá đậu xanh rửa sạch 300 g, 2 thứ giã hoặc xay nát rồi vắt lấy nước cốt uống ngay (nửa số nước vắt).
+Cho thêm 100 ml nước sôi để nguội và 2-3 g muối ăn vào bã, bóp kỹ rồi vắt kiệt nước, trộn chung với chỗ nước còn lại, 2 giờ sau uống tiếp.
+Ngày thứ 2 chưa khỏi thì uống tiếp bài 2 hoặc 3,4.
+
+Bài 2: Nước sắc đậu xanh, cam thảo.
+Đậu xanh (cả vỏ, xay nát) 30 g, cam thảo bắc (để sống, đập giập, cắt nhỏ) 30 g, cho 500 ml nước, sắc nhỏ lửa trong 25 phút, gạn ra uống ngay một nửa số nước thuốc; sau đó tiếp tục sắc lần 2, lần 3 để uống trong ngày.
+Uống liên tục cho đến khi khỏi (nhẹ thì 3 ngày, nặng thì 10 ngày).
+
+Bài này còn được dùng để chữa viêm gan do ngộ độc các loại thuốc (uống từ 12 ngày đến vài tháng tùy mức độ bệnh).
+
+Bài 3: Tỏi ta bóc vỏ, diếp cá, mã đề tươi mỗi thứ 30 g (nếu mã đề khô thì 10 g), đậu xanh cả vỏ, xay nát 50 g. Đổ 500 ml nước, đun sôi nhẹ 20 phút, gạn ra uống ngay một nửa, tiếp tục sắc lần 2 và 3 để uống trong ngày. Uống từ 3 đến 10 ngày tùy mức ngộ độc.
+
+Bài 4: Đậu xanh (cả vỏ, xay nát) 30 g, khương trúc nhự (cật tre đã cạo sạch vỏ xanh, phơi khô, bào mỏng, tẩm nước gừng tươi, sao khô) 12 g, cam thảo bắc (sống, đập giập, cắt nhỏ) 9 g, khương bán hạ 9 g, trần bì, hoắc hương mỗi thứ 6 g. Cách sắc uống như các bài trên, uống liên tục trong 7-10 ngày là khỏi
+
+Lưu ý: Phụ nữ có thai và người tăng huyết áp không nên dùng bài 2 và 4 vì lượng cam thảo bắc nhiều.

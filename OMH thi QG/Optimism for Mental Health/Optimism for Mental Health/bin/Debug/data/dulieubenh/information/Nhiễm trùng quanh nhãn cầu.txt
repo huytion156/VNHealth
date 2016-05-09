@@ -1,0 +1,75 @@
+﻿* Tổng quan
++ Nhiễm trùng hố mắt và các tổ chức phần mêm quanh ổ mắt có 3 nguồn khác nhau:
+- Nhiễm trùng trực tiếp sau chấn thương.
+- Nhiễm trùng qua đường máu.
+- Nhiễm trùng từ các ổ nhiễm trùng.
+
++ Có thể phân ra làm hai nhóm:
+- Viêm mô tế bào trước vách ngăn
+- Viêm mô tế bào hôc mắt
+
+I. Viêm mô tế bào trước vách ngăn:
+1.Triệu chứng
+- Sưng đỏ mi trên – phù mi.
+- Cương tụ hoặc phù kết mạc.
+- Thường gặp ở trẻ em < 5 tuổi, thường kết hợp với nhiễm trùng huyết, viêm màng não (phù xanh tím → nhiễm trùng Haemophylus Influenxa. -- Sốt, bạch cầu cao, cấy máu (+))
+
+2.Xử trí
++ Đối với trẻ em < 5 tuổi cần phối hợp với bác sĩ nhi  để điều trị phối hợp. Nếu trường hợp bệnh lý toàn thân nặng hơn so với bệnh lý tại mắt cần năm đièu trị tại khoa nhi.
++ Đối với trẻ lớn và người lớn: chỉ cần dùng kháng sinh bằng đường uống, không cần nằm viện, theo dõi đề phòng khi không đáp ứng với kháng sinh đường uống, bệnh nặng lên dẫn đến viêm mô tế bào hốc mắt đích thực => cần nằm viện.
++ Khi có ổ áp xe: cần xác định vị trí bằng chụp CT Scanner để dẫn lưu mủ.
+
+II.Viêm mô tế bào hốc mắt:
+1.Dấu hiệu đặc trưng
++ Lâm sàng
+- Liệt vận nhãn không do dây thần kinh.
+- Lồi mắt.
+- Phù kết mạc.
+- Sốt.
+- Đau khi vận động nhãn cầu.
+
++ Nếu có giảm sút thị  lực.
+- Phản xạ đồng tử bất thường khi viêm lan đến đỉnh ổ mắt.
++ Các dấu hiệu khác:
+- Soi đáy mắt: cương tụ TM võng mạc, phù gai thị,
+- Chảy ghèn, giảm cảm giác vùng quanh ổ mắt.
+- X quang: viêm xoang
+- CTM, cấy máu.
+
+2.Nguyên nhân
+- Lan trực tiếp từ nhiễm trùng xoang (nhất là xoang sàng).
+- Do chấn thương (tiền sử chất thương có dị vật (Xquang)).
+- Sau pt ngoại nhãn.
+- Lan sang từ đường máu.
+
+3.Xét nghiệm cần làm
+Cấy máu, làm kháng sinh đồ (từ chất ghèn nằm ở kết mạc hoặc chất nhầy trong hốc mũi), vi khuẩn thường gặp:
+Chủng Staphylococus. Haemophylus Influenza ở trẻ em.
+
+4.Xử trí
++ Bệnh nhân cần năm viện.
++ Kháng sinh phổ rộng bằng đường tĩnh mạch sau khi đã làm các xét nghiệm cần thiết.
+- Trẻ em: Ceftriaxon 100mg/kg × 1 lần/ngày
+- Người lớn: Ceftriaxon 1-2g × 1 lần ngày.
+
+5. Biến chứng:
+a.Áp xe dưới màng xương và áp xe hốc mắt
++ Là biến chứng của viêm mô tế bào đấu trứng.
+- Sau viêm mô tế bào hốc mắt đã điều trị bằng kháng sinh không khỏi hẳn.
+- Thị lực giảm.
+- Lệch nhãn cầu về một phía đối diện với ổ áp xe.
+- Áp xe nằm gần phía trước có thể sờ thấy.
+- Chụp CT Scanner khu trú vị trí.
++ Xử trí: Dẫn lưu ổ áp xe.
+
+b.Viêm tắc tĩnh mạch xoang hang
++ Triệu chứng
+- Mù, giảm thị lực trầm trọng.
+- Liệt vận nhãn III, IV, VI.
+- Sốt cao.
+- Tốc độ lắng máu tăng.
+- Đáy mắt phù gai thị, cương tụ mạch máu.
++ Xử trí:
+- Nằm viện.
+- Kháng sinh liều cao phổ rộng sau khi cấy máu và làm kháng sinh đồ.
+- Tiên lượng nặng, dễ gây tử vong.

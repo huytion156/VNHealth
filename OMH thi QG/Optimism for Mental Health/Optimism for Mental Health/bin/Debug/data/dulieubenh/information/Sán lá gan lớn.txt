@@ -1,0 +1,216 @@
+﻿I.Đặc điểm
+1.Sán lá gan lớn Fasciola
++có 2 loài:
+- Fasciola hepatica,
+
+
+- Fasciola gigantica
+
++Gây bệnh chủ yếu ở động vật ăn cỏ như trâu, bò, cừu... và gây bệnh ở người.
+- Được Linne phát hiện và đặt tên năm 1758.
+- Thế giới có 2,4 triệu, thậm chí có 17 triệu người nhiễm SLGL (Hopkins và CS, 1992).
++ Hiện đã có "Hướng dẫn chẩn đoán và điều trị bệnh sán lá gan lớn ở người" (ban hành theo quyết định số 3420/QĐ-BYT)
+
+2.Nguyên nhân gây bệnh:
++vật chủ trung gian là ốc họ Lymnaea,
++người nhiễm bệnh
+- do ăn sống các loại rau mọc dưới nước như rau ngổ, rút, cần, cải soong...
+- hoặc uống nước có nhiễm ấu trùng sán chưa nấu chín.
+
+3.Chu kỳ phát triển của sán lá gan lớn:
+- Sán lá gan lớn có kích thước 30x 10-12mm.
+- Ở người sán ký sinh trong gan mật,
+- trường hợp bất thường sán có thể ký sinh trong cơ, dưới da... (ký sinh lạc chỗ).
+- Sán trưởng thành đẻ trứng theo đường mật xuống ruột ,và ra ngoài theo phân.....
+- Trứng xuống nước, nở ra ấu trùng lông (miracidium)
+- và ký sinh trong ốc (thuộc giống Limnea),
+- phát triển thành ấu trùng đuôi (cercaria),
+- ấu trùng đuôi rời khỏi ốc, bám vào các loại rau mọc dưới nước,
+- tạo nang ấu trùng (metacercaria), hoặc bơi tự do trong nước.
+- Người hoặc trâu bò ăn phải thực vật thủy sinh, hoặc uống nước lã có ấu trùng, sẽ bị nhiễm sán lá gan lớn.
+
+
+4. Sinh bệnh học của Sán lá gan lớn:
+a.Đặc điểm sinh học
++Sán lá gan lớn lưỡng tính.
+- Nói chung người không phải là vật chủ thích hợp của Fasciola.
+- Phần lớn sán cư trú trong nhu mô gan và chết không vào trong đường mật.
+- Một số sán vào kí sinh ở đường mật và đẻ trứng ở đó.
+- Sán non có thể di chuyển lạc chỗ và cư trú ở các cơ quan khác gây hiện tượng lạc chỗ.
+-  Sán lạc chỗ không bao giờ trưởng thành.
+
++Tuổi thọ của SLGL ở người từ 9 - 13,5 năm.
+
+b.Dịch tễ học
++Nguồn bệnh: trâu, bò, người.
++Mầm bệnh: nang ấu trùng SLGL ở rau thủy sinh và một số loài rau được tưới nước có nang ấu trùng.
++đường lây: qua đường tiêu hoá.
++Ở Việt Nam có loài Fasciola gigantica có dấu hiệu lai với Fasciola hepatica.
++Có mặt trên khoảng 30 tỉnh thành
+
+
+II.Triệu chứng:
+1.Dấu hiệu lâm sàng
+- thường không đặc hiệu,
+- tùy thuộc vào giai đoạn phát triển của sán ký sinh,
+- cũng như số lượng ấu trùng sán xâm nhập vào cơ thể người.
+
+2.Mức độ bệnh phụ thuộc
+- số lượng sán nhiễm, thời gian mắc nhiễm,
+- vị trí kí sinh và phản ứng của bệnh nhân.
+
+3.Lâm sàng:
++Triệu chứng chính:
+- mệt mỏi, biếng ăn, gậy sút,
+- sốt thất thường, có thể sốt cao, rét run
+- hoặc sốt chỉ thoảng qua rồi hết, đôi khi kéo dài,
+- đau bụng khó tiêu, rối loạn tiêu hóa, buồn nôn...
+
++Khi nang ấu trùng xuyên qua thành ruột
+- có thể gây xuất huyết và viêm,
+- có thể gây triệu chứng không rõ rệt.
+
++Triệu chứng khi sán kí sinh ở gan:
+- Đau hạ sườn phải, sốt, sụt cân,
+. ậm ạch khó tiêu, rối loạn tiêu hoá,
+. đau thượng vị, sẩn ngứa.
+- Sán chui vào cư trú ở gan
+. gây tiêu hủy các mô gan
+. chảy máu và phản ứng viêm, miễn dịch.
+. Sán cư trú đôi khi chết tạo ra hoại tử vùng gan tổn thương có thể để lại sẹo.
+- Sán có thể vào đường mật
+. ở đây chúng có thể sống vài năm gây viêm nhiễm dẫn tới xơ hoá,
+. dầy lên và giãn rộng, có thể chảy máu.
+
++Các triệu trứng khác:
+- như đau nhiều khớp, đau cơ, đỏ da,
+- ho, khó thở... tràng dịch màng phổi.
+- Sán lạc chỗ như sán di chuyển ra ngoài gan
+ (chui ra khớp gối, dưới da ngực, áp xe đại tràng, áp xe bụng...).
+
+4.Cận lâm sàng:
+- Xét nghiệm công thức máu, bạch cầu ái toan tăng cao.
+- Siêu âm gan có tổn thương âm hỗn hợp.
+- CT scanner có tổn thương giả u hay áp xe gan.
+- Phát hiện kháng thể kháng sán lá gan lớn
+ (chủ yếu bằng kỹ thuật ELISA),
+- Xét nghiệm phân có thể tìm thấy trứng.
+
+III.Chẩn đoán
++Qua biểu hiện lâm sàng:
+- sốt, đau bụng gan-mật, viêm đường mật, viêm gan thể u
+- và có liên quan đến tiền sử ăn sống rau thủy sinh.
+
++Chẩn đoán xác định là:
+- XN phân, và
+- Test Elisa:
+. trước điều trị, và sau điều trị vào các ngày thứ 1-7, ngày 15, 30 và 60.
+. ELISA (+) với kháng nguyên Fasciola, khi hiệu giá từ 1/3.200 trở lên.
+. chi phí khoảng 50.000 đồng/xn; và sau 24 giờ thì biết kết quả.
+
++Chẩn đoán hỗ trợ: X quang, siêu âm, CT scanner, MRI, XN máu.
+
+IV.Điều trị
+1.Hiện nay, thị trường có nhiều loại thuốc giun,
+- hầu hết thuộc nhóm Benzimidazole
+- nhưng tác dụng với sán lá gan lớn rất kém.
+
+2.Từ trước năm 2002,
++Điều trị còn là vấn đề khó khăn ở Việt Nam. Thường sử dụng
+- Dehydro-emetine 1mg/kg/ngày x 10 ngày (tiêm bắp hoặc dưới da),
+- Mebendazole 50mg/kg/ngày x 7-10 ngày.
+
+3.Từ năm 2003-Egaten
++Tổ chức Y tế thể giới (WHO) đã tài trợ
+- biệt dược Egaten do Thụy Sĩ sản xuất.
+
+
++Sau khi được chẩn đoán xác định bị mắc bệnh sán lá gan lớn,
+- thầy thuốc chỉ định cho sử dụng thuốc đặc hiệu triclabendazol
+- với liều lượng được điều chỉnh phù hợp với trọng lượng của bệnh nhân.
+- Viên có hàm lượng 250mg, loại viên nén có vạch
+- dễ bẻ thành hai nửa bằng nhau để thuận tiện trong việc chia liều chính xác.
+
+
++Thuốc dùng bằng đường uống sau bữa ăn và
+- nên nuốt viên thuốc cùng với nước uống đun sôi để nguội,
+- không được nhai nát viên thuốc.
+- Uống một liều duy nhất 10mg/kg cân nặng.
+- Có một số bệnh nhân dùng liều 20mg/kg, khỏi bệnh đạt 100%.
+
++Tác dụng phụ của Egaten
+- không đáng kể và thuốc an toàn với người bệnh.
+- Chống chỉ định phụ nữ có thai,
+- đang cho con bú, có tiền sử mẫn cảm với thuốc.
+
++Thời gian theo dõi
+- người bệnh ở tại cơ sở y tế ít nhất ba ngày và
+- khám lại định kỳ sau 3, 6 tháng điều trị.
+
++Nếu các triệu trứng không giảm
+- cần chẩn đoán với các nguyên nhân khác
+- cần điều trị tiếp lần 2 với liều 20mg/kg cân nặng/ngày,
+- uống chia 2 lần cách nhau 12 - 24 giờ.
+
++Có thể điều trị hỗ trợ thêm
+- bằng thuốc kháng sinh có phổ diệt khuẩn rộng để chống bội nhiễm, thuốc hạ sốt, giảm đau...
+- Nếu ổ áp xe lớn trên 6cm mà điều trị bằng thuốc theo hướng dẫn không có hiệu quả có thể chọc hút ổ áp xe.
+- Bảo đảm chế độ ăn uống, bồi dưỡng hợp lý để bổ sung năng lượng cho bệnh nhân từ 1.500 - 2.000 Kcalo/ngày.
+
++Phải theo dõi diễn biến trong điều trị để đánh giá kết quả.
+- Cần kiểm tra bằng xét nghiệm siêu âm chẩn đoán, và
+- Test Elisa theo đúng qui định
+- Thời gian theo dõi để tránh tái nhiễm từ 6 tháng đến 1 năm.
+
++Nhược điểm của triclabendazole (egaten)
+- khó tìm thấy trên thị trường để mua và
+- nếu có tìm được để mua thì giá tiền rất đắt,
+ (khoảng từ 1-3 triệu đồng/một liều 2 viên).
+
+4.Thông tin thêm
+*Về triclabendazole
++Tổ chức Y tế Thế giới (WHO) đang hỗ trợ cho Bộ Y tế Việt Nam và Viện Sốt rét - KST thuốc triclabendazole theo nhu cầu điều trị hàng năm để cấp cho những bệnh nhân có nhu cầu sử dụng.
+
++Thuốc được cấp hoàn toàn miễn phí, thông qua hệ thống chuyên ngành ký sinh trùng ở Việt Nam như:
+- Viện Sốt rét - Ký sinh trùng - Côn trùng Trung ương, Quy Nhơn, TP. Hồ Chí Minh;
+- các Trung tâm Phòng chống SR-KST-CT ở tỉnh, thành phố có tỷ lệ mắc bệnh sán lá gan lớn cao.
+
++Ngoài những cơ sở trên,
+- các cơ sở khám chữa bệnh khác của Nhà nước,
+- hoặc bệnh nhân, người nhà bệnh nhân có nhu cầu sử dụng thuốc,
+- cần liên hệ với hệ thống đơn vị chuyên khoa nói trên để được hướng dẫn và giúp đỡ, hỗ trợ thuốc.
+
++Muốn có sự giúp đỡ, hỗ trợ thuốc miễn phí, phải có căn cứ :
+- bằng sự giới thiệu của cơ sở khám chữa bệnh
+- kèm theo tóm tắt bệnh án, kết quả siêu âm chẩn đoán và
+- thử nghiện test Elisa dương tính (+) với sán lá gan.
+
++Không nên mua thuốc ở thị trường bên ngoài vì dễ gặp phải thuốc giả và giá thuốc mua lại quá cao.
+
+*Các thuốc khác đã nghiên cứu
++Albendazole:
+- thuốc rất hiệu quả trên động vật
+- nhưng tỷ lệ thất bại cao với bệnh SLGL ở người;
+
+
++Mebendazole:
+- bước đầu kết quả cũng hiệu nghiệm với liều 4gram/ngày x 3 tuần
+- 4 viên / ngày x 21 ngày có tác dụng với F.hepatica giai đoạn xâm nhập.
+- Với bệnh do F.gigantica, một số nghiên cứu cho thấy thuốc có kết quả nếu ổ tổn thương nhỏ
+
++Métronidazole:
+- Một nghiên cứu mới đây với mục đích nhằm xác định hiệu quả của metronidazol trên những bệnh nhân không điều trị khỏi sau khi dùng triclabendazole tại Guilan.
+- Mười hai tháng sau khi điều trị, 28/35 bệnh nhân đều (-) cả ELISA và XN phân.
+- Do vậy, metronidazole với liều 1,5g/24 giờ trong 3 tuần dường như có hiệu quả trên sán lá gan đề kháng với thuốc triclabedazole.
+
++Artesunate:
+
+- Artesunate và các dẫn suất từ lâu được xem là thuốc điều trị sốt rét có hiệu quả, nhất là trong các trường hợp điều trị sốt rét nặng và ác tính.
+- Trong nhưng năm gần đây, một số nghiên cứu đa trung tâm đã thử nghiệm tác động của nhóm thuốc này trong việc điều trị bệnh sán lá gan lớn fasciolae.
+- Bước đầu thử nghiệm với liều người lớn: viên artesunate 50mg x 4 viên / ngày x 10-14 ngày liên tục, đường uống, cho thấy có hiệu quả cao gần tương đương với thuốc triclabendazole !.
+
+V.Phòng chống
++Nguyên tắc phòng chống là cắt đứt các mắt xích trong vòng đời của sán.
++Hữu hiệu nhất là phối hợp “không ăn sống rau thủy sinh” kết hợp với phát hiện bệnh nhân để điều trị đặc hiệu.
+
+

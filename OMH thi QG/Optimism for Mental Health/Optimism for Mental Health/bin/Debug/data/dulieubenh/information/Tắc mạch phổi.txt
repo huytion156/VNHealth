@@ -1,0 +1,140 @@
+﻿I. Tổng quan:
+- Thường gặp ở bệnh nhân bất động lâu, chấn thương, phẩu thuật, bệnh lý ác tính…
+- Tam chứng Virchow bao gồm tình trạng ứ trệ tuần hoàn, tăng đông và tổn thương thành mạch là cơ sở của sinh lý bệnh của bệnh lý này.
+- Theo ghi nhận trước đây tại Mỹ, chừng 194.000 tử vong do bệnh lý này mỗi năm, nhưng chỉ có 30% bệnh nhân được chẩn đoán trước khi tử vong.
+
+II.Triệu chứng
++ Các triệu chứng hô hấp:
+- Khó thở chiếm 84%,
+- Thở nhanh > 16 l/ph chiếm 92%, rales: 58%,
+- đau ngực dạng màng phổi 74%,
+- Ho 53%, ho ra máu 30%,
+- đau ngực không dạng màng phổi 14%.
+
++ Các triệu chứng tim mạch:
+- T2 mạnh: 53%,
+- nhịp xoang nhanh > 100 l/ph: 44%,
+- tiếng ngựa phi S3, S4:34%,
+- viêm tắc TM: 32%,
+- phù chi dưới:24%,
+- tiếng thổi: 23%,
+- tím tái: 19%.
+
++ Triệu chứng khác:
+- sốt > 37.8 C: 43%,
+- vã mồ hôi: 27%,
+
+III. Cận lâm sàng
+1. Khí máu động mạch:
+Khi thuyên tắc phổi - khí máu động mạch là thấp
+
+2. ECG:
+Thay đổi ST-T không đặc hiệu thường xảy ra ở bệnh nhân thuyên tắc phổi (>40%).
+Bệnh nhân thuyên tắc phổi nặng thường có hình ảnh S1Q3T3 hoặc blốc nhánh phải mới xuất hiện.
+
+
+3. X quang tim phổi thẳng:
+Các dấu hiệu x quang có thể gặp bao gồm: đông đặc phổi hình chêm, thưa thớt mạch máu ở vùng ngoại biên của phổi (Wastermark sign), tràn dịch màng phổi, xẹp phổi, kéo cơ hoành lên cao, dãn ĐM phổi.
+
+4. D-Dimer:
+Là sản phẩm thoái giáng của fibrin, do đó D-dimer có thể gặp ở huyết khối TM, bệnh ác tính, mang thai, NMCT, đông máu rải rác trong lòng mạch, hậu phẩu.
+Độ nhạy và độ đặc hiệu của D-dimer tùy thuộc dạng xét nghiệm như kết dính hồng cầu (SimpliRED™ test: sensitivity 84.8%; specificity 68.4%), ELISA (VIDAS™: sensitivity 97%, specificity 40-50 %), kết dính Latex (70% và 76%), miễn dịch (MDA™: sensitivity 97-99%).
+Bởi vì độ nhạy cao nhưng độ đặc hiệu thấp nên D-dimer chỉ có giá trị loại trừ chẩn đoán. Giá trị ngưỡng để test (+) là >500ng/ml.
+
+5. MSCT động mạch phổi (hoặc CT xoắn ốc):
+MSCT ngày nay đã trở thành xét nghiệm chẩn đoán hình ảnh lựa chọn đầu tiên trong chẩn đoán thuyên tắc phổi
+
+
+6. Siêu âm tĩnh mạch chi dưới
+Độ nhạy của siêu âm đè ép TM khi so với chụp TM là 97% ở đoạn gần (TM đùi và khoeo), 73% ở đoạn xa ( dưới khoeo và bắp chân).
+
+IV. Phác đồ chẩn đoán
+A.Theo G.Piazza (Circulation 2006;114;28-32).
+Lâm sàng nghi ngờ Thuyên tắc phổi → Xquang tim phổi ECG → Đánh giá khả năng lâm sàng:
+1.BN ngoại trú nghi ngờ khả năng thấp và vừa
+a. D- dimer
++ Bình thường – Không thuyên tắc phổi
++ Cao → CT ngực
+- Bình thường → Không thuyên tắc phổi
+- Dương tính → Điều trị thuyên tắc phổi
+2. BN nội trú nghi ngờ khả năng cao → CT ngực
++ Bình thường – Không thuyên tắc phổi
++ Dương tính → Điều trị thuyên tắc phổi
+
+B.Theo HSNK-Bạch mai
++ 10 tiêu chuẩn chẩn đoán
+- Bệnh phổi cấp + ho máu + SHH cấp
+- BN tim phổi mãn, nằm lâu tắc TM
+- Sau mổ, đẻ, chấn thương, shock
+- Tâm phế cấp
+- RL ý thức, lo sợ, vật vã
+- XQ có dấu hiệu nghi ngờ
+- Dấu hiệu ECG
+- Thay đổi sinh hóa & khí máu
+- Chụp đ.m phổi (+)
+- Chụp phổi nhấp nháy (+)
++ Đánh giá kết quả - BN có:
+- 2 dấu hiệu đầu – nghi ngờ+tìm thêm & xem xét dùng heparin
+- 6 dấu hiệu đầu – là tắc mạch phổi & dùng heparin
+- từ 7 d.hiệu trở lên – là chắc chắn tắc mạch phổi.
+
+V.Phân loại
+* Theo Well và cs khi phân loại lâm sàng:
++ Các dấu hiệu và triệu chứng hô hấp(A)
+- Khó thở
+- Đau ngực kiểu màng phổi
+- Đau ngực không kiểu màng phổi, không sau xương ức.
+- SaO2<92%
+- Ho ra máu
+- Tiếng cọ màng phổi
+
++ Các dấu hiệu và triệu chứng tim mạch và cơ quan khác(B)
+- Tần số tim >90 lần/phút
+- Nhiệt độ cơ thể: 370 5-3806
+- X quang tim phổi thẳng phù hợp với thuyên tắc phổi mà không có cách giải thích nào khác.
+- Triệu chứng nghi ngờ huyết khối tĩnh mạch sâu ( sưng, đỏ, đau ở chân…)
+
+* Phân loại theo Well và cs:
++ T.tắc đ.mạch phổi không điển hình:
+≥ 2 triệu chứng hô hấp A, mà không có dấu hiệu B.
++ T.tắc đ.mạch phổi điển hình:
+≥ 2 triệu chứng hô hấp A kèm tối thiểu 1 dấu hiệu B.
++ T.tắc đ.mạch phổi nặng:
+Khi T.tắc đ.mạch phổi điển hình kèm ngất, tụt HA<90mmHg, tần số tim>100l/ph; cần thông khí hoặc bổ sung O2 trên 40%, suy tim phải: tăng CVP, ECG: S1-Q3-T3, blốc nhánh phải mới xuất hiện.
+
+VI.Xử trí hiện nay
+1. Kháng đông:
+- Kháng đông hiện nay là nền tảng chính trong điều trị thuyên tắc phổi và huyết khối TM.
+- Chiến lược điều trị hiện nay ưu tiên sử dụng heparin trọng lượng phân tử thấp (LMWH) hơn là heparin không phân đoạn (UFH). LMWH có thể cho ngày 1-2 lần trong 5 ngày, liều lượng điều chỉnh theo cân nặng cơ thể.
+- Heparin cấp cứu 100dv/KgTT-IV; sau đó bơm điện 500dv/Kg/ngày.
+- Fraxiparn 0,1ml/10kg/12 giờ.
+
+- Kháng vitamine K (warfarin, acenocoumarol) cần phải duy trì trong 3-12 tháng tùy theo dạng nguy cơ .
+
+2. Tiêu sợi huyết:
+- Nhóm nguy cơ 1: Ở những bệnh nhân có thuyên tắc phổi có huyết động ổn
+Định và chức năng thất phải bình thường, thường chỉ sử dụng kháng đông
+điều trị như LMWH (hoặc UFH),
+- Nhóm nguy cơ 2: Ở những bệnh nhân có thuyên tắc phổi có huyết động ổn
+định nhưng chức năng thất phải suy giảm, quan điểm hiện nay vẫn sử dụng
+kháng đông điều trị mà không sử dụng tiêu sợi huyết.
+- Nhóm nguy cơ 3: Ở những bệnh nhân thuyên tắc phổi nặng có rối loạn huyết động, thuốc tiêu sợi huyết chỉ đặt ra cho những bệnh nhân ít nguy cơ chảy máu.
+- Nhóm nguy cơ 4: Ở những bệnh nhân thuyên tắc phổi tối cấp cần phải hồi
+sức tim phổi, điều trị tiêu sợi huyết có ý nghĩa cứu sống bệnh nhân.
+
+3. Hút huyết khối qua catheter:
+thường chỉ định khi bệnh nhân thuyên tắc phổi nặng nhưng không thể sử dụng tiêu sợi huyết hoặc tình trạng khẩn cấp không đủ thời gian để tiêu sợi huyết.
+
+4. Phẩu thuật lấy huyết khối:
+Chỉ định phẩu thuật lấy huyết khối là chỉ định ở các trung tâm chuyên khoa.
+
+5. Lưới lọc TM chủ dưới:
+Chỉ định đặt lưới lọc TM chủ dưới cho những trường hợp sau: huyết khối TM chi dưới nhưng có chống chỉ định hay biến chứng bởi kháng đông, thất bại với điều trị kháng đông đủ liều, khả năng tái phát thuyên tắc phổi cao dù đang điều trị.
+
+VI. Các yếu tố tiên lượng tử vong bao gồm:
+- Tuổi>70
+- Bệnh ung thư
+- Suy tim sung huyết.
+- Bệnh phổi tắc nghẽn mạn tính.
+- Huyết áp thấp<90mmHg.
+- Ngoài ra tăng các chỉ điểm sinh học (BNP, troponin…), rối loạn chức năng thất phải hoặc dãn thất phải giúp dự đoán nguy cơ tụt huyết áp, tử vong sớm.

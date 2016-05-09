@@ -1,0 +1,27 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Viêm tụy cấp (acute pancreatitis) là tình trạng viêm đột ngột của tuyến tụy. Biểu hiện có thể nhẹ nhàng nhưng cũng có thể nặng nề với đáp ứng viêm hệ thống, rối loạn chức năng đa cơ quan và đe dọa mạng sống.
+     _Ở các nước phương Tây, sỏi mật và lạm dụng rượu là nguyên nhân của 80% các trường hợp viêm tụy cấp phải nhập viện. Ở Việt nam, ngoài nguyên nhân kinh điển như trên thì còn có một nguyên nhân quan trọng khác là do giun chui ống mật-tụy. Viêm tụy cấp do sỏi mật thường gặp ở phụ nữ nhiều hơn nam giới. Liệu viêm tụy cấp có ảnh hưởng gì đến những bệnh lý mạn tính liên quan đến sau này (như đái tháo đường) hay không vẫn chưa xác định chắc chắn.
+     _Yếu tố nguy cơ gây bệnh:
+        +Sỏi mật.
+        +Lạm dụng thức uống có cồn.
+        +Giun chui ống mật-tụy.
+        +Các thuốc như furosemide và azathioprine.
+        +Sử dụng estrogen.
+        +Hội chứng cường giáp và tăng nồng độ canxi trong máu.
+        +Quai bị.
+        +Hội chứng tăng lipid máu (nhất là tăng triglyceride).
+        +Tổn thương tụy do phẫu thuật ổ bụng hoặc nội soi.
+        +Tổn thương tụy do vết thương đâm thấu hoặc chấn thương do vật tù (đấm, đá, tai nạn giao thông).
+        +Ung thư tuyến tụy.
+        +Giảm tưới máu trầm trọng (sốc kéo dài).
+        +Viêm tụy di truyền.
+        +Ghép thận.
+
+2. Cách chữa trị thông thường
+     _Biện pháp làm giảm tiết dịch tụy, hạn chế tổn thương tiếp diễn: đặt ống thông mũi-dạ dày hút liên tục hoặc ngắt quãng, sử dụng các thuốc như ức chế receptor H2, atropine, glucagon, somatostatin, calcitonin.
+     _Ngăn ngừa bội nhiễm: dùng một trong các kháng sinh ampicillin, cefuroxxime, ceftazidime kết hợp với amikacine và metronidazole.
+     _Truyền huyết tương tươi đông lạnh để ức chế protease.
+     _Nuôi ăn hoàn toàn bằng đường tĩnh mạch: cũng nhằm hạn chế bài tiết dịch tụy.
+     _Rửa ổ phúc mạc để loại bỏ chất độc.
+     _Điều trị các biến chứng: chủ yếu là điều trị nâng đỡ.
+

@@ -1,0 +1,48 @@
+﻿1.Tổng quan
++ Có 2 typ:
+* type 1 (HSV-1) & 2 (HSV-2), tổn thương trên lâm sàng không phân biệt được nguyên nhân do typ nào.
+(*) Khác Herpes zoster.
+
++ Sinh lý bệnh: HSV-1 và HSV-2 gây tổn thương sinh dục & miệng, nhiễm sinh dục hay tái phát.
++ Nhiều bề mặt niêm mạc và vị trí nội tạng có thể bị nhiễm HSV.
++ Giai đọan ủ bệnh sau nhiễm HSV là 1-26 ngày.
++ Nhiễm trùng HSV tiên phát thường sau lần đầu tiếp xúc, tiếp theo virus náu trong hạch thần kinh; 60% có kháng thể (+).
+
+2.Chẩn đoán
++ Tiền triệu bỏng rát hay ngứa là xuất hiện trong trường hợp tái phát bệnh.
++ Tổn thương kiểu mụn nước thành nhóm hay đơn độc trên nền ban do tiến triển tới loét.
+
+ 
+
++ Đau vùng tổn thương dai dẳng trong vài ngày đến khi đóng vảy.
++ Thường lành bệnh trong 3 tuần.
++ Nhiễm tiên phát cũng có thể triệu chứng giống như cúm.
++ Tái phát 90% nhiễm HSV-2 và 60% của HSV-1 tái nhiễm trong 1 năm, một số có thể bùng cơn mỗi 2-3 tuần.
++ Tổn thương tái phát thường xuất hiện ở vị trí nhiễm tiên phát, nhiều trường hợp tái phát liên quan kinh nguyệt, stress, lạnh và chấn thương tại chỗ...
++ Bệnh nhân suy giảm MD, đặc biệt nhiễm HIV thường bị nặng, dữ dội hơn. Tiếp xúc vết loét hay chất tiết có thể lây tryền.
+
+3.XN
++ Cấy virus yêu cầu làm trong 48-96h và chính xác 85-90%.
++ P.ứng H.thanh không chuẩn do mắc sẵn nhiều .
+
+4.Điều trị
+a, Nhiễm trùng tiên phát
++ Acyclovir (Zovirax) 400mg PO tid x 10d (5mg/kg IV q8h khoảng 5-7lần cho tới khi lâm sàng ổn định ở trường hợp năṇg, biến chứng...) hoặc
++ Valacyclovir (Valtrex) 500mg PO bid x 10d hoặc
++ Famciclovir (Famvir) 125mg PO bid x 10d.
+
+b, Trị liệu cơn tái phát
++ Acyclovir (Zovirax) 400mg PO tid hay 800mg bid x 5d hoặc
++ Valacyclovir (Valtrex) 500mg PO bid x 5d hay
++ Famciclovir (Famvir) 125mg PO bid x 5 d
+* Điều trị là hiệu quả nhất khi dấu hiệu tái phát x.hiện trong 48h đầu.
+
+c, Điều trị ngăn chặn
++ Acyclovir (Zovirax) 400mg PO bid Chỉ định cho BN tái phát >6 đợt/năm.
++ Valacyclovir (Valtrex) 500mg bid x 5 d.
++ Famciclovir (Famvir) 125mg bid x 5 d.
+
+5.Điều trị triệu chứng
++ Các thuốc giảm đau
++ Ryridium có thể hiệu quả trong khó tiểu (dysuria).
++ Tăng cường miễn dịch...

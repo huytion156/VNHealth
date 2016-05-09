@@ -1,0 +1,156 @@
+﻿I.Đại cương:
+   1.Định nghĩa:
+     + Viêm cầu thận cấp được định nghĩa là sự khởi đầu bất ngờ của tiểu máu, protein niệu, hình ảnh lâm sàng thường đi kèm với cao huyết áp, phù và suy chức năng thận.
+
+   2.Tần số, tỷ lệ:
+     + 10-15% các bệnh cầu thận
+     + Trẻ nam/nữ: 2/1
+     + Hầu hết gặp ở tuổi 5-15 (chỉ 10% ở >40 tuổi)
+     + Một số chuyển sang viêm cầu thận
+     + Là nguyên nhân phổ biến của suy thận mãn 25%
+     + Trong viêm thận cấp do streptococcal, các tiên lượng lâu dài nói chung là tốt. Hơn 98% hết triệu chứng sau 5 năm, 1-3%  suy thận mãn tính.
+
+   3.Nguyên nhân:
+* Nguyên nhân phổ biến nhất
+     + Là Liên cầu khuẩn tan máu beta nhóm A (Streptococcus): serotyp12 thường gặp sau một nhiễm trùng đường hô hấp trên xảy ra chủ yếu trong những tháng mùa đông; và do serotype 49 xảy ra sau nhiễm trùng da thường thấy trong mùa hè và mùa thu.
+     + Bệnh thường xuất hiện sau nhiễm liên cầu 10-15 ngày.
+     + Xác định sự có mặt của liên cầu khuẩn tan máu beta nhóm A bằng cách xác định các kháng thể chống lại một số men do liên cầu tiết ra trong quá trình phát triển; những kháng thể đó là:
+               - ASLO (Anti Streptolysin O)
+               - ASK (Anti Streptokinase)
+               - AH (Anti Hyaluronidase).
+               - ANADase (Adenine Dinucleotidase)
+               - ANDAse (Anti Deoxy Ribonuclease)
+     + Trong số các kháng thể trên thì ASLO có giá trị nhất, ASLO tăng sớm và kéo dài, 95% VCTC có tăng hiệu giá ASLO
+
+* Các nguyên nhân khác:
+     + Viêm cầu thận do tụ cầu, hoặc mycobacteria typhosa. Salmonella, Brucella suis, Treponema pallidum, Corynebacterium bovis, và actinobacilli.
+     + Collagen bệnh mạch máu (lupus erythematosus hệ thống nguyên nhân gây viêm cầu thận thông qua lắng đọng phức hợp miễn dịch của thận).
+     + Henoch- Scholein.
+     + Viêm cầu thận trong bệnh Osler.
+     + Bệnh Berger (bệnh thận do IgA).
+     + Thuốc gây ra (vàng, penicillamine)
+     + Đợt bột phát của viêm cầu thận tiên phát.
+
+II.Triệu chứng
+   1. Lâm sàng:
+     a. Khởi phát thường đột ngột:
+               - Bệnh xuất hiện sau viêm họng hoặc nhiễm khuẩn ngoài da, thời kỳ tiềm ẩn có thể khác nhau, thường là 1-2 tuần
+               - Biểu hiện triệu chứng không đặc hiệu bao gồm suy nhược, đau bụng, và khó chịu, mệt mỏi, sốt nhẹ, da xanh, phù nhẹ mi mắt, đái ít
+               - Có thể khởi phát nguy kịch như : THA, vô niệu, suy tim cấp, phù não cấp.
+               - Đôi khi khởi phát tiềm tàng, không có triệu chứng lâm sàng.
+
+     b. Giai đoạn toàn phát:
+               - Các triệu chứng của viêm cầu thận cấp tính bao gồm:
+               - Tiểu máu gặp ở 30% bệnh nhân nhi khoa. đái máu toàn bãi, nước tiểu như nước rửa thịt, máu không đông, xuất hiện ngay tuần đầu và số lần đái máu thưa dần.
+               - Đây là triệu chứng quan trọng chứng tỏ viêm cầu thận, nếu không có đái máu thì cần xem lại chẩn đoán.
+               - Phù (ngoại biên hoặc trước x.chày) gặp trong khoảng 85% bệnh nhân nhi khoa, phù nề có thể bị nhẹ (chỉ liên quan đến mặt) đến nặng, phù nhiều về buổi sáng, ăn nhạt phù giảm. phù thường gặp trong 10 ngày đầu và thường giảm đi nhanh chóng khi BN đái được.
+               - Nhức đầu có thể xảy ra do tăng huyết áp, tăng huyết áp ác tính có thể gặp ở trên  5% bệnh nhân.
+               - Khó thở hoặc khó thở gắng sức do suy tim hoặc phù phổi, thường là không phổ biến, đặc biệt ở trẻ em.
+               - Có thể đau hạ sườn kéo dài     
+               - Thiểu niệu (thiểu niệu < 0,5ml/kg/24h, vô niệu)
+
+*Xác định số lần và lượng nước tiểu của trẻ :
+          + Số lần đái giảm theo tuổi:
+               - Trong tháng đầu: 15-25 lần/24h = 300-400ml
+               - 3 tháng tuổi: 15-20 lần/24h = 400-500ml
+               - 1 tuổi: 12-16 lần/24h = 500-600ml
+               - 3-5 tuổi : 8 lần/24h = 600-700ml
+               - 5-8 tuổi : 6 lần/24h = 650-1000ml
+               - > 8 tuổi: 5-6 lần/24h = 800-1400ml.
+          + Có thể tính theo công thức:
+               M(ml) tiểu/24h = 600 +100(N-1).
+
+   2. Cận lâm sàng:
+     a. XN nước tiểu:
+          + Nước tiểu có HC, BC, trụ HC, trụ BC, trụ trong, trụ sáp
+          + Tỷ trọng nước tiểu > 1,020
+          + Protein niệu 0,5-2g/24h. thời gian tồn tại có ý nghĩa tiên lượng bệnh, bệnh được hồi phục khi Protein niệu (-)
+
+     b. XN máu:
+          + Protein máu giảm < 55g/l
+          + Albumin máu giảm < 30g/l
+          + Ure và Creatinin máu tăng
+          + Tốc độ máu lắng (ESR) thường là tăng lên.
+          + BC tăng, HC giảm, HST giảm , Hb tăng
+          + Kháng thể kháng liên cầu ASLO (Antistreptolysin O) tăng lên trong 60-80% bệnh nhân, Tăng bắt đầu vào 1-3 tuần, đỉnh trong 3-5 tuần, và trở lại bình thường trong 6 tháng nhưng không liên quan đến mức độ nghiêm trọng, thời gian, hoặc chẩn đoán của bệnh thận.
+          + Bổ thể giảm (đặc biệt là C3) đến tuần thứ 6 thì trở về bình thường.
+
+III.Điều trị
+* Ưu tiên cao nhất hiện nay là với tăng huyết áp ác tính hoặc phù phổi hay các triệu chứng thần kinh trung ương. Điều trị cấp cứu phụ thuộc nguyên nhân:
+               - Sửa chữa những bất thường điện giải
+               - Do hypocalcemia, tăng kali máu và nhiễm toan, nếu có.
+
+          + Bệnh não tăng huyết áp:
+               - Tăng huyết áp nặng liên kết với các dấu hiệu của rối loạn chức năng não là một cấp cứu ngay lập tức, các biểu hiện bao gồm đau đầu, buồn nôn ói mửa, tầm nhìn mờ, co giật và hôn mê, điều trị cơn tăng huyết áp ác tính cần phải tích cực làm ngay.
+
+          + Tăng huyết áp nặng có hoặc không có tổn thương cơ quan đích cấp:
+               - Hữu ích trong điều trị tăng huyết áp bao gồm các thuốc chẹn kênh calci và nitroprusside.
+* Lưu ý rằng beta-blocking hoặc ức chế chuyển đổi angiotensin-enzyme (ACE) dùng một mình không hữu ích nếu không được dùng với các thuốc giãn mạch và thuốc lợi tiểu, vì mức hoạt tính renin huyết tương giảm.
+               - Trong hầu hết các trường hợp tăng huyết áp ít nặng hơn, captopril giảm áp lực máu trong vòng chưa đầy 1 giờ. Lưu ý sử dụng captopril mang nguy cơ tăng kali máu. Cần theo dõi chặt chẽ mức độ kali huyết thanh.
+               - Labetalol được sử dụng cho bệnh não tăng huyết áp và tăng huyết áp ác tính. Người lớn: 20 mg (0,25 mg / kg cho bệnh nhân 80-kg) IV tiêm chậm hơn 2 phút; có tiếp tục tiêm 40-80 mg trong khoảng 10-phút hoặc cho đến 300 mg nếu cần; để giảm khả năng hạ huyết áp tư thế, bệnh nhân không nên hoạt động 3 h sau khi tiêm. Trẻ em liều đề nghị 0,4-1 mg / kg / h IV; không quá 3 mg / kg / h.
+               - Nifedipin: (tác dụng trung bình) viên nang 10-20 mg
+               - Adalat gen:(tác dụng nhanh, mạnh) viên nang 10-20 mg
+               - Adalat LA: (tác dụng kéo dài) viên giải phóng chậm 30-60-90mg
+               - Nimodipin (Nimotop)(tác dụng trung bình ưu tiên cho BN có B/C ĐQ chảy máu khoang dưới nhện gây co mạch do chèn ép.) viên nén 30mg
+               - Amlodipin(Amlo, normodipin, amtin).(tác dụng kéo dài 24h) viên nén 2,5-5-10 mg
+               - Liều lượng cho trẻ em: Adalat gen 0,25-0,5mg/kg
+
+          + Tắc nghẽn tuần hoàn phổi và phù:
+               - Bệnh nhân thường chỉ phù nhẹ. Trong trường hợp này, việc điều trị hiệu quả nhất là hạn chế natri và chất lỏng.
+               - Thuốc lợi tiểu như furosemide có hiệu quả và được chỉ định vì nguy cơ tăng kali máu
+               - Đảm bảo đường thở dựa trên mức độ tắc nghẽn phổi và suy hô hấp.
+               - Chạy thận hoặc ga-rô cách hồi chi có thể được dùng để điều trị bệnh nhân phù phổi, đặc biệt khi đang thiểu niệu.
+               - Digitalis là không hiệu quả. Thuốc giảm tiền gánh và hậu gánh được chỉ định cho phù phổi tăng huyết áp (ví dụ, nitrat, morphine, thuốc lợi tiểu).
+
+          + Penicillin:
+               - Được chỉ định ở bệnh nhân không dị ứng. Lưu ý rằng điều trị kháng sinh sớm không ảnh hưởng đến sự phát triển của viêm cầu thận cấp sau nhiễm streptococcal. Thận trọng với bệnh nhân thiểu niệu và suy thận.
+               - Penicillin V (Veetids)
+               - Người lớn 500 mg PO q6h (uống mỗi 6 giờ)
+               - Nhi khoa <12 tuổi: 40 mg / kg / d PO chia Q4-6H; không quá liều người lớn. >12 năm: Dùng như ở người lớn
+          + Penixillin tiêm:
+               - Penixillin G 1.000.000 UI/24h x 10 ngày, tiêm bắp
+               - Benzathin Penixillin1.200.000 UI/24h tiêm bắp 3 tuần/lần cho đến khi máu lắng trở về bình thường, HC, Protein niệu(-)
+               - Nếu dị ứng với Penixillin thì có thể thay bằng :
+               - Rovamycin 3.000.000 UI/24h hoặc
+               - Erythromycin 1g/24h
+
+          + Hội chứng thận hư cấp tính:
+               - Hạn chế chất lỏng ở bệnh nhân phù nề lớn, thuốc lợi tiểu được chỉ định cho bệnh nhân hội chứng thận hư (4% bệnh nhân) hoặc protein niệu lớn.
+               - Người lớn Furosemid (Lasix viên 40mg, ống 20mg) 2- 4mg /kg/24h uống hoặc dùng đường tiêm.một lần ban đầu, tiếp theo khi cần, hoặc một lần sau khi dò liều cho hiệu quả tối ưu.
+               - Trẻ em-Ban đầu: 2 mg / kg PO / IV một lần; chuẩn độ của dung dịch với bổ sung 1-2 mg / kg q6h
+
+          + Viêm cầu thận không do streptococcal:
+               - Steroids và các tác nhân gây độc tế bào có thể được chỉ định trong các điều kiện sau đây:
+               - Viêm cầu thận thứ phát quá mẫn cảm;
+               - Viêm mạch máu; Cryoglobulinemia;
+               - Henoch-Schönlein purpura;
+               - Bệnh huyết thanh;
+               - Viêm cầu thận tiến triển nhanh chóng vô căn;
+               - Hội chứng Goodpasture.
+
+          + Methylprednisolone
+               - Được sử dụng cho viêm cầu thận cấp tính không do streptococcal, đặc biệt là trong viêm thận lupus và viêm cầu thận tiến triển nhanh chóng vô căn.
+               - Nhịp  điều trị 30 mg/kg IV tối thiểu trên 30 phút.
+
+          + Cyclophosphamide không dùng trong cấp cứu, Đối với điều trị dài hạn, các liều sau được sử dụng: 400-1800 mg / m 2 (/ kg 30-40 mg) IV chia liều hơn 2-5 ngày; có thể lặp lại khoảng 2 tới 4 tuần; cách khác 3 -5 mg / kg hai lần 1 tuần.
+
+          + Những biến chứng bao gồm:
+               - Bệnh võng mạc tăng huyết áp
+               - Bệnh não tăng huyết áp
+               - Viêm cầu thận tiến triển nhanh chóng
+               - Suy thận mãn
+               - Hội chứng thận hư
+
+IV. Điều trị dự phòng:
+          + Chế độ nghỉ ngơi:
+               - Nghỉ ngơi tại phòng ít nhất 2 tuần.
+               - Chế độ ăn uống: hạn chế nước, hạn chế muối, hạn chế mỡ khi có tăng mỡ máu hoặc biểu hiện thận nhiễm mỡ,không cần hạn chế đạm trừ thể vô niệu.
+
+          + Dự phòng
+               - 75 - 80 % trường hợp tái phát, số lần tái phát trong mỗi năm tăng dần, đến 5-10 năm có khoảng 30% trường hợp chuyển sang suy thận.
+               - Giải quyết ổ nhiễm khuẩn mạn tính đặc biệt là nhiễm khuẩn hầu họng
+               - Dùng kháng sinh Penixillin chậm 1,2 triệu UI/24h mỗi tháng tiêm bắp thịt 1 lần x 6 tháng.(chấp hành đúng chế độ uống thuốc)
+               - Không lao động quá mức, tránh nhiễm khuẩn, nhiễm lạnh.
+               - Điều chỉnh chế độ ăn : ăn nhạt, giảm mỡ.
+               - Định kỳ kiểm tra nước tiểu và máu.
+               - Theo dõi quá trình tăng trưởng của trẻ

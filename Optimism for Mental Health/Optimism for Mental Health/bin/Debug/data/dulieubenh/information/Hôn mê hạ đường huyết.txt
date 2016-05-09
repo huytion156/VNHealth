@@ -1,0 +1,41 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1.Tổng quan 2 kiểu chính..
+     + Giảm đường huyết tự phát ở người lớn có hai kiểu chính: nhịn ăn và sau khi no.
+     + Triệu chứng bắt đầu xuất hiện khi mức Glucoza máu < 60mg/dL và suy giảm chức năng não khi xấp xỉ 50mg/dL.
+     + Giảm đường huyết thường có tiền triệu của rối loạn TKTV (toát mồ hôi, hồi hộp, lo lắng, run rẩy). 
+  1.2.Nguyên nhân.
+     + Tăng tiết insulin
+     + U Tủy tế bào B
+     + Lén tiêm Insulin
+     + Lén uống sulfonylureas
+     + Những khối u ngoài Tụy
+     + Sau cắt một phần d.dày
+     + Tăng trương lực TK X
+     + Bệnh đái đường kín đáo
+     + Do loạn CN tế bào B
+     + Thiếu hụt điều hoà ngược
+     + Tự phát
+     + Do Rượu
+     + Bệnh lý miễn dịch
+     + K.thể anti insulin tự phát
+  (*) Giảm đường huyết sau khi uống rượu là vì làm kiệt glicogen gan, kết hợp với Rượu như là chat ức chế trung gian sự tân tạo đường.
+   - Glucoza máu bình thường được duy trì từ Glucoza gan, bắt nguồn từ cả sự Giải phóng từ glycogen và Tân tạo đường. Khi đói kéo dài, dự trữ glicogen trở nên cạn kiệt trong vòng 18-24 giờ và Glucoza gan phóng thích phụ thuộc trên tân tạo đường. Trong  hoàn cảnh này, một nồng độ của etanol máu thấp như 45mg/dL cũng có thể dẫn đến giảm đường huyết nặng do ngăn chặn tân tạo đường.
+
+2. Cách chữa trị thông thường
+     _Lấy máu XN đường ngay.
+     _Tiêm ngay 20ml DW5 30% (nếu HM hạ đường huyết thì BN tỉnh nhanh; do nguyên nhân khác thì không thay đổi và cũng không có gì nguy hiểm hay làm nặng thêm - cho dù là do HM tăng đường huyết).
+     _Khi đã xác chẩn, phải nâng đường máu BN (Gbn) lên 6-7 mmol/L.
+        + Cách tính đường bổ xung:
+        + BX(g)=(7-Gbn) x 0, 2 x BW x 0, 18
+        + Dùng dd DW5 (100ml có 5g glucose) IV 3 giọt/p.
+
+3. Cách phòng tránh
+     Khi có các dấu hiệu nghi ngờ hoặc có biểu hiện của hạ đường huyết, người bệnh cần uống ngay một cốc nước đường, sữa, ăn bánh kẹo, hoa quả ngọt để nhanh chóng nâng đường huyết lên. Khi người bệnh đã có biểu hiện hôn mê, không nên cho ăn uống vì rất dễ bị suy hô hấp do sặc, trong trường hợp này phải nhanh chóng đưa người bệnh đến bệnh viện ngay. Đồng thời ngưng ngay tất cả các loại thuốc điều trị đái tháo đường đang dùng. Tại cơ sở y tế, tùy tình trạng người bệnh mà được các bác sĩ xử lý để làm tăng đường huyết và điều trị các biến chứng nếu có. Để phòng hạ đường huyết, người bệnh đái tháo đường cần thường xuyên kiểm tra đường huyết.
+
+4. Thông tin thêm
+  *Chẩn đoán
+     + Do BN dùng qua liều thuốc hạ đường huyết hay ăn thất thường.
+     + BN có cảm giác đói cồn cào, thèm ăn, run tay chân, và mồ hôi, da lạnh ẩm.
+     + TK lơ mơ, dần vào hôn mê
+     + XN đường máu thấp < 2, 5 mmol/L
+

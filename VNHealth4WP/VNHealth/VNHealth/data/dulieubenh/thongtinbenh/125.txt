@@ -1,0 +1,93 @@
+﻿I. Tổng quan.
+a, Nhiệm vụ:
+Hệ thần kinh thực vật làm nhiệm vụ thiết lập các tác động giữa cơ thể và môi trường, đặc biệt là điều hoà các quá trình hoạt động bên trong cơ thể.
+
+b, Trung khu TK:
+Hệ thần kinh thực vật có hệ thần kinh giao cảm và phó giao cảm, gồm có các trung khu thực vật nằm ở:
++ Não và tủy sống.
++ Các hệ thống hạch cạnh sống và hạch ngoại vi.
++ Các đường dẫn truyền của hệ thần kinh giao cảm và phó giao cảm nằm trong thành phần các dây thần kinh sọ não, tủy sống và các dây thần kinh thực vật.
++ Sự phân bố khoanh đoạn của thần kinh thực vật không tương ứng với sự phân bố của thần kinh cảm giác: từ C8 đến D3 phân bố cho mặt, cổ; từ D4-D7 phân bố cho tay; từ D8-L3 phân bố cho chân.
++ Đối với nội tạng, sự phân bố thần kinh ít mang tính chất khoanh đoạn.
+
+c, Sự dẫn truyền xung động của hệ thần kinh thực vật chậm, vì hầu hết các sợi không có bao myelin hay bao myelin rất mỏng (sợi tiền hạch có bao myelin, sợi hậu hạch không có bao myelin).
+
+d, Hoạt động
+Hoạt động của hệ thần kinh giao cảm và phó giao cảm cân đối nhau, khi mất sự cân đối này sẽ gây rối loạn.
+Đối với một số cơ quan, tổ chức, nếu xét riêng rẽ sẽ thấy có sự khác nhau về chức năng của hệ giao cảm và phó giao cảm, nhưng thực tế trong cơ thể đó là một sự hoạt động thống nhất được thể hiện ở liệt kê dưới đây:
+ 
+Hệ giao cảm Cơ quan đích-tác động
+-Mắt: Giãn đồng tử, lồi mắt, rộng khe mi.
+-Tuyến nước bọt: Tiết nước bọt đặc, ít.
+-Tim: Tăng nhịp tim, tăng huyết áp.
+-Phế quản: Giãn.
+-Ruột, dạ dày: Giảm nhu động, giảm tiết dịch
+-Mạch máu: Co mạch.
+-Da: Co mạch, tái nhợt.
+-Chất gây hưng phấn: Adrenalin, ephedrin, canxi...
+-Chất gây ức chế: Chlohydrat, bromua.
+
+Hệ phó giao cảm
+-Mắt: Co đồng tử, thụt nhãn cầu, hẹp khe mi.
+-Tuyến nước bọt: Loãng, nhiều.
+-Tim: Giảm nhịp tim, giảm huyết áp.
+-Phế quản: Co.
+-Ruột, dạ dày: Tăng nhu động, tăng tiết dịch
+-Mạch máu: Giãn mạch.
+-Da: Giãn mạch, đỏ.
+-Chất gây hưng phấn: Achetylcholin, eserin, kali...
+-Chất gây ức chế: Atropin, scopolamin.
+
+II. Các HC rối loạn thần kinh thực vật.
+1. Triệu chứng chung:
++ Rối loạn tiết mồ hôi, thay đổi màu da, xanh tím đầu chi, màu da đá vân.
++ Rối loạn huyết áp, tim mạch.
++ Khó thở, nhịp thở nhanh, nông hoặc chậm.
++ Rối loạn chức năng ruột, bàng quang, sinh dục.
++ Có các phản xạ thực vật ngoài da: dấu hiệu vẽ da nổi, vẽ da phản xạ, phản xạ dựng lông ở da.
++ Phản xạ tim mạch: phản xạ mắt-tim (phản xạ Aschner), nghiệm pháp đứng nằm.
+
+2. HC RLTK thực vật ở vỏ não
+ Vỏ não có vai trò đặc biệt trong điều hoà hoạt động của thần kinh thực vật, nếu chức năng của vỏ não bị suy nhược thì hoạt động của thần kinh thực vật mất cân đối như trong bệnh suy nhược thần kinh, có các triệu chứng sau:
++ Chân tay lạnh, mạch nhanh, đau ngực, khó thở.
++ Giảm tiết nước bọt, di tinh, táo bón…
+
+3. HC gian não (điển hình là cơn động kinh gian não):
+Vùng gian não có nhiều trung khu thần kinh thực vật quan trọng như: tim mạch, hô hấp, tiêu hoá, tiết niệu, sinh dục, nội tiết và giấc ngủ.
+Nếu tổn thương gian não, biểu hiện lâm sàng bằng cơn động kinh gian não:
++ Tiền triệu: đau đầu, thay đổi tính tình, dễ kích thích, chán ăn, xuất hiện một vài giờ đến một vài ngày trước đó.
++ Khởi đầu: sợ hãi, lo âu, cảm giác khó chịu ở vùng thượng vị và ngáp vặt.
++ Toàn phát: thời gian kéo dài từ vài phút đến hàng giờ, rét run, nổi gai ốc, mặt tái nhợt hay đỏ bừng, khó thở, tăng huyết áp, mạch nhanh, giãn đồng tử, chóng mặt, ù tai và mệt mỏi.
++ Cuối cơn vã mồ hôi, rối loạn tiểu tiện, đôi khi rối loạn tiêu hoá…
++ Ghi điện não có sóng chậm, nhọn. Điều trị thuốc chống động kinh cắt được cơn.
+
+4. Tổn thương các nhân dây thần kinh thực vật:
++ Nếu tổn thương dây X gây rối loạn nghiêm trọng về tim mạch, hô hấp.
++ Nếu tổn thương dây III (nhân thực vật) gây giãn đồng tử.
++ Nếu tổn thương dây VII phụ gây giảm tiết nước mắt và nước bọt.
+
+5. Tổn thương sừng bên tủy sống vùng lưng và thắt lưng:
++ Gây rối loạn dinh dưỡng nặng, rối loạn vận mạch và bài tiết theo kiểu khoanh đoạn.
++ Tổn thương tế bào thần kinh phó giao cảm vùng S2-S4 gây rối loạn cơ vòng và rối loạn sinh dục, đái dầm kiểu ngoại vi, đại tiện không chủ động, liệt dương.
+
+6. Tổn thương các hạch giao cảm cạnh sống:
++ Tổn thương hạch giao cảm cổ trên gây hội chứng Claude-Bernard-Horner: co đồng tử, hẹp khe mi, hẹp nhãn cầu.
++ Tổn thương hạch giao cảm cổ dưới-hạch ngực trên gây rối loạn hoạt động tim.
++ Tổn thương các hạch giao cảm cạnh sống khác có triệu chứng đau bỏng buốt rối loạn vận mạch và dinh dưỡng ở da co cứng cơ đau và co thắt nội tạng.
++ Tổn thương các dây thần kinh ngoại vi như dây trụ, dây giữa, dây quay, dây thần kinh hông to gây hội chứng bỏng buốt.
+
+7. Cường thần kinh giao cảm
++ Mắt lồi long lanh, giãn đồng tử, huyết áp tăng, miệng khô, giãn dạ dày, táo bón, trương ruột, tăng chuyển hoá, gầy sút.
++ Cường thần kinh phó giao cảm thì các triệu chứng biểu hiện ngược lại.
+
+8. Hội chứng Raynaud
++ Do cường hoạt động thần kinh giao cảm gây co thắt động mạch ở đầu chi, nhất là khi bị lạnh.
++ Đau ở đầu ngón tay, ngón chân.
++ Gặp lạnh màu da nhợt, tê bì ngọn chi, nặng thì gây hoại tử ở đầu ngón, ủ ấm triệu chứng trên đỡ.
+
+9. Đau và ban đỏ ngọn chi
+Đau ở ngọn chi kèm theo nề và ban đỏ ở da, có khi nổi ban màu tím, ấn mất đi, bỏ tay ra lại xuất hiện ngay, nề và rối loạn dinh dưỡng.
+Sờ mạch đập mạnh, tay nóng do tăng nhiệt độ tại chỗ.
+
+10. Phù Quinke
+Do rối loạn vận mạch cục bộ gây giãn mạch và phù cục bộ, phù xuất hiện đột ngột, hay gặp ở mặt, môi, mí mắt, lưỡi và da đầu, thời gian kéo dài 1-2 ngày rồi tự hết, sốt nhẹ, buồn nôn chảy nước mũi, có thể khó thở do phù niêm mạc họng.

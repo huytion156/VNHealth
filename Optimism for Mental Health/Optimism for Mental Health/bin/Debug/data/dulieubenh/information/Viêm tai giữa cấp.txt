@@ -1,0 +1,73 @@
+﻿I.Tổng quan:
++ Viêm tai giữa cấp
+- Là một bệnh thường gặp ở trẻ em từ 2 đến 6 tuổi.
+- Theo thống kê cuả Bắc Mỹ, và châu Âu 20% trẻ em ở lứa tuổi này ít nhất có một đợt viêm tai giữa cấp, 10% bệnh khởi phát do nhiễm virus.
++ Là tình trạng viêm cấp tính của niêm mạc hòm nhĩ, kể cả niêm mạc trong thông bào xương chũm với những triệu chứng khởi phát ồ ạt.
++ Nguyên nhân thường là: S.pneumoniae, H. mophilus influezae, Branhamella catarrhallis
+
+II.Chẩn đoán:
+1.Hỏi-Khám-XN:
+ a. Hỏi:
+ + Trẻ sơ sinh và trẻ nhỏ:
+ - Sốt? Khóc đêm?
+ - Bức rức, bơ phờ, hay lấy tay ngoáy vào tai.
+ - Đau tai thể hiện bằng hay khóc.
+ - Ngoài ra trẻ có thể bỏ bú, tiêu chảy hay có viem phổi kèm theo.
+ + Trẻ lớn: hỏi triệu chứng sốt, đau tai, ù tai, chảy mủ tai, nghe kém.
+
+ b. Khám tai:
+ · Tìm dấu hiệu màng nhĩ đỏ, phồng, ướt, mất tam giác sáng, các mốc giải phẩu bị xóa nhòa.
+ · Có thể thấy mực nước khí dịch, giới hạn di động khi khám bằng đèn otoscope có nén màng nhĩ.
+ · Mủ trong ống tai
+
+ c. Xét nghiệm:
+ · Công thức máu: khi sốt cao > 390 hoặc có biểu hiện nhiễm trùng nhiễm độc toàn thân hoặc khi cần phân biệt với bệnh lý khác
+ · Cấy mủ: khi điều trị nội thất bại (lấy mủ bằng cách trích rạch màng nhĩ)
+ · X.quang tai tư thế Schuller (lỗ tai ngoài trùng lỗ tai trong trên film) trong trường hợp đợt cấp viêm tai giưã mãn để tìm tổn thương xương chũm.
+
+2.Chẩn đoán xác định:
+* Bệnh nhân được chẩn đoán (+) viêm tai giữa cấp nếu có:
+ +sốt hoặc đau tai và
+ +khám thấy tổn thương màng nhỉ: xung huyết đỏ kèm di động hoặc thủng
+
+3.Chẩn đoán phân biệt
+ a.Viêm tấy ống tai ngoài:
+ ·Bệnh nhân sốt, đau tai, chảy mủ tai nhưng khi hút sạch mủ khám màng nhĩ còn nguyên.
+ ·Kéo vành tai bệnh nhân đau điếng còn trong viêm tai giữa kéo vành tai bệnh nhân không đau.
+
+ b.Viêm xương chũm:
+ ·Mủ có mùi thối khẳm và ấn vùng xương chũm bệnh nhân đau điếng.
+ ·XQ có tổn thương xương chũm, trong viêm tai giữa cấp không có tổn thương xương chũm.
+
+III.Điều trị:
+1.Nguyên tắc điều trị:
+· Kháng sinh
+· Trích rạch màng nhỉ, không để màng nhĩ vỡ tự nhiên gây rách không hồi phục
+
+2.Điều trị kháng sinh
+ a. Khang sinh ban đầu: Amox trong 7-14 ngày
+ b. Kháng sinh tiếp theo: dựa theo KSD.
+   Neu khong co KSD: Amoxicillin/Clavulanic acid hay Cefaclor hoac Cefuroxime 30mg/kg/14 ngày
+ c. Nếu bệnh nhân dị ứng với dòng lactam thì có thể dùng Erythromycine 30mg/kg/14 ngày, hoac Azithromycin.
+
+3.Trích rạch màng nhĩ :
+ khi màng nhĩ căng phồng tụ mủ gây cho trẻ đau đớn hoac khi that bai dieu tri noi can cay mu phan lap vi trung
+
+4.Điều trị triệu chứng:
+ giảm đau, hạ sốt bằng Acetaminophen 15 mg/kg/6h.
+
+5.Điều trị hỗ trợ
+ a. Nho mui thuong xuyen bang NaCl 0, 9%
+ b. Neu co chay mu: rua tai bang NaCl 0, 9%.
+    Nho tai bang khang sinh tai cho: Ciprofloxacin
+  c. Nạo VA nếu có chi dinh (Xem bai VA)
+
+6.Điều trị biến chứng
+ a. Viêm màng não: xem phác đồ điều trị viêm màng não
+ b. Viêm tai giữa thanh dịch:
+  - Biến chứng: lõm màng nhĩ, xơ nhĩ, teo nhĩ, cholesteatome thương nhĩ.
+  - Điều trị: đặt ống thông màng nhĩ
+ c. Viêm tai giữa mãn: kháng sinh sau đó vá màng nhĩ
+
+IV.Theo dõi và tái khám:
+Thường tái khám sau 3 ngày, 10 ngày, 14 ngày với nhĩ lượng đồ, thính lực đồ khi nghi ngo viêm tai giữa thanh dịch.

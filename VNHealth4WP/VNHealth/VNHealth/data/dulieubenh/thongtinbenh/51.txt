@@ -1,0 +1,37 @@
+﻿I.Triệu chứng:
++ Lâm sàng
+- dấu hiệu chảy máu do  phân hủy fibrin rất thay đổi, dễ thấy trong xuất huyết ngoại, khó khi XH nội, kể cả sự thiếu hụt TK-TT thình lình (chảy máu trong sọ), mất TTLH nặng (như trong chảy máu GI), hay suy sụp huyết cầu tố nặng mà không thấy rõ dấu hiệu công khai của việc chảy máu.
+
++ Kết quả XN
+- fibrinogen thấp (<100mg/dL) và các sản phẩm phân hủy fibrin tăng thể hiẹn tình trạng hủy huyết.
+- Thời gian trombin và ptT kéo dài có thể gợi ý một trạng thái tiêu fibrin bất trị, tuy nhiên, cả hai đều kéo dài khi có mất heparin.
+- Thời gian có cục máu kéo dài xác định trạng thái tiêu fibrin
+- fibrinogen dùng hết trong trạng thái phân hủy fibrin sẽ được phản chiếu bởi tăng ptT, thời gian Trombin. Mức Fibri-no-gen sau truyền là một chỉ tiêu đánh giá kết quả điều trị.
+- Thời gian chảy máu, như một chỉ tiêu của chức năng tiểu cầu, có thể hữu ích để đánh giá kết quả điều trị.
+
++ Phân biệt
+- Bệnh Gan có thể kéo dài cả hai pt và ptT, nhưng muc fibrinogen thường bình thường, và dem tiểu cầu thường bình thường hay chi hoi giảm. Tuy nhiên, bệnh gan nang có thể kho để phân biệt với DIC.
+- Thiếu hụt vitamin K sẽ không ảnh hưởng đến mức fibrinogen hay tiểu cầu và sẽ hoàn toàn được sữa chữa bởi bổ xung vitamin K.
+- Nhiễm trùng máu làm giảm tiểu cầu và thiếu máu cục bộ, và bệnh đông máu có thể có mặt bởi vi thiếu hụt vitamin K. Tuy nhiên, trong nhưng trường hợp này, mức chất fibrinogen sẽ vẫn bình thường.
+- Bệnh TTP cung có thể có sốt và ITP. Tuy nhiên, fibrinogen và những XN đông máu khác sẽ vẫn bình thường.
+
+IV.Điều trị
++ Ngưng Thuốc tan huyết khối, aspirin, và heparin ngay lập tức.
+
++ Đặt haí đường IV lớn để truyền bù thể tich. Nếu có thể thì băng ép tại chỗ chảy máu.
+
++ Phân loại nhóm máu BN vì cần truyền máu khẩn cấp + Gửi tiêu bản máu kiểm tra INR/ptT, fib-ri-nogen, và thời gian thrombin.
+
++ Cho protamine để đảo ngược td của heparin (1mg protamin trung hoà 100 UI heparin/tối đa < 50mg & 100 UI heparin ptL thấp - chia tiêm 3 lần)
+
+- Cryoprecipitate (10 đơn vị trong hơn 10 phút) cần phải được truyền như một biện pháp hàng đầu để sữa chữa trạng thái tiêu fibrin. Truyền lập lại cho tới khi fibrin > 100mg/dl hay đã cầm máu được hữu hiệu.
+
+- Truyền ppSB (huyết tương tươi đông lạnh, lo 10ml tương ứng 300ml hay 300dv) cũng quan trọng vì giúp thay thế các yếu tố VIII và V.
+- Nếu chảy máu tiếp tục, cryoprecipitate truyền tiếp, kiểm tra thời gian chảy máu và xem xét truyền tiểu cầu nếu thời gian chảy máu lớn hơn 9 phút. - Nếu thời gian chảy máu ít hơn 9 phút, chỉ dùng các thuốc chốong phân hủy fibrin cũng có thể bảo đảm.
+
+- Vitamin K 2mg IV trong 20' nếu tai biến do kháng VitaminK.
+
++ Thuốc chống hủy fibrin
+- Axit aminocấproic (EACA) ngăn chặn plasmin kết thành fibrin và plasminogen kết  thành fibrinogen. được sử dụng khi truyền máu nhưng vẫn chưa đạt hiệu quả; có nguy cơ tạo các cục thuyên tắc nặng. Liều ban đầu 5g hay 0.1g/Kg IV cho vào 250 ml NS truyền trong 30-60', sau đó truyền liên tục 0.5 tới 1.0g/h cho đến khi ngưng chảy máu. Chú ý trong trường hợp tắc đường tiết niệu trên. Chống chỉ định trong DIC.
+
++ Nếu chảy máu nghi ngờ do thiếu huyết cầu tố không phải do mất máu: xem xét chảy máu sau phúc mạc, chảy máu vào trong các khoảng ở bụng, ngực...

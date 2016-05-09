@@ -1,0 +1,164 @@
+﻿I.Đại cương về CO
+     1. Tỉ lệ mắc:
+          - Ngộ độc cấp CO rất thường gặp ở Pháp (10000 cas/năm, 500 người chết) và rất thường gặp ngộ độc nhiều người trong một gia đình.
+          - Ngộ độc cấp CO là nguyên nhân gây tử vong hàng đầu tại Mỹ ( 5613 trường hợp trong năm 1979 – 1988 ).
+          - Tỉ lệ di chứng: 10.000 người phải mất ít nhất một ngày nghỉ. Di chứng 4 – 40 % bệnh nhân xuất viện.
+
+     2. Đặc điểm lý hoá:
+          CO là một chất khí không màu,không mùi,không vị, khuếch tán mạnh,không gây kích thích.
+          CO có tỉ trọng gần bằng tỉ trọng không khí ( 0,968 )
+          Trọng lượng phân tử: 28,01 Dalton.
+
+     3. Nguồn CO:
+          CO là sản phẩm cháy không hoàn toàn của các chất có chứa carbon: như khói của các vụ
+động đất, ô nhiễm khói công nghiệp, chất khí đọng lâu ở hầm lò, tầng hầm, khói thuốc lá,
+khói các lò sởi,..
+
+     4. Cơ chế ngộ độc CO
+          Khi vào cơ thể: CO cố định vào Hemoglobine (Hb) 85%, nó có ái lực gắn với Hb cao gấp 200 – 250 lân so với ôxy.
+          Một phần còn lại khí CO hoà tan vào plasma và cố định vào myoglobine và vào các cytocrome.
+          Tỉ lệ HbCO ( Carboxyhemoglobine ) được hình thành phụ thuộc vào lượng HbCO ban đầu ( đặc biệt ở người hút thuốc ), vào thời gian nhiễm, lượng khí CO và thông khí của bệnh nhân.
+
+          Tỉ lệ HbCO:
+               + Người không hút thuốc lá: 1 – 2%
+               + Hút thuốc lá: 5 – 10 %
+               + Nồng độ độc: > 10%
+
+          Ngộ độc oxyt carbon gây thiếu oxy tế bào do làm giảm tỉ lệ HbO2, làm giảm giải phóng oxy từ HbO2, làm giảm sử dụng oxy của tế bào.
+          CO có thể thấm qua hàng rào rau thai và cố định vào Hb của thai nhi.
+          CO được đào thải qua đường hô hấp dưới dạng không thay đổi. Thời gian bán thải là 4 giờ.
+          Khi thông khí với oxy đẳng áp thì thời gian bán thải còn 80 phút và dưới oxy cao áp thì thời gian bán thải còn 23 phút.
+          CO gây ra thiếu oxy chủ yếu ở hệ thần kinh trung ương, đối với cơ tim và thai nhi trong thời gian có mang.
+          Tình trạng thiếu oxy sẽ nguy hiểm đặc biệt đối với người lớn tuổi, người thiếu máu, suy hô hấp và suy tim.
+
+     5.Phát hiện và định lượng:
+          Trong giai đoạn ngộ độc cấp, HbCO được định lượng bằng máy quang phổ kế (spectrophometri ).
+          Chẩn đoán xác định ngộ độc CO dựa vào tỉ lệ HbCO > 10%. Những người hút thuốc có tỉ lệ HbCO cao từ 3 - 8%, thậm chí đến 15 % ngay sa u khi hút thuốc.
+          Độ nhậy của HbCO rất cao nhưng độ đặc hiệu thấp.
+          Định lượng CO cho kết quả đáng tin cậy, nó được định lượng bằng sự hấp phụ tia cực tím, kết quả được đo bằng mmol/100ml hoặc ml/100ml.
+          Để chuyển đơn vị mmol% thành ml%, ta có công thức sau:
+               CO ml% = mmol% x 2.24
+          Độ bão hoà HbCO được tính theo công thức sau:
+               HbCO% = Tỉ lệ của CO ( ml% )/ 1,39 x nồng độ Hb(g%)
+          Khi đọc kết quả phải chú ý đến thời điểm lấy máu so với thời gian bị ngộ độc và thời điểm hút thuốc cuối cùng ở người hút thuốc lá trước khi bị ngộ độc.
+          Khi HbCO > 10% khẳng định chẩn đoán ngộ độc CO.
+
+II. Triệu chứng của ngộ độc cấp
+     1. Ngộ độc cấp có thể gặp trong các đám cháy lớn và gây tử vong nhanh chóng.
+          Khởi đầu biểu hiện bằng đau đầu, mệt mỏi, chóng mặt, buồn nôn, nhìn mờ, rối loạn hành vi kèm theo cảm giác sảng khoái, nặng hơn có thể dẫn đến hôn mê.
+
+          Chẩn đoán dựa vào:
+               - Hỏi bệnh: hỏi bệnh nhân và những người xung quanh:
+               Ngộ độc thường xảy ra với nhiều người sống trong cùng một nhà, và có thể có những dấu hiệu nhẹ từ những ngày trước nhưng không được phát hiện.
+               Những vật nuôi trong nhà là nạn nhân của ngộ độc CO, có thể bị chết như chó, mèo.
+               Cần hỏi trong nhà có dùng lò sởi không, bếp than, hoặc sửa chữa tầng hầm?…
+               Một hoàn cảnh khác có thể gây ngộ độc như là hít khói của động cơ ô tô, xe máy (đôi khi là một hình thức tự tử).
+               - Định lượng CO hoặc HbCO khi bệnh nhân đến bệnh viện hoặc sau khi đã thở oxy thì tỉ lệ HbCO và CO có thể bình thường.
+
+               - Dạng nặng hoặc hôn mê:thường gặp khi bị nhiễm độc đã lâu hoặc ở người già đã bị suy tim hoặc suy hô hấp. Nó thường gây tổn thương não, cơ tim và hệ cơ.
+
+               - Tổn thương thần kinh trung ương :được biểu hiện bằng hôn mê tăng trương lực cơ, thời gian và mức độ hôn mê rất thay đổi.
+          Có các dấu hiệu ngoại tháp.
+          Một số bệnh nhân hôn mê có thể hồi phục nhanh chóng,
+          Một số khác có cải thiện thoáng qua và không hoàn toàn, tiến triển nặng lên ở tuần thứ 2 (Hội chứng khoảng - syndrome postinterval) dẫn đến di chứng thần kinh hoặc tâm thần.
+          Cơ chế do tổn thương chất trắng của não ở vùng hải mã theo kiểu mất myeline và được phát hiện bằng chụp cắt lớp não.
+          Di chứng lâm sàng thường gặp là những vận động bất thường, tăng trương lực, tổn thương hệ thần kinh cao cấp, câm và mù vỏ.
+
+               - Tổn thương cơ tim:
+          Phụ thuộc vào nhu cầu oxy vì cơ tim chiếm 75% lượng oxy máu luư hành trong khi đó các cơ quan khác chỉ chiếm 25% lượng oxy.
+          Tổn thương cơ tim được biểu hiện trên ECG bằng thiếu máu cơ tim, loạn nhịp ( chiếm 5 – 6 %) .
+          Những rối loạn chủ yếu là rối loạn tái cực, thay đổi của sóng T và đoạ n ST .
+          Nó có thể gây ra thiếu máu dưới nội tâm mạc hoặc thiếu máu dưới thượng tâm mạc, hoặc đoạn ST chênh lên hoặc chênh xuống dưới đường đẳng điện đơn thuần.
+          Nặng hơn biểu hiện bẵng truỵ mạch và phù phổi cấp.
+          Phù phổi cấp là phối hợp cả phù phổi cấp tổn thương và phù phổi huyết động. ỏ những bệnh nhân bị bệnh mạch vành trước đó có thể gây ra nhồi máu cơ tim.
+
+          - Tổn thương cơ được biểu hiện dưới dạng tiêu cơ vân (rhabdomyolyse).
+               Cơ chế do ép vào mạch máu và thần kinh.
+               Nên tìm một cách hệ thống những dấu hiệu của tiêu cơ vân như: cơ căng, tăng thể tích, mất một hay nhiều mạch ngoại vi.
+          Xét nghiệm thấy CPK, transaminasse, amylase tăng.
+          Đôi khi khó có thể phân biệt được là do thiếu oxy, do Tư thế nằm sau hôn mê hoặc do ngộ độc CO gây ra.
+
+     2. Sinh hoá:
+          - Tăng đường huyết
+          - Tăng bạch cầu, chủ yếu là bạch cầu đa nhân trung tính.
+          - Toan hô hấp do phù phổi.
+          Toan chuyển hoá do suy tuần hoàn phối hợp với tiêu cơ vân có thể gây ra suy thận cấp.
+          Ngoài ra có thể gặp viêm tuỵ cấp trong ngộ đôc nặng.
+
+     3. Các dạng lâm sàng
+          - Một vài bệnh nhân có biểu hiện ngộ độc dưới các dạng không thường gặp phụ thuộc vào các triệu chứng hoặc cơ địa hoặc là tiến triển.
+          - Dạng thần kinh- tâm thần: Khởi đầu đi loạng choạng, khó tập trung tư tưởng, hành động không phù hợp và rối loạn thị giác.
+          - Trẻ em có thể được phát hiện bằng co giật. Đôi khi ở người lớn, khởi đầu cũng biểu hiện bằng co giật.
+          - Người già: có thể khởi đầu bằng tình trạng lẫn lộn, đôi khi có dấu hiệu thần kinh khu trú làm nhầm chẩn đoán.
+          - ở phụ nữ có thai:
+               Không có sự tồn tại song song giữa mức độ nặng của mẹ với mức độ nặng của thai nhi.
+               Trong thời kì đầu, thiếu oxy của thai có thể gây ra thai chết luư hoặc gây ra dị dạng bẩm sinh.
+ở giai đoạn cuối của thời kì có thai, ngộ độc CO gây ra thai chết luư hoặc bệnh não cho thai.
+               Tuy nhiên , người ta có thể gặp thai nhi phát triển bình thường ở những trường hợp ngộ độc nhe hoặc trung bình.
+
+          - Một nguyên nhân ngộ độc đặc biệt cần chú ý là ngộ độc khí chlore méthylene và khí dichloromethane. Những dung môi này sẽ được chuyển hoá một phần trong cơ thể thành CO. Hai loại khí trên được sử dụng trong công nghiệp và trong hội hoạ (để tẩy tranh ), nó thường được sử dụng trong những nơi kém thông khí và có thể gây ra ngộ độc khí CO nặng.
+
+III.Chẩn đoán
+     1. Chẩn đoán xác định
+          - Khai thác bệnh sử
+          - Khám thực thể
+          - HbCO máu.
+          Chú ý nồng độ COHb không tương quan với lâm sàng và di chứng thần kinh
+
+     2. Chẩn đoán phân biệt
+          - Ngộ độc nhẹ: dễ lầm với cảm cúm nhất là về mùa đông. Sau 4 giờ tiếp xúc CO 200ppm COHb 15 - 20% là đau đầu. CO 500 ppm là buồn nôn
+          - Ngộ độc vừa: dễ nhầm với ngộ độc thức ăn (buồn nôn, nôn); đau thắt ngực không ổn định
+          - Ngộ độc nặng cần phân biệt với các nguyên nhân gây hôn mê và co giật khác.
+          - Mầu đỏ anh đào xuất hiện khi tiếp xúc quá nhiều (2 -3%). Đây là dấu hiệu ít nhậy
+
+IV.Di chứng của CO
+     - Sa sút trí tuệ
+     - Tâm thần
+     - Parkinson
+     - Liệt
+     - Múa vờn
+     - Mù vỏ
+     - Bệnh lý thần kinh ngoại vi
+     - Bất lực
+     Tổn thương thần kinh xuất hiện 2 - 40 ngày sau nhiễm CO
+          + 1 thống kê trên BN ngộ độc được thở oxy 100% trong ICU 14% sống sót có tổn thương thần kinh không hồi phục
+          + 1 nghiên cứu 2360 BN ngộ độc CO thấy 3% sa sút trí tuệ và Parkinson sau 1 năm
+          + 1 nghiên cứu trên 63 BN bị ngộ độc nặng 43% giảm trí nhớ, 33% thay đổi về tính cách sau 3 năm theo dõi.
+
+V. Điều trị:
+     Chiến lược điều trị không dựa vào nồng độ HbCO, mà dựa vào tình trạng có bị mất ý thức lúc đầu hay không?, tình trạng hôn mê, các yếu tố tiên lượng nặng, và vào các di chứng thần kinh.
+
+     1. Nhanh chóng đưa nạn nhân ra khỏi nơi ngộ độc:
+          cho phép HbCO phân ly nhanh chóng. Trong khi kéo nạn nhân ra khỏi vùng bị ngộ độc: người cứu nạn phải luư ý mang mặt nạ phòng độc hoặc đeo khẩu trang ẩm, phải đề phòng khả năng nổ của không khí giầu CO.
+
+     2.Thở oxy :
+          Sự phân ly của HbCO được thúc đẩy dưới oxy liệu pháp, vì vậy cần cho thở oxy càng sớm càng tốt, cho thở oxy ngay sau khi lấy máu định lượng HbCO.
+          - Thở oxy 100% đến khi COHb < 2%, đối với BN có thai thì duy trì 2 giờ sau khi COHb về 0 nhằm kéo dài thời gian thải trừ CO từ thai nhi Điều trị oxy đẳng áp( ONB ) là biện pháp đầu tiên. oxy được sử dụng dưới dạng masque hoặc lều oxy ở trẻ em.
+          Liệu pháp oxy cao áp ( OHB ) chỉ định cho phụ nỡ có thai, hôn mê (có tác dụng làm tăng áp lực riêng phần của oxy, làm tăng sự phân ly HbCO, làm tăng sự khuếch tán của oxy trong máu và làm cho tổ chức sử dụng oxy dễ dàng hơn.
+
+     3. Điều trị triệu chứng:
+          - Nếu có suy hô hấp cần đặt nội khí quản, thở máy.
+          - Điều trị HA tụt, đặt catheter, dùng thuốc vân mạch tuỳ theo mức độ của rối loạn huyết động.
+          - Theo dõi chức năng sống cơ bản,
+          - làm khí máu
+          - Điều trị toan chuyển hoá chỉ khi pH < 7,1. Tình trạng toan giúp đường phân ly ôxy dịch chuyển về phía bên phải thuận lợi cho giải phóng ôxy cho tổ chức
+
+     4. Phòng tái phát:
+          giáo dục bệnh nhân.
+          Vệ sinh nơi ở và môi trường lao động
+
+VI. Ôxy cao áp trong ngộ độc CO
+     1. Cơ sở của điều trị
+          - Giảm thời gian nửa đời sống: Nếu thở O2 100% thời gian trong vòng 40 phút nếu HBO 2,5 atm thì thời gian chỉ còn 20 phút (4 -86 phút). Tăng O2 hoà tan lên 10 lần
+          - Cung cấp O2 cho tổ chức dưới dạng hoà tan trong plasma
+          - Gây co mạch não tức thì trong khi vẫn duy trì được O2 cho tổ chức não
+          - Ngăn chặn sự tổng hợp các gốc tự do từ hiện tượng peroxidation của mỡ trong tế bào não do ngộ độc CO.
+
+     2. Chỉ định:
+          - Ngất
+          - Hôn mê
+          - Co giật
+          - GCS < 15 điểm
+          - Có dấu hiệu thần kinh khu trú hoặc COHb > 25% (một số >40% và > 25% nếu kèm theo: co giật, loạn nhịp tim,di chứng) hoặc COHb > 15% ở phụ nữ có thai - Thiếu máu cơ tim
+          - Loạn nhịp thất
+          - Sau khi điều trị ban đầu ổn định sau 2 -4 giờ mà triệu chứng thần kinh không phục hồi (đau đầu, thất điều, lú lẫn)

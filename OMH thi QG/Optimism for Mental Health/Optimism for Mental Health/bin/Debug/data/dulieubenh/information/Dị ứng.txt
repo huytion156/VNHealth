@@ -1,0 +1,391 @@
+﻿I. Đại cương
+1.1. Định nghĩa
+Dị ứng là tình trạng bệnh lý của phản ứng miễn dịch với dị nguyên gây ra tổn thương tổ chức và rối loạn chức năng của các cơ quan
+
+Bình thường, khi gặp vật lạ, cơ thể sẽ có những phản ứng nhằm mục đích bảo vệ.
+Tuy nhiên nếu phản ứng xảy ra quá mức, gây ra những tổn hại cho cơ thể thì gọi là phản ứng dị ứng (hay trầm trọng hơn, có thể dẫn đến tử vong thì gọi là phản ứng phản vệ).
+Những vật lạ là nguyên nhân của phản ứng dị ứng được gọi là dị nguyên.
+Có dị ứng hay không còn tùy thuộc vào cơ địa, tố chất di truyền của mỗi người.
+Tiền sử gia đình có vai trò rất quan trọng. Cha mẹ bị dị ứng có tỷ lệ con bị dị ứng cao. Phân nửa số con của cha và mẹ đều bị dị ứng sẽ bị dị ứng. Nếu chỉ cha hoặc mẹ bị dị ứng thì tỷ lệ này là 30%.
+
+1.2. Phân loại
+a. Theo các typ quá mẫn
+* Typ I:
+- Dị nguyên: Phấn hoa, huyết thanh, lông vũ, bụi
+- Kháng thể: Lưu động hoặc gắn vào TB, IgE, IgG
+- LS: Chóang phản vệ, bệnh dư atopi: viêm mũi, sốt mùa, hen phế quản do phấn hoa, mày đay, phù quincke v.v...
+- Dị nguyên kết hợp Kháng nguyên trên màng TB mast -> phân huỷ hạt của TB, giải phóng các chất trung gian.
+- Histamin: Co thắt mạch não, đau đầu,chóng mặt, hôn mê
++ Co thắt phế quản: khó thở
++ tăng tính thấm mao mạch phế quản
++ Kích thích tận cùng thần kinh dưới da: ngứa.
++ Suy giảm miễn dịch lớn, tụt HA
+
+* Typ II:
+- Dị nguyên Haplen hoặc TB gắn trên mặt HC, BC
+- Kháng thể (IgG): lưu hành trong huyết thanh.
+- Kháng nguyên + Kháng thể -> hoạt hoá bổ thể -> trên TB (HC)
+- Bệnh: Thiếu máu tan huyết, giảm BC, giảm TC do thuốc
+
+* Typ III:
+- Dị nguyên: Huyết thanh, hoá chất, thuốc
+- Kháng thể: Kết tủa IgM, IgG
+- Dị nguyên + Kháng thể kết tủa -> PHMD -> hoạt hoá bổ thể ->tổn thương mao mạch cơ trơn
+- Bệnh: VKDT, VCT, ban xuất huyết dị ứng, viêm nút quanh ĐM ...
+
+* Typ IV:
+- Dị nguyên: VK, VR, độc tố VK, 1 số nhỏ là thuốc, hapten tổ chức ...
+- Kháng thể: Các lympho T mẫn cảm
+- Dị nguyên + lympho T mẫn cảm (đại thực bào) -> giảm lymphokin -> rối loạn chức năng, tổn thương tổ chức trong dị ứng muộn
+- Bệnh: Viêm da tiếp xúc, u hạt ...
+
+b. Theo nguồn gốc và bản chất dị nguyên
+* Dị nguyên ngoại sinh
++ Không nhiễm trùng
++ Nhiễm trùng
+* Dị nguyên nội sinh
+* Dị nguyên có tính kháng nguyên
+
+c. Theo hệ thống cơ quan bị tổn thương
+Da, đường hô hấp, mắt, dạ dày – ruột, gan, thận, toàn thân.
+
+II. Nguyên nhân và cơ chế
+2.1. Nguyên nhân
+a. Dị nguyên ngoại sinh
+* Dị nguyên ngoại sinh không nhiễm trùng
+- Bụi nhà, đường phố, thư viện
+- Biểu bì, vẩy da, lông súc vật.
+- Phấn hoa
+- Thực phẩm
+- Thuốc
+- Hoá chất
+* Dị nguyên ngoại sinh nhiễm trùng
+- VK
+- Virut
+- Nấm
+
+b. Dị nguyên nội sinh
++ Những TB và tổ chức bình thường
++ Dị nguyên nội sinh thứ phát
+
+2.2. Cơ chế bệnh sinh
+a. Những yếu tố tham gia vào cơ chế của bệnh dị ứng
+- Đường xâm nhập của dị nguyên
++ Đường hô hấp
++ Đường tiêu hoá
++ Đường tiêm
++ Da
+- Kháng thể IgE đóng vai trò chủ yếu
+- Các Interleukin
+
+b. Các giai đoạn trong cơ chế dị ứng
+- Giai đoạn mẫn cảm: Dị nguyên -> hình thành IgE
+- Giai đoạn sinh hoá bệnh: Dị nguyên lại lọt vào cơ thể + Kháng thể dị ứng (bổ thể) ® phá vỡ hạt TB mast, BC ái kiềm ...-> giải phóng hoá chất trung gian
+- Giai đoạn sinh lý bệnh: Các hoạt chất trung gian được giải phóng -> tác động cơ quan gây rối loạn chức năng, tổn thương tổ chức -> bệnh lý trên lâm sàng mày đay, phù quinck, hen phế quản, ban xuất huyết...
+
+III. Một số bệnh dị ứng thường gặp
+Đặc điểm chung:
+- Bệnh diễn biến theo quy luật từng cơn theo đợt, theo mùa
+- Biểu hiện đa dạng ở nhiều cơ quan
+- Cơn xuất hiện thoái lui đột ngột, hay tái phát.
+- Có tiền sử dị ứng bản thân + gia đình
+- Triệu chứng (tiền triệu): ngứa mắt, mũi, chay nước mắt, nước mũi, hắt hơi, sốt, mệt mỏi, đau cơ
+- Cận lâm sàng: tăng BC ái toan, IgE máu
+
+3.1. Mày đay
+- Yếu tố xuất hiện: hoá chất, thuốc, thời tiết lạnh.
+- Triệu chứng:
++ Ngứa từng mảng trên da, lan nhanh nếu gãi nhiều, giảm khi trườm nóng
++ Nổi sần màu hồng, xung quanh viền đỏ (tròn, bầu dục)
++ Mất nhanh, tái phát khi tiếp xúc lại Dị nguyên
+
+3.2. Viêm mũi xoang dị ứng
+- Hắt hơi, chảy nước mũi trong (bội nhiễm đục, mủ)
+
+3.3. Hen phế quản dị ứng
+- Cơn hen xảy ra nhanh ngay khi tiếp xúc Dị nguyên hoặc chậm vài giờ, vài ngày
+
+3.4. Rối loạn tiêu hóa do dị ứng thức ăn
+- Sau ăn đau bụng, ỉa lỏng, tăng nhu động ruột
+- Biểu hiện lâm sàng giống nhau đối với thức ăn tôm, cua, cá, trứng, thịt gà.
+
+3.5. Chàm
+Gặp từ nhỏ, sau 2 – 3 tuổi thường tự khỏi
+- Tổn thương: da đầu, mặt, vùng tiếp xúc tã, da dày, đỏ ngứa, trên mặt da co nốt phỏng nước
+
+IV. Điều trị
+Nguyên tắc: Điều trị triệu chứng, loại trừ Dị nguyên đặc hiệu
+4.1. Loại trừ dị nguyên
+- Thay đổi nơi ở, làm việc, đổi nghề, thay thuốc, loại bỏ thực phẩm gây dị ứng...
+- Giải mẫn cảm đặc hiệu: Thực hiện khi không loại được Dị nguyên
++ Đưa Dị nguyên gây bệnh vào cơ thể: Nhiều dần, liều tăng dần -> hình thành Kháng thể bao vây (IgG) -> ngăn Dị nguyên + IgE
++ Phương pháp này có hiệu quả rõ khi phát hiện sớm Dị nguyên
+Hạn chế: Không dùng cho người có thai, bệnh cấp tính, K, thần kinh, tâm thần, người bệnh đang cơn dị ứng...
+
+4.2. Thuốc
+* Kháng Histamin:
++ Phong bế H1 -> bảo vệ sự bền vững của màng TB mastocyte
++ phong bế H2: Giảm tiết dịch, co thắt trong viêm loét dạ dày.
+* Corticoid: Giảm phản ứng viêm
+* Theophylin: Giãn mạch, giãn phế quản, lợi tiểu -> cắt cơn hen
+I. Đại cương
+1.1. Định nghĩa
+Dị ứng là tình trạng bệnh lý của phản ứng miễn dịch với dị nguyên gây ra tổn thương tổ chức và rối loạn chức năng của các cơ quan
+
+Bình thường, khi gặp vật lạ, cơ thể sẽ có những phản ứng nhằm mục đích bảo vệ.
+Tuy nhiên nếu phản ứng xảy ra quá mức, gây ra những tổn hại cho cơ thể thì gọi là phản ứng dị ứng (hay trầm trọng hơn, có thể dẫn đến tử vong thì gọi là phản ứng phản vệ).
+Những vật lạ là nguyên nhân của phản ứng dị ứng được gọi là dị nguyên.
+Có dị ứng hay không còn tùy thuộc vào cơ địa, tố chất di truyền của mỗi người.
+Tiền sử gia đình có vai trò rất quan trọng. Cha mẹ bị dị ứng có tỷ lệ con bị dị ứng cao. Phân nửa số con của cha và mẹ đều bị dị ứng sẽ bị dị ứng. Nếu chỉ cha hoặc mẹ bị dị ứng thì tỷ lệ này là 30%.
+
+1.2. Phân loại
+a. Theo các typ quá mẫn
+* Typ I:
+- Dị nguyên: Phấn hoa, huyết thanh, lông vũ, bụi
+- Kháng thể: Lưu động hoặc gắn vào TB, IgE, IgG
+- LS: Chóang phản vệ, bệnh dư atopi: viêm mũi, sốt mùa, hen phế quản do phấn hoa, mày đay, phù quincke v.v...
+- Dị nguyên kết hợp Kháng nguyên trên màng TB mast -> phân huỷ hạt của TB, giải phóng các chất trung gian.
+- Histamin: Co thắt mạch não, đau đầu,chóng mặt, hôn mê
++ Co thắt phế quản: khó thở
++ tăng tính thấm mao mạch phế quản
++ Kích thích tận cùng thần kinh dưới da: ngứa.
++ Suy giảm miễn dịch lớn, tụt HA
+
+* Typ II:
+- Dị nguyên Haplen hoặc TB gắn trên mặt HC, BC
+- Kháng thể (IgG): lưu hành trong huyết thanh.
+- Kháng nguyên + Kháng thể -> hoạt hoá bổ thể -> trên TB (HC)
+- Bệnh: Thiếu máu tan huyết, giảm BC, giảm TC do thuốc
+
+* Typ III:
+- Dị nguyên: Huyết thanh, hoá chất, thuốc
+- Kháng thể: Kết tủa IgM, IgG
+- Dị nguyên + Kháng thể kết tủa -> PHMD -> hoạt hoá bổ thể ->tổn thương mao mạch cơ trơn
+- Bệnh: VKDT, VCT, ban xuất huyết dị ứng, viêm nút quanh ĐM ...
+
+* Typ IV:
+- Dị nguyên: VK, VR, độc tố VK, 1 số nhỏ là thuốc, hapten tổ chức ...
+- Kháng thể: Các lympho T mẫn cảm
+- Dị nguyên + lympho T mẫn cảm (đại thực bào) -> giảm lymphokin -> rối loạn chức năng, tổn thương tổ chức trong dị ứng muộn
+- Bệnh: Viêm da tiếp xúc, u hạt ...
+
+b. Theo nguồn gốc và bản chất dị nguyên
+* Dị nguyên ngoại sinh
++ Không nhiễm trùng
++ Nhiễm trùng
+* Dị nguyên nội sinh
+* Dị nguyên có tính kháng nguyên
+
+c. Theo hệ thống cơ quan bị tổn thương
+Da, đường hô hấp, mắt, dạ dày – ruột, gan, thận, toàn thân.
+
+II. Nguyên nhân và cơ chế
+2.1. Nguyên nhân
+a. Dị nguyên ngoại sinh
+* Dị nguyên ngoại sinh không nhiễm trùng
+- Bụi nhà, đường phố, thư viện
+- Biểu bì, vẩy da, lông súc vật.
+- Phấn hoa
+- Thực phẩm
+- Thuốc
+- Hoá chất
+* Dị nguyên ngoại sinh nhiễm trùng
+- VK
+- Virut
+- Nấm
+
+b. Dị nguyên nội sinh
++ Những TB và tổ chức bình thường
++ Dị nguyên nội sinh thứ phát
+
+2.2. Cơ chế bệnh sinh
+a. Những yếu tố tham gia vào cơ chế của bệnh dị ứng
+- Đường xâm nhập của dị nguyên
++ Đường hô hấp
++ Đường tiêu hoá
++ Đường tiêm
++ Da
+- Kháng thể IgE đóng vai trò chủ yếu
+- Các Interleukin
+
+b. Các giai đoạn trong cơ chế dị ứng
+- Giai đoạn mẫn cảm: Dị nguyên -> hình thành IgE
+- Giai đoạn sinh hoá bệnh: Dị nguyên lại lọt vào cơ thể + Kháng thể dị ứng (bổ thể) ® phá vỡ hạt TB mast, BC ái kiềm ...-> giải phóng hoá chất trung gian
+- Giai đoạn sinh lý bệnh: Các hoạt chất trung gian được giải phóng -> tác động cơ quan gây rối loạn chức năng, tổn thương tổ chức -> bệnh lý trên lâm sàng mày đay, phù quinck, hen phế quản, ban xuất huyết...
+
+III. Một số bệnh dị ứng thường gặp
+Đặc điểm chung:
+- Bệnh diễn biến theo quy luật từng cơn theo đợt, theo mùa
+- Biểu hiện đa dạng ở nhiều cơ quan
+- Cơn xuất hiện thoái lui đột ngột, hay tái phát.
+- Có tiền sử dị ứng bản thân + gia đình
+- Triệu chứng (tiền triệu): ngứa mắt, mũi, chay nước mắt, nước mũi, hắt hơi, sốt, mệt mỏi, đau cơ
+- Cận lâm sàng: tăng BC ái toan, IgE máu
+
+3.1. Mày đay
+- Yếu tố xuất hiện: hoá chất, thuốc, thời tiết lạnh.
+- Triệu chứng:
++ Ngứa từng mảng trên da, lan nhanh nếu gãi nhiều, giảm khi trườm nóng
++ Nổi sần màu hồng, xung quanh viền đỏ (tròn, bầu dục)
++ Mất nhanh, tái phát khi tiếp xúc lại Dị nguyên
+
+3.2. Viêm mũi xoang dị ứng
+- Hắt hơi, chảy nước mũi trong (bội nhiễm đục, mủ)
+
+3.3. Hen phế quản dị ứng
+- Cơn hen xảy ra nhanh ngay khi tiếp xúc Dị nguyên hoặc chậm vài giờ, vài ngày
+
+3.4. Rối loạn tiêu hóa do dị ứng thức ăn
+- Sau ăn đau bụng, ỉa lỏng, tăng nhu động ruột
+- Biểu hiện lâm sàng giống nhau đối với thức ăn tôm, cua, cá, trứng, thịt gà.
+
+3.5. Chàm
+Gặp từ nhỏ, sau 2 – 3 tuổi thường tự khỏi
+- Tổn thương: da đầu, mặt, vùng tiếp xúc tã, da dày, đỏ ngứa, trên mặt da co nốt phỏng nước
+
+IV. Điều trị
+Nguyên tắc: Điều trị triệu chứng, loại trừ Dị nguyên đặc hiệu
+4.1. Loại trừ dị nguyên
+- Thay đổi nơi ở, làm việc, đổi nghề, thay thuốc, loại bỏ thực phẩm gây dị ứng...
+- Giải mẫn cảm đặc hiệu: Thực hiện khi không loại được Dị nguyên
++ Đưa Dị nguyên gây bệnh vào cơ thể: Nhiều dần, liều tăng dần -> hình thành Kháng thể bao vây (IgG) -> ngăn Dị nguyên + IgE
++ Phương pháp này có hiệu quả rõ khi phát hiện sớm Dị nguyên
+Hạn chế: Không dùng cho người có thai, bệnh cấp tính, K, thần kinh, tâm thần, người bệnh đang cơn dị ứng...
+
+4.2. Thuốc
+* Kháng Histamin:
++ Phong bế H1 -> bảo vệ sự bền vững của màng TB mastocyte
++ phong bế H2: Giảm tiết dịch, co thắt trong viêm loét dạ dày.
+* Corticoid: Giảm phản ứng viêm
+* Theophylin: Giãn mạch, giãn phế quản, lợi tiểu -> cắt cơn hen
+I. Đại cương
+1.1. Định nghĩa
+Dị ứng là tình trạng bệnh lý của phản ứng miễn dịch với dị nguyên gây ra tổn thương tổ chức và rối loạn chức năng của các cơ quan
+
+Bình thường, khi gặp vật lạ, cơ thể sẽ có những phản ứng nhằm mục đích bảo vệ.
+Tuy nhiên nếu phản ứng xảy ra quá mức, gây ra những tổn hại cho cơ thể thì gọi là phản ứng dị ứng (hay trầm trọng hơn, có thể dẫn đến tử vong thì gọi là phản ứng phản vệ).
+Những vật lạ là nguyên nhân của phản ứng dị ứng được gọi là dị nguyên.
+Có dị ứng hay không còn tùy thuộc vào cơ địa, tố chất di truyền của mỗi người.
+Tiền sử gia đình có vai trò rất quan trọng. Cha mẹ bị dị ứng có tỷ lệ con bị dị ứng cao. Phân nửa số con của cha và mẹ đều bị dị ứng sẽ bị dị ứng. Nếu chỉ cha hoặc mẹ bị dị ứng thì tỷ lệ này là 30%.
+
+1.2. Phân loại
+a. Theo các typ quá mẫn
+* Typ I:
+- Dị nguyên: Phấn hoa, huyết thanh, lông vũ, bụi
+- Kháng thể: Lưu động hoặc gắn vào TB, IgE, IgG
+- LS: Chóang phản vệ, bệnh dư atopi: viêm mũi, sốt mùa, hen phế quản do phấn hoa, mày đay, phù quincke v.v...
+- Dị nguyên kết hợp Kháng nguyên trên màng TB mast -> phân huỷ hạt của TB, giải phóng các chất trung gian.
+- Histamin: Co thắt mạch não, đau đầu,chóng mặt, hôn mê
++ Co thắt phế quản: khó thở
++ tăng tính thấm mao mạch phế quản
++ Kích thích tận cùng thần kinh dưới da: ngứa.
++ Suy giảm miễn dịch lớn, tụt HA
+
+* Typ II:
+- Dị nguyên Haplen hoặc TB gắn trên mặt HC, BC
+- Kháng thể (IgG): lưu hành trong huyết thanh.
+- Kháng nguyên + Kháng thể -> hoạt hoá bổ thể -> trên TB (HC)
+- Bệnh: Thiếu máu tan huyết, giảm BC, giảm TC do thuốc
+
+* Typ III:
+- Dị nguyên: Huyết thanh, hoá chất, thuốc
+- Kháng thể: Kết tủa IgM, IgG
+- Dị nguyên + Kháng thể kết tủa -> PHMD -> hoạt hoá bổ thể ->tổn thương mao mạch cơ trơn
+- Bệnh: VKDT, VCT, ban xuất huyết dị ứng, viêm nút quanh ĐM ...
+
+* Typ IV:
+- Dị nguyên: VK, VR, độc tố VK, 1 số nhỏ là thuốc, hapten tổ chức ...
+- Kháng thể: Các lympho T mẫn cảm
+- Dị nguyên + lympho T mẫn cảm (đại thực bào) -> giảm lymphokin -> rối loạn chức năng, tổn thương tổ chức trong dị ứng muộn
+- Bệnh: Viêm da tiếp xúc, u hạt ...
+
+b. Theo nguồn gốc và bản chất dị nguyên
+* Dị nguyên ngoại sinh
++ Không nhiễm trùng
++ Nhiễm trùng
+* Dị nguyên nội sinh
+* Dị nguyên có tính kháng nguyên
+
+c. Theo hệ thống cơ quan bị tổn thương
+Da, đường hô hấp, mắt, dạ dày – ruột, gan, thận, toàn thân.
+
+II. Nguyên nhân và cơ chế
+2.1. Nguyên nhân
+a. Dị nguyên ngoại sinh
+* Dị nguyên ngoại sinh không nhiễm trùng
+- Bụi nhà, đường phố, thư viện
+- Biểu bì, vẩy da, lông súc vật.
+- Phấn hoa
+- Thực phẩm
+- Thuốc
+- Hoá chất
+* Dị nguyên ngoại sinh nhiễm trùng
+- VK
+- Virut
+- Nấm
+
+b. Dị nguyên nội sinh
++ Những TB và tổ chức bình thường
++ Dị nguyên nội sinh thứ phát
+
+2.2. Cơ chế bệnh sinh
+a. Những yếu tố tham gia vào cơ chế của bệnh dị ứng
+- Đường xâm nhập của dị nguyên
++ Đường hô hấp
++ Đường tiêu hoá
++ Đường tiêm
++ Da
+- Kháng thể IgE đóng vai trò chủ yếu
+- Các Interleukin
+
+b. Các giai đoạn trong cơ chế dị ứng
+- Giai đoạn mẫn cảm: Dị nguyên -> hình thành IgE
+- Giai đoạn sinh hoá bệnh: Dị nguyên lại lọt vào cơ thể + Kháng thể dị ứng (bổ thể) ® phá vỡ hạt TB mast, BC ái kiềm ...-> giải phóng hoá chất trung gian
+- Giai đoạn sinh lý bệnh: Các hoạt chất trung gian được giải phóng -> tác động cơ quan gây rối loạn chức năng, tổn thương tổ chức -> bệnh lý trên lâm sàng mày đay, phù quinck, hen phế quản, ban xuất huyết...
+
+III. Một số bệnh dị ứng thường gặp
+Đặc điểm chung:
+- Bệnh diễn biến theo quy luật từng cơn theo đợt, theo mùa
+- Biểu hiện đa dạng ở nhiều cơ quan
+- Cơn xuất hiện thoái lui đột ngột, hay tái phát.
+- Có tiền sử dị ứng bản thân + gia đình
+- Triệu chứng (tiền triệu): ngứa mắt, mũi, chay nước mắt, nước mũi, hắt hơi, sốt, mệt mỏi, đau cơ
+- Cận lâm sàng: tăng BC ái toan, IgE máu
+
+3.1. Mày đay
+- Yếu tố xuất hiện: hoá chất, thuốc, thời tiết lạnh.
+- Triệu chứng:
++ Ngứa từng mảng trên da, lan nhanh nếu gãi nhiều, giảm khi trườm nóng
++ Nổi sần màu hồng, xung quanh viền đỏ (tròn, bầu dục)
++ Mất nhanh, tái phát khi tiếp xúc lại Dị nguyên
+
+3.2. Viêm mũi xoang dị ứng
+- Hắt hơi, chảy nước mũi trong (bội nhiễm đục, mủ)
+
+3.3. Hen phế quản dị ứng
+- Cơn hen xảy ra nhanh ngay khi tiếp xúc Dị nguyên hoặc chậm vài giờ, vài ngày
+
+3.4. Rối loạn tiêu hóa do dị ứng thức ăn
+- Sau ăn đau bụng, ỉa lỏng, tăng nhu động ruột
+- Biểu hiện lâm sàng giống nhau đối với thức ăn tôm, cua, cá, trứng, thịt gà.
+
+3.5. Chàm
+Gặp từ nhỏ, sau 2 – 3 tuổi thường tự khỏi
+- Tổn thương: da đầu, mặt, vùng tiếp xúc tã, da dày, đỏ ngứa, trên mặt da co nốt phỏng nước
+
+IV. Điều trị
+Nguyên tắc: Điều trị triệu chứng, loại trừ Dị nguyên đặc hiệu
+4.1. Loại trừ dị nguyên
+- Thay đổi nơi ở, làm việc, đổi nghề, thay thuốc, loại bỏ thực phẩm gây dị ứng...
+- Giải mẫn cảm đặc hiệu: Thực hiện khi không loại được Dị nguyên
++ Đưa Dị nguyên gây bệnh vào cơ thể: Nhiều dần, liều tăng dần -> hình thành Kháng thể bao vây (IgG) -> ngăn Dị nguyên + IgE
++ Phương pháp này có hiệu quả rõ khi phát hiện sớm Dị nguyên
+Hạn chế: Không dùng cho người có thai, bệnh cấp tính, K, thần kinh, tâm thần, người bệnh đang cơn dị ứng...
+
+4.2. Thuốc
+* Kháng Histamin:
++ Phong bế H1 -> bảo vệ sự bền vững của màng TB mastocyte
++ phong bế H2: Giảm tiết dịch, co thắt trong viêm loét dạ dày.
+* Corticoid: Giảm phản ứng viêm
+* Theophylin: Giãn mạch, giãn phế quản, lợi tiểu -> cắt cơn hen
+

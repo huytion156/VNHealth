@@ -1,0 +1,98 @@
+﻿I. Tổng quan
+          + Người ta ước lượng rằng có từ 1 – 2 % trong quần thể người THA sẽ có tình trạng tăng cao HA nặng và cấp tính được gọi với thuật ngữ là “cơn THA” .
+          + Một cơn THA thường được cho là khi HATThu trên 180 mmHg hoặc HATTrương trên 120 mmHg, có hoặc không có tổn thương cơ quan đích
+
+     1. Phân loại quốc tế (nhiều kiểu)
+   a. Phân loại theo CMDT 2005
+* Chia cơn THA làm 3 loại:
+          + THA Khẩn cấp
+          + THA Cấp cứu
+          + THA Ác tính
+*Tất cả đều có HA tâm trương đột ngột > 120mmHg
+
+   b. Phân loại theo JNC VI
+* Chia cơn THA 2 loại:
+          + Cơn THA nặng (như khẩn cấp):
+               - Khi HA 180/110, chưa có tổn thương cơ quan đích
+               - Cần hạ HA trong vài giờ (THA độ IV, sau ngưng thuốc, trong mổ, gây chảy máu mũi...).
+          + Cơn THA cấp cứu:
+               - Đe dọa tính mạng BN, phải được hạ HA cấp trong 1h;
+               - Thường HA tâm trương > 130, kèm dấu hiệu tổn thương cơ quan đích (tim, thận, mắt, não...)
+
+     2. Xác chẩn các loại cơn THA
+   a. Cơn THA khẩn cấp (urgency)
+* là cơn THA không kèm tổn thương cơ quan đích (gan, não, thận...).
+          + Chẩn đoán xác định:
+               - Có cơn THA đột ngột.
+               - HA t.thu > 220mmHg & HA t.trương > 120mmHg.
+               - HA có thể được giảm dần trong vòng 24-48 giờ khi dùng thuốc bằng đường uống.
+          + BN phải ở trong BV > 24-48 giờ, để biết chắc có đáp ứng với thuốc và không gặp tác dụng phụ hay biến chứng
+          + Xử trí: Hay dùng  thuốc hạ áp uống: Captopril;  Clonidine;   Labetalol;  Niphedipin....
+
+   b. Cơn THA cấp cứu (emergency):
+* Là cơn THA đã kèm theo tổn thương cơ quan đích, tiến triển cấp
+          + Chẩn đoán xác định:
+               - Khi có tiêu chuẩn (a) + ≥ 1 trong các t.chuẩn (b-g) còn lại:
+                    (a) HA tâm trương > 130 mmHg (ở người không THA t.xuyên) hay > 140mmHg (ở người có THA t.xuyên)
+                    (b) Có biểu hiện não do THA (đau đầu dữ dội, đột quị, xuất huyết)
+                    (c) Suy tim trái cấp (khó thở, hen tim, OAP)
+                    (d) Đáy mắt tổn thương độ III, IV (xuất tiết, xuât huyết, phù gai)
+                    (e) Suy thận cấp
+                    (f) Phình bóc tách động mạch (quai đ.m chủ; đ.m chủ ngực)
+                    (g) Xuất huyết thuộc hệ đ.m cảnh ngoài (chảy máu mũi ...)
+          + Xử trí: Đòi hỏi phải hạ HA trong vài giờ bằng thuốc hạ áp tiêm IV.
+               - Lasix;  Nitroprussiat;  Nitroglycerin;  Nicardipin;  Labetalol ...
+
+* Tham khảo mới - AHA 2007
+
+II. Điều dưỡng: Theo dõi
+     1. Sinh hiệu: mỗi 30 phút cho tới khi Huyết áp được kiểm soát, rồi thì q4h.
+     2. Hoạt động: Nghỉ tại giường
+     3. Chăm sóc: monitoring Huyết áp, cân hàng ngay, I&O.
+     4. Chế độ ăn: dịch sạch.
+     5. Truyền dịch: D5W truyền giữ ven (TKO  500 ml/24 giờ).
+
+
+III. Xử trí cấp cứu
+     Nguyên tắc: “trước hết mọi can thiệp, là không làm gì hại thêm”.
+     1. Cơn Khẩn cấp
+               - THA khẩn cấp có thể được xử trí với một phác đồ điều trị thuốc uống và kiểm soát HA dần dần trong 12 tới 24 tới 48 giờ; các bệnh nhân không được hạ thấp HA nhanh qua so với mức HA bình thường trước đó của họ.
+               - Mục đích là giảm HA đến 160/100 mmHg qua vài giờ đến vài ngày với dùng liều thấp các thuốc trị THA dạng uống, tác dụng nhanh.
+          + Thuốc uống hay dùng
+               - Catopril 25mg/q4-6h
+               - Clonidin 0.2mg/q6-8h
+               - Niphedipin 10mg/q2-6h
+          + Lasix 40mg PO; 20mg IV x 2 ống; có thể lập lại sau 4h; đã cho 3 lần không kết quả thì ngừng.
+          + Adalat gel 10mg nhỏ 3 giọt SL; sau 15 phút đo lại HA vẫn cao, nhỏ tiếp cho đến khi HA tâm thu < 160mmHg thì cho tiếp Niphedipin viên nang 10mg PO 1v hay amlor 5mg x1v PO.
+          + Resecpin ống 2,5mg IM 1/3-1/2 ống
+                (Theo dõi HA, nếu tụt lại phải nâng: Oabain 1/4mg x 1 ống = Isupren 20mg x 1 ống pha trong 250ml DW5 truyền IV 30 giọt/phút + Kali clorua 10% x 5ml PO).
+
+     2. Cơn Cấp cứu:
+               - THA cấp cứu đòi hỏi phải nhập viện ngay lập tức vào Đơn vị Chăm sóc Tăng cường (ICU) để kiểm soát HA ngay tức thì với một thuốc trị THA dạng tiêm, có thể chỉnh liều cùng lúc đó có thể theo dõi một cách liên tục về HA, tình trạng thần kinh, và lượng nước tiểu bài xuất.
+               - HA phải được giảm hiệu quả trong vài phút đến vài giờ, và không phải ngay lập tức giảm xuống mức bình thường. Mục đích là hiệu chỉnh HA xuống không ít hơn 20% tới 25% trong giờ đầu tiên và sau đó nếu tình trạng ổn định giảm xuống 160/100 tới 160/110 mmHg trong vòng 2 – 6 giờ kế tiếp.
+               - Một chọn lựa khác thường được khuyến nghị hơn là giảm HATTrương xuống khoảng 10% tới 15% hoặc tới khoảng 110 mmHg trong vòng 30 – 60 phút; với đích giảm về mức bình thường trong vòng 24 – 48 giờ.
+* Thuốc IV
+          + Lasix IV 10-80mg/q4h
+          + Nitroglycerin 5 ug/kg/ph
+          + Labetalol 20-40mg /10'
+
+* Phác đồ dùng dãn mạch
+          + Natri prussiad 60mg pha 150ml DW5 truyền IV 0,5mg/kg/phút.
+          + Nicardipin 5mg/h
+          + Diasocid 150mg pha 150ml DW5 truyền IV 3 phút, cho lại sau 2-12h.
+
+* P.đồ chẹn Ca nhanh
+          + Nifedipin 0,1mg/kg SL, khi tan hết truyền IV 0,1mg/kg/25 phút.
+          + Duy trì: Hydralazin 25-50mg IM hay pha 100ml DW5 IV 20 giọt/phút.
+
+IV. Thuốc đặc dụng cho cấp cứu: (xem nhanh)
+               - Captopril 12,5 - 25 mg uống lặp lại 1 hoặc 2 lần nếu cần, cách nhau khoảng 30 - 60 phút hoặc lâu hơn.
+               - Nitroprusside sodium 0.25-10 mcg/kg/phút IV (50mg trong 250 mL của D5W, chuẩn liều tùy theo Huyết áp
+               - Trandate, Normodyne, Labetalol  20mg IV bolus (0.25mg/kg), rồi thì 20-80mg bolus IV q10-15 phút chuẩn liều tùy theo Huyết áp (tối đa 300mg). Truyền 1.0-2.0mg/phút
+               - Catapres, Clonidine: ban đầu 0.1-0.2mg PO tiếp theo bởi 0.05-0.1mg/giờ cho tới khi DBP <115 (liều tối đa 0.8mg)
+               - Phentolamine (pheochromocytoma), 5-10mg IV, lập lại khi cần cho tới 20mg
+               - Trimethaphan, Arfonad(khi tách rách thành đ.m) 2-4mg/phút truyền tĩnh mạch (500mg trong 500 mL của D5W.
+               - Nicardipin 1mg/kg/phút trong 10phút (tổng số 10mg). sau do duy trì truyền IV 0,5-2mg/gio tuy theo HA, thuốc được dùng khi có AMI, UA.
+
+V.K.tra thêm: Chụp XQ ngực di động, ECG, echocardiogram.
+               Làm các XN máu CBC, SMA 7, Làm các XN phân tích nước tiểu, TSH, T4 tự do, metanephrines trong 24h; catecholamines máu, thuốc trong nước tiểu.

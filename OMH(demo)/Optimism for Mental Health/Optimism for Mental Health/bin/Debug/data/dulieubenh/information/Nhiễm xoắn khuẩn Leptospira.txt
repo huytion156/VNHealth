@@ -1,0 +1,170 @@
+﻿I.Đại cương
++Nhiễm xoắn khuẩn Leptospira
+- là bệnh của súc vật hoang dại và gia súc lan truyền cho người.
+- Bệnh có đặc điểm lâm sàng đa dạng, gây tổn thương cùng lúc nhiều cơ quan.
+- Hội chứng Weil là một bệnh cảnh nặng của nhiễm xoắn khuẩn, đặc trưng bởi xuất huyết, vàng da, suy thận.
+ 
++Nguyên nhân
+- Leptospira là một loại xoắn khuẩn Gram (-),
+- thuộc họ Leptospiraceae, có nhiều type huyết thanh khác nhau.
+- Có đến hơn 200 type, chia thành 23 nhóm.
+- Chỉ có một số type hay gặp và gây bệnh cho người.
+- Tác nhân gây bệnh thường gặp nhất là L. ictero haemorrhagiae.
+- Một type huyết thanh có thể gây nhiều bệnh cảnh khác nhau.
+- Ngược lại, một bệnh cảnh lâm sàng có thể do bất kỳ type nào trong nhóm gây bệnh tạo nên.
+ 
+
++Dịch tễ
+- Leptospira là bệnh chủ yếu của các động vật gặm nhấm như chuột và gia súc như chó, heo, trâu, bò....
+- Người chỉ mắc bệnh khi tiếp xúc với đất, nước có xoắn khuẩn thải ra từ nước tiểu động vật hay từ máu hoặc xác động vật mắc bệnh.
+- Bệnh thường xảy ra vào mùa hè-thu, lúc con người phải lao động hay giải trí ngòai trời.
+- Nam mắc bệnh nhiều hơn nữ. Tuổi từ 10-50 tuổi hay mắc.
+- Nhiễm xoắn khuẩn cũng là bệnh nghề nghiệp, liên quan đến công việc dầm nước và đất ẩm
+- hoặc tiếp xúc thường xuyên với gia súc : nông dân, công nhân vệ sinh cống rãnh, thợ mỏ, cán bộ thú y 
+ 
+
++Sinh lý bệnh
+- Sau khi qua da và niêm mạc, Leptospira vào máu, lan tràn khắp cơ thể gây những biểu hiện bệnh lý.
+- Bản chất của các rối lọan là thương tổn màng các mạch máu nhỏ, đưa đến viêm mao mạch, thoát dịch và xuất huyết.
+- Tổn thương thường biểu hiện rõ ở các cơ quan gan, thận, cơ,
+- Và từ các mao mạch có thể gây tổn thương cho bất kỳ cơ quan nào khác
+- Gan:
+. hoại tử trung tâm các thùy kèm các tế bào Kuffer phình to.
+. Tuy nhiên không có hoại tử tế bào gan nặng nề.
+- Thận: Thường có viêm thận kẽ và hoại tử ống thận.
+- Cơ: Các tế bào cơ thường phình to và có các điểm hoại tử.
+
+III. Lâm sàng 
+Bệnh cảnh lâm sàng
++Có thể nhẹ hoặc thể rất nặng.
++Thể nặng (hội chứng Weil):
+- đặc trưng bởi xuất huyết, vàng da, suy thận
+- do L.autumnalis, L. bataviae, L. copenhageni...gây ra.
+
+Thường diễn biến theo 2 pha :
+1.Pha nhiễm khuẩn huyết
+ (Acute leptospiremic phase)
+a.Thời kỳ ủ bệnh
+- Trung bình từ 1-2 tuần,
+- có thể dao động trong khoảng 2-26 ngày.
+
+b. Thời kỳ khởi phát
+- Thường với các triệu chứng sốt, nhức đầu, sợ ánh sáng, rét run, vã mồ hôi và đau cơ.
+- Sốt thường rất cao: 39-400C, trước khi sốt thường có cơn rét run.
+- Nhức đầu có thể ở vùng trán, hai bên thái dương, có thể ở vùng chẩm.
+- Bệnh nhân van nhức mỏi các cơ, nhất là các cơ vùng đùi, cơ lưng, cẳng chân.
+- Xoa bóp cơ làm cơn đau tăng lên.
+- Vàng da xuất hiện 5-7 ngày sau khi khởi phát.
+
+c.Thời kỳ tòan phát
++Các triệu chứng lâm sàng tiếp tục phát triển nặng hơn.
+- Bệnh nhân đau cơ nhiều hơn, có khi không đi được, kèm theo nôn mửa.
+- Bóp vào cơ càng đau hơn.
+- Mắt bị xung huyết.
+- Trên da thường có nổi các ban đỏ dạng dát hay dạng ban lấm tấm khu trú hay rải rác.
+- Ở thời kỳ này bệnh nhân có thể có chảy máu cam, đau họng , ho.
+ 
+
++Cận lâm sàng :
+- trong giai đọan tòan phát (thường là tuần đầu tiên),
+. có thể tìm thấy vi khuẩn trong máu,
+. trong dịch não tủy và tuần thứ hai ở trong nước tiểu.
+- Tuy nhiên ở giai đọan này các xét nghiệm huyết thanh thường âm tính.
+- Công thức máu cho thấy bạch cầu tăng cao, chủ yếu đa nhân trung tính trong phần lớn trường hợp.
+- Có thể có những biểu hiện tăng urê máu và creatinine máu tạm thời.
+
+d. Thời kỳ hồi phục tạm thời
+- Phần lớn các triệu chứng biến mất sau 1 tuần.
+- Sau 1-3 ngày, các triệu chứng xuất hiện trở lại ở một số trường hợp
+- Đó là pha miễn dịch của bệnh.
+
+2.Pha miễn dịch
+(Immune leptospiruric phase)
+a. Sự bắt đầu pha miễn dịch có liên quan đến sự xuất hiện các kháng thể.
+
+b. Biểu hiện hay gặp là viêm màng não, suy thận, viêm gan. Có khi viêm cơ tim và viêm não.
++Viêm màng não:
+- thường có hội chứng màng não rõ,
+- nhưng dịch não tủy trong, không tìm thấy vi khuẩn.
+- Bạch cầu tăng cao, chủ yếu là lympho như trường hợp viêm màng não virus.
+- Tuy nhiên trong máu công thức bạch cầu có thể vẫn cao, chủ yếu đa nhân trung tính.
+
++Suy thận cấp : :
+- có thể xảy ra ngay trong giai đọan tòan phát và kéo dài,
+- không có giai đọan hồi phục tạm thời
+- Khởi đầu thường thiểu niệu rồi vô niệu.
+- Xét nghiệm có thể có hemoglobin niệu, hồng cầu, trụ hạt, các cặn lắng của hồng cầu và các mảnh của tế bào ống thận.
+- Urê máu và creatinin máu tăng cao.
+
++Viêm gan:
+- Thể viêm gan cấp với các triệu chứng gan to, đau.
+- Vàng da rõ do ứ mật .
+ 
+
++Xuất huyết nhiều nơi :
+- biểu hiện thường ở dưới da với nhũng mảng rộng
+- là một biểu hiện nặng của bệnh
+- có thể tử vong vì thiếu máu và suy khối lượng tuần hòan.
+
++Hội chứng Weil ::
+- Là thể nặng nhất của bệnh,
+- đặc trưng bởi vàng da, suy thận, xuất huyết
+- và có tỷ lệ tử vong cao.
+- Các triệu chứng trên thường xuất hiện sau khoảng 4-9 ngày.
+- Vàng da không có liên quan đến hoại tử tế bào gan.
+- Suy thận là hậu quả của hoại tử ống thận cấp, gây ra bởi giảm thể tích tuần hoàn và giảm tưới máu thận.
+
+IV. . Chẩn đoán
+1.Chẩn đóan xác định
+- tìm được vi khuẩn trong máu hay trong nước tiểu.
+- xác định bằng các xét nghiệm huyết thanh và kỹ thuật PCR.
+ 
+
+2. Các dấu hiệu gợi ý trên lâm sàng :
+- Tiền sử có tiếp xúc với nguồn bệnh trong vòng 1 tháng.
+- Nghề nghiệp có nguy cơ nhiễm xoắn khuẩn.
+- Các triệu chứng : sốt, đau cơ, vàng da, xung huyết kết mạc, suy thận, xuất huyết.
+
+3.Cận lâm sàng
++Cấy máu : Chỉ dương tính trong tuần đầu tiên của bệnh.
++Cấy nước tiểu :
+- Chỉ dương tính sau tuần đâu tiên của bệnh và kéo rất dài về sau
+- vì bệnh nhân có thể thải xoắn khuẩn ra theo đường tiểu hàng tháng sau khi khỏi bệnh.
++Các xét nghiệm huyết thanh :
+
+4.Các p.pháp hay dùng hiện nay là :
+- Ngưng kết vi thể (MAT: microscopic agglutination test) dương tính khi hiệu giá ( 1/100. Chỉ phát hiện vào tuần thứ hai của bệnh.
+- Test ELISA ( enzyme-linked immuno-absorbent assay) : nhạy nhưng đắt tiền.
+- PCR: Được dùng để phát hiện chuỗi DNA của Leptospira; chỉ thực hiện ở các trung tâm lớn.
+
+V. Điều trị
+1.Điều trị nguyên nhân
++Xoắn khuẩn nhậy cảm với hầu hết các kháng sinh thông thường.
++Trường hợp nặng nên dùng
+- Pénicillin G, Amoxicillin, Ampicillin hoặc Erythromycin đường tĩnh mạch.
+- Liều Pénicillin: 6 triệu đơn vị/ ngày, chia 4 lần trong 7 ngày.
+- Liều Amoxicillin và Ampicillin : 4g/ngày x 7 ngày.
++Trường hợp bệnh nhẹ
+- có thể dùng Tetra cyclin, Doxycyclin, Amoxicillin hoặc Ampicillin bằng đường uống.
++Tuy nhiên kháng sinh chỉ có hiệu lực
+- khi dùng sớm, trong vòng 5 ngày kể từ khi phát bệnh.
+- Khi đã chuyển qua pha 2, kháng sinh thường không có hiệu quả.
+
+2. Điều trị triệu chứng
+- Cần tái lập cân bằng nước và điện giải.
+- Bệnh nhân có hội chứng Weil cần được truyền máu và tiểu cầu.
+- Chạy thận khi có suy thận cấp,
+- Thở máy khi có suy hô hấp, nhất là ARDS .
+
+VI. Phòng bệnh
+1.Các biện pháp chung
+- Diệt chuột và các lòai gậm nhấm,
+- tránh tiếp xúc với nước tiểu và động vật chết.
+- Sử dụng găng tay, ủng bảo hộ khi phải làm việc trong môi trường có nhiều xoắn khuẩn như khai thông cống rãnh, làm mỏ, cày ruộng...
+- Theo dõi định kỳ các nghề nghiệp có nguy cơ mắc xoắn khuẩn cao.
+- Trường hợp mới nhiễm có thể dùng Doxycyclin, 200mg, liều duy nhất mỗi tuần.
+
+2. Tiêm chủng
+- Vaccine có khả năng bảo vệ chống xoắn khuẩn vàng da xuất huyết (L. ictero-hemorrhagiae) trong 3 năm.
+- Hiệu lực bảo vệ xuất hiện sau lần tiêm thứ ba (mỗi lần các nhau 15 ngày, 1ml/lần).
+- Có thể tiêm phòng vaccine cho súc vật: trâu bò, chó, heo...

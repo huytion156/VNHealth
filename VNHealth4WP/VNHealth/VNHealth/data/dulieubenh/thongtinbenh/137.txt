@@ -1,0 +1,327 @@
+﻿I. Đại cương
+1.Bệnh sốt mò
+- Hơn 1000 năm trước đã thấy ở Nhật, Trung Quốc.
+- Sau này bệnh được xếp vào nhóm bệnh do Rickettsia,
+- Côn trùng trung gian bệnh là ấu trùng mò. 
+
+
+2. Đặc điểm
+- Bệnh cấp tính do Rickettsia orientalis (R. tsutsugamushi),
+- Bệnh lây truyền qua vết ấu trùng mò đốt.
+- Bệnh có đặc điểm khởi phát đột ngột,
+. sốt 40-41C, kết mạc-da xung huyết, phát ban,
+. người mệt nhiều, thần kinh trì trệ, có khi nói sảng.
+- Đặc biệt nơi mò đốt có sẩn đỏ, sau đóng vảy đen.
+- Bệnh có thể tử vong do biến chứng phổi, tim và gặp trong thể nặng.
+
+3.Tác nhân gây bệnh
+- Rickettsia orientalis (R.O.) là trung gian giữa virus và vi khuẩn,
+
+. giống vi khuẩn vì có lớp vỏ, bào tương, một nhân DNA hoặc RNA và các hạt vùi bên trong, vì có khả năng sao chép và nhân lên trong tế bào vật chủ,
+. giống virus vì ký sinh bắt buộc trong bào tương hoặc nhân của tế bào đích.
+- Cuối cùng người ta xếp vào lớp vi khuẩn gram âm đa dạng (pleomorphis), các phần tử cấu thành tương tự vi khuẩn gram âm khác gồm DNA và RNA, thành tế bào chứa Lipopolysaccharide, Aminoacid, Aminosugars.
+- Ký sinh nội bào bắt buộc, vì vậy chúng lệ thuộc hoàn toàn vào các chất carbohydrate của tế bào vật chủ để lấy năng lượng chuyển hoá.
+- Chúng nhạy cảm với kháng sinh.
+- R.O. có nhiều dòng,
+. nhưng 3 dòng KARP, GILLIAM, KATO được sử dụng kháng nguyên rộng rải.
+. Hình dạng R.O. giống các Rickettsia khác,
+- R.O. phát triển tốt trong điều kiện khí hậu, địa lý nhiệt đới và bán nhiệt đới với cây cối rậm, nhiều sông suối, rừng núi rậm rạp.
+
+4.Dịch tễ học
+a.Phân bố
+- Nhiều nơi ở châu Á. với nhiều tên gọi khác như sốt triền sông Nhật Bản; Tsutsugamushi, giả thương hàn, sốt bụi rậm (scrub typhus).
+- Theo Bùi Đại, ở nước ta, bệnh có mặt ở vùng Tây Bắc, Sơn La, Nghệ Tĩnh, Mộc Châu. Nam vĩ tuyến 17, trong thời tạm chiếm, một số y văn ghi lính Mỹ đã mắc bệnh.
+- Số bệnh nhân có thể nhiều, nhưng do nhiều lý do khác nhau mà chẩn đoán nhầm với bệnh khác như thương hàn, sốt rét, leptospira, dịch hạch, nhiễm khuẩn máu, sốt dengue..., nếu không chú ý.
+- Tại miền Trung, trên thực tế lâm sàng nhiều trường hợp bệnh xuất hiện.
+
+b.Côn trùng trung gian
++ Là ấu trùng mò Trombicula (acarien),
+
+- có màu nhung đỏ hoặc cam tươi,
+- ấu trùng mò chứa R.O.,
+- có sự truyền R.O. từ thế hệ mò trưởng thành sang thế hệ ấu trùng mò.
+
++ Trứng của mò bị nhiễm tồn tại trong đất ẩm nhiều chất mùn,
+- thành ấu trùng rồi bò vào các bụi cây thấp lên tận đến lá,
+- chúng sẽ bám vào các động vật có xương sống (loài có vú hoặc chim) khi có điều kiện,
+- cư trú trên thân các động vật này vài ngày rồi rơi xuống đất và
+- phát triển thành nhộng (nymphs) và rồi mò trưởng thành. (mò trưởng thành không đốt).
+- R.O. nhân lên trong tuyến nước bọt ấu trùng mò với lượng lớn,
+- vì vậy dễ gây nhiễm cho vật nhạy cảm khi bị đốt.
+
++ Cần lưu ý, chỉ có ấu trùng mò mới đốt người và súc vật
+- và chỉ đốt một lần trong chu kỳ sống,
+- Ở người, ấu trùng mò thường bám vào cẳng, đùi rồi di chuyển đến những nơi kín, có mồ hôi ẩm, dừng lại ở đó (thắt lưng, bẹn, ngực, nách...),
+- chúng cố định bằng cách chích vòi vào da.
+- Ấu trùng mò không ăn máu,
+- khi đốt chúng bơm nước bọt vào vết đốt trong đó có R.O.,
+- nước bọt chứa các enzyme tiêu protein để làm tiêu các tế bào vật chủ rồi tạo nên một chất nhão có chất dinh dưỡng mà ấu trùng chỉ việc hút chúng,
+- Ấu trùng mò đốt vào ban mai và lúc trời sắp tối.
+- sau khi đã no ấu trùng rơi xuống đất mùn để tiếp tục chu kỳ sống.
+- Khi chu kỳ này được tiếp tục, thì sự truyền R.O. qua trứng sẽ đảm bảo cho thế hệ sau bị nhiễm.
+- Ở khu vực khí hậu nóng ẩm, bệnh xảy ra quanh năm (nước ta), trái lại vùng lạnh như Nhật Bản thì hay gặp vào mùa thu.
+
+b. Vật chủ
+- Vật chủ chứa tác nhân gây bệnh rất đa dạng,
+- Loài gặm nhấm đóng vai trò cơ bản duy trì R.O. trong thiên nhiên,
+- Loài chim nhiễm tự nhiên, cũng có thể dùng thực nghiệm, đặc biệt là chim sẻ,
+- Mò trưởng thành được xem là vật chủ thứ yếu vì có chứa R.O.
+
+c. Các yếu tố nguy cơ
+- Những người làm nông nghiệp, lâm nghiệp, công tác kiểm lâm...,
+- có điều kiện tiếp xúc côn trùng truyền bệnh tại các bờ sông suối, nhiều bụi rậm.
+- Những người tham quan du lịch vào vùng bệnh lưu hành.
+- Những người chưa tiếp xúc ổ dịch dễ mắc bệnh hơn những người trong vùng dịch lưu hành.
+
+II. Cơ thể bệnh
++Tại vị trí bị ấu trùng mò đốt
+- R.O. nhân lên và phát triển, rồi lan toả.
+- Ở đây, có vết loét hoại tử, ảnh hưởng đến lớp tế bào biểu mô da, tạo thành ổ loét hình tròn có giới hạn rõ ràng.
++Hạch bạch huyết
+- Liên quan tới vị trí ấu trùng mò đốt; hạch vệ tinh sưng, hoại tử trung tâm của hạch.
+- Có thể sưng hạch toàn thân (tuy nhiên, không hoá mủ như các vi khuẩn sinh mủ).
++Mạch máu
+- R.O. có ái tính với các tế bào nội mạc mạch máu, gây thương tổn nội mạch,
+- xung quanh các mạch máu nhỏ và lớn (động, tĩnh mạch, mao mạch, giường mao mạch) đặc biệt là ở mạch da,cơ tim, não, phổi.
++Phổi
+- Người ta tìm thấy tổn thương trong lòng mạch với hiện tượng thuyên tắc và chảy máu,
+- các tế bào mono, tương bào, lymphô xâm nhập thành mạch và thành mạch bị phù nề,
+- thành phế nang dày lên, khoang giữa các phế nang có hiện tượng xuất tiết huyết thanh và ứ đọng hồng cầu.
+5. Cơ tim
+- Tế bào mono xâm nhập khe cơ tim và hoại tử khu trú,
+- viêm kẻ cơ tim, mao mạch nhỏ của cơ tim bị nhồi máu li ti từng đám.
++Não
+- Rải rác có phản ứng viêm quanh mạch não và tăng sinh tế bào đệm,
+- các mao mạch của tổ chức não có tế bào mono xâm nhập và hoại tử khu trú do nhồi máu li ti.
++Lách
+- Lách sưng to và có các biến đổi như trong nhiễm khuẩn máu,
+- kèm theo hoại tử khu trú.
++Gan
+- Gan sưng, xung huyết, hoại tử khu trú.
++Thận
+- Có vài khu vực thận xung huyết, vỏ thận nhạt màu và sưng.
+- Bằng kỹ thuật huỳnh quang, người ta có thể phát hiện ra R.O. trên tổ chức não, phổi, cơ tim và các tổ chức khác
+ 
+III.Sinh lý bệnh
++R.O. phát triển và nhân lên tại vị trí ấu trùng mò đốt;
+sau một thời gian ủ bệnh chúng thâm nhập vào máu,
+thường là vài giờ trước khi phát bệnh,
+chúng lại tiếp tục xâm nhập các tế bào nội mạc mạch máu,
+ở đó chúng tăng sinh và phát triển
+tạo ra các biến đổi tại mạch máu, gây viêm, xung huyết và phát ban.
+
++Trường hợp nặng (giai đoạn sớm),
+gây suy tuần hoàn ngoại biên,
+thường xuất hiện trong tuần đầu của bệnh
+do hiện tượng dãn mạch và ứ trệ máu lưu thông,
+chưa có hiện tượng tăng thấm mao mạch,
+hoặc thoát dịch ra khoảng gian bào.
+
++Trường hợp nặng (giai đoạn muộn),
+có thương tổn tăng sinh và thuyên tắc xuất hiện trong các mao mạch nhỏ,
+kết quả gây nên hiện tượng hoại tử và
+ tăng thấm mao mạch ít nhiều gây giảm thể tích máu,
+phù nề khoảng khe quanh mạch máu (phù trên lâm sàng),
+
++Giai đoạn muộn trên bệnh nhân nặng.
+Bệnh còn biểu hiện phù và thiếu máu cơ tim,
+trên tổ chức học và điện tim, đôi khi loạn nhịp xoang nặng.
+Kết quả của suy tuần hoàn ngoại biên gặp trong các trường hợp bệnh nặng,
+gây thiểu niệu, vô niệu trên lâm sàng, tăng urê máu, creatinin máu;
+giảm protid máu, natri máu; phù và hôn mê.
+Có khi rối loạn chức năng gan hoặc cả đông máu rải rác nội mạch.
+
++Các nghiên cứu thấy có sự tăng thấm mao mạch
+ gây ra thoát huyết tương vào khoảng gian bào.
+Nguyên nhân này là do các tế bào nội mạc mao mạch và
+đại thực bào thương tổn giải phóng các prostaglandin (nhất là PG1 và PG2) và Leucotrienes.
+
++Bệnh có miễn dịch không bền,
+dễ mắc lại, dân bản địa ít mắc và nhẹ hơn dân ngoại lai,
+có chủng 1 - 2 tháng, có chủng đến 2 năm.
+IV. Lâm sàng
+1.Thể bệnh điển hình
+a. Ủ bệnh
+Trung bình 10-15ngày,
+có nốt sẩn đỏ do ấu trùng mò đốt,
+có thể gặp từ 10-90% trường hợp, tuỳ từng nơi.
+Ngoài ra, không có triệu chứng nào khác.
+
+b. Khởi phát
+Khởi phát đột ngột với cơn rét run, sốt cao,
+người mệt mõi toàn thân,
+nhức đầu nhiều vùng trán hoặc thái dương,
+đau dọc cột sống-cơ khớp-các chi;
+sau thời gian ngắn rồi vào thời toàn phát.
+
+c. Toàn phát
++Sốt: sốt cao 40-410C,
+dạng cao nguyên trong vài 3 ngày đầu, sau đó giảm,
+rồi tiếp tục tăng đến 39-40C và
+duy trì mức ấy trong 2-3 tuần, nhiệt sáng thấp chiều cao.
+
++Tim mạch: nhanh (bệnh nặng), chậm (thể nhẹ).
+Có thể truỵ tim mạch (mạch nhanh, hạ huyết áp, khó thở & tím tái),
+viêm cơ tim hay gặp (tim nhanh, tiếng tim mờ), có khi ngoại tâm thu.
+
++Hô hấp:
+biểu hiện viêm phế quản (nhẹ),
+viêm phổi không điển hình do R.O. (nặng).
+
++Thần kinh:
+ nhức đầu nhiều, sợ ánh sáng, mất ngủ;
+ bệnh nặng có dấu kích động, vật vã, mê sảng, u ám,
+ mệt nhiều về đêm, lãng tai,
+ nhưng nước não tuỷ bình thường.
+ Nếu viêm màng não thường là nặng.
+
++Tiêu hoá:
+ lưỡi khô, đỏ xung quanh, trắng hoặc đen cháy ở giữa.
+ Đôi khi tiêu chảy hoặc xuất huyết tiêu hoá.
+ Lách lớn, gan sưng.
+
++Da và kết mạc:
+ xung huyết; phát ban gặp 2/3 trường hợp,
+ xuất hiện ngày thứ 4-7,
+ khởi đầu ở đầu mặt sau đó lan ra thân mình, tứ chi.
+ Loại ban dát sẩn đôi khi biến thành mọng nước,
+ thường mất đi khi ấn; chấm xuất huyết (thể nặng);
+ ban chỉ xuất hiện một đợt. Nội ban ở màn hầu, họng.
+ Tại vết đốt xuất hiện mọng nước,
+ sau đó hoại tử và hình thành một lớp vảy khô,
+ đường kính 4-5mm, xung quanh hơi đỏ,
+ có khi ngứa-đau nhẹ, có sưng hạch khu trú kèm theo nhưng không hoá mủ.
+ Nốt loét thường ở bẹn, bìu, thắt lưng, lổ rốn, nách, ngực, dái tai....
+
+
++Tiết niệu:
+ đái dầm, bí đái, albumin và trụ niệu,
+ urê máu bình thường, hiếm khi viêm thận.
+
++Hạch toàn thân:
+ đôi khi có gặp, rõ nhất là ở cổ, nách và bẹn, hơi rắn, ấn đau nhẹ,
+ hạch không hoá mủ, hạch sẽ mất đi trong thời gian hồi phục.
+
+d. Lui bệnh
+ Sau 14-30 ngày, nhiệt độ giảm nhanh,
+ bệnh nhân cảm thấy dễ chịu, đái nhiều.
+ Người còn yếu và mệt, ăn uống kém.
+ Thời gian hồi phục kéo dài nhiều tuần tới nhiều tháng.
+ Bệnh nhẹ thời kỳ này ngắn hơn.
+
+2. Thể bệnh không điển hình
+Không có nốt loét, không phát ban và
+chỉ sốt trong vòng 5-10 ngày, khó chẩn đoán.
+Một số thể bệnh biểu hiện ở cơ quan nhất là phổi
+ biểu hiện viêm phổi không điển hình có khó thở,
+ thể bệnh viêm cơ tim,v.v..
+
+V. Tiên lượng & biến chứng
+- Tiến triển nặng nhẹ tuỳ địa phương, tuổi bệnh nhân (tuổi cao bệnh nặng).
+- Tỷ lệ tử vong một số nơi như
+. Indonesia-Đài Loan 5-20%,
+. Nhật 20-60%; Mã Lai 15%,
+. Việt Nam 0,6% (thể nhẹ).
+- Nguyên nhân tử vong thường do truỵ tim mạch, viêm cơ tim, xuất huyết, bội nhiễm phổi, biến chứng viêm não- màng não.
+- Nếu được phát hiện và điều trị sớm bệnh giảm sốt nhanh trong vòng 12, 24-48 giờ; thời kỳ hồi phục và lại sức sớm.
+
+VI. Chẩn đoán
+1.Lâm sàng
+Chủ yếu dựa vào tính chất khởi phát đột ngột với
+- Sốt cao liên tục
+- Nốt loét, kèm sưng hạch vệ tinh
+ (nốt loét là dấu điển hình trong bệnh sốt mò, tuy nhiên có khi không tìm thấy cho nên khó chẩn đoán)
+
+- Xung huyết kết mạc, da; phát ban
+- Sưng hạch toàn thân
+- Viêm cơ tim
+
+2.Cận lâm sàng
++Bạch cầu máu: thường không tăng, lymphocte > 70%.
++Chẩn đoán miễn dịch học:
+- Kháng thể huỳnh quang gián tiếp
+(Indirect Fluorescent Antibody: IFA):
+Dùng kháng thể KARP, GILLIAM, KATO để phát hiện kháng nguyên (khá nhạy).
+Bệnh nhân có nồng độ 1: 40 từ ngày thứ 9 của bệnh trở đi, nồng độ cao nhất vào tuần thứ 2.
+Giá trị (+) tuỳ thuộc từng phòng thí nghiệm có thể 1 : 640 hoặc 1 : 1280,
+nhưng nếu được điều trị trong 4 ngày đầu thì đáp ứng miễn dịch có thể giảm
+(xét nghiệm chuẩn của WHO, nhưng do khó về kỹ thuật, chưa áp dụng rộng). 
+ 
+- Miễn dịch gián tiếp Peroxidase
+( indirect Immunologic Peroxidase: IIP)
+là phương tiện hổ trợ tốt tiếc rằng không được dùng phổ biến.
+
++Phản ứng Weil Felix:
+Phản ứng (+) với OX-K bắt đầu từ ngày 5 sau sốt,
+hiệu giá cao nhất vào tuần thứ 3,
+rồi giảm dần từ tuần thứ 4.
+Các trường hợp có hiệu giá ngưng kết với
+OX-K trên 1 : 160 về độ hoà loãng,
+hoặc lần 2 gấp lần đầu 4 lần đều có giá trị chẩn đoán,
+với 2 lần cách nhau 2 tuần.
+
++Phân lập R.O.:
+Lấy máu bệnh nhân lúc sốt cao,
+tiêm phúc mạc chuột,
+nếu trong vòng 13-16 ngày chuột chết chứng tỏ trong máu có R.O..
+Nhuộm tử thiết gan, lách, hạch bằng giemsa, soi kính hiển vi sẽ phát hiện R.O.,
+đôi khi phải tiêm chuyển tiếp 2-3 chuột mới phát hiện (+).
+
+3.Dịch tễ
+Bệnh nhân đang sinh sống, làm việc, hoặc vào vùng bệnh lưu hành.
+
+VII. Điều trị
+1.Nguyên tắc điều trị
+- Điều trị đặc hiệu càng sớm càng tốt.
+- Chống chỉ định các thuốc có Sulfonamide vì sẽ làm cho bệnh nặng thêm.
+- Trong trường hợp có sưng hạch toàn thân, hạch vệ tinh thì cần điều trị kéo dài để chống tái phát.
+- Điều trị hổ trợ, nhất là trường hợp nặng sẽ góp phần làm giảm các biến chứng và tỷ lệ tử vong.
+
+2.Điều trị thực tế
+a. Điều trị đặc hiệu
+- Nếu điều trị sớm, trước khi phát ban thì rất hiệu quả, nhiệt độ trở về bình thường trong vòng 24 giờ,
+- nếu điều trị muộn khi ban đã xuất hiện, có xuất huyết thì đáp ứng chậm hơn.
+- Thuốc có hiệu lực Chloramphenicol; Tetracyclin (Doxycyclin);
+- còn Azithromycin có tác dụng với dòng R.O. đề kháng Tetracyclin trên ống nghiệm, ứng dụng có hiệu quả lâm sàng.
+- Liều lượng:
+Chloramphenicol 30 mg/ kg/ ngày;
+Tetracyclin 20-30 mg/ kg/ ngày;
+Doxycyclin 100mg x 2 viên / ngày (người lớn).
+Chỉ dùng một thuốc; dùng 7 ngày; khi hạch sưng dùng 14 ngày.
+Kháng sinh dùng bằng đường uống;
+nhưng bệnh nặng và có điều kiện dùng tĩnh mạch
+(vdụ: bệnh kèm theo viêm màng não)
+Chú ý: Fluoroquinolone không hiệu quả với R.O. chỉ với Rickettsia conorii (Mediterranean spotted fever).
+
+b. Điều trị hổ trợ
+- Dịch truyền: Glucose hoặc Ringer’s Lactate nhằm hồi phục nước & điện giải, lượng tuần hoàn; cần lưu ý trường hợp viêm phổi, viêm cơ tim không truyền nhiều.
+- Chế độ ăn uống: nên ăn xúp, cháo loảng khi còn sốt, đảm bảo chất dinh dưỡng.
+- Vệ sinh răng miệng, lau sạch toàn thân hằng ngày, tránh loét cho các trường hợp nặng.
+- Thiếu máu do xuất huyết tiêu hoá, nên truyền máu tươi.
+- Trường hợp nặng hoặc có biến chứng (tim, phổi, thần kinh...) và nhất là các ca điều trị muộn, tuỳ trường hợp dùng thêm corticosteroid liều cao, ngắn ngày : Hydrocortison: 100 mg / ngày x 3 ngày, có thể thay bằng Depersolon.
+ 
+VIII. Phòng & chống bệnh sốt mò
+1.Khi chưa mắc bệnh: có các hướng dự phòng như sau
+a. Diệt vật chủ và côn trùng trung gian
++Tại khu vực dân cư sinh sống, cơ quan đơn vị đứng chân, nhân viên y tế cần quan tâm dịch lưu hành nhất là vùng trung du, đồng ruộng, có nhiều bụi rậm và sông suối.
++Chuột và các loài gặm nhấm: nơi có dịch lưu hành, nơi lao động cần phát động phong trào diệt chuột thường xuyên bằng mọi biện pháp từ thủ công đến hoá chất.
++Cần tổ chức phát quang, làm sạch cỏ và bụi rậm quanh nhà ở, phát quang rồi đốt tập trung, có thể phối hợp phun hoá chất diệt côn trùng (Trung quốc áp dụng có hiệu quả không có mò tồn tại đến 40 ngày).
++Công việc này cần tiến hành thường xuyên.
+
+b. Bảo vệ cá nhân, hạn chế, tránh ấu trùng mò đốt
+Khi lao động, di chuyển đến vùng có bụi rậm cần cột chặt ống quần tay áo, hoặc mang dày có bít tất cao cổ.
+Thời gian nghỉ sau lao động, nghỉ dọc đường, không nên nằm hoặc bỏ áo quần trên cỏ rậm.
+Sau lao động hoặc vào các khu vực trên nên tắm ngay trong ngày, lau sạch người nhất là các vùng kín (bẹn, nách, thắt lưng, cổ...)
+
+c. Vaccine
+Trong thế chiến II, các tác giả Anh, Mỹ đề xuất loại vắc xin Rickettsia chết, không hiệu quả.
+Năm 1952, các nhà khoa học Mã lai đề nghi dùng vắc xin chết kết hợp kháng sinh, đề xuất này không hợp lý, vì gây bệnh rồi dùng kháng sinh thì bệnh nhẹ nhưng không tạo miễn dịch bền được.
+
+d. Điều trị dự phòng
+Ngay sau khi bị ấu trùng mò đốt uống 1 lần 2gram chlorocid hoặc 1.5 gram Tetracyclin, sau đó hằng tuần uống 1 lần, trong thời gian 4 tuần, thì bệnh nhẹ hoặc không phát ra.
+Tốt nhất, bệnh mới chớm dùng thuốc bệnh sẽ nhẹ hơn nhiều.
+
+2. Khi có người mắc bệnh
+Cần phát hiện sớm để điều trị, nhất là vùng bệnh lưu hành
+Nhân viên y tế cần quan tâm đến bệnh cảnh lâm sàng để phát hiện sớm.
+Khi có bệnh nhân cần theo dõi các biến chứng có thể xảy ra.

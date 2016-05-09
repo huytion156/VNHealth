@@ -1,0 +1,155 @@
+﻿* Đại cương
+Lịch sử và tên gọi
+Nicotin được đặt theo tên lá cây Nicotiana tabacum, nguồn gốc từ tên của Jean Nicot de Villemain, Đại sứ Pháp tại Bồ Đào Nha, người đã gửi lá và hạt từ Brazil tới Paris năm 1560 và quảng bá sử dụng như là thuốc.
+Nicotin lần đầu tiên được phân lập từ cây thuốc lá vào năm 1828 bởi nhà hóa học Đức Posselt & Reimann, người đã coi nó là một chất độc. Cấu trúc của nó được phát hiện bởi Garry năm 1893, và nó lần đầu tiên được tổng hợp bởi A. Pictet và Crepieux vào năm 1904.
+Trước cuộc chiến tranh Krym (Nga-Pháp năm 1854-1856), hầu hết các quốc gia dùng tiếng Anh chưa biết đến thuốc lá điếu. Chỉ đến khi các binh sĩ người Anh thời đó bắt chước các đồng nghiệp Thổ Nhĩ Kỳ (Đế chế Ottoman) sử dụng giấy in báo để cuốn hút thuốc lá, thuốc lá mới bắt đầu kỷ nguyên bánh trường rộng rải ra khắp thế giới từ đó.
+
+Trong lịch sử, đa số trường hợp ngộ độc nicotin là kết quả của việc sử dụng nó như một loại thuốc trừ sâu, tuy nhiên, việc sử dụng đó bây giờ ít thường xuyên hơn so với trước đây.
+Mỗi năm cũng có nhiều trẻ em đến phòng cấp cứu sau khi ăn thuốc lá hoặc tàn thuốc lá.
+Sáu mươi miligam nicotin có khả năng giết chết một người lớn, đó là số lượng nicotin có trong khoảng năm điếu thuốc lá hoặc một nửa điếu xì gà, nếu như tất cả lượng nicotin này đều được hấp thu.
+Tuy nhiên, con số này phải cao hơn ở những người hút thuốc thường xuyên, hoặc chỉ nicotin của một điếu thuốc là đủ để làm một trẻ bị bệnh nặng nề. Trong một số trường hợp trẻ em đã bị đầu độc bởi các loại kem có chứa nicotin.
+
+1.Triệu chứng
+- Nôn mửa và buồn nôn, tiêu chảy
+- Nhức đầu
+- Khó thở
+- Xanh tái Pallor
+- Ra mồ hôi
+- Hồi hộp đánh trống ngực
+- Đau dạ dày / chuột rút
+- Động kinh
+- Yếu mệt
+- Chảy dãi
+
+2. Sinh lý bệnh
+Những triệu chứng ngộ độc này là biểu hiện trái chiều do kích thích quá mức của các thụ thể thần kinh nicotinic cholinergic.
+Ban đầu, nicotin có pha kích thích ngắn ngủi, tiếp theo là một giai đoạn dài hơn ức chế dẫn đến phong tỏa thần kinh cơ.
+
+Đôi khi những người bị ngộ độc do thuốc trừ sâu phospho hữu cơ có những triệu chứng giống như ngộ độc nicotin, nhưng điều này không phải hoàn toàn đúng.
+Phospho hữu cơ ức chế một một men gọi là acetylcholinesterase, gây ra tích tụ acetylcholine, làm kích thích quá mức của tất cả các loại thụ thể cholinergic, và sinh ra một loạt các triệu chứng tương ứng.
+Nicotin thì đặc hiệu chỉ cho một số thụ thể nicotinic cholinergic không nhiều, nên không có tất cả các triệu chứng của ngộ độc phospho hữu cơ.
+
+3.Chẩn đoán
+Ngoài các triệu chứng chung nêu trên, có thể dùng xét nghiệm..
+Tăng nicotin hay cotinine (các chất chuyển hóa nicotin) được phát hiện trong nước tiểu hoặc máu, hoặc khi xảy ra mức độ tăng nicotin huyết thanh.
+
+4. Tính độc - Toxicology
+a.Cấp
+Các LD50 của nicotin là 50 mg / kg cho chuột lớn và 3 mg / kg đối với chuột bé. 40-60 mg (0.5-1.0 mg / kg) có thể là một liều lượng gây chết cho người trưởng thành
+Nicotin có độc tính cao so với nhiều ancaloit khác (như cocain, ở chuột có LD50 tới 95,1 mg / kg).
+Bôi nicotine với một nồng độ cực cao lên da có thể gây ra ngộ độc hoặc thậm chí tử vong vì nicotin dễ dàng đi vào trong dòng máu từ liên hệ với da.
+Nicotin được detoxified bởi cytochrome P450 ở gan.
+Tuy nhiên không thể quá liều nicotin chỉ do qua hút thuốc (cũng có thể quá liều nicotin thông qua sự kết hợp miếng dán nicotin, kẹo cao su nicotin, và hút thuốc lá cùng một lúc)
+
+b.Mãn
+Nicotine với bệnh hệ tuần hoàn
+Nicotin có tác động rất mạnh vào động mạch trên khắp cơ thể. Nicotin là một chất kích thích, nó làm tăng huyết áp, và là một chất co mạch vasoconstrictor, làm cho tim khó bơm máu qua động mạch hơn. Nó làm cho cơ thể tăng phân phát chất béo và cholesterol vào trong máu.
+Nicotin đã được cho là làm tăng nguy cơ cục máu đông bằng cách tăng chất ức chế plasminogen activator-1, mặc dù điều này đã không được chứng minh. Plasma fibrinogen là cao ở những người hút thuốc và tiếp tục nâng lên trong quá trình viêm cấp tính COPD. Ngoài ra, yếu tố XIII, giúp làm ổn định cục fibrin, là tăng ở người hút thuốc.
+Lưu thông mạch ngoại vi, động mạch ngoại vi cũng rất dễ bị ảnh hưởng co mạch của nicotin làm gia tăng nguy cơ đông cục và nghẽn
+
+Nicotine với ung thư
+Các thuộc tính của nicotin gây ung thư ở dạng độc lập, tách biệt với khói thuốc lá, chưa được đánh giá bởi các IARC.
+Các y văn hiện chỉ ra rằng nicotin, riêng mình nó, không thúc đẩy sự phát triển của bệnh ung thư ở mô lành mạnh và không gây quái thai.
+Tuy nhiên, nicotin và các hoạt động tăng cholinergic của nó gây ra đã cản trở apoptosis, đó là một trong những phương pháp mà cơ thể phá hủy các tế bào không mong muốn (lập trình chết tế bào). Việc tách bỏ tế bào giúp loại bỏ các tế bào đột biến hoặc bị hư hỏng có thể dần dần trở thành ung thư, các hành động ức chế của nicotin có thể tạo ra một môi trường thuận lợi hơn cho bệnh ung thư để phát triển (mặc dù điều này cũng cần chứng minh rõ thêm)
+
+Khói thuốc lá
+Khói thuốc đã bị Cơ quan Quốc tế Nghiên cứu về Ung thư (International Agency for Research on Cancer - IARC) trực thuộc Tổ chức Y tế Quốc tế (WHO) xếp vào các chất gây ung thư (tiếng Anh: carcinogen) bậc 1.
+Trong nhóm này xếp những chất mà chỉ cần khối lượng nhỏ cũng có thể gây ung thư, không có hạn mức, nghĩa là hoàn toàn có hại cho mình và cho người khác, dù chỉ là một khối lượng nhỏ.
+
+Khói thuốc được coi là chất độc hại nhất trong môi trường cư trú. Khi hút thuốc, là hít vào cả hai luồng khói chính và phụ, 20% là luồng khói chính, 80 % còn lại là luồng phụ (nó sinh ra giữa những lần hít vào - khi cháy ngầm). Luồng khói chính sinh ra tại 950°C và khói phụ 500°C, do đó luồng khói phụ tỏa ra nhiều chất độc hại hơn.
+
+Khói thuốc cấu tạo từ một hỗn hợp khí và bụi. Theo WHO, trong khói thuốc có khoảng 4.000 chất hóa học, trong đó có 40 được xếp vào loại gây ung thư. gồm những chất như nicotin, mônôxít cacbon, hắc ín và benzen, fomanlin, amoniac, axeton, asen, xyanua…chúng ảnh hưởng đến toàn bộ hệ thần kinh, mạch máu và nội tiết gây ra những bệnh tim mạch, giảm trí nhớ và các bệnh ung thư.
+
+Riêng tại Việt Nam, mỗi năm có 40.000 người tử vong do những nguyên nhân liên quan đến thuốc lá, gấp 3 lần số người chết do tai nạn giao thông. Một điều tra cho thấy trên 50% nam giới hút thuốc lá và 60% trẻ em Việt Nam độ tuổi 13-15 đã tiếp xúc với khói thuốc tại nhà. Tại Hà Nội, gần một nửa dân số phải hút thuốc thụ động, nhiều nhất là phụ nữ và trẻ em. Ung thư phổi là dạng ung thư cao nhất ở nam giới và thứ tư ở nữ giới.
+
+5.Phòng chống
+a.Cấp:
+Tiên lượng là tốt khi được cung cấp chăm sóc y tế.
+Nếu bệnh nhân nhiễm độc nicotin tồn tại trong 4 giờ đầu tiên, họ thường phục hồi hoàn toàn.
+
+b.Nghiện: Bổ xung-Tư vấn
++ Lệ thuộc thuốc lá = Tương tác giữa 3 thành tố:
+- Nicotin có trong thuốc lá - là một chất hướng tâm thần.
+- Khả năng dễ bị lệ thuộc hay không của bản thân người hút thuốc.
+- Yếu tố đặc thù của từng nền văn hóa, kinh tế, xã hội.
+
++ Thành tố nicotin:
+- Tỉnh táo-chính xác
+- Tự thưởng
+- Tự an ủi
+
++ Nicotine trong điếu thuốc lá khi hít vào sẽ thấm qua mạch máu phổi vào máu tuần hoàn, 7 giây sau sẽ lên đến trung tâm “thưởng” ở não.
+Tại đây nicotin gắn vào thụ thể nicotin gây phóng thích các chất trung gian dẫn truyền thần kinh chủ yếu là dopamin và noradrenaline gây ra các hiệu quả:
+- Tăng cường sự chuẩn xác, độ tập trung, khả năng hoạt động trí óc (glutamate).
+- Gây cảm giác sảng khoái, yêu đời, hưng phấn (Endorphins).
+- Giảm lo âu, tăng chuyển hoá cơ bản nên giảm cân nặng (dopamin và noradrenaline…).
+
++ Khi nồng độ nicotin giảm xuống, người hút sẽ xuất hiện các triệu chứng của hội chứng cai thuốc rất khó chịu:
+- Thèm thuốc.
+- Mất ngủ.
+- Buồn bã hay hưng phấn quá mức, lo âu.
+- Thèm ăn, ăn nhiều tăng cân.
+
+- Như vậy, để đạt những khoái cảm có được do hút thuốc - còn gọi là củng cố (+) và để tránh những cảm giác khó chịu khi thiếu thuốc - còn gọi là củng cố (-), người hút thuốc lá tiếp tục hút mỗi khi nồng độ nicotin máu giảm xuống dưới ngưỡng thèm thuốc. Họ đã trở nên lệ thuộc vào nicotin. Cùng với quá trình hút, số lượng thụ thể nicotin tăng càng cao và người hút cần một lượng nicotin nhiều hơn trước để có cùng hiệu quả như cũ.
+
++ Yếu tố cá nhân:
+- Độ nhạy cảm với nicotin, hoạt động của men gan chuyển hóa nicotin ở từng cá nhân có khác nhau, vì thế khả năng gây lệ thuộc cũng khác nhau.
+- Đặc điểm nhân cách, trình độ học thức, văn hóa cũng là những yếu tố có ảnh hưởng đến hành vi hút thuốc lá và như vậy ảnh hưởng đến nghiện thuốc lá.
+
++ Yếu tố xã hội:
+- Đặc thù của từng nền kinh tế - văn hóa - xã hội qui định đặc điểm hút thuốc lá của dân số sống trong xã hội đó. Ví dụ Việt Nam nữ hút ít, nam hút nhiều. Tây Âu, nam nữ hút gần bằng nhau.
+- Thông tin tuyên truyền, qui định pháp luật về ngăn cấm hút thuốc lá ở nơi công cộng cũng ảnh hưởng nhiều đến hành vi hút thuốc lá.
+
+Đánh giá sự phụ thuộc nicotine bằng test fagerstrom
+1. Khi nào anh (chị) hút điếu thuốc đầu tiên sau khi thức dậy?
+Số điểm
+- Trong 5 phút đầu tiên= 3
+- Từ 6-30 phút= 2
+- Từ 31-60 phút= 1
+- Sau 60 phút= 0
+2. Anh (chị) có cảm thấy khó kiềm chế không hút thuốc ở những nơi cấm hút thuốc (rạp hát, thư viện, nhà thờ…) không?
+- Có= 1
+- Không= 0
+3. Điếu thuốc nào trong ngày làm anh (chị) cảm thấy thích thú nhất?
+- Điếu đầu tiên vào buổi sáng= 1
+- Các điếu khác= 0
+4. Anh (chị) hút bao nhiêu điếu trong 1 ngày?
+- Dưới 10 = 0
+- Từ 11-20 = 1
+- 21-30 = 2
+- Trên 30 = 3
+5. Trong những giờ đầu sau khi thức dậy anh (chị) có hút nhiều hơn các giờ khác trong ngày không?
+- Có= 1
+- Không= 0
+6. Nếu anh (chị) bị ốm, hầu như phải nằm trên giường thì anh (chị) có hút thuốc không?
+- Có= 1
+- Không= 0
+
+Đánh giá:
+0 - 2 : phụ thuộc rất ít;
+3 - 4: phụ thuộc ít;
+5: phụ thuộc trung bình
+6 - 7 : phụ thuộc nhiều;
+8 - 10: phụ thuộc rất nhiều
+
+
+Tỷ lệ cai thuốc lá hút lại
+Thế giới có nhiều loại thuốc hỗ trợ bệnh nhân cai nghiện thuốc lá.
+Từ ngày 1/6/2007, Việt Nam mới chỉ chính thức nhập khẩu và lưu hành thuốc Nicostop với sự cho phép của Bộ Y tế dưới dạng viên.
+Nhưng trước đó, Theo một nghiên cứu của BV ĐH Y Dược từ 1/2005 - 1/2006 trên 67 bệnh nhân được điều trị bằng tư vấn kết hợp với thuốc Nicostop cho thấy tỷ lệ cai thuốc lá thành công, không hút thuốc lá liên tục trong 1 năm, cũng chỉ vào khoảng 30%.
+
+3 Ích lợi giả tạo (ít nêu) của thuốc lá
+- Tỉnh táo-chính xác
+- Tự thưởng
+- Tự an ủi
+
+3 Tác hại (ít nói rõ) của thuốc lá
+- Nicotin, CO, Byproduct (sản phẩm phụ)
+- Gây tăng-giảm tình dục, giảm sinh trai
+- Gây u biếu, ung thư.
+
+3 giải pháp (ít chỉ ra) để Cai thuốc lá
+- Electron cigarette
+- Nicostop Zyban, Chantix
+- Truyền thông
+(để điều trị nhận thức-chuyển đổi hành vi)

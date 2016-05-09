@@ -1,0 +1,4 @@
+F:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\bin\Release\Optimism for Mental Health.exe.config
+F:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Release\Optimism_for_Mental_Health.Form1.resources
+F:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Release\Optimism_for_Mental_Health.Properties.Resources.resources
+F:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Release\Optimism for Mental Health.csproj.GenerateResource.Cache

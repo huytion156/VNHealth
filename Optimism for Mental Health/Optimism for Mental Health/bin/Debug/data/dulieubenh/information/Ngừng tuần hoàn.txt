@@ -1,0 +1,244 @@
+﻿I. Tổng quan
++ Thuật ngữ khác để chỉ việc cấp cứu trạng thái ngừng TH như: cấp cứu ngừng tim, hồi sinh chết lâm sàng, hồi sinh tim-phổi, hồi sinh tim-phổi-não. Sudden cardiac arrest, cardiopulmonary resuscitation (CPR)...
+
++ Ngừng tuần hoàn - là trạng thái tim đột ngột ngừng cung cấp máu đủ hiệu quả cho tuần hoàn trong cơ thể, đặc biệt là với các cơ quan quan trọng như não, tuần hoàn vành, phổi...
+
++ Có 3 dạng cơ bản là:
+ - vô tâm thu
+ - rung thất 
+ - phân ly điện cơ.
+
++ Tình trạng ngừng TH
+ - Có thể xảy ra đột ngột trên một quả tim hoàn toàn khoẻ mạnh, như trong các tai nạn do điện giật, chết đuối, sốc phản vệ, đa chấn thương...
+ - Nhưng cũng có thể là hậu quả cuối cùng của một bệnh lý mạn tính, giai đoạn cuối như ung thư, xơ gan, suy tim, suy thận...
+
++ Những đặc điểm trên chỉ ra là:
+ - Danh từ "ngừng tim" không thật chính xác vì nhiều khi tim vẫn hoạt động nhưng không đủ hiệu quả về huyết động như trong rung thất, phân ly điện cơ.
+ - Danh từ "cấp cứu ngừng tim" cũng không thật chính xác, dù ban đầu chỉ một người cứu, nhưng tiếp theo phải nhiều người đảm bảo hồi sinh tim-phổi-não cùng lúc, mới có thể cứu sống người bệnh.
+ - Nguyên nhân ngừng TH là rất nhiều, thậm chí có trường hợp không rõ nguyên nhân - vì vậy, bất kỳ bác sĩ, y tá nào cũng phải biết tham gia cấp cứu ngừng tuần hoàn đúng kỹ thuật điều dưỡng qui định.(tham khảo qui trình)
+
+II. Sinh lý bệnh.
++ Điều kiện bình thường khả năng chịu đựng thiếu oxy của não tối đa là 5 phút. Khoảng thời gian này còn gọi là giai đoạn chết lâm sàng và việc cấp cứu nhằm cung cấp lại máu và oxy cho não phải được tiến hành trong giai đoạn này mới có thể cứu sống được bệnh nhân. Quá thời gian này, các tế bào não bị tổn thương không còn khả năng hồi phục và bệnh nhân chuyển sang giai đoạn chết sinh vật hay chết não.
+
++ Bình thường lưu lượng máu não ổn định ở mức 50ml/100gr tổ chức não trong 1 phút, mặc dù huyết áp động mạch có thể dao động từ 50-150 mmHg,do nhờ tính tự điều hoà của hệ mạch não, khi huyết áp động mạch tụt thấp, các mạch máu não giãn ra và ngược lại khi huyết áp tăng lên thì mạch máu não co lại...
+
++ Khi cung lượng máu giảm bớt, các nơron ngừng chức năng, thiếu máu cục bộ và tổn thương nơron không thể đảo ngược bắt đầu ở cung lượng máu ít hơn 18 ml/100mg/phút; dưới ngưỡng này thì sẽ giãn mạch não tối đa và sự sống của tế bào não phụ thuộc trực tiếp vào thời gian thiếu máu não. Tế bào não khi đã tổn thương thì không tái tạo lại như các tế bào khác.
+
++ Điều kiện đặc biệt, khả năng chịu đựng thiếu oxy não có thể kéo dài hơn như: ngừng tim trong điều kiện hạ thân nhiệt (mổ với tuần hoàn ngoài cơ thể - hạ thân nhiệt, ngừng tim ngoài trời băng tuyết, chết đuối trong nước lạnh...), ngừng tim mà trước đó có sử dụng các thuốc làm giảm tiêu thụ oxy não như bacbituric, trẻ sơ sinh...
+
+III. Triệu chứng chẩn đoán.
++ Có 3 triệu chứng cơ bản sau:
+ - Mất ý thức: xác định khi gọi hỏi không trả lời, không có phản xạ thức tỉnh.
+ - Ngừng thở: xác định khi ngực và bụng hoàn toàn không có cử động thở.
+
+ - Ngừng tim: xác định khi mất mạch cảnh và mất mạch bẹn.
+
+
++ Các triệu chứng khác kèm theo như:
+ - Tím nhợt, giãn đồng tử và mất phản xạ đồng tử với ánh sáng,
+ - Nếu đang phẫu thuật sẽ thấy máu ở vết mổ tím đen và ngừng chảy.
+
+IV. Cấp cứu ngừng TH (khi không có trang bị).
+1. Khai thông đường thở (Airway control = A)
++ Bệnh nhân được đặt nằm ngửa trên nền cứng, đầu và cổ ở tư thế ưỡn tối đa, mặt quay về một bên.
+ - Phải làm như vậy vì khi ngừng tim, các trương lực cơ mất đi, nên xương hàm dưới và gốc lưỡi tụt xuống, chẹn lấp đường thở của nạn nhân, cản trở động tác hô hấp nhân tạo.
+ - Người cấp cứu dùng tay mở miệng bệnh nhân ra, dùng các ngón tay móc sạch đờm dãi và dị vật nếu như có thể lấy được.
+
++ Không nên cố lấy dị vật ở sâu vì vừa khó lấy, vừa làm mất nhiều thời gian, và có thể đẩy dị vật vào sâu thêm, hoặc gây tắc hoàn toàn đường thở. Có thể áp dụng Nghiệm pháp Heimlich để làm bật các dị vật đường thở ra ngoài.
+ 
+2. Thổi ngạt (Hỗ trợ hô hấp = Breathing support = B)
++ Có thể chọn kỹ thuật thổi miệng-miệng hoặc miệng-mũi, miệng-mask gắn van một chiều...để giảm bớt nguy cơ truyền bệnh.
+
+
+- Thông thường thổi miệng-miệng có hiệu quả hơn,
+- Người cấp cứu dùng 1 bàn tay đặt lên trán bệnh nhân ấn ngửa đầu bệnh nhân ra sau đồng thời dùng ngón trỏ và ngón cái kẹp mũi bệnh nhân lại, các ngón tay của bàn tay thứ 2 vừa nâng hàm dưới của bệnh nhân lên trên ra trước đồng thời mở miệng bệnh nhân ra,
+- Người cấp cứu sau khi hít sâu áp chặt miệng vào miệng nạn nhân rồi thổi hết không khí dự trữ qua miệng vào phổi của nạn nhân.
+
++ Nếu nạn nhân quá to lớn, có thể áp dụng thổi miệng-mũi, người cấp cứu vừa dùng bàn tay vừa nâng xương hàm dưới của bệnh nhân lên trên ra trước vừa khép miệng bệnh nhân lại, bàn tay thứ hai đặt lên trán nạn nhân ấn ngửa đầu nạn nhân ra sau, sau khi đã hít sâu áp chặt miệng vào mũi nạn nhân rồi thổi hết không khí dự trữ qua mũi vào phổi.
+
++ Tần số thổi nên từ 12 - 15 lần/phút. Nếu làm đúng kỹ thuật, với mỗi lần thổi như vậy, sẽ thấy lồng ngực bệnh nhân nở vồng lên. Nếu làm không đúng kỹ thuật sẽ thấy lồng ngực bệnh nhân không nở theo nhịp thở đồng thời thấy bụng bệnh nhân to dần lên theo từng nhịp thổi hoặc không khí phì ra ngay trên mặt bệnh nhân.
+
++ Động tác thổi ngạt giúp đưa không khí cùng với oxy vào trong phổi nạn nhân, động tác thở ra thụ động sau khi ngừng thổi không khí vào giúp không khí trong phổi thoát ra ngoài mang theo CO2.
+
+3. Ép tim ngoài lồng ngực (Hỗ trợ tuần hoàn = Circulation support = C)
+a. Tiêu chuẩn:
++ Người cấp cứu thường ở một bên bệnh nhân, một bàn tay đặt dọc theo chính giữa 1/2 dưới của xương ức bệnh nhân, bàn tay thứ hai đặt vuông góc lên bàn tay thứ nhất, dùng lực của hai tay, vai và thân mình ép vuông góc xuống lồng ngực của bệnh nhân sao cho xương ức lún xuống; từ 4 - 5 cm, sau đó nhấc tay lên mà tiếp tục nhịp ép thứ hai theo chu trình 50% ép-50% nhấc (tự đếm 1-2-3 khi ấn & khi nghỉ), như thế tần số sẽ lên khoảng 80 - 100 lần/phút; lưu ý - dù điều kiện tối ưu thì hiệu xuất ép cũng chỉ bằng 1/3 bình thường - nên cần có ván cứng đặt ở dưới nạn nhân. 
+
+
++ Với mỗi nhịp ép tim đúng kỹ thuật sẽ phải bắt được động mạch bẹn hoặc động mạch cảnh.
+
++ Hai động tác ép tim và thổi ngạt phải được thực hiện xen kẽ với nhau một cách nhịp nhàng:
+- Nếu chỉ có 1 người cứu: có thể thổi một lần rồi ép tim 5 lần hoặc thổi 2 - 3 lần rồi ép tim 15 lần, phải đảm bảo ép tim 80-100/phút. Cách thứ hai tốt hơn vì tạo được áp lực tống máu cao hơn nhưng khiến người cấp cứu chóng mệt hơn.
+- Có 2 người cứu: ép tim-thông khí theo tỷ lệ 5:1 cũng theo chỉ định 80-100/phút.
+
++ Không được dừng CPR quá 7 giây (trừ những hoàn cảnh đặc biệt, như luồn ống nội khí quản, cũng không nên vượt hơn 30 giây). Chú ý những tai biến do ép ngực bao gồm gãy xương sườn, xương ức, tràn khí màng phổi, tràn máu màng phổi, dập phổi, dập cơ tim, xé rách gan hay lách, và nghẽn mạch mỡ...
+
+b.CPR chỉ ép tim (2010) - CPR Compression only (hands-only) là kỹ thuật ép ngực mà không cần hô hấp nhân tạo [Field JM, AHA 2010] :
++ Đó là phương pháp được khuyến cáo là lựa chọn cho những người cứu hộ không được đào tạo hoặc những người không thành thạo vì nó dễ thực hiện hơn và cũng hướng dẫn được dễ dàng hơn qua điện thoại.
++ Ở người lớn ngừng tim ngoài bệnh viện, CPR chỉ ép ngực do người dân làm có tỷ lệ thành công cao hơn CPR tiêu chuẩn [Hüpfl M, Lancet 37.2010]. Đặc biệt là các trường hợp chết đuối, dùng thuốc quá liều, và ngưng tim ở trẻ em.
++ Phương pháp ép ngực vẫn như kiểu tiêu chuẩn, cũng tỷ lệ (ít nhất 100 lần / phút).
+
+4. Khi cấp cứu có hiệu quả
++ Đó là khi việc cấp cứu đạt được mục đích cung cấp được máu và oxy đến cho tuần hoàn não, tuần hoàn vành cũng như tổ chức tế bào. Biểu hiện lâm sàng là niêm mạc môi bệnh nhân ấm và hồng trở lại, đồng tử co lại nếu thời gian thiếu oxy não chưa lâu và còn khả năng hồi phục.
+
++ Càng tốt hơn nếu như có các dấu hiệu của sự sống như: thở trở lại, tim đập lại, ý thức tỉnh trở lại... Cần lưu ý là chỉ các dấu hiệu cung cấp được oxy cho tổ chức tế bào (môi ấm hồng trở lại) mà chưa có dấu hiệu tổn thương nặng nề ở tổ chức não (đồng tử co lại). Vì vậy cần kiên trì cấp cứu, đồng thời gọi các đội cấp cứu y tế hoặc vừa cấp cứu vừa vận chuyển bệnh nhân đến một cơ sở y tế gần nhất.
+
+VI. Cấp cứu ngừng TH (điều kiện có trang bị)
+1. Khai thông đường thở(A)
++ Kỹ thuật khai thông đường thở không có gì khác so với phần trên, nạn nhân cần được đặt nằm ngửa trên giường cứng, nếu là giường đệm cần đặt một miếng gỗ mỏng dưới lưng bệnh nhân.
++ Cần có máy hút để hút đờm dãi, kìm mở miệng, panh; để gắp dị vật...
+
+2. Hô hấp nhân tạo(B)
++ Bệnh nhân được khai thông đường thở, người cấp cứu dùng masque úp khít lên mũi và miệng của nạn nhân, masque này được nối với bóng bóp; tốt nhất là đặt NKQ cấp cứu nếu kỹ thuật thành thạo.
++ Cần bóp bóng cho bệnh nhân khoảng 20 nhịp/phút, thể tích mỗi lần bóp vào khoảng10 - 15 ml/kg.Tốt nhất là nối với nguồn oxy với lưu lượng 6 - 8 lít/phút.
++ Ép sụn nhẫn - giảm bớt nguy cơ trào ngược dạ dày, thường xảy ra khi bóp bóng, thao diễn này cũng tạo điều kiện thuận lợi cho luồn ống nội khí quản.
++ Cách ứng dụng khác: thông khí ngang qua ống NKQ; qua catheter mũi; qua ống mở khí quản; qua kim chọc xuyên màng sụn giáp, thở máy...
+
+
+3. Ép tim ngoài & trong lồng ngực(C)
++ Giống như khi cấp cứu không có phương tiện; động tác ép tim và thổi ngạt cần xen kẽ với nhau một cách nhịp nhàng như ở phần trên.
++ Ép tim trong lồng ngực có hiệu suất gấp đôi ép tim ngoài và hợp sinh lý tuần hoàn hơn; càng hiệu quả trong các trường hợp ngừng tim do chấn thương hở, dị dạng ngực, tamponede tim.
++ Các phương pháp mới để cải thiện huyết động trong thời gian CPR có thể áp dụng gồm:
+ - Nén ép bụng xen kẽ (interposed abdominal compressions : IAC-CPR)
+ - Giảm áp nén tích cực (active compression-decompression; only rhythmic abdominal compressions:OAC-CPR)
+ - Nén áo hơi (pneumatic vest compression)
+ 
+ - Tạo tuần hoàn ngoài cơ thể khẩn cấp (emergency cardiopulmonary bypass)
+4. Thuốc trong cấp cứu
+* Chỉ có 2 thuốc được khuyến cáo bởi hiệp hội tim mạch Mỹ là adrenalin và Atropine. Liều đầy đủ của Atropine là (0.04 mg/Kg) và adrenalin liều-cao (0.20 mg/Kg).
+
+a, Oxy 100% sử dụng càng sớm càng tốt.
+
+b, Adrenalin:
++ Thuốc có ích lợi nhất trong thời gian tim ngừng đập là adrenalin bởi tác động alpha-adrenergic của nó kích thích thụ thể adrenergic trên hệ thần kinh tự động của tim (đặc biệt là nút xoang) làm cho tim đập lại, còn làm tăng lưu lượng máu tới cơ tim và não trong thời gian CPR.
+- adrenalin hữu ích trong vô tâm thu, mất mạch do hoạt động điện (pulseless electrical activity:PEA), rung tâm thất và trong chậm nhịp và huyết áp thấp.
+
++ Thường đóng ống 1mg/1ml, liều tối ưu vẫn còn đang tranh luận; hiệp hội tim mạch Mỹ khuyến cáo cách dùng như sau:
+ - Liều dùng là 1mg cho 1 lần tiêm, nhắc lại 3-5 phút một lần nếu như tim chưa đập lại, có thể tăng liều lên 3mg cho một lần tiêm nếu như dùng liều 1mg không có hiệu quả, hoặc 0,1 mg/kg IV mỗi 3-5 phút nếu cần.
+ - Truyền tĩnh mạch adrenalin: được chuẩn bị bằng việc thêm 30 mg adrenalin (30 ml của dd 1: 1000) vào 250 ml của 5% D/W hay NaCl 0,9% và cho truyền nhịp độ ban đầu là 100 ml/giờ (tương đương 1 mg adrenalin mỗi 5'), chuẩn độ tới khi đạt kết quả. Đường tiêm thuốc tốt nhất vào tĩnh mạch trung tâm vì đây là con đường nhanh nhất đưa thuốc tới nút xoang.
+- Với những bệnh nhân nhịp tim chậm và huyết áp thấp, cho 1 mg adrenalin vào 500 ml của 5% D/W hay NaCl 0,9% và cho truyền chuẩn độ tới khi đạt kết quả mong muốn (thường 1-10 mcg/phút).
+
++ Nếu tiêm vào tĩnh mạch ngoại vi - cần chọn tĩnh mạch cảnh ngoài, tĩnh mạch đầu hoặc tĩnh mạch nền cánh tay. Liều adrenalin cần pha trong 20 ml huyết thanh mặn 0,9% và được tiêm nhanh vào tĩnh mạch, khi tiêm vào tĩnh mạch cánh tay cần nâng cao cánh tay lên, nếu đã đặt được một dây truyền tĩnh mạch thì sau khi tiêm thuốc vào dây truyền cần nâng cao chi thể và cho dịch truyền chảy nhanh lên với mục đích làm cho thuốc về tuần hoàn nhanh hơn.
+- Không sử dụng các tĩnh mạch ở chi dưới vì ít hiệu quả.
+
++ Con đường dự phòng để đưa thuốc vào khi chưa tiêm được thuốc vào tĩnh mạch, đó là tiêm thuốc vào khí quản bệnh nhân.
+ - Liều dùng theo đường này cần cao hơn là 5mg adrenalin pha trong 5ml huyết thanh mặn 0,9%.
+ - Vị trí tiêm là khe sụn giáp-nhẫn, vừa chọc kim vừa hút nhẹ bơm tiêm đến khi thấy không khí tràn vào trong lòng bơm tiêm một cách dễ dàng chứng tỏ mũi kim đã nằm trong lòng khí quản, bơm nhanh thuốc vào, sau khi rút kim ra, bệnh nhân phải được thông khí và ép tim ngay.
+ - Nhờ động tác thông khí, thuốc được đưa vào phế nang rồi ngấm sang màng phế nang - mao mạch vào tuần hoàn phổi rồi nhờ động tác ép tim về tim làm tim đập lại.
+ - Không nên nhắc lại việc tiêm thuốc vào khí quản quá nhiều lần vì làm ngập nước phổi bệnh nhân.
+
++ Con đường cuối cùng để đưa thuốc vào - khi các con đường trên không thực hiện được, hoặc không có hiệu quả là tiêm thuốc vào buồng tim:
+ - Cần chọn kim tiêm dài 7 - 10cm để có thể chọc tới buồng tim, kim mảnh cỡ 18 - 20Gauge để hạn chế tổn thương cơ tim.
+ - Vị trí tiêm là khoang liên sườn 4 - 5 sát cạnh xương ức bên trái, sát bờ trên xương sườn dưới để tránh màng phổi và bó mạch thần kinh liên sườn.
+ - Hướng kim là từ dưới lên trên, từ ngoài vào trong, từ trước ra sau, vừa chọc vừa hút nhẹ bơm tiêm đến khi máu trào vào bơm tiêm một cách dễ dàng chứng tỏ mũi kim đã nằm trong buồng tim thì bơm nhanh thuốc vào.
+ - Sau khi rút kim ra bệnh nhân cần được ép tim và thông khí ngay.
+
+Các thuốc khác:
+c, Sodium bicarbonate:
+Các thuốc kiềm máu chỉ thực sự cần thiết khi tim đập lại và có huyết áp, nhưng khi cấp cứu hồi sinh kéo dài có thể sử dụng với liều 1mEq HCO3 cho 1kg cân nặng cho 30 phút cấp cứu .
+
+d, Atropine:
+Có thể hữu ích ở BN vô tâm thu, PEA chậm. Ít hiệu quả trong block AV độ III và có hại trong block AV độ II kiểu Mobitz II; Liều ghi nhận là 0.5-1 mg (1mg trong ngưng tim) IV mỗi 3-5' khi cần tới tổng liều 3mg. Khuyến cáo liều lượng là 0.5-1.0mg (1 mg trong tim ngừng đập) IV q3-5 min khi cần tới tổng liều 3 mg.
+
+e, Isoproterenol
+Là một chủ vận bêta thuần khiết với thuộc tính inotropic and chronotropic mạnh ( làm tăng nhu cầu oxi cơ tim). Được chỉ định cho xoán đỉnh bất trị và chậm nhịp ảnh hưởng nghiêm trọng huyết động; liều thấp 1-3 mcg/phút có thể công hiệu; truyền liều 1mg pha trong 500ml 5% D/W (2mcg/ml) và chuẩn liều tác dụng (1-10mg/phút) để đạt tần số tim mang muốn. Có bằng chứng là isoproterenol có thể có hại trong ngừng tim, bằng việc giảm bớt sức kháng của mạch máu, và giảm tưới động mạch vành trong thời gian CPR.
+ 
+f, Calcium:
+Ca++ gây tổn thương tế bào nên hiện chỉ dùng cho các trường hợp ngừng tim do hạ Ca++ máu hoặc ngộ độc các thuốc ức chế Ca++.
+Liều lượng là 2ml (2-4 mg/Kg) dung dich canxi clorua 10% IV, lặp lại mỗi 10 phút khi cần. Can xi gluceptate 5-7 ml, và Canxi gluconat 5-8 ml, cung cấp lượng tương đương Can xi như trên.
+
+g, Lidocain:
+Lidocain là thuốc chọn điều trị chứng nhịp nhanh thất, ngoại tâm thu và rung thất.  Liều lượng ban đầu bolus 1.0-1.5mg/Kg IV, sau đó bolus bổ sung 0.5-1.5mg/Kg  mỗi 3-10' tới tổng liều 3 mg/Kg. Trong tim ngừng đập, 1.5mg/Kg bolus IV lặp lại 3-5' nếu vẫn còn ngừng tim. Kết thúc rung thất hay nhịp nhanh thất, bắt đầu truyền tiếp 2-4 mg/phút.
+
+h, Bretylium
+Bretylium tosylate ban đầu sản xuất catecholamin, sau đó phong tỏa adrenalin. Bretylium có thể kết thúc chứng loạn nhịp thất do vào lại, tăng ngưỡng rung tâm thất, và tạo điều kiện thuận lợi cho khử rung điện; ngoài ra, nó có thể có hoạt tính khử rung trực tiếp.
+Liều ban đầu là 5 mg/Kg bởi bơm nhanh IV, lặp lại 10 mg/Kg khoảng 5 phút khi cần, tới tổng liều 30-35mg/kg...
+Các thuốc chống rung thất và loạn nhịp tim như lidocain dùng với liều 1,5mg/kg, bretylium 4,5mg/kg khi có chỉ định.
+
+i, Dopamine
+Thuốc kích thích thụ thể alpha, bêta, và dopaminergic. Dopamin được chỉ định khi huyết áp thấp ( Không do giảm KLTH) hay tim chậm làm giảm HA quan trọng. Truyền 400-800mg dopamin trong 250 ml D/W 5% (1600-3200mcg/ml) chuẩn  độ (thường là 2-20 mcg/Kg/phút) tới hiệu quả mong muốn. Nếu > 20 mcg/Kg/phút, cần bổ xung noradrenalin.
+
+j, Noradrenaline
+Là một chủ vận alpha-bêta với tác động làm co mạch mạnh. Hữu ích trong điều trị tụt HA mạnh phối hợp với trở kháng ngoại vi thấp. Truyền 4mg noradrenalin (levarterenol) trong 250 ml D/W5% (16 mcg/ml noradrenalin) và chuẩn độ (thường là 0.5-30.0 mcg/phút) cho tới khi đạt huyết áp mong muốn.
+
+k, Magnesium
++ Magnesium là một coenzim đối với adenosin triphotphataza (ATPaza) màng tế bào và có ý nghĩa đối với hoạt động của một số lớn các men quan trọng sống còn khác. Sự trao đổi chất Magiê là liên kết chặt chẽ tới kali, và sự thiếu hụt magiê có thể là một nguyên nhân của giảm kali-huyết.
++ Magiê hoat động như thuốc đối kháng can xi và gây giãn mạch.
++ Giảm magne-huyết liên quan đến suy tim, tăng cường hiệu lực độc tính digoxin, loạn nhịp tim tim (gồm nhanh thất, rung tâm thất và xoắn đỉnh), và chết thình lình.
++ Mage được khuyến cáo điều trị giảm magne-huyết, rung thất, nhanh thất bất trị, và xoắn đỉnh.
++ Trong tim ngừng đập, 1-2g magie sunfat (2-4 ml dung dịch 50%) có thể pha loãng 10 ml của D/W 5% và tiêm tĩnh mạch trong 1-2'; liều này có thể được lặp lại khi cần lên tới liều tổng 6gm. Cách khác, Loading liều 1-2mg magie sunfat pha loãng trong 50-100 ml D/W 5% truyền trong 5-60'...
+ 
+l, Truyền dịch khôi phục khối lượng tuần hoàn chỉ có ý nghĩa quyết định trong trường hợp nguyên nhân ngừng tim là do mất máu và dịch thể cấp tính. Còn tuyệt đại đa số các trường hợp khác, chỉ cần truyền 200 - 300ml huyết thanh mặn 0,9% trong suốt quá trình cấp cứu, chủ yếu là giữ một đường tĩnh mạch chắc chắn để đưa thuốc vào cơ thể.
+
+* Phác đồ xử trí tùy theo loại ngừng tuần hoàn (tham khảo):
++ Rung thất:
+ - Sốc điện ngoài lồng ngực 200-300watt/giây
+ - Lidocain 1-2mg/kg IV sau đó duy trì 1-2mg/phút nếu cần.
+ - Kali Cl 2-4g/IV (tốc độ không quá 1g/giờ)
+
++ Vô tâm thu:
+ - Canxi Cl 0,5-1g/IV (dặc biệt khi tăng K máu)
+ - Atropine 2mg/IV sau đó cho Isuprel
+ - Isuprel 2-4mcg/phút IV (pha 5 ống vào 125ml DW5%) khi nghi dừng TH do mạch chậm.
+ - Đặt máy tạo nhịp ngoài.
+
++ Xoắn đỉnh:
+ - Isuprel truyền IV (đã nêu ở mục e)
+ - Magne truyền IV (đã nêu ở mục k)
+ - Kali truyền IV (dã nêu trên)
+
+5. Phá rung, chuyển nhịp và đấm trước ngực:
+a, Phá rung
++ Rung thất là tình trạng các thớ cơ tim rung lên một cách hỗn loạn, không còn khả năng tống máu đi nuôi cơ thể và được coi là ngừng tuần hoàn. Phá rung bằng sốc điện là dùng dòng điện có hiệu điện thế thấp nhưng có cường độ lớn phóng qua trục của tim, nhằm xoá sạch các ổ phát xung hỗn loạn, khôi phục lại tính tự động bình thường của hệ thần kinh tim.
+
++ Rung thất biểu hiện trên điện tim là mất phức bộ QRS mà thay bằng các sóng lổn nhổn, nếu biên độ > 7mm (ở đạo trình ngoại vi) là rung thất biên độ lớn thường đáp ứng tốt với sốc điện, nếu < 7mm là rung thất biên độ nhỏ, đáp ứng kém với sốc điện, cần kiên trì ép tim và thông khí giàu oxy để chuyển rung thất biên độ nhỏ thành rung thất biên độ lớn, phá rung sẽ hiệu quả hơn.
+
++ Liều sốc điện thông thường là:
+ - Lần 1 : 200j
+ - Lần 2 : 200j
+ - Lần 3 : 300j
+ - Lần 4 : 360j nếu chưa phá được rung thất.
+
++ Hiện nay, các máy phá rung bán tự động rất phổ biến trên thế giới, nó cho phép tự phát hiện rung thất và phóng xung điện. Các thế hệ máy mới đã thay dòng điện có xung hình sin kinh điển bằng dòng điện 2 pha (biphasic) dùng năng lượng thấp hơn, ít gây tổn thương cơ tim hơn.
+
+b, Chuyển nhịp (Electrical cardioversion):
+Tận cùng của các loạn nhịp tim thường là rung tâm thất, ưa chuộng hơn thường bởi một cú sốc DC đồng bộ để giảm bớt tiềm năng tự đông của rung tâm thất. Chuyển nhịp cấp cứu thường được chỉ định với nhịp nhanh trên và tại thất; Không có chống chỉ định tuyệt đối với  chuyển nhịp khi p.pháp này cần thiết.
+
+c, Đấm trước ngực (precordial thump):
+Đấm vùng trước tim được hoàn thành bởi một cú đấm tới thân xương ức, với cạnh nắm tay của người cứu, từ cách 20-30 cm ở trên xương ức. Nó sản sinh một tác nhân kích thích điện nhỏ khoảng 4 jun, và có thể chuyển đổi được chứng nhịp nhanh tâm thất, rung thất hay vô tâm thu thứ phát thành một block tim hoàn toàn. Vì thế, nó không nên sử dụng ở những bệnh nhân nhịp thất nhanh, trừ phi có sẵn  máy khử dung và điều nhịp.
+
+6. Trạng thái sau hồi sinh tim-phổi- não:
++ Mặc dù được cấp cứu sớm và tốt, tim đập lại nhưng bệnh nhân sẽ có tiên lượng xấu nếu trên nền bệnh lý mạn tính giai đoạn cuối.
++ Ngừng tim-phổi trên người trước đó khoẻ mạnh, do sau tình trạng thiếu oxy nặng nề kéo dài, mặc dù tim đã đập lại, nhưng tình trạng bệnh nhân vẫn còn rất nặng, do đó-các bệnh nhân này cần được theo dõi điều trị tiếp tại các khoa điều trị tích cực, nhằm giữ cho huyết động ổn định, cung cấp oxy đầy đủ.
++ Việc hồi sức não chủ yếu là cung cấp oxy cùng với áp lực tưới máu não thỏa đáng, duy trì tính ổn định của nội môi như đường máu, áp lực thẩm thấu máu, pH, paO2,  paCO2 trong giới hạn bình thường, và sử dụng các biện pháp làm giảm tiêu thụ oxy não có tính chất bảo vệ não như bacbituric, propofol, cerebrolysin; hạ thân nhiệt vừa phải (350C)...
++ Như vậy, nếu ở tuyến dưới, sau khi đã cấp cứu tim đập lại, bệnh nhân cần được chuyển lên tuyến trên hoặc mời tuyến trên xuống cấp cứu tùy trường hợp cụ thể.
+
+VII. Ngừng CPR.
+1. Tình huống đặc biệt
+a, Người cứu kiệt quệ và không có khả năng để tiếp tục CPR.
+b, Có mối nguy hiểm với người cứu, hoặc nạn nhân sống lại không ngừng gây nguy hiểm cuộc sống của những người khác.
+c, Mệnh lệnh CPR  không hợp lệ
+d, Trách nhiệm đã được chuyển tới những người khác có khả năng tiếp tục hồi sinh hiệu quả hơn.
+
+2.HS thành công
+a, Chuyển tới đơn vị cấp cứu đặc biệt. Tiếp tục theo dõi kiểm tra liên tục, thời kỳ sau hồi sinh là một thời kỳ nguy cơ- cao do tim tái ngừng đập.
+
+b, Hồi sức Não.
++ Hiện nay, những phương pháp cải thiện tổn thương não do thiếu máu trong thời gian tim ngừng đập - chính là những biện pháp bảo đảm một huyết áp bình thường, nhiệt độ bình thường và sự bão hòa oxy thích hợp.
++ Tăng đường huyết có thể làm hại sự khôi phục neurologic và cần được tránh trong thời gian hồi sinh.
++ Hút khí quản cần được thực hiện thận trọng sau khi đã thông khí quá mức, để ngăn ngừa tăng áp suất trong sọ và giảm oxy-huyết.
++ Co giật cần sự điều trị nhắc lại.
++ Nếu hiện tại, áp suất trong sọ gia tăng cần điều trị bằng tăng thông khí, nâng cao đầu giường 30 độ, sử dụng lợi tiểu và hạn dịch vào thích hợp.
++ Sử dụng steroid, block kênh can xi, và bacbituric, tuy nhiên có vẻ ít hiệu lực vào thời gian này.
+
+3. Khi không thể hồi phục (unresuscitatable)
+a, Quyết định cần phải trên cơ sở của tính không đáp ứng tim mạch, nghĩa là, sự không có khả năng phục hồi tim mạch sau khi đã CPR đúng tiêu chuẩn.
+b, CPR không nên kết thúc khi những dấu hiệu của sự chết não đặc biệt không đáng tin cậy khi có mặt của giảm thể nhiệt, giảm lượng máu, và nhiễm độc thuốc ở trẻ em. 
+c, Nếu đã áp dụng đúng, đầy đủ các biện pháp cấp cứu như trên, không có điều kiện vận chuyển hoặc gọi tuyến trên chi viện, trong vòng 30 phút mà đồng tử không co lại, tim không đập lại thì cho phép ngừng cấp cứu và bệnh nhân tử vong.
+
+* Tiêu chuẩn chết não của Đại học Y khoa Harvard:
+- Hôn mê sâu không dáp ứng với kích thích bên ngoài hoặc với nhu cầu bản thân.
+- Không cử động, không thở, trừ khi đang duy trì thở máy.
+- Không còn phản xạ, ngoài trừ một vài phản xạ tủy, chẳng hạn co rút chi dưới đột ngột đáp ứng với kích thích đau hoặc phản xạ gập bàn chân giống với phản xạ Babinski âm tính.
+- EEG là đường thẳng sau ít nhất 10' ghi (tốt nhất là 20').
++Các dấu chứng trên không thay đổi ít nhất 24h mới có giá trị; và các dấu chứng trên chỉ có giá trị khi BN không dùng bất cứ thứ thuốc ức chế TKTW nào.

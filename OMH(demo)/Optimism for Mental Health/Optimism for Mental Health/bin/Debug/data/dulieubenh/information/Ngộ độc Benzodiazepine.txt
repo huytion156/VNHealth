@@ -1,0 +1,37 @@
+﻿I. Đại cương:
+     - Là thuốc trấn tĩnh tinh thần với liều điều trị thông thường các benzodiazepine có tác dụng: giải lo âu an thần, mềm cơ, chống co giật. Liều cao có tác dụng gây ngủ.
+     - Ngộ độc thường gặp khi lạm dụng (nghiện), tự tử, uống nhầm ..v..v...
+     - Đặc điểm điều trị: thường ngộ độc benzodiazepine gây hôn mê không sâu nhưng kèm theo yếu cơ nên dẫn đến suy hô hấp sớm. Cần phát hiện và điều trị kịp thời. Với giải độc đặc hiệu flumazenil, việc điều trị trở nên đơn giản và hiệu quả. Tránh được tình trạng hôn mê và suy hô hấp kéo dài.
+
+II. Chẩn đoán:
+     1. Chẩn đoán xác định:
+          - Bệnh sử có hoàn cảnh sử dụng thuốc hoặc có ý định tự tử, có vỏ thuốc, mất thuốc trong hộp thuốc gia đình, mới mua thuốc ..v..v...
+          - Hôn mê yên tĩnh, thường không sâu, kích thích đau vẫn có đáp ứng nhưng đã có suy hô hấp, thở nhanh nông. Xét nghiệm khí máu thấy PaCO2 tăng, PaO¬2 giảm
+          - Tét Anexat bệnh nhân đáp ứng tốt cho phép chẩn đoán xác định ngộ độc cấp benzodiazepine.
+          - Quyết định chẩn đoán là xét nghiệm độc chất: tìm độc chất trong nước tiểu, dịch dạ dày hoặc trực tiếp trong máu nếu có thể.
+     2. Chẩn đoán phân biệt:
+          - Với các thuốc an thần khác
+          - Với các nguyên nhân khác gây hôn mê
+
+III. Điều trị:
+     1. Tại chỗ:
+          - Nếu phát hiện sớm còn tỉnh: gây nôn, rửa dạ dày
+          - Nếu đã có rối loạn ý thức:
+               + Nếu có điều kiện: tiêm thuốc giải độc đặc hiệu (flumazenil)Nếu có suy hô hấp: tiến hành hô hấp hỗ trợ bằng một trong các biện pháp sau:
+               + Nếu không có: nhanh chóng chuyển đến bệnh viện gần nhất. Trên đường đi cần đặt bệnh nhân ở tư thế nằm nghiêng an toàn. Hỗ trợ hô hấp (bóp bóng qua mặt nạ, ống NKQ, hoặc thổi ngạt nếu ngừng thở)
+     2. Tại khoa Hồi sức cấp cứu - Chống độc:
+          2. 1. Tiêm ngay thuốc giải độc đặc hiệu:
+               - Fumazenil ống 0,5mg, tiêm TM chậm 0,2 mg trong 5 phút. Liều tối đa 2mg/24 giờ
+               - Nếu bệnh nhân đáp ứng tỉnh, tự thở được: duy trì liều nếu cần
+          2. 2. Hạn chế hấp thu:
+               - Gây nôn nếu đến sớm, tỉnh hoàn toàn
+               - Nếu đã có rối loạn ý thức: rửa dạ dày sau khi đặt NKQ có bóng chèn, với lượng nước rửa tối đa từ 3-5 lít.
+               - Than hoạt 20-40 g, uống một lần kèm thuốc tẩy
+               - Thuốc tẩy Sorbitol: 20-40 g (tương đương với than hoạt) hoặc Magne sulfat 30 g.
+          2. 3. Bảo đảm hô hấp:
+               - Thở máy không xâm nhập BiPAP
+               - Đặt NKQ, thở máy CMV với các thông số: Vt 10ml/kg cân nặng, tần số thở 14-16 lần, Fi02 30%
+          2. 4. Các biện pháp hồi sức hỗ trợ:
+               - Chăm sóc toàn diện
+               - Truyền dịch
+               - Nuôi dưỡng

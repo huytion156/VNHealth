@@ -1,0 +1,28 @@
+﻿I.Tổng quan
++ Vitamin K tác động như một yếu tố phụ trợ cho quá trình carboxylation cuả các tiền tố (zymogen: II, VII, IX), yếu tố X, tiểu cầu và can xi, tạo thành phức hợp làm tăng hoạt tinh của yếu tố đông máu X và II.
++ Thiếu vitamin K sẽ làm sự ket dinh tiểu cầu chậm và suy yếu sự cầm máu.
++ Vitamin K được cung cấp từ ăn uống, chủ yếu có trong rau và tổng hợp trong hệ vi khuẩn đường ruột.
++ Yế tố gây thiếu vitamin K gồm ăn kiêng, sự hấp thụ kém và dùng thuốc kháng sinh làm giảm hệ vi khuẩn ruột. Điển hình hay gặp ở người sau mổ chưa ăn dùng KS nhiều.
++ Dự trữ vitamin K thấp nên có thể chỉ <1 tuan là đã rối loạn.
+
+II.Chẩn đoán
+ 3 tiêu chuẩn
+ 1. Do suy dinh dưỡng hay vì dụng kháng sinh.
+ 2.Thời gian protrombin(pt) kéo dài hơn ptT.
+ 3. Sự sữa chữa nhanh với vitamin K.
+
+III.Triệu chứng:
++ Lâm sàng
+- Không có triệu chứng lâm sàng đặc biệt.
+- chảy máu có thể xuất hiện bất cứ chỗ nào.
+
++ Kết quả XN
+- Thời gian protrombin (pt) kéo dài hon so với ptT, nếu thiếu hụt vitamin K nhẹ chi có pt kéo dài.
+- fi-bri-no-gen, thời gian trombin và số lượng tiểu cầu không ảnh hưởng.
+
++ Phân biệt
+- Su thiếu hụt vitamin K có thể phân biệt với bệnh gan có rối loạn đông máu bằng việc đánh giá sự đáp lại với điều trị bệnh bằng vitamin K. sử dụng warfarin liều nhỏ làm khó phân biệ̣t với sự thiếu hụt vitamin K.
+- Bệ̣nh thiếu hụt vitamin K khác với DIC ở cho số lượng tiểu cầu và fi-bri-no-gen bình thường.
+
+IV.Điều trị
++ Sự thiếu hụt vitamin K điều trị nhanh chóng với tiêm vitamin K nội bì dưới da, và một liều độc nhất Vitamin15mg sẽ hoàn toàn sữa chữa các bất thường XN trong 12-24 giờ.

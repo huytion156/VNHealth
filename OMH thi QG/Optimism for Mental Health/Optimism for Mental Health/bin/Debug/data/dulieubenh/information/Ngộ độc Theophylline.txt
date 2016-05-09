@@ -1,0 +1,151 @@
+﻿Tên chung quốc tế: Theophylline.
+Mã ATC: R03D A04.
+Loại thuốc: Thuốc giãn phế quản.
+
+Dược lý và cơ chế tác dụng
+Theophylin có nhiều tác dụng dược lý. Thuốc làm giãn cơ trơn, nhất là cơ phế quản, kích thích hệ thần kinh trung ương, kích thích cơ tim và tác dụng trên thận như một thuốc lợi tiểu.
+
+Các cơ chế tác dụng dược lý của theophylin được đề xuất bao gồm
+(1) ức chế phosphodiesterase, do đó làm tăng AMP vòng nội bào,
+(2) tác dụng trực tiếp trên nồng độ calci nội bào,
+(3) tác dụng gián tiếp trên nồng độ calci nội bào thông qua tăng phân cực màng tế bào,
+(4) đối kháng thụ thể adenosin. Có nhiều bằng chứng cho thấy đối kháng thụ thể adenosin là yếu tố quan trọng nhất chịu trách nhiệm đa số các tác dụng dược lý của theophylin.
+
+Theophylin là thuốc giãn phế quản có hiệu lực trong hen và trước đây đã được coi là liệu pháp hàng đầu.
+Nhưng nay thuốc này đã bị đẩy xuống vị trí kém hơn nhiều, chủ yếu do lợi ích khiêm tốn mà thuốc đem lại, phạm vi điều trị hẹp và phải theo dõi nồng độ thuốc.
+Hen ban đêm có thể được cải thiện bằng các chế phẩm theophylin giải phóng chậm, nhưng các cách can thiệp khác như glucocorticoid hoặc salmeterol hít có lẽ hiệu lực hơn.
+
+Dược động học
+Sự hấp thu theophylin có thể bị chậm lại, nhưng thường không giảm khi có thức ăn trong dạ dày - ruột.
+Tiêm tĩnh mạch theophylin tạo nên nồng độ theophylin huyết thanh cao nhất và nhanh nhất.
+Sau khi uống nang theophylin hoặc viên nén không bao, thường đạt nồng độ đỉnh huyết thanh trong 1 - 2 giờ.
+Thụt giữ theophylin thường tạo nên nồng độ đỉnh huyết thanh trong 1 - 2 giờ.
+
+Theophylin phân bố nhanh vào các dịch ngoài tế bào và các mô cơ thể và đạt cân bằng phân bố một giờ sau một liều tiêm tĩnh mạch.
+Thuốc thâm nhập một phần vào hồng cầu.
+Thể tích phân bố của theophylin là 0,3 - 0,7 lít/kg và trung bình khoảng 0,45 lít/kg ở trẻ em và người lớn.
+Ở nồng độ huyết thanh 17 microgam/ml, khoảng 56% theophylin ở người lớn và trẻ em gắn vào protein huyết tương.
+Nửa đời theophylin biến thiên rộng, đặc biệt ở người nghiện thuốc lá, người bị tổn thương gan hoặc suy tim, người sử dụng đồng thời một số thuốc khác.
+Nửa đời tăng trong suy tim, xơ gan, nhiễm virus, người cao tuổi và do một vài loại thuốc dùng đồng thời.
+Nửa đời giảm ở người hút thuốc, người nghiện rượu và do một vài loại thuốc.
+Sự khác biệt trong nửa đời là yếu tố quan trọng vì theophylin có giới hạn an toàn hẹp giữa liều điều trị và liều độc.
+Trong đa số người bệnh, nồng độ theophylin huyết tương cần thiết phải trong phạm vi 10 và 20 mg/lít để làm giãn phế quản đầy đủ.
+Tuy nhiên, tác dụng không mong muốn cũng có thể xảy ra trong phạm vi đó và cả tần suất lẫn mức trầm trọng của tác dụng không mong muốn tăng lên ở nồng độ trên 20 mg/lít.
+Theophylin chuyển hóa ở gan và bài tiết cùng những chất chuyển hóa qua thận (bằng 8 - 12% độ thanh thải huyết tương toàn bộ).
+Lượng nhỏ theophylin không chuyển hóa được bài tiết trong phân.
+
+Chỉ định
+Hen phế quản:
+Hiện nay dạng thuốc theophylin uống giải phóng nhanh không được chỉ định để làm giảm co thắt phế quản trong hen phế quản cấp hoặc viêm phế quản mạn vì tỷ lệ tác dụng phụ cao do hấp thu nhanh.
+Hiện nay đã được thay thế bằng thuốc hít kích thích beta2 tác dụng ngắn, hiệu quả hơn và an toàn hơn.
+Nhưng các chế phẩm theophylin giải phóng chậm vẫn có ích để kiểm soát cơn hen ban đêm và thở khò khè buổi sáng.
+Aminophylin tiêm tĩnh mạch được chỉ định trong điều trị cơn hen nặng không đáp ứng nhanh với thuốc phun mù kích thích beta2.
+Ðiều thiết yếu là phải định lượng nồng độ theophylin huyết tương nếu dùng aminophylin cho người bệnh vừa mới dùng chế phẩm theophylin uống.
+
+Cơn ngừng thở ở trẻ thiếu tháng:
+Aminophylin (tiêm tĩnh mạch hoặc uống) cũng được chỉ định để xử trí cơn ngừng thở tái diễn ở trẻ thiếu tháng
+(cơn ngừng thở lâu trên 15 giây, kèm theo tim đập chậm và xanh tím).
+Vì tính chất độc tiềm tàng, phải cân nhắc cẩn thận khi dùng thuốc cho trẻ dưới 1 năm tuổi và nếu dùng,
+phải bảo tồn liều đầu tiên và liều duy trì (đặc biệt liều duy trì).
+
+Chống chỉ định
+Quá mẫn với các xanthin hoặc bất cứ một thành phần nào của chế phẩm thuốc, bệnh loét dạ dày tá tràng đang hoạt động, co giật, động kinh không kiểm soát được.
+
+Thận trọng
+Không tiêm tĩnh mạch theophylin cho người bệnh đã dùng theophylin uống vì có thể xảy ra loạn nhịp tim chết người.
+Bao giờ cũng phải bắt đầu điều trị hen với thuốc kích thích beta2 và corticosteroid.
+Không dùng đồng thời theophylin với những thuốc xanthin khác.
+Những người hút thuốc có thể cần liều lớn hơn hoặc thường xuyên hơn, vì độ thanh thải theophylin có thể tăng và nửa đời giảm ở người nghiện thuốc lá so với người không hút thuốc.
+Nửa đời cũng giảm ở người nghiện rượu.
+Nửa đời của theophylin tăng trong suy tim, xơ gan, nhiễm virus, suy gan và ở người cao tuổi.
+Nói chung phải giảm liều và theo dõi cẩn thận nồng độ theophylin huyết thanh ở những người bệnh này.
+Dùng thận trọng theophylin ở người có loét dạ dày, tăng năng tuyến giáp, tăng nhãn áp, đái tháo đường, giảm oxygen máu nặng, tăng huyết áp, động kinh.
+Dùng thận trọng theophylin cho người có đau thắt ngực hoặc thương tổn cơ tim vì khi cơ tim bị kích thích có thể có hại.
+Vì theophylin có thể gây loạn nhịp và/hoặc làm xấu thêm loạn nhịp có sẵn, bất cứ một thay đổi đáng kể nào về tần số và/hoặc nhịp tim đều cần theo dõi điện tâm đồ và các thăm khám khác.
+Do hấp thu và tích lũy thất thường và không thể tiên đoán, nên thuốc đạn theophylin có khuynh hướng gây độc nhiều hơn những dạng thuốc khác và do đó thường không được sử dụng.
+
+Thời kỳ mang thai
+Theophylin dễ dàng vào nhau thai. Không thấy có bằng chứng độc hại đối với thai khi dùng theophylin. Phải dùng theophylin thận trọng ở người mang thai.
+
+Thời kỳ cho con bú
+Theophylin phân bố trong sữa với nồng độ bằng 70% nồng độ trong huyết thanh và đôi khi có thể gây kích thích hoặc những dấu hiệu độc hại ở trẻ nhỏ bú sữa mẹ. Vì theophylin có thể gây những tác dụng độc hại nghiêm trọng ở trẻ nhỏ bú sữa, phải cân nhắc xem nên ngừng cho con bú hay ngừng dùng thuốc, căn cứ tầm quan trọng của thuốc đối với người mẹ.
+
+Tác dụng không mong muốn (ADR)
+Theophylin gây kích ứng dạ dày - ruột và kích thích hệ thần kinh trung ương với bất kỳ đường cho thuốc nào.
+Những tác dụng không mong muốn về TKTƯ thường nghiêm trọng hơn ở trẻ em so với người lớn.
+Tiêm tĩnh mạch aminophylin cho người bệnh đã dùng theophylin uống có thể gây loạn nhịp tim chết người.
+
+Thường gặp, ADR > 1/100
+Tim mạch: Nhịp tim nhanh.
+Thần kinh trung ương: Tình trạng kích động, bồn chồn.
+Tiêu hóa: Buồn nôn, nôn.
+
+Ít gặp, 1/1000 < ADR < 1/100
+Thần kinh trung ương: Mất ngủ, kích thích, động kinh.
+Da: Ban da.
+Tiêu hóa: Kích ứng dạ dày.
+Thần kinh - cơ và xương: Run.
+Khác: Phản ứng dị ứng.
+
+Hướng dẫn cách xử trí ADR
+Giảm liều lượng theophylin thường làm giảm tỷ lệ xảy ra và mức độ nghiêm trọng của những tác dụng không mong muốn về dạ dày và TKTƯ, tuy vậy, nếu những tác dụng không mong muốn này vẫn còn, hãy ngừng thuốc.
+Có thể uống thuốc trước hoặc sau bữa ăn, với một cốc nước đầy, hoặc với các thuốc kháng acid để giảm kích ứng dạ dày - ruột.
+
+Liều lượng và cách dùng
+Cách dùng:
+Ðể giảm kích ứng dạ dày, theophylin dạng uống thông thường được uống vào bữa ăn hoặc ngay sau bữa ăn, với một cốc nước đầy (150 ml) hoặc cùng thuốc kháng acid.
+Không được nhai hoặc nghiền theophylin giải phóng chậm.
+Thuốc đạn theophylin bình thường không nên dùng vì hấp thu và tích lũy thất thường không dự đoán được.
+Aminophylin có thể tiêm tĩnh mạch rất chậm (trong vòng 20 - 30 phút) không pha loãng, hoặc tiêm truyền chậm tĩnh mạch, sau khi đã pha vào một lượng lớn dịch truyền (tốc độ truyền không quá 25 mg/phút).
+Ðối với người béo phì, liều lượng được tính theo cân nặng lý tưởng của người bình thường tương ứng.
+
+Liều lượng:
+Theophylin uống:
+Liều ban đầu được khuyến cáo: Liều nạp: 4 - 6 mg/kg theophylin, nếu người bệnh chưa dùng theophylin trong vòng 24 giờ trước; 2 - 3 mg/kg theophylin, nếu người bệnh đã dùng theophylin trong vòng 24 giờ trước.
+Trung bình mỗi liều 1 mg/kg làm nồng độ theophylin huyết tăng 2 microgam/ml.
+Liều tăng dần: Liều có thể tăng dần khoảng 25% mỗi lần, cách 2 - 3 ngày một lần, cho đến chừng nào thuốc còn dung nạp được hoặc tới khi đạt tới liều tối đa sau đây:
+Trẻ em tới 9 tuổi: 24 mg/kg/ngày.
+9 - 12 tuổi: 20 mg/kg/ngày.
+12 - 16 tuổi: 18 mg/kg/ngày.
+16 tuổi và lớn hơn: 13 mg/kg/ngày hoặc 900 mg mỗi ngày (bất cứ liều nào cũng phải thấp hơn).
+Liều duy trì: Tổng liều hàng ngày có thể chia dùng cách nhau 12 giờ ở trẻ sơ sinh và cách nhau 6 - 8 giờ ở trẻ nhỏ. Ở trẻ lớn và người lớn, có thể dùng viên giải phóng chậm. Tổng liều hàng ngày có thể chia, dùng cách nhau 8 - 12 giờ.
+
+Aminophylin tiêm tĩnh mạch:
+Trị cơn ngừng thở ở trẻ thiếu tháng: Uống hoặc tiêm tĩnh mạch: Liều nạp theophylin 4 mg/kg hoặc aminophylin 5 mg/kg.
+Tiêm tĩnh mạch: Liều đầu tiên, tốc độ truyền tĩnh mạch duy trì:
+Trẻ sơ sinh 24 ngày tuổi: 0,08 mg/kg/giờ (theophylin); trên 24 ngày tuổi: 0,12 mg/kg/giờ (theophylin).
+
+Trị co thắt phế quản cấp ở trẻ em và người lớn:
+Ðường tĩnh mạch: Liều nạp 6 mg/kg (tính theo aminophylin), tiêm tĩnh mạch rất chậm, trong 20 - 30 phút; tốc độ truyền không được quá 25 mg/phút.
+
+Tương tác thuốc
+Theophylin làm tăng thải trừ lithi và có thể làm giảm hiệu lực điều trị của thuốc này.
+Khi dùng đồng thời với theophylin có thể phải dùng liều lithi cao hơn.
+Theophylin có thể biểu lộ độc tính hiệp đồng với ephedrin và những thuốc tác dụng giống thần kinh giao cảm khác và khi dùng đồng thời, những thuốc này có thể làm cho người bệnh càng dễ có loạn nhịp tim.
+Cimetidin, liều cao alopurinol, thuốc tránh thai uống, propranolol, ciprofloxacin, erythromycin, fluvoxamin và troleandomycin có thể làm tăng nồng độ theophylin huyết thanh do làm giảm độ thanh thải theophylin ở gan.
+Rifampicin có thể làm giảm nồng độ theophylin huyết thanh do làm tăng độ thanh thải theophylin ở gan.
+Việc dùng đồng thời theophylin với phenytoin, carbamazepin hoặc barbiturat có thể dẫn đến giảm nồng độ huyết thanh của một hoặc của cả hai thuốc do làm tăng chuyển hóa ở gan.
+Methotrexat có thể làm giảm độ thanh thải theophylin, cần theo dõi nồng độ theophylin huyết tương ở người bệnh dùng theophylin đồng thời với methotrexat.
+
+Ðộ ổn định và bảo quản
+Viên nén theophylin khan được bảo quản ở nhiệt độ 15 - 300C. Thuốc tiêm theophylin được bảo quản ở nhiệt độ 250C và tránh đông lạnh.
+
+Quá liều và xử trí
+Biểu hiện:
+Ngộ độc theophylin có nhiều khả năng xảy ra nhất khi nồng độ theophylin huyết thanh vượt quá 20 microgam/ml.
+Chán ăn, buồn nôn và thỉnh thoảng nôn, ỉa chảy, mất ngủ, kích thích, bồn chồn và nhức đầu thường xảy ra.
+Những triệu chứng phân biệt về ngộ độc theophylin có thể gồm hành vi hưng cảm kích động, nôn thường xuyên, khát cực độ, sốt nhẹ, ù tai, đánh trống ngực và loạn nhịp.
+Co giật có thể xảy ra mà không có những triệu chứng báo trước khác về ngộ độc và thường dẫn đến tử vong.
+Việc tiêm tĩnh mạch aminophylin cho người bệnh đã dùng theophylin uống có thể gây loạn nhịp chết người.
+
+Ðiều trị:
+Nếu co giật không xảy ra khi bị quá liều cấp tính, phải loại thuốc khỏi dạ dày ngay bằng cách gây nôn hoặc rửa dạ dày, sau đó cho uống than hoạt và thuốc tẩy.
+Khi người bệnh hôn mê, co giật, hoặc không có phản xạ hầu, có thể rửa dạ dày nếu người bệnh được đặt một ống nội khí quản để tránh hít sặc dịch dạ dày vào đường hô hấp.
+Khi người bệnh đang trong cơn co giật, trước hết phải làm thông thoáng đường thở và cho thở oxygen, có thể điều trị cơn co giật bằng cách tiêm tĩnh mạch diazepam 0,1 - 0,3 mg/kg, tối đa đến 10mg.
+Cần phục hồi cân bằng nước và điện giải. Trong những tình huống đe dọa sự sống, có thể dùng phenothiazin đối với sốt cao khó chữa và propranolol đối với chứng tim đập quá nhanh.
+Nói chung, theophylin được chuyển hóa nhanh và không cần thẩm tách máu. Ở người có suy tim sung huyết hoặc bệnh gan, thẩm tách máu có thể làm tăng thanh thải theophylin gấp 2 lần.
+
+Thông tin qui chế
+Theophylin có trong danh mục thuốc thiết yếu Việt Nam ban hành lần thứ 4 năm 1999.
+Thuốc độc bảng B.
+Thành phẩm giảm độc: Thuốc viên có hàm lượng tối đa là 200 mg.

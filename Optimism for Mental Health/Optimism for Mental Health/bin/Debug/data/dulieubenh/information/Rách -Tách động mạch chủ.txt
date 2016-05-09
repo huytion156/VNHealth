@@ -1,0 +1,99 @@
+﻿I.Đại cương
+1.Định nghĩa
+- Máu thoát mạch đi vào trong lớp giữa và dọc theo lớp áo giữa của thành động mạch chủ.
+- Cấp tính < 2 tuần;
+- Mãn tính > 2 tuần.
+
+2.Yếu tố nguy cơ
+- Lớn tuổi
+- Tăng huyết áp (tăng HA chiếm >70% của tất cả trường hợp bóc tách, sau sẽ bóc tách phần gần hay phần xa).
+- Bệnh lý mô liên kết (tiền đề gây hoại tử lớp giữa dạng nang và bóc tách phần xa).
+- Bất thường động mạch chủ bẩm sinh (van động mạch chủ mảnh hoặc hẹp eo) hoặc phình động mạch chủ.
+- Thai kỳ.
+- Chấn thương: đụng giập, phẫu thuật động mạch chủ hoặc phẫu thuật tim, đặt bóng bơm nội động mạch chủ.
+
+II.Phân loại
++ Stanford
+- Týp A (phần gần): Ảnh hưởng phầngần của động mạch chủ (bất chấp vị trí xuất phát).
+- Týp B (phần xa): Chỉ ảnh hưởng phần xa của động mạch chủ.
+
++ DeBakey
+- Týp I: Xuất phát tại động mạch chủ lên, lan đến quai động mạch chủ và có khả năng xa hơn.
+- Týp II: Xuất phát tại động mạch chủ lên và giới hạn tại đó thôi.
+- Týp III: Xuất phát tại động mạch chủ xuống và có thể lan rộng tới trước hoặc ngược trở lại.
+
+III.Triệu chứng
+(Am J Med 60:625, 1976)
+1.Biểu hiện lâm sàng
+- Đau như xé dội, kéo dài
+- Ngất
+- Suy tim
+- Tai biến mạch máu não
+
+2.Dấu hiệu thực thể
+- Tăng huyết áp
+- Tụt huyết áp
+- Mất mạch
+- Âm thổi hở van động mạch chủ
+- Kiếm khuyết về thần kinh
+
+IV.Cận lâm sàng
+ (N Engl J Med 328:35, 1993)
+1. SA tim qua thực quản:
+- Độ nhạy cảm: 99-100%
+- Độ chuyên biệt: 98%
+- Ưu: thực hiện nhanh, định lượng được hở van động mạch chủ, động mạch vành và khoang màng tim.
+- Nhược: đánh giá phần xa của động mạch chủ lên và động mạch chủ xuống bị hạn chế, làm ảnh hưởng đến huyết áp.
+
+2. Chụp động mạch:
+- Độ nhạy cảm: 88-91%
+- Độ chuyên biệt: 94%
+- Ưu: đánh giá được lớp áo trong bị rách, các nhánh mạch máu, động mạch vành, hở van động mạch chủ.
+- Nhược: chậm, gây xâm lấn, bị ảnh hưởng của thuốc cản quang.
+
+3. CT:
+- Độ nhạy cảm: 83-94%
+- Độ chuyên biệt: 87-100%
+- Ưu: nhanh và không xâm lấn.
+- Nhược: không thể đánh giá được các nhánh và mức độ hở van động mạch chủ.
+
+4. MRI:
+- Độ nhạy cảm: 98-100%
+- Độ chuyên biệt: 100%
+- Ưu: không xâm lấn, có thể đánh giá được các nhánh mạch máu.
+- Nhược: chậm.
+
+V.Điều trị
++ Đầu tiên
+- bằng thuốc chẹn bêta tỉnh mạch
+ (làm giảm sự tần số tim phẩn xạ và sức co bóp do thuốc dãn mạch).
+
++ Sau đó
+- Giảm HA max bằng thuốc dãn mạch qua đường IV.
+- Điều chỉnh HA max: 100-120 mmHg và tần số tim 60:
+  bằng dùng các thuốc tác dụng ngắn
+  (vd: proprannolol + nitropursside, labetalol).
+
++ Kiểm soát đau bằng MgSO4...
+
++ Phẫu thuật:
+- Bóc tách phần gần: với tất cả các trường hợp cấp, mãn nếu tiến triển, hở chủ hoặc phình mạch.
+- Bóc tách phần xa: nếu tiến triển, ảnh hưởng nhánh động mạch có ý nghĩa, tăng HA không kiểm soát được, phình mạch.
+
+V.Biến chứng-Tiên lượng:
+1. Bóc tách cấp tính ở phần gần:
+  tử vong 1% / giờ x 48 giờ.
+
+2. Vỡ:
+- vào khoang màng tim gây chèn ép tim cấp;
+- xuất huyết vào khoang màng phổi, vào trung thất, ra sau phúc mạc...
+
+3. Tắc nghẽn nhánh động mạch:
+- Động mạch vành gây NMCT cấp
+  (thường động mạch vành P gây NMCT vùng hoành).
+- Động mạch cảnh gây TBMM Não,
+- Động mạch bên sườn, lưng gây thiếu máu tuỷ sống làm liệt ½ thân.
+- Động mạch dưới đòn gây thiếu máu chi trên,
+- Động mạch chậu làm thiếu máu chi dưới.
+- Động mạch thân tạng, mạc treo tràng gây thiếu máu ruột;
+- Động mạch thận gây suy thận cấp.

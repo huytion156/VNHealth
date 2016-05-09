@@ -1,0 +1,67 @@
+﻿I.Chẩn đoán xác định
+1.Viêm màng bồ đào trước:
++ Cương tụ rìa.
++ Đau mắt: nhức, phản ứng thể mi (+).
++ Giảm thị lực: ít hoặc nhiều.
+- Tyndall (+).
+- Tiền phòng mờ, có máu hoặc mủ.
+- Tủa sau giác mạc.
+- Dính sau: dính bờ đồng tử với mặt trước thủy tinh thể.
+- Hột trên mống mắt: ít gặp.
+- Nhãn áp: thường là giảm nhưng cũng có thể bình thường hoặc tăng.
+
+2.Viêm màng bồ đào sau:
++ Giảm thị lực: thường là đơn thuần không kèm theo đỏ mắt hay đau nhức. Mức độ giảm thị lực thay đổi từ giảm nhẹ cho đến mất chỉ còn nhận thức AS.
++ Khám lâm sàng
+- Dịch kính: phù.
+- Hắc võng mạc: xuất hiện một hoặc nhiều ổ viêm hắc võng mạc ở ngoại vi hoặc cực sau nhãn cầu.
++ Các triệu chứng phối hợp của võng mạc.
+- Bong võng mạc xuất tiết.
+- Viêm động mạch võng mạc.
++ Các xét nghiệm lâm sàng
+- Thị trường.
+- Chụp đèn huỳnh quang để quan sát các ổ viêm hắc võng mạc.
+
+3.Viêm màng bồ đào trung gian:
+(Chiếm 12% viêm màng bồ đào).
++ Triệu chứng chức năng: thường là nhẹ nhàng.
+- Hiện tượng ruồi bay.
+- Cận thị nhẹ thoáng qua.
++ Triệu chứng thực thể
+- Không có dấu hiệu viêm ở phần trước.
+- Khám đáy mắt ở ngoại biên bằng kính 3 mặt gương - quan sát ở vùng dịch kính thấy:
+ .Hình ảnh trứng kiến.
+ .Nặng nề hơn có những vùng xuất tiết ở ngoại biên thành từng dải.
+ .Viêm màng Hyaloid ở ngoại biên.
+
+4.Viêm màng bồ đào toàn bộ:
++ Là sự kết hợp ở mức độ khác nhau với những tổ thương khác nhau.
+
+II.Điều trị:
+1.Điều trị triệu chứng
++ Điều trị tại chổ
+  - Corticoid: nhỏ 6-8 lần/ngày.
+  - Tiêm dưới kết mạc: 3 ngày/lần.
+  - Thuốc giãn đồng tử: Atropin *2 lần/ngày.
++ Điều trị toàn thân
+- Corticoid toàn thân chỉ thực sự cần thiết trong trường hợp viêm màng bồ đào trước nặng và không đáp ứng với điều trị tại chổ hoặc viêm màng bồ đào sau không thích hợp với điều trị tại chổ.
+- Thuốc dùng:
+  Dùng corticoid toàn thân.
+  Dùng các thuốc ức chế miễn dịch khi corticoid ít tác dụng hoặc đã xác định là bệnh tự miễn.
+
+2.Điều trị nguyên nhân
++ Một vài nguyên nhân cần thiết điều trị thích hợp.
+a.Điều trị chống nhiễm khuẩn
+-Viêm màng bồ đào do vi khuẩn: kháng sinh IV.
+-Viêm màng bồ đào do lao: thuốc kháng lao.
+-Viêm màng bồ đào Herpes hoặc Zona: Zovirax tại chổ và toàn thân.
+-Viêm màng bồ đào do nấm: Amphotericin B dùng đường tĩnh mạch.
+-Viêm màng bồ đào do Toxoplasmose: Malocid + Adiazin + Acide Folique.
+b.Bệnh Behcet
+- Corticoid.
+- Colchicine.
+
+3.Điều trị biến chứng
+- Mổ lấy thủy tinh thể tránh trường hợp đục thủy tinh thể biến chứng.
+- Cắt dịch kính tránh trường hợp tổ chức hóa dịch kính đe dọa co kéo võng mạc.
+- pt lỗ rò trong trường hợp tăng nhãn áp.

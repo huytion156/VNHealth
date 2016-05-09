@@ -1,0 +1,96 @@
+﻿I.Định nghĩa:
+* Dị vật đường ăn là những vật được nuốt vào nhưng bị vướng lại không xuống được dạ dày làm nghẹt một phần hay toàn phần thực quản hoặc gây đau khiến bệnh nhân khó nuốt hay không nuốt được
+
+II.Chẩn đoán:
+1.Hỏi - Khám - XN
+a.Hỏi
+· Hỏi bệnh sử: Thời gian nuốt dị vật? Loại dị vật?
+· Hỏi triệu chứng (1):
+- Không nuốt, không bú được?
+- Nhợn ói, chảy nước miếng?
+- Có khó thở, ho?
+- Có sốt, suy kiệt gầy yếu dần?
+- Có sưng hay niểng cổ?
+b.Khám lâm sàng
+- Khám họng và hạ họng với đèn đầu và gương soi thanh quản
+- Khám tìm dấu biến chứng (2):
+  . Dấu lọc cọc thanh quản?
+  . Dấu nhiễm trùng?
+  . Dấu sưng nề một hoặc hai bên cổ?
+  . Dấu niểng cổ?
+  . Dấu đau nhói khi ấn máng cảnh hay mỏm ức?
+c.Xét nghiệm
+- Thường quy:
+  X quang cổ thẳng và nghiêng
+  Công thức máu, TS, TC
+- Khi có biến chứng: 
+  X quang ngực, Đông máu toàn bộ, Nhóm máu, Chức năng gan thận
+
+2.Chẩn đoán xác định: khi có:
+- Tiền sử nuốt dị vật (+), triệu chứng 1 (+), biến chứng 2 nếu có (+)
+- X quang thấy dị vật hoặc hình ảnh X quang cổ nghiêng bất thường: mất độ cong sinh lý cột sống cổ, khoảng trước cột sống cổ dày hơn 1cm, có bóng hơi hay mức nước hơi.
+
+3.Chẩn đoán có thể:
+- Chỉ nuốt đau hoặc vướng, tiền sử nghi ngờ nuốt dị vật.
+
+4.Chẩn đoán phân biệt
+- Viêm Amygdale quá phát hay hốc mủ
+- Khối u ở họng, hạ họng
+
+III.Điều trị:
+1.Nguyên tắc điều trị
+· Soi gắp dị vật
+· Dẫn lưu mủ (nếu có) qua nội soi hay pt.
+· Điều trị tổng quát: Chống nhiễm trùng, nâng tổng trạng
+
+2.Xử lý ban đầu:
+a.Xử trí cấp cứu:
+. Soi gắp dị vật. Chỉ định khi chẩn đoán xác định hay chẩn đoán có thể
+· Dị vật ở họng, hạ họng:
+  Có thể gắp dễ dàng bằng kẹp với ánh sáng của đèn đầu; có thể phải gây mê, soi hạ họng bằng đèn Mac-Intosh và gắp dị vật
+· Dị vật ở thực quản:
+  Gây mê nội khí quản, soi thực quản bằng ống soi cứng để gắp dị vật.
+  Đối với những dị vật to, trơn láng (viên bi, hột nhãn) nếu gắp không được vì trơn tuột, có thể đẩy xuống dạ dày.
+  Đối với những dị vật có ngạnh như hột saboché, phải tìm cách bẻ ngạnh hoặc lấy ống soi che ngạnh rồi gắp ra.
+  Đối với những dị vật không lấy ra được bằng đường soi, phải mở thực quản qua đường cạnh cổ để lấy dị vật.
+  Sau khi đã gắp dị vật ra phải soi kiểm tra lại xem có còn sót dị vật không và đánh giá tổn thương thực quản
+b.Dẫn lưu mủ
+· Qua nội soi:
+  Tổn thương thường ở hạ họng, miệng thực quản.
+  Gây mê nội khí quản, soi hạ họng bằng đèn Mac-Intosh, banh rộng miệng ổ abcès, ấn quanh cổ cho mủ trào ra.
+  Phải soi hút mủ mỗi 48 giờ.
+· Qua đường mở cạnh cổ:
+  Mở cạnh cổ, bóc tách tìm ổ mủ, banh rộng và đặt dẫn lưu mủ, để hở vết mổ, thay băng bơm rửa bằng Betadine, H2O2, NaCl 9% ngày hai lần.
+  Nếu abcès trung thất: mở cạnh cổ rộng hơn về phía dưới, để hở vết mổ, bơm rửa trung thất với ngón tay găng ngày hai lần.
+  Chú ý phải nhẹ tay vì có thể làm vỡ các mạch máu lớn
+
+3.Xử lý tiếp theo:
+* Xử lý biến chứng (abcès thực quản, abcès cạnh cổ, abcès trung thất)
+a.Chống nhiễm trùng:
+   Làm kháng sinh đồ, sử dụng kháng sinh
++ Chỉ định dùng kháng sinh:
+ - Khi có tổ thương niêm mạc họng, hạ họng, thực quản
+ - Khi có biến chứng do dị vật đường ăn gây ra
++ Tình huống thông thường:
+ - Chỉ tổn thương niêm mạc: Amoxicilline/uống, Bactrim/uống
++ Tình huống có biến chứng do dị vật gây ra:
+ - Kháng sinh: Intrataxime – Bristopen – Flagyl
+ - Khi có kháng sinh đồ: Điều trị theo kháng sinh đồ
+ - Nếu vẫn không đáp ứng:
+  Kiểm tra lại hố mổ, kiểm tra lại dẫn lưu, kiểm tra việc thay băng, kiểm tra chế độ dinh dưỡng, làm lại kháng sinh đồ và hội chẩn lại.
+b.Chế độ dinh dưỡng:
+ - Chỉ định đặt tube Levine: Khi có tổn thương họng, hạ họng, thực quản.
+ - Khi có biến chứng do dị vật gây ra.
+  · Chỉ định mở dạ dày: Khi có abcès trung thất, tổn thương thực quản rộng.
+  · Hội chẩn khoa dinh dưỡng để có chế độ ăn thích hợp.
+c.Nếu vỡ mạch máu lớn:
+  . Ấn chặt ngay chỗ chảy máu, hồi sức chống trụy mạch, phẫu thuật tìm thắt lại mạch máu vỡ.
+
+IV.Theo dõi và tái khám:
+· Trường hợp nhẹ, không tổn thương thực thể: Xuất viện sau lấy dị vật 24 giờ.
+· Trường hợp có đặt tube Levine nhưng không biến chứng: Xuất viện sau 5 – 7 ngày sau khi đã kiểm tra lại thực quản. Tái khám sau một tuần.
+· Trường hợp có biến chứng:
+  Theo dõi sát dấu sinh tồn, dấu nhiễm trùng, tình trạng vết mổ.
+   Nếu cần phải soi hút mủ và chụp X quang kiểm tra mỗi 48 – 72 giờ.
+   Xuất viện sau 2 – 3 tuần và tái khám mỗi tuần sau khi xuất viện cho đến khi ổn định.
+   Nếu có lỗ dò thực quản cổ sẽ có chỉ định đóng lỗ dò khi thích hợp.

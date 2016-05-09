@@ -1,0 +1,44 @@
+﻿I. Đại cương
+     Xyanure d’ hydrogène (HCN) hiện diện dưới dạng chất lỏng bay hơi hay dưới dạng chất khí.
+     Xyanure được sử dụng trong công nghiệp hóa học: các chất dẻo (matières plastiques), các hàng dệt tổng hợp (tissus synthétiques) và được sử dụng như thuốc trừ sâu (các động vật gặm nhấm). Các cyanogène halogéné, những chất kích thích và độc, đã được phát triển như các vũ khí hóa học.
+     Kali xyanua, Natri xyanua (KCN, NaCN). Nó có mùi giống như mùi quả hạnh nhân, có hình thức bề ngoài giống như đường và hòa tan nhiều trong nước. Là một trong số rất ít chất có khả năng tạo ra các phức chất của vàng (Au) hòa tan được trong nước, vì thế nó được sử dụng trong ngành kim hoàn để mạ hay đánh bóng bằng phương pháp hóa học. Đôi khi nó cũng được sử dụng trong ngành khai thác các mỏ vàng để tách vàng ra khỏi quặng vàng (xyanua natri được sử dụng phổ biến hơn). Cho đến những năm thập niên 1970 nó còn được sử dụng trong thuốc diệt chuột.
+     Xyanua natri cũng được sử dụng bất hợp pháp ở một vài nơi để đánh bắt cá. Các rủi ro với các dung dịch xyanua là cực kỳ nguy hiểm cho các hệ thủy sinh thái. Nó cũng được các nhà côn trùng học dùng làm tác nhân giết côn trùng trong các bình thu thập chúng, do phần lớn côn trùng bị chết chỉ trong vài giây, làm giảm thiểu các tổn thất của thậm chí là các loại mỏng mảnh nhất.Các muối cyanure được sử dụng trong nhiếp anh (photographie), trong đánh bóng kim loại (polissage des métaux), các xưởng làm gương (miroiteries), nghề kim hoàn (bijouterie), phép đúc điện (galvanoplastie), các phòng thí nghiệm nghiên cứu.
+     Nhiều vật liệu tổng hợp (polyuréthane, acrylonitrile, Nylon…), nhưng cũng những vải dệt tự nhiên (textiles naturels) (lụa, len..) phóng thích cyanure trong khi bị cháy hay bị pyrolyse. Ngộ độc cyanure phải được nghĩ đến một cách hệ thống ở những bệnh nhân là nạn nhân của khói hỏa hoạn. Cyanure có thể làm nhiễm vài loại thuốc (đặc biệt phéncyclidine). Sử dụng kéo dài nitroprussiate de sodium với liều lượng cao, đặc biệt là nếu chức năng thận bị thay đổi, có thể dẫn đến một ngộ độc đáng kể.
+
+II. Cơ chế:
+     Xyanua có ái lực cao với Fe2+ dẫn tới ức chế hệ thống cytochrome, do đó ngăn cản hô hấp ái khí tế bào và gây chết.
+     Nhiều cơ chế góp phần gây nên một tình trạng giảm oxy tế bào (hypoxie cellulaire), đặc biệt là não bộ:
+          - Sự suy giảm hô hấp trung ương sinh ra giảm oxy-huyết (hypoxémie) ;
+          - Sự ức chế các enzyme chứa các kim loại (sắt, đồng), như cytochrome oxydase. Hậu quả là sự hô hấp tế bào bị phong bế.
+          - Đường cong phân ly của hémoglobine chuyển về phía trái;
+          - Sự giảm áp tim mạch phát triển nhanh chóng làm biến đổi sự vận chuyển oxy.
+     Kết quả là nhiễm toan chuyển hóa lactic (acidose métabolique lactique).
+
+III. Độc tính
+     Là một chất kịch độc, gây chết người với liều lượng thấp. Chỉ cần ăn nhầm từ 3 đến 4 mg chất này thì một người khỏe mạnh có thể mất ý thức trong vòng 10 giây đến 1 phút. Sau khoảng 45 phút thì rơi vào trạng thái hôn mê và có thể tử vong sau khoảng 2 giờ nếu không có các biện pháp điều trị kịp thời. Uống 50mg cyanua sẽ gây chết
+
+IV Dấu hiệu và triệu chứng nhiễm độc
+     1. Giai đoạn kích động : Lo lắng, khó thở, lú lẫn, nhịp nhanh
+     2. Giai đoạn ức chế: Thay đổi thị lực, co giật, nhịp chậm, tụt HA, giảm thông khí
+     3. Giai đoạn nhược: HM, giảm trương lực cơ và mất phản xạ, truỵ tim mạch, nhiễm toan lactic nặng với độ bão hoà oxy cao trong máu tĩnh mạch hoà trộn
+
+     Sự ngộ độc với mức độ lớn tối cấp dĩ nhiên được thể hiện bởi một cái chết tức thời.
+     Trong trường hợp tiếp xúc có mức độ hơn, ta quan sát thấy bệnh nhân kích động, đau đầu, chóng mặt, nôn, liên kết với một vị đắng và những cảm giác bỏng ở hầu.
+     Hơi thở có thể có một mùi hạnh nhân (amande). Bệnh nhân khó thở và lo âu, nhưng bì phu vẫn có thể được nhuộm màu đúng đắn, chừng nào huyết động vẫn thỏa mãn. Trong thì hai, sự sững sờ (instuporation) nhường chỗ cho sự kích động. Bệnh nhân co giật, trở nên bị bại liệt và đi vào hôn mê sâu trước khi ngừng tim-hô hấp. Tất cả chỉ có thể kéo dài 10 đến 15 phút.
+
+     Trong trường hợp phục hồi, những di chứng thần kinh (những rối loạn trí nhớ, những rối loạn hành vi, bại liệt Parkinson...) có thể xảy ra.
+     Những thể bán cấp có thể có những triệu chứng phù du và ít đặc hiệu: đau đầu, chóng mặt, lo âu, tình trạng say, mất ngủ, khó thở, tim nhịp nhanh… Ta cũng mô tả một ngộ độc mãn tính với sự xuất hiện bệnh của dây thần kinh thị giác và ngoại biên (neuropathie optique và périphérique) và những rối loạn tuyến giáp.
+
+     Trong khoai bị mọc mầm và nước trong ống tre thường có chất cyanure
+
+V. Xử trí
+     1. Đặt NKQ, thở Oxy 100% hoặc Oxy cao áp
+     2. HSTP và thải bỏ chất độc khỏi đường tiêu hoá
+     3. Amyl nitrate Perles: Hít 1 Perle (0.2 ml) trong 30sec từng phút một cho tới khi đặt được đường truyền TM.
+     4. Natri nitrate: 10ml dung dịch 3% (300mg) tiêm TM trong vòng 3 min
+     5. Natri Thiosulfate: 50ml dung dịch 25% (12 500 mg) tiêm TM trong vòng 10 min
+     6. Theo dõi nồng độ methemoglobin máu
+     7. Đường glucô có khả năng làm chậm lại đáng kể quá trình gây độc của xyanua kali, đồng thời bảo vệ các tế bào bằng cách tạo liên kết hóa học với xyanua kali. Tuy nhiên Glucô không có khả năng giải độc.
+     8. Cho hydroxocobalamine hơn. Chất này được biến đổi thành cyanocobalamine (vitamine B12 không độc). Liều lượng là 5 g ở người lớn (Cyanovit chứa hai flacon de 2,5g). Tuy nhiên điều trị này, mặc dầu phí tổn cao, tỏ ra đơn giản nhất và an toàn nhất. Hydroxocobalamine có thể được cho phối hợp với thiosulfate sodique.
+     9. Rửa dạ dày có thể được thực hiện trong trường hợp uống, nhưng không được làm trì hoãn việc thực hiện một điều trị bằng chất đối kháng (traitement antidotique).
+     10. Nói chung ta cho rằng than hoạt hóa hấp thụ kém các muối cyanure.

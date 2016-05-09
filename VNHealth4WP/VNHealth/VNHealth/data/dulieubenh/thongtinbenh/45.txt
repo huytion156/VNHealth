@@ -1,0 +1,58 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Theo định nghĩa mới của IDF (International Diabetes Federation 8/2005) , một người được xác định là có hội chứng chuyển hóa, phải có:
+        + Béo phì trung tâm (xác định là chu vi vòng eo ≥ 94cm đối với nam và ≥ 80cm cho phụ nữ người châu Âu, với các giá trị cụ thể cho các nhóm dân tộc khác).
+        + Cộng với bất kỳ hai trong bốn yếu tố sau đây:
+          - TG tăng: ≥ 150 mg/dL (1,7 mmol/L), hoặc đã điều trị cụ thể cho việc tăng lipid bất thường này.
+          - HDL cholesterol giảm: <40 mg/dL (1,03 mmol/L) ở nam giới và <50 mg/dL (1,29 mmol/L) ở phụ nữ, hoặc đã điều trị cụ thể cho việc tăng lipid bất thường này.
+          - Tăng huyết áp: huyết áp tâm thu ≥ 130 hoặc huyết áp tâm trương ≥ 85 mm Hg, hoặc đã điều trị tăng huyết áp của chẩn đoán từ trước.
+          - Tăng đường huyết lúc đói (FPG) ≥ 100 mg/dL (5,6 mmol/L), hoặc trước đó đã được chẩn đoán bệnh tiểu đường type 2. Nếu trên 5,6 mmol/L hoặc 100 mg/dL, xét nghiệm OGTT là rất khuyến khích nhưng không cần thiết để xác định sự hiện diện của hội chứng này.
+     -Nguyên nhân của bệnh này hiện nay vẫn chưa được biết rõ ràng, còn chưa được thống nhất.
+     -Có thể do kháng insulin là nguồn gốc của vấn đề:
+        . Tăng tính kháng insulin khiến cơ thể sản sinh nhiều insulin hơn, kết quả là cả nồng độ đường và insulin trong máu đều tăng
+        . Tăng insulin trong máu làm tăng triglycerid và các loại mỡ máu khác.
+     -Một chủ thuyết là tế bào trong cơ thể không tiêu thụ được chất đường glucose vì chất Insulin không làm việc được hữu hiệu
+        . Vòng bụng to mập sẽ làm cản trở công dụng của chất Insulin trong cơ thể. Tuy vậy nguyên nhân của căn bệnh này không phải đơn giản như vậy.
+     -Nghiên cứu mới do đại học Cincinnati (UC) thực hiện cho thấy hóa chất được sử dụng để chế tạo nhựa cứng – bisphenol A (BPA) – là nguy cơ gây ra hội chứng chuyển hóa và các hậu quả.
+     -Bệnh HCCH có khuynh hướng di truyền. Do đó, tiểu sử bệnh trạng của gia đình bệnh nhân rất là quan trọng. Gia đình có tiểu sử bệnh tiểu đường hay tim mạch sẽ có thể có bệnh HCCH. Hỏi về cân nặng hay tập thể dục sẽ giúp cho bác sĩ định xem bệnh nhân có dễ bị bệnh hay không. Nếu có bụng to hay bị bệnh mập thì nên ăn điều độ và thói quen ăn uống sẽ rất quan trọng.
+     _Triệu chứng lâm sàng:
+        - Béo phì, nhất là béo bụng.
+        - Tăng huyết áp.
+        - Tăng triglycerid và giảm cholesterol lipoprotein tỷ trọng cao (HDL).
+        - Kháng insulin, là hormon điều hòa đường huyết trong cơ thể.
+
+2. Cách chữa trị thông thường
+     - Tập luyện: Vận động với cường độ vừa phải, ít nhất từ 30 đến 60 phút mỗi ngày.
+     - Ăn giảm béo: không ăn các loại thức ăn nhiều đạm, đường, mỡ. Hạn chế ăn các loại phủ tạng động vật (tim, gan, thận, lòng, tiết…).
+     - Giảm cân. Giảm khoảng 5 – 10% trọng lượng cơ thể có thể làm giảm nồng độ insulin, giảm huyết áp và giảm nguy cơ tiểu đường.
+     - Không hút thuốc lá. Thuốc lá làm tăng tính kháng insulin và làm nặng thêm hậu quả tim mạch mà hội chứng chuyển hóa gây ra.
+     - Điều trị bằng thuốc chống rối loạn lipides máu và thuốc chống tăng đường huyết nếu đường huyết không kiểm soát được bằng chế độ ăn uống, tập luyện.
+
+3. Cách phòng tránh
+     + Căn bản của trị bệnh HCCH là thay đổi thói quen ăn uống và tập thể dục. Tất cả bệnh nhân có bệnh HCCH cần phải tập thể dục thường xuyên và ăn uống chừng mực và số lượng thức ăn có giới hạn.
+     + Ðể được giảm cân nặng và nhỏ lại vòng bụng, đồng thời cũng làm giảm bệnh tiểu đường, giảm cao mỡ cholesterol, giảm cao áp huyết, bệnh nhân cần phải làm như sau:
+        - Ăn phần ăn nhỏ lại để giảm số năng lượng của đồ ăn. Số lượng mỡ trong cơ thể và số vòng bụng tùy thuộc vào tổng cộng số calories (năng lượng) mà bệnh nhân ăn vào mỗi ngày. Do đó, nếu muốn giảm cân thì phải giảm số calories ăn vào mỗi ngày.
+        - Ăn nhiều những loại đồ ăn như legumes, ngũ cốc nguyên chất, đồ ăn có nhiều dầu bảo hoà như dầu olive, dầu canola, hay trái avocado.
+        - Ăn thêm rau cải và trái cây nhạt mỗi ngày.
+        - Uống thêm loại sữa không có mỡ (nonfat) hay ít mỡ (lowfat).
+        - Ăn ít những loại đồ ăn như bánh mì trắng, khoai lang tây, cơm, bún, bánh phở, mì, hủ tiếu, bánh tráng, bánh bột hay bánh ngọt v.v...
+        - Ăn thêm cá và giới hạn thịt đỏ (thịt heo hay thịt bò).
+        - Bớt nước ngọt hay nước trái cây, nhất là nước trái cây có thêm đường.
+        - Uống thêm nước lọc, nước carbonated, hay nếu muốn uống nước ngọt thì dùng loại đường nhân tạo.
+        - Giới hạn uống rượu mỗi ngày, chỉ uống tối đa là 2 ly nhỏ (drinks) nếu là đàn ông, và một ly nhỏ nếu là đàn bà.
+        - Tập thể dục theo kiểu tim mạch (aerobic)
+          . Có nghĩa là phải tập những cách làm cho tim đập nhanh lên và hơi thở dồn dập hơn
+          . Thí dụ như đi bộ nhanh, đi những treadmill hay xe đạp, hay bơi lội v.v...
+          . Tuy nhiên, nếu không tập được như trên thì tập thể dục tại chỗ cũng có hữu ích phần nào.
+     -Tập thể dục và cử động thường ngày sẽ làm cho bệnh nhân khỏe hơn và ít bị tai nạn hơn. Trong số bệnh nhân HCCH già hơn 65 tuổi, tập thể dục, có thể giúp họ sống độc lập ở nhà và không cần người khác trợ giúp đi đứng trong những năm sắp đến.
+     -Tập thể dục như trên sẽ làm cơ thể dễ tiêu thụ chất đường trong máu, làm cho tế bào thịt và tế bào mỡ trong cơ thể dễ dàng nhận chất đường glucose vào hơn và sẽ làm giảm bớt hay hết bệnh tiểu đường, bệnh cao áp huyết, người có hay bệnh HCCH cần tập thể dục thường xuyên. Bệnh nhân cần tập tối thiểu 30 phút mỗi ngày và tập 5 đến 6 lần mỗi tuần. Nếu tập nhiều hơn thì càng tốt.
+     - Bỏ thuốc lá vì thuốc lá làm mạch máu dễ bị đông mỡ và nghẽn nên rất tai hại. Những bệnh nhân có HCCH dễ bị nghẽn mạch máu nên lại cần phải tránh hút thuốc lá
+     -Theo các nhà khoa học thuộc Trường ĐH Alabama (Birmingham, Anh), chiết xuất từ rễ cây sắn dây (một loại dây leo khá phổ biến) có thể giúp điều trị hội chứng chuyển hóa.
+     - Một nghiên cứu mới đây của các nhà khoa học trường Đại học Harvard phối hợp với trường Đại học y khoa Shaheed Beheshti ở Jehran (Iran) đã cho biết, chế độ ăn nhiều sản phẩm từ đậu nành giúp làm giảm các biểu hiện của hội chứng chuyển hóa.
+
+4. Thông tin thêm
+Hội chứng chuyển hóa(HCCH) có rất nhiều tên như:
+     _Deadly Quarter (4 bệnh tử thần),
+     _ Beer-Belly syndrome (Hội chứng bệnh bụng mập)
+     _Cardiovascular metabolic syndrome (Hội chứng bệnh tim mạch),
+     _ Dysmetabolic syndrome hay Insulin Resistance syndrome,còn được gọi là Hội Chứng hay Reaven’s syndrome...
+

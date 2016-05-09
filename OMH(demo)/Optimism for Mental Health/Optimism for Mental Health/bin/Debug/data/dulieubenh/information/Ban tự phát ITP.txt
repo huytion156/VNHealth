@@ -1,0 +1,76 @@
+﻿I.Tổng quan - đặc điểm
++ ITP là một bệnh tăng phá huỷ tiểu cầu ngoại vi, với đa số bệnh nhân có kháng thể với các glicoprotein đặc biệt trên màng tiểu cầu.
++ Giảm tiểu cầu vô căn thường xuất hiện thời thơ ấu, thường xuyên theo sau một truyền nhiễm cấp tính (virut) và thông thường tự hạn chế.
++ ngược lại, ở người lớn thường là mãn tính
++ Là bệnh của người trẻ tuổi tu 20-50; ưu thể nữ 2:1
++ It khi kèm bệnh hệ thống hay tạo keo.
++ Nếu xác định lách là nơi sinh kháng thể và hủy tiểu cầu thì thủ thuật cách lách có hiệu quả cao.
+
+
+II.Chẩn đoán - 5 t.chuẩn
++ Giảm tiểu cầu đơn độc.
++ Các dòng máu khác bình thường.
+
++ Không có bệnh hệ thống.
++ Lách khó sờ thấy (3%-12%)
++ Tuỷ xương bình thường với tế bào nhân khổng lồ b.thường hay tăng.
+
+
+III.Triệu chứng:
++ Lâm sàng
+- chảy máu cam, máu miệng.
+- Xuất huyết GI, Rong kinh.
+- Tụ máu kết giác mạc.
+- Ban xuất huyết.
+
+
++ Kết quả XN
+- Đặc trưng là giảm tiểu cầu, có thể < 10.000/uL
+- Thường có thiếu máu nhẹ do tan huyết.
+- Hinh thái các dọ̀ng tế bào máu bình thường (có thể có các megathrombocyt- là những TC trẻ do phản ứng).
+- Khoảng 10% có phối hợp thiếu máu huyết tán tự miễn (HC Evans), trường hợp nay có tăng HC hinh tron ở máu ngoại vi
+- Tuỷ xương bình thường, có tăng tế bào khổng lồ, đông máu toàn bộ bình thường.
+
+
++ Phân biệt
+- DIC, SLE, CLL
+- HIV và AIDS
+- HUS; ppt
+- Suy gan, Sepsis...
+
+VI.Điều dưỡng: t.dõi
++ Th.dõi chảy máu, ABC.
++ Thở oxi,
++ Truyền IV: đủ để tránh rối loạn lúc máu thiếu.
+
+V.Điều trị
++ Tự khỏi ít, đa số là do đ.tri.
++ Prednisolone
+- Ng.lớn 1-2mg/kg/d PO
+- Trẻ em 4-8mg/kg/d PO
+- chảy máu thường giảm sau dùng 1 ngay; trước cả khi TC tăng lên lại.
+- Đa số sẽ giảm TC lại nếu ngưng hoàn toàn Prednisolon - nên cần duy trì một liều thích hợp để TC > 50.000 (có thể luân phiên dùng cách quãng dexamethason 40mg/d khoảng 4 ngay.
+- 80% cắt lách có hiệu quả, khi TC < 10.000 vẫn cắt lách an toàn...
+
++ Methylprednisolone (Solu Medrol, Depo-Medrol)
+- Người lớn ban đầu: 125-250mg IV
+- Lieu duy trì: 0.5-1mg/Kg/d q6h toi 5 d
+- Trẻ em: Liều ban đầu: 2mg Kg IV
+- Liều duy trì: 0.5-1mg/Kg/d q6h toi 5 d
+
++ Glubolin miễn dịch liều cao 1g/kg cho 1-2 ngày có td tăng TC nhanh, nhưng đắt và chi kéo dài td khoảng 1-2 tuần. Ưu tiên dành cho chuẩn bị mổ.
++ Danazol 600mg/d có td 1/2 cases - Khi không đáp ứng prednisolon và cắt lách.
+
++vincristine, azathioprine, cyclosporine, cyclophosphamide có hiệu quả ở một số case.
+
++ Rituximac ức chế miễn dịch liều cao và cấy tế bào gốc là hướng nghiên cứu hiện nay.
+
++ Truyền tiểu cầu hiếm khi áp dụng vì TC ngoại sinh thường chỉ sống sót trong vai giờ...
+Hướng dẫn liều truyền:
+6-8 U tiểu cầu, hay 1 U/10 Kg.
+1 U tiểu cầu để tăng 5-10, 000/mcL ở người lớn 70 Kg và 20, 000/mcL ở trẻ 18 Kg.
+
+Tiên lượng
++ Tương đối tốt nếu kiểm soát được bằng prednisolon.
++ Cắt lách thường có hiệu quả.
++ Đề phòng xuât huyết não nếu TC < 5000 - báo hiệu bằng xuât huyết niêm mạc-chết thương hiếm?

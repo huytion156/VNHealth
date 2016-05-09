@@ -1,0 +1,38 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Ung thư vú là loại ung thư thường gặp nhất và gây tử vong hàng đầu ở phụ nữ nhiều nước công nghiệp. Theo Cơ quan Nghiên cứu Ung thư Thế giới (IARC) vào năm 1998 thì ung thư vú đứng đầu, chiếm 21% trong tổng số các loại ung thư ở phụ nữ trên toàn thế giới. Cũng theo IARC, xuất độ chuẩn hóa theo tuổi của ung thư vú ở phụ nữ là 92,04 (trên 100 000 dân) ở châu Âu và 67,48 (trên 100 000 dân) trên toàn thế giới vào năm 1998, đều là cao nhất trong các loại ung thư ở nữ giới.
+     _Ung thư vú đang trở nên phổ biến tại các nước đang phát triển. Tại Việt Nam, năm 1998, ở nữ giới, ung thư vú là loại ung thư có tần suất cao nhất ở Hà Nội với xuất độ chuẩn hóa theo tuổi là 20,3 (trên 100 000 dân) và cao thứ hai ở Thành phố Hồ Chí Minh với xuất độ chuẩn hóa theo tuổi là 16 (trên 100 000 dân) sau ung thư cổ tử cung mà xuất độ chuẩn hóa theo tuổi là 28,6 (trên 100 000 dân).
+     _Đây là một bệnh hết sức phức tạp mà trong nhiều năm qua đã có nhiều nghiên cứu về nguyên nhân, bệnh sinh và điều trị. Một điều quan trọng cần phải nhận thấy là việc phát hiện sớm ung thư vú qua sự tầm soát ở những phụ nữ bình thường đã làm thay đổi rõ ràng bệnh sử tự nhiên của bệnh cũng như cải thiện đáng kể tiên lượng bệnh.
+     _Những tính chất sau của khối bướu gợi ý ác tính:
+         +Cứng.
+         +Không đau (chiếm khoảng 85–90%).
+         +Không đồng nhất, bờ không rõ.
+         +Dính vào thành ngực hoặc da trên vú, khó di động.
+         +Núm vú bị co kéo.
+         +Chảy máu.
+
+2. Cách chữa trị thông thường
+     _Xạ trị hỗ trợ:
+        +Xạ trị là một phần của phương pháp điều trị bảo tồn: tiến hành sau phẫu thuật cắt bướu. Xạ trị giúp giảm nguy cơ tái phát.
+        +Xạ trị sau đoạn nhũ: giảm nguy cơ tái phát cho những bệnh nhân nguy cơ cao như bệnh nhân có nhiều hạch vùng, bệnh nhân có bướu nguyên phát to,...
+     _Liệu pháp toàn thân:
+        +Liệu pháp nội tiết.
+        +Cắt buồng trứng.
+        +Tamoxifen: là các chất ức chế thụ thể estrogen chọn lọc. Dùng cho các bệnh nhân có thụ thể với estrogen dương tính. Có tác dụng giảm nguy cơ tái phát và giảm xuất độ ung thư vú đối bên khoảng 50%.
+     _Hóa trị hỗ trợ.
+     _Kết hợp cả hóa trị và liệu pháp nội tiết.
+     _Điều trị hỗ trợ đối với ung thư vú có hạch dương tính (di căn hạch).
+     _Tiền mãn kinh, Thụ thể Estrogen(ER) + hoặc thụ thể Progesteron (PR)  :
+        +Hóa trị + Tamoxifen.
+        +Cắt bỏ buồng trứng (hoặc chất tương đồng GnRH) +/- Tamoxifen.
+        +Hóa chất +/- Cắt bỏ buồng trứng (hoặc chất tương đồng GnRH) +/- Tamoxifen.
+     _Trước mãn kinh, ER - và PR -: Hóa trị.
+     _Sau mãn kinh, ER-,PR+: Hóa trị, Tamoxifen.
+     _Người già: dùng Tamoxifen, nếu không có ER và PR thì dùng hóa trị.
+
+3. Cách phòng tránh
+     _Dùng tamoxifen cho các carcinom tiểu thùy tại chỗ.
+     _Chế độ ăn ít béo, giảm cân.
+     _Giảm uống rượu.
+     _Tránh tiếp xúc với Clo hữu cơ, chất phóng xạ.
+     _Nên cho con bú sữa mẹ.
+

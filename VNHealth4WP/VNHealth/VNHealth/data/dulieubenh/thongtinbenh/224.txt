@@ -1,0 +1,40 @@
+﻿I.Đại cương:
+     + Căn nguyên bệnh sinh:
+          - Các vi khuẩn hay gặp là các vi khuẩn Gram (-): Enterobacteria ( E.coli, Proteus…), S.aureus, S.saprophyticus.
+          - Cơ chế dị ứng ít gặp, thường do dị ứng thuốc, kim loại nặng.
+          - Do tác nhân vật lý như: X quang, đồng vị phóng xạ, nóng lạnh đột ngột.
+          - Sau các thủ thuật tiết niệu: nong niệu đạo, đặt sonde BQ, sonde niệu đạo….
+
+     + Đường xâm nhập:
+          - Đường máu: Thường do các bệnh toàn thân gây nhiễm khuẩn huyết, sau đó VK xâm nhập vào thận.
+          - Theo đường bạch huyết: VK ở trực tràng theo đường bạch huyết lên thận.
+          - Nhiễm khuẩn tiết niệu ngược dòng: Từ niệu đạo, BQ lên thận.
+          - Nhiễm khuẩn do sự xâm lấn của các cơ quan lân cận.
+
+     + Giải phẫu bệnh:
+          - Đại thể: Phù nề xung huyết, có nhiều mạch máu tân tạo, niêm mạc đài – bể thận xung huyết, trợt loét.
+          - Vi thể: Tổ chức gian bào vùng tủy thận có hiện tượng xâm nhiễm BCĐN, tổ chức kẽ phù nề những giải xơ xâm nhiễm bởi BCĐN, dãi xơ phát triển làm nghẹt các ống sinh niệu, xơ hóa huyết quản dẫn tới teo thận.
+
+II.Triệu chứng
+    + Lâm sàng:
+          - HC NTNĐ: sốt cao, rét run xuất hiện trong đợt như NKH, BC tăng, N tăng.
+          - Đái nước tiểu đục.
+          - Đau cấp tính vùng thận, sờ nắn vùng thận đau, DH đấm thận (+),
+          - Thận to: DH Chạm thận (+), DH bập bềnh thận (+).
+
+     + Cận lâm sàng:
+          - XNM:
+.                BC tăng, CTBC chuyển trái, Vss tăng
+.                Chức năng thận: ít thay đổi.
+          - XN nước tiểu: Có BC và tế bào mủ dày đặc vi trường.
+          - Cấy khuẩn: số lượng VK > 10 5 VK/1ml, xác định loại vi khuẩn và làm kháng sinh đồ.
+          - XQ, SA: giúp xác định nguyên nhân gây viêm thận – bể thận
+
+III.Điều trị:
+   Trong thời kỳ cấp tính:
+     + Kháng sinh liều cao: theo kháng sinh đồ
+     + Bất động bệnh nhân tốt.
+     + Lợi tiểu, truyền dịch.
+     + Thuốc sát khuẩn đường niệu: Negram, Nitrofurantoin, Mictasol bleu.
+     + Chế độ ăn nhẹ, không ăn thức ăn đồ hộp, giăm đạm động vật, giảm muối.
+     + Điều trị nguyên nhân.

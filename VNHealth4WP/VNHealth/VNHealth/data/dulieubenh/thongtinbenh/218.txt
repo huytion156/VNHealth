@@ -1,0 +1,66 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1. Định nghĩa:
+     _Viêm phổi nhiễm trùng (pneumonia)
+        +Là quá trình viêm và đông đặc của nhu mô phổi do nguyên nhân nhiễm trùng (vi khuẩn, virus, mycoplasma...).
+        +Thành các phế nang nói chung không bị tổn thương.
+ 
+     _Viêm phổi không nhiễm trùng (pneumonitis)
+        +Do nguyên nhân vật lý, hoá học và những nguyên nhân ít gặp khác thì có tổn thương ở thành phế nang nên còn gọi là viêm thành phế nang.
+        +Diễn biến có thể cấp tính, bán cấp hoặc mạn tính. Cấu trúc phổi thường không hồi phục hoàn toàn giống như viêm phổi nhiễm trùng.
+  1.2. Sinh lý bệnh:
+     + Nguyên nhân chủ yếu của viêm phổi thuỳ là phế cầu.
+     + Chúng phát triển ở niêm mạc hầu họng bằng cách gắn với nhóm đường đôi N-axetylglucozamin beta 1-3 galactoza của tế bào biểu mô đường hô hấp trên.
+     + Viêm phổi thường xảy ra ở những người có số lượng cao phế cầu ở niêm mạc hầu họng.
+     + Vỏ polysaccarid của vi khuẩn ức chế khả năng thực bào của bạch cầu thông qua hiện tượng opsonin. Glycopeptid màng vi khuẩn thu hút bạch cầu N đến. N tiết ra cytokin và yếu tố hoạt hoá tiểu cầu khởi đầu cho quá trình viêm.
+     + Một số protein vỏ phế cầu như protein A, pneumolysin... cũng quyết định độc tính của vi khuẩn.
+     + Bệnh nhân viêm phổi phế cầu thường suy giảm cơ chế bảo vệ đường thở tạm thời hoặc mạn tính, là yếu tố thuận lợi để phế cầu bị hút từ họng vào phế nang.
+     + Các phế nang chứa đầy dịch tiết, tạo điều kiện cho phế cầu nhân lên và qua lỗ Kohn để lan rộng ra những phế nang xung quanh. Sự lan rộng của phế cầu bị màng phổi tạng, màng ngoài tim giới hạn lại. Trong vòng vài giờ, các phế nang bị đông đặc và chứa đầy N, hồng cầu. Sau cùng, đại thực bào sẽ xâm nhập vào và dọn sạch phế nang. Vì thành phế nang còn nguyên vẹn nên cấu trúc phổi luôn khôi phục bình thường sau khi khỏi bệnh.
+     + Viêm phổi chủ yếu xảy ra ở một thuỳ. Tổn thương nhiều thuỳ xảy ra khi phế cầu theo dịch viêm lan đến thuỳ phổi khác theo đường phế quản.
+     + Viêm có thể lan trực tiếp đến màng phổi, màng tim gây mủ màng phổi, màng ngoài tim.
+     + Phế cầu lan theo đường bạnh huyết ở giai đoạn sớm của bệnh. Nếu hạch bạch huyết khu vực không ngăn chặn được, vi khuẩn vào máu gây vãng khuẩn huyết. Biến chứng xa liên quan đến những typ độc tính cao.
+     + Kháng thể đặc hiệu đối với kháng nguyên vỏ phế cầu xuất hiện 5 -10 ngày sau khi mắc bệnh, làm tăng mạnh mẽ quá trình thực bào vi khuẩn, gây nên cơn "bệnh biến".
+  1.3. Lâm sàng:
+     a. Diễn biến đặc trưng.
+        + Bệnh xuất hiện đột ngột sau cảm lạnh, viêm đường hô hấp trên, có cơn rét run dữ dội.
+        + Ngay sau đó sốt cao 390 - 410C, thở nhanh, mạch nhanh, ho khan, đau ngực, buồn nôn, nôn.
+        + Bệnh đến cao điểm vào ngày thứ hai, ba với biểu hiện rất mệt, ho khạc đờm mầu rỉ sắt do chảy máu trong phế nang, Herpes môi, thở nhanh nông, vã mồ hôi.
+        + Cử động lồng ngực bên tổn thương giảm, rung thanh tăng, đôi khi sờ thấy cọ màng phổi. Gõ đục khi vùng đông đặc rộng. Rì rào phế nang giảm, ran nổ, thổi ống, tiếng ngực (pectoriloquy), cọ màng phổi.
+        + Ở thời đại kháng sinh, triệu chứng không điển hình như trên, đôi khi chỉ có đau ngực, thậm chí không sốt và khạc đờm. ở người già, có khi không thấy triệu chứng thực thể, nhưng triệu chứng loạn thần nhiễm khuẩn lại nổi bật.
+     b. Tiến triển của bệnh:
+        + Theo kinh điển (khi Penixilin chưa ra đời):
+           - Cơn bệnh biến xuất hiện sau 5 - 10 ngày thấy nhiệt độ giảm nhanh về bình thường hoặc dưới mức bình thường, đái nhiều, vã mồ hôi, có thể trụy tim mạch đưa đến tử vong.
+           - Bệnh cũng có thể giảm từ từ và không có cơn bệnh biến.
+        + Nếu dùng penixilin G:
+           - Bệnh đỡ nhanh, thường hết sốt sau 24 - 36 giờ. Có thể sốt kéo dài hơn nhưng không cần thay đổi kháng sinh.
+           - Sốt tái lại liên quan đến các ổ nhiễm trùng ngoài phổi, chít hẹp phế quản do ung thư hoặc dị vật, dị ứng thuốc, viêm tắc tĩnh mạch ở vị trí truyền dịch hoặc do bội nhiễm khác.
+     c. Biến chứng:
+        + Biến chứng tại chỗ:
+           - Tràn dịch màng phổi: dịch tiết, số lượng dịch ít.
+           - Mủ màng phổi chủ yếu gặp khi điều trị kháng sinh muộn hoặc không đúng. Nghi mủ màng phổi khi sốt kéo dài, bạch cầu tăng cao.
+           - Tràn dịch màng ngoài tim hiện nay ít gặp: sốt kéo dài, mạch nhanh, đau ngực, cọ màng ngoài tim; xquang thấy bóng tim to.
+        + Biến chứng xa:
+          - Viêm màng não: là biến chứng nguy hiểm tính mạng, đặc biệt đối với bệnh nhân già yếu.
+          - Viêm màng trong tim.
+          - Viêm khớp nhiễm khuẩn.
+          - Viêm nội nhãn.
+          - Viêm phúc mạc.
+
+2. Cách chữa trị thông thường
+     + Kháng sinh
+        . Tiêm bắp thịt Penixilin G 600.000UI / lần, ngày 2 lần (penixilin procain) hoặc 1 triệu đơn vị tiêm tĩnh mạch/lần, 4 giờ tiêm một lần.
+        . Những kháng sinh khác có hiệu quả cao với viêm phổi phế cầu: ampixilin, Tetraxiclin, cephalosporin thế hệ III như cefazolin.
+        . Có thể dùng nhóm macrolid, Clindamyxin
+     + Bổ xung đủ nước, điện giải: truyền dịch các loại.
+     + Giảm đau ngực: dùng Codein cho những ca nhẹ, aspirin đôi khi phải dùng Meperidin .
+     + Giảm ho, long đờm, hạ nhiệt ( nếu cần ).
+     + Điều trị biến chứng (mủ màng phổi, viêm màng ngoài tim...).
+     + Dự phòng: dùng vacxin phế cầu cho nhóm nguy cơ cao như suy thận mạn tính, đa u tủy, hội chứng thận hư, ghép thận, bệnh Hodgkin... Tiêm bắp thịt một lần duy nhất.
+     + Liên cầu nhạy cảm với penixilin, nên điều trị chủ yếu dùng penixilin G với liều 6 - 8 triệu đơn vị/ngày, tiêm tĩnh mạch 4 - 6 giờ/lần.
+     + Ngoài ra dùng các thuốc trợ tim mạch, dãn phế quản, thở ô xy, chống suy hô hấp (dùng Corticoid kết hợp).
+     + Liên cầu nhóm B (S. agalactiae) gây viêm phổi ở trẻ sơ sinh và nhiễm trùng huyết ở sản phụ. Nhóm này có thể gây viêm phổi bệnh viện, thường ở bệnh nhân cao tuổi.
+     + Kháng sinh nhạy cảm là penixilin, nhưng liều dùng cao hơn nhóm A. 
+
+3. Cách phòng tránh
+     _Cần vệ sinh sạch sẽ nơi ở, tốt nhất là sống trong môi trường trong sạch, ít khói bụi. Nhà ở phải thông thoáng, về mùa lạnh phải được che kín các khe hở, nên đóng cửa để che bụi. Giữ cơ thể ấm về mùa đông, đặc biệt là giữ ấm cổ, ngực và hai bàn chân. Tránh bị nhiễm lạnh đột ngột, nhất là với người già và trẻ em. Khi không cần thiết thì không nên đi ra ngoài trời lúc sáng sớm và đêm khuya, vì lúc đó thường lạnh. Nằm ngủ nên đắp chăn ấm, giường ngủ nên có đệm. Mùa đông không nên tắm nước lạnh, nơi tắm phải kín không có gió lùa. Mùa hè không nên để máy điều hoà nhiệt độ ở mức quá mát lạnh, không để quạt điện hướng trực tiếp vào người lúc nửa đêm về sáng. 
+     _Loại bỏ những yếu tố kích thích có hại: không uống nhiều rượu, không hút thuốc lào thuốc lá... Duy trì chế độ dinh dưỡng đủ năng lượng, cân đối về chất để có sức phòng, chống bệnh. Thường xuyên bảo đảm vệ sinh răng miệng. Điều trị triệt để các ổ nhiễm khuẩn ở tai, mũi, họng để tránh biến chứng viêm phổi. Cần tập thể dục đều đặn, vừa sức, tốt nhất là tập thở sâu theo phương pháp thở bụng.
+

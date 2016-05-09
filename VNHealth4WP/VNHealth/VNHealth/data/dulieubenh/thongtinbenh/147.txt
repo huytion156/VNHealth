@@ -1,0 +1,57 @@
+﻿A. Thuyên tắc động mạch thận
+   1.Đặc điểm:
+     + Chiếm 2% các trường hợp thuyên tắc động mạch.
+               - Thuyên tắc động mạch chính của thận thường do thuyên tắc hệ thống từ tâm nhĩ trái kết hợp rung nhĩ, van tim nhân tạo, sùi của viêm nội tâm mạc hoặc cục máu đông trong cơ có nguồn gốc từ nhồi máu cơ tim.
+               - Thuyên tắc do y thuật đang tăng dần do khuynh hướng can thiệp vào mạch máu không xâm hại.
+               - Ðộng mạch trong thận là động mạch tận do đó, thuyên tắc các động mạch này sẽ hình thành một vùng nhồi máu hình chêm trong nhu mô thận.
+               - Vùng nhồi máu này có thể ở một bên hoặc hai bên,bên trái thường gặp hơn.
+
+   2.Lâm sàng:
+          + Có thể không có triệu chứng hoặc
+          + Đau cấp tính ở hông lưng lan đến bẹn, buồn nôn, nôn ói và sốt khi xảy ra nhồi máu.
+               - Bệnh cảnh này hoàn toàn giống hệt một trường hợp sỏi niệu quản.
+               - Tiểu máu đại thể hoặc tiểu máu vi thể chiếm 50% các trường hợp .
+               - Có thể kèm theo đạm niệu, bạch cầu và tế bào biểu mô trong nuớc tiểu.
+               - Nhồi máu thận là nguyên nhân đặc thù gây tăng rõ SGOT (glutamic- oxaloacetic transaminase huyết thanh), sau đó là sự tăng lactate dehydrogenase.
+
+   3. Chẩn đoán
+          + Được gợi ý khi niệu ký nội tĩnh mạch (IVU) hoặc chụp điện toán cắt lớp (CT) có tiêm thuốc cản quang không nhìn thấy tất cả hay một phần thận.
+               - Mặc dù trong trường hợp sỏi niệu quản , thận có thể bài tiết kém hoặc chậm bài tiết, nhưng thận đồ (nephrogram) vẫn nhìn thấy.
+               - Sự hiện diện của tổn thương tim hay tổn thương mạch máu giúp gợi ý chẩn đoán.
+               - Chụp thận đồ đồng vị phóng xạ bằng Technetium động cho thấy thận không tưới máu và chụp động mạch thận chọn lọc giúp xác định chẩn đoán.
+
+   4. Ðiều trị
+          + Chọn lựa là kháng đông toàn thân (Heparin).
+          + Tiêm yếu tố làm tan fibrin vào trong động mạch (Streptokinase) nếu phát hiện sớm trong vòng 4- 6 giờ có thể cải thiện đáng kể chức năng thận.
+          + Bệnh tim bên dưới luôn được loại trừ bằng phẫu thuật lấy cục máu đông ở những bệnh nhân này nguy cơ rất cao.
+          + Hậu quả của việc thiếu máu thận dẫn đến việc hoạt hóa hệ Renin và về sau có thể gây cao huyết áp, khi đó có thể phải cắt thận
+
+B. Thuyên tắc tĩnh mạch thận
+   1.Đặc điểm
+          + Hiếm gặp ở người lớn,
+               - Thuyên tắc tĩnh mạch thận thường xảy ra ở một bên thận và thường kết hợp với bệnh viêm cầu thận màng, hội chứng thận hư, xâm lấn tĩnh mạch thận và tĩnh mạch chủ do bướu hoặc bệnh sau phúc mạc.
+               - Ở trẻ em và trẻ sơ sinh, bệnh thường bị hai bên và kết hợp với tình trạng mất nước nặng do hậu quả của tiêu chảy hoặc nôn ói.
+
+   2. Biểu hiện lâm sàng
+          + Gần gống với một trường hợp viêm thận- bồn thận cấp và sỏi niệu quản.
+               - Bệnh nhân đau dữ dội ở hông lưng, tiểu máu và sốt.
+               - Dấu hiệu nhiễm trùng và sốc rất thay đổi.
+               - Trong đa số trường hợp, có thể sờ được một mass nhẵn ở hông lưng, do tình trạng sung huyết của thận.
+
+   3. Chẩn đoán
+          + Tiểu máu đại thể hoặc vi thể do các ổ nhồi máu thận là dấu hiệu thường gặp.
+          + Giảm tiểu cầu cũng thường gặp ở thuyên tắc tĩnh mạch thận giai đoạn cấp, không có giảm tiểu cầu gợi ý thuyên tắc tĩnh mạch thận đã chuyển giai đoạn.
+          + Đạm niệu thường gặp trong trường hợp thuyên tắc ở người lớn, có thể đạm niệu rất nhiều.
+          + Việc tăng nitrogen trong urea máu (BUN) và créatinin rất thường gặp, ngay cả trong trường hợp thuyên tắc một bên.
+          + Chụp UIV thấy bóng thận lớn, thận đồ mờ hoặc không xuất hiện.
+          + Siêu âm thấy thận to, độ echo kém kèm với cục máu đông trong tĩnh mạch thận hoặc trong tĩnh mạch chủ.
+          + CT và cộng hưởng từ (MRI) có độ nhạy cao nhưng chẩn đoán xác định phải dựa vào kết quả chụp tĩnh mạch thận chọn lọc.
+
+   4. Ðiều trị
+          + Việc điều trị phụ thuộc vào lứa tuổi của bệnh nhân.
+               - Ở trẻ sơ sinh và trẻ nhỏ có thuyên tắc tĩnh mạch thận hai bên tiên lượng rất xấu.
+          + Ðiều trị chủ yếu bao gồm bù nước, kháng sinh khi có nhiễm trùng, điều chỉnh các rối loạn điện giải.
+          + Ở người lớn sử dụng heparin sớm và tiêm tĩnh mạch chất làn tan fibrin (streptokinase hoặc urokinase) thu được nhiều kết quả tốt.
+          + Phẫu thuật lấy cục máu đông chỉ dành cho trường hợp thuyên tắc tĩnh mạch chủ.
+          + Sau khi thuyên tắc tĩnh mạch thận, chức năng thận thường phục hồi.
+          + Ở một số ít trường hợp, thận không hoạt động đưa đến cao huyết áp hoặc nhiễm trùng thận mạn cần phải cắt bỏ thận.

@@ -1,0 +1,94 @@
+﻿I.Tổng quan - đặc điểm
+-TTP là một rối loạn nhiều cơ quan, đe doạ cuộc sống, bệnh lý học không được biết rõ, mô tả đầu tiên bởi Moschcowitz vào 1924.
+-TTP và HUS là những bệnh huyết khối mao mạch được đặc trưng bởi những thương tổn vi mạch với kết tụ tiểu cầu.
+- HUS thường gặp hơn ở trẻ nhỏ và được đặc trưng bởi liên can bệnh thận lan toả .
+- TTP thường gặp hơn ở người lớn và liên quan đến mang thai và các bệnh nhu HIV, Ung thu, truyền nhiễm, viêm mạch, cấy tuỷ xương và vi khuẩn.
+- TTP là HC hiếm gặp có đặc điểm thiếu máu huyết tán vi mạch, giảm tiểu cầu, LDH máu tăng cao.
+- Sốt không do nhiễm trùng, rối loạn TK và bất thường thận thì it gặp.
+- Bệnh lý học là do thiếu hụt protease von Wilebrand, ADAMTS13; Một số trường hợp là vì có kháng thể độc tố proteasa.
+- HC còn thấy do dùng Estrogen, ở người mang thai, dùng thuốc, nhiễm trùng; những thuốc hay gây ra nhất là quinin, ticlopidine
+- Bệnh hay gặp ở tuổi từ 20-50; ưu thể nữ.
+- Có thể xuất hiện như tai biến sau gép tủy hay do dùng cyclosporine hay tacrolimus.
+- Yếu tố gia đình cũng thấy nhưng hiếm.
+
+II.Chẩn đoán - 6 t.chuẩn
++ Giảm tiểu cầu.
++ Thiếu máu huyết tán vi mạch
++ Bất thường Thận, thần kinh & Sốt
++ Mức ADAMTS13 giảm
++ XN đông máu bình thường
++ LHD máu tăng
+
+
+III.Triệu chứng:
++ Lâm sàng
+- Thiếu máu, Xuất huyết
+- Bất thường thần kinh gồm nhức đầu, lần lộn, mất khản năng ngôn ngữ,
+- Thay đổi trong ý thức từ tê liệt tới hôn mê, nhẹ hơn có thể liệt nửa người hay động kinh.
+- Khám thấy xấu đi nhanh chóng và thường có sốt.
+- BN có thể đau bụng hay tăng cảm vì viêm tụy
+- Xanh xao, ban đốm xuất huyết & các dấu hiệu RLCN TK
+
+
++ BN có thể có một vài hay tất cả nhưng đặc trưng của một nhóm năm triệu chứng đặc hiệu cổ điển, bao gồm:
+ 1.giảm tiểu cầu
+ 2.sốt,
+ 3.suy thận
+ 4.thương tổn thần kinh
+ 5.thiếu máu huyết tán do bệnh vi mao mạch (MAHA)
+
++ Kết quả XN
+- Thiếu máu hay gặp và rất nặng, nhiều HC liềm và cả HC còn nhân
+
+
+- Dấu hiệu đặc trưng của bệnh hủy huyết vi mạch với các phân mảnh của Hồng cầu (mảnh vỡ, tế bào hình mũ, hình tam giác) trên phết kính máu ngoại vi. Không thể chẩn đoán nếu không thấy mảnh vỡ HC trên phết máu ngoại vi.
+
+
+- Tiểu cầu thường không thay đổi nhiều, nhưng có thể thiếu rất nặng.
+- Tan huyết được thể hiện bằng tăng bilirubin gián tiếp & thỉnh thoảng thấy thiếu hemoglobulin máu hay hemoglobulin niệu. Methemalbumin máu có thể làm huyết tương có màu nâu.
+- LDH máu tăng rất cao và tỷ lệ với mức nặng của tan máu.
+- Phản ứng Coombs âm tinh
+- Các XN đông máu bình thường (prothrombin time, partial thromboplastin time, fibrinogen) trừ khi tổn thương mô dẫn đến DIC thứ phát. nhưng sản phẩm thoái hoá fibrin có thể thấy ở những BN nặng
+- Suy thận ở trường hợp nặng
+- ADAMTS13 thường biến mất trong các trường hợp nặng
+- Có các cục đông trong mao quản và không thấy phản ứng viêm.
+
++ Phân biệt
+- DIC, SLE, CLL, HC Evans (máu ngoại vi không có mảnh vỡ)
+- Sinh thiet da để phân biệt viêm mạch máu
+- HUS và ppt khó phân biệt rõ ràng (TTP tổn thương TK nhiều hơn, giảm TC nặng hơn; HUS suy thận nhiều hơn)
+
+IV.Nguyên nhân:
++ TTP có liên quan thai nghén và sau khi đẻ chiếm khoảng 10-25% tổng số TTP.
++ TTP thường gặp trong nhiễm HIV type-1 (HIV-1).
++ Hoá trị liệu Ung thư và những thuốc khác nghi gây ra TTP gồm: Những thuốc ức chế miễn dịch (Cyclosporine A), cocain crack, ticlopidine, thuốc uống tránh thụ thai và rifampin, Penixilin.
++ những độc tố liên quan đến TTP là trực khuẩn ruột E.coli 0157: H7, nọc nhện và nọc độc ong.
++ Tổn thương thường tập trung ở thận và nền não nhưng nguyên nhân chưa rõ ?.
+
+V.Điều trị
+Năm nhóm triệu chứng cổ điển hiếm khi đầy đủ.
+Tiêu chuẩn lâm sàng Hiện thời để bắt đầu điều trị là:
+(1) giảm tiểu cầu,
+(2) thiếu máu huyết tán vi quảan
+(3) thiếu những t.c thực thể của bệnh khác có thể giải thích làm giảm tiểu cầu và thiếu máu huyết tán mao mach.
+
+* huyết tương đã tinh chế
++ Là biện pháp tiêu chuẩn : thay plasma là có hiệu quả nhất. Plasma frozen tươi mới truyền gấp đôi thể tích huyết tương ước tính, hay 40-80 ml/Kg, Lên tới trên 4.0 L.
++ Dịch thay thế tiêu chuẩn là plasma frozen tươi mới. Tuy nhiên, đã có báo cáo thành công với cryosupernatant. Cryosupernatant là phần nhỏ plasma dư sau khi tách cryoprecipitate ra.
+
+* Prednisone [200mg/d] & thuốc ức chế tiểu cầu (Aspirin [325mg tid] và dipyridamole [75mg tid]) đã được sử dụng cộng thêm, nhưng vai trò không rõ ràng.
+
+* kết hợp cắt lách, corticosteroids, và dextran đã được sử dụng thành công. Thủ thuật cắt bỏ lách được thực hiện khi ổn định có thể ngăn ngừa tái phát.
+
+* Ức chế miễn dịch với những thuốc như cyclophosphamide cũng có hiệu quả.
+
++ Điều trị TTP dai dẳng hay tái phát gồm vincristine, Liều 1.4mg/m2 và liều tối đa 2.0mg, cho hàng tuần.
++ Bảo trợ các tổn thương ở cơ quan đích, Lọc máu thỉnh thoảng được yêu cầu khi suy thận.
++ Angiotensin-converting enzyme (ACE), nitroprusside hay esmolol cho khi THA ác tính.
++ Những thuốc chống động kinh như phenytoin, Có thể cho để đ.tri động kinh.
++ Hồng cầu, Tiêu cầu khối (PRBCs) có thể cần thiet khi thiếu máu huyết tán ác tính.
++ Truyền Tiểu cầu là chống chỉ định khi liên quan đến làm hư hỏng nhanh. kết tụ tiểu cầu trở nên tồi hon với truyền tiểu cầu. Trong một số nghiên cứu, tiểu cầu kết tập rộng lớn được tìm thấy khắp cả hệ thần kinh TW sau khi chết.
+
+Tiên lượng
++ Tỷ lệ chết có liên hệ với TTP là 100% cho đến 1980 khi điều trị có tiến bộ hơn. Hiện nay tỷ lệ chết xấp xỉ là 95% (cho) những trường hợp không điều trị. Tỷ lệ sống sốt là 80-90% với chẩn đoán và điều trị sớm với truyền plasma và trao đổi plasma.
++ 20% trường hợp bệnh sẽ kinh niên và tái phát.

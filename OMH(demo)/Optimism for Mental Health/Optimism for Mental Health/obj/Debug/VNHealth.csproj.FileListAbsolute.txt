@@ -1,0 +1,16 @@
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\VNHealth.csprojResolveAssemblyReference.cache
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.adddata.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.bieudosuckhoe.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.chonluabuaan.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.danhsachthucan.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.Form1.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.Form2.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.infomation.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.laythongtin.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.Form4.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.Form5.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.formchinh.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\VNHealth.Properties.Resources.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\Optimism_for_Mental_Health.startscreen.resources
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\VNHealth.csproj.GenerateResource.Cache
+E:\OMH(demo)\Optimism for Mental Health\Optimism for Mental Health\obj\Debug\VNHealth.exe.licenses

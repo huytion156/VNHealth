@@ -1,0 +1,182 @@
+﻿I.Đại cương
+Tên chung quốc tế: Chloroquine. Tên khác: Nivaquin
+Mã ATC: P01B A01.
+Loại thuốc: Thuốc điều trị sốt rét, diệt amip, chống thấp khớp, điều trị luput ban đỏ.
+Dạng thuốc và hàm lượng
+100 mg cloroquin base tương ứng 161 mg cloroquin phosphat, tương ứng 136 mg cloroquin sulfat. Viên nén 100 mg, 150 mg và 250 mg cloroquin base. Viên nén cloroquin sulfat; viên nén cloroquin phosphat; thuốc tiêm cloroquin hydroclorid chứa khoảng 47,5 mg đến 52,5 mg cloroquin dihydroclorid/ml. Thuốc tiêm cloroquin sulfat; thuốc tiêm cloroquin phosphat.
+
+
+II.Dược lý và cơ chế tác dụng
+1.Cơ chế tác dụng
+Còn chưa rõ nhưng có thể do thuốc tác động đến quá trình tiêu hóa haemoglobin bằng cách tăng pH trong nang của tế bào ký sinh trùng sốt rét.
+Cloroquin có tác dụng tốt trên các thể hồng cầu của P. vivax, P. malariae và hầu hết các chủng P. falciparum (trừ thể giao tử).
+Thuốc cũng cản trở sự tổng hợp nucleoprotein của ký sinh trùng sốt rét.
+Thuốc có thể ức chế một số enzym có lẽ một phần do tương tác với DNA.
+
+2.Dược động học
+Cloroquin hấp thu nhanh và gần như hoàn toàn ở đường tiêu hóa, chỉ có một tỷ lệ nhỏ được thấy trong phân.
+Khoảng 55% thuốc trong huyết tương liên kết với các thành phần không khuếch tán của huyết tương.
+Cloroquin thải trừ chậm, nhưng tăng lên khi nước tiểu bị acid hóa. Một lượng thuốc đáng kể tích tụ trong các mô.
+Ở động vật, thuốc tập trung nhiều ở bạch cầu, nồng độ thuốc trong gan, thận, lách và phổi cao gấp 200 đến 700 lần trong huyết tương.
+Trong khi đó ở não, tủy sống thuốc tập trung chỉ cao gấp 10 đến 30 lần trong huyết tương.
+Cloroquin bị thoái giáng trong cơ thể, sản phẩm chuyển hóa chính là desethyl cloroquin (khoảng 1/4 hàm lượng các chất thấy có trong nước tiểu).
+Một dẫn chất của acid carboxylic là bisdesethylcloroquin và các sản phẩm chuyển hóa cho đến nay chưa xác định được đặc tính cũng được tìm thấy với 1 lượng nhỏ trong nước tiểu.
+Khoảng hơn một nửa lượng cloroquin thải trừ qua đường nước tiểu ở dạng không biến đổi.
+Cloroquin có thể tồn lưu nhiều tháng hoặc nhiều năm trong cơ thể.
+
+III.Chỉ định điều trị
+1.Chỉ định
+Cloroquin được chỉ định dùng để phòng ngừa hoặc điều trị sốt rét cấp tính do P. malariae, P. vivax, P. ovale và chủng P. falciparum nhạy cảm với thuốc.
+Thuốc cũng được dùng để diệt amíp ngoài ruột..
+Viêm đa khớp dạng thấp, lupus ban đỏ.
+
+2.Chống chỉ định
+Quá mẫn với các hợp chất 4 - aminoquinolin.
+Có các thay đổi về thị lực, võng mạc gây ra bởi 4 - aminoquinolin hoặc bất kỳ nguyên nhân khác.
+Tuy nhiên, trong điều trị sốt rét cấp do những chủng plasmodium nhạy cảm, cần cân nhắc kỹ giữa lợi ích và rủi ro đối với người bệnh.
+
+3.Ðiều trị cơn sốt rét cấp tính:
++ Tính liều lượng thuốc dùng
+- Liều lượng của cloroquin thông thường được tính bằng cloroquin base.
+- 300 mg cloroquin base tương đương với 500 mg cloroquin phosphat hoặc 400 mg cloroquin sulfat.
+- Cloroquin base 40 mg tương đương với 50 mg cloroquin hydroclorid.
+
++Liều uống thường dùng cho người lớn và trẻ em:
+- Tổng liều uống trong 3 ngày thông thường tương đương với liều cloroquin base 25 mg/kg/thể trọng.
+- Cách dùng như sau: lần đầu 10 mg/kg, sau 6 - 8 giờ: 5 mg/kg, 2 ngày sau uống 5 mg/kg/ngày.
+- Hoặc 2 ngày đầu: 10 mg/kg/ngày, ngày thứ ba: 5 mg/kg.
+
++Ðôi khi đối với người lớn, liều dùng không cần tính theo thể trọng, mà dùng như sau:
+- Ngày đầu, lần thứ nhất 600 mg, sau 6 - 8 giờ 300 mg,
+- hai ngày tiếp theo 300 mg/ngày.
+
++Thuốc tiêm:
+Có thể dùng trong trường hợp rất nặng hoặc người bệnh không thể uống được.
+Phác đồ tiêm cho người lớn và trẻ em được Tổ chức Y tế thế giới khuyến cáo như sau:
+- Cho một liều nạp tương đương với 10 mg cloroquin base/kg, tiêm nhỏ giọt tĩnh mạch cùng với dung dịch natri clorid đẳng trương kéo dài ít nhất trong 8 giờ và sau đó tiêm truyền thêm 3 lần nữa trong 24 giờ sau với liều 5 mg/kg, mỗi lần truyền kéo dài 8 giờ.
+- Một cách khác, toàn bộ quá trình điều trị có thể cho trong 30 giờ, mỗi lần truyền trong 6 giờ với liều 5 mg/kg.
+Phải theo dõi chặt chẽ hạ huyết áp và các dấu hiệu khác về độc tính đối với tim mạch.
+
++Tiêm bắp hoặc tiêm dưới da đã được dùng khi không thể tiêm tĩnh mạch được.
+Liều tiêm bắp hoặc dưới da đối với người lớn và trẻ em:
+3,5 mg/kg cách 6 giờ/1 lần hoặc 2,5 mg/kg cách 4 giờ/lần cho tới tổng liều tương đương với 25 mg cloroquin base/kg.
+Khi tình trạng người bệnh cho phép, phải chuyển sang dùng thuốc uống ngay.
+Liều tiêm bắp hoặc tiêm dưới da một lần không bao giờ được quá 5 mg base/kg vì trẻ em đặc biệt nhạy cảm với tác dụng của L4 - aminoquinolin.
+Phản ứng thuốc nghiêm trọng và chết đột ngột đã được báo cáo sau khi tiêm cho trẻ em.
+
++Chương trình phòng chống sốt rét Việt Nam dùng viên cloroquin phosphat 250 mg
+(tương ứng 150mg cloroquin base ngày đầu 10 mg/kg, ngày thứ hai và ba 5 mg/kg) cụ thể như sau:
+- dưới 1 tuổi, ngày đầu 1/2 viên (chia 2 lần), ngày hai 1/4 viên, ngày ba 1/4 viên;
+- từ 1 đến dưới 5 tuổi, ngày đầu 1 viên (chia 2 lần), ngày hai 1/2 viên, ngày ba 1/2 viên;
+- từ 5 đến dưới 12 tuổi, ngày đầu 2 viên (chia 2 lần), ngày hai 1 viên, ngày ba 1 viên;
+- từ 12 đến 15 tuổi, ngày đầu 3 viên (chia 2 lần), ngày hai 1 và 1/2 viên, ngày ba 1 và 1/2 viên;
+- và trên 15 tuổi, ngày đầu 4 viên (chia 2 lần), ngày hai 2 viên, ngày ba 2 viên.
+
++Ðiều trị dự phòng cho khu vực miền núi phía Bắc, khu 4 cũ, đồng bằng sông Hồng và đồng bằng sông Cửu Long,
+cho dân từ vùng không có sốt rét hoặc vùng có sốt rét lưu hành (SRLH) nhẹ đi vào vùng SRLH nặng trong thời gian dài:
+Cloroquin, viên 250 mg (150 mg cloroquin, base)
+Người lớn: 2 viên/tuần..
+Trẻ em:
+Dưới 4 tháng: 1/4 viên/tuần;
+4 - 11 tháng và 1 - 2 tuổi: 1/2 viên/tuần;
+3 - 4 tuổi: 3/4 viên/tuần;
+5 - 10 tuổi: 1 viên/tuần;
+trên 11 tuổi: 2 viên/tuần.
+Uống ít nhất 3 - 6 tháng đầu mới vào vùng có SRLH.
+
+4.Liều dùng cho các bệnh khác:
++Viêm gan do amip:
+-Dùng phối hợp với emetin hoặc dehydroemetin khi không dùng được metronidazol.
+-Hai ngày đầu, mỗi ngày 600 mg cloroquin base, sau đó 300 mg/ngày, trong vòng 2 đến 3 tuần.
+-Ðối với trẻ em: Liều gợi ý: 6 mg base/kg/ngày cho trong 3 tuần. Liều tối đa một ngày: 300 mg base/ngày.
+
++Luput ban đỏ hình đĩa và hệ thống:
+-Người lớn bắt đầu dùng 150 - 300 mg đến khi triệu chứng bệnh giảm có thể dùng liều 150 mg/ngày; trẻ em dùng 3 mg/kg thể trọng.
+
++Viêm khớp dạng thấp:
+- Liều dùng 150 mg/ngày (liều tối đa 2,5 mg/kg/ngày).
+- Dùng khoảng 6 tháng, trong những trường hợp đặc biệt có thể dùng 10 tháng/năm.
+- Nên hạn chế sử dụng vì độc tính của thuốc.
+
++Phản ứng dị ứng ánh sáng:
+- Người lớn 150 - 300 mg/ngày cloroquin base trong thời gian tiếp xúc với nắng to; trẻ em (liều tối đa) 3 mg/kg thể trọng.
+- Loạn chuyển hóa porphyrin biểu hiện muộn ở da:
+Dùng liều thấp cloroquin phosphat, mỗi lần 125 mg, 2 lần/tuần.
+
+IV.Tai biến-Dự phòng-Xử trí
+1.Thận trọng
+Cần khám mắt trước khi dùng thuốc dài ngày và theo dõi trong suốt quá trình điều trị..
+Chú ý những người có bệnh về gan, thận, hoặc có những vấn đề về chuyển hóa porphyrin, bệnh vẩy nến, tiền sử động kinh.
+Những người bệnh thiếu hụt enzym G6PD (glucose 6 phosphat dehydrogenase), cần theo dõi hiện tượng thiếu máu do tăng quá trình phá hủy hồng cầu trong thời gian dùng cloroquin.
+Chú ý khi tiêm cloroquin tĩnh mạch cần truyền chậm vì có thể gây độc cho tim.
+Cần chú ý khi sử dụng thuốc cho những người nghiện rượu, vì thuốc có khả năng tích lũy ở gan.
+Nếu thấy có rối loạn máu nặng trong khi đang điều trị thì ngừng thuốc ngay.
+Nếu người bệnh dùng thuốc trong một thời gian dài, cần có các xét nghiệm đều đặn về công thức máu.
+
+2.Thời kỳ mang thai
++Phụ nữ mang thai
+Có một vài trường hợp nghi liên quan trong việc sử dụng cloroquin gây quái thai ở phụ nữ mang thai, kể cả việc ảnh hưởng tới sức nghe và thị lực.
+Vì vậy, cloroquin chỉ được sử dụng để phòng sốt rét cho phụ nữ mang thai khi thật cần thiết.
+
++Thời kỳ cho con bú
+Cloroquin dùng an toàn đối với phụ nữ cho con bú ở cả liều điều trị lẫn dự phòng.
+Tuy cloroquin và sản phẩm chuyển hóa monodesethyl được đào thải qua sữa nhưng lượng mà trẻ bú thì còn xa so với liều điều trị.
+
+3.Tương tác thuốc
+Các thuốc kháng acid hoặc kaolin có thể làm giảm hấp thu cloroquin, vì vậy chỉ uống cloroquin sau khi dùng các thuốc này 4 giờ.
+Cimetidin giảm chuyển hóa và thải trừ, tăng thể tích phân bố của cloroquin.
+Ranitidin có ảnh hưởng lên dược động học của cloroquin.
+Khi sử dụng cloroquin với các thuốc chống sốt rét khác như quinin, mefloquin, amodiaquin, artemisinin, hoặc fansidar có thể xuất hiện cơ chế đối kháng, làm giảm khả năng diệt P. falciparum in vitro.
+Sử dụng cloroquin đồng thời với quinin có thể có tác dụng đối kháng. Ngoài ra, dùng đồng thời cloroquin với proguanil có thể tăng tai biến loét miệng liên quan đến proguanil.
+
+Với các thuốc kháng khuẩn khác:
+Dùng đồng thời với metronidazol có thể gây phản ứng loạn trương lực cấp; cloroquin làm giảm khả năng hấp thu ampicilin.
+Mặc dù dự phòng sốt rét bằng cloroquin có thể làm giảm đáp ứng kháng thể với vaccin phòng dại (tế bào lưỡng bội ở người) nhưng đáp ứng miễn dịch với các vaccin khác trong Chương trình tiêm chủng (uốn ván, bạch hầu, sởi, bại liệt, thương hàn và BCG) không bị ảnh hưởng bởi dự phòng cloroquin.
+
+4.Tác dụng không mong muốn (ADR)
+Nói chung, khi sử dụng liều cao và kéo dài, cloroquin có ảnh hưởng lên thị lực của người bệnh, nhưng ảnh hưởng này thường hết khi ngừng dùng thuốc.
+Ngoài ra, thuốc này cũng có một số ADR khác như: tác dụng trên thần kinh cơ, đường tiêu hóa, dị ứng da, trên thần kinh trung ương, và có thể có cả trên tim.
+
+Cụ thể như sau:
++Thường gặp, ADR > 1/100
+Toàn thân: Ðau đầu..
+Da: Phát ban, ngứa.
+Tiêu hóa: Nôn, buồn nôn, ỉa chảy.
+
++Ít gặp, 1/1000 < ADR < 1/100
+Tâm thần: Loạn tâm thần, lo âu, thay đổi nhân cách..
+Mắt: Nhìn mờ, bệnh giác mạc, giảm thị lực, bệnh võng mạc.
+
++Hiếm gặp, ADR < 1/1000
+Toàn thân: Giảm thính lực, điếc, bệnh thần kinh cơ, bệnh cơ..
+Tóc: Rụng tóc, biến đổi sắc tố của tóc.
+Da: Nhạy cảm ánh sáng, bắt mầu các màng niêm dịch, màu xanh đen.
+Máu: Suy tủy, mất bạch cầu hạt có phục hồi, giảm tiểu cầu và giảm bạch cầu trung tính.
+Thần kinh trung ương: Co giật, ù tai.
+Tuần hoàn: Ðộc tính với hệ tim mạch, ngừng tim, ngừng thở.
+
++Hướng dẫn cách xử trí ADR
+Khi gặp ADR với các biểu hiện trên, có thể xử trí như các trường hợp của triệu chứng quá liều.
+
+5.Quá liều và xử trí
++Triệu chứng:
+- Các triệu chứng quá liều có thể xuất hiện trong phút chốc như:
+- Đau đầu, choáng váng, rối loạn thị lực, nôn mửa, buồn nôn, trụy tim mạch, co giật, sau đó là ngừng tim, ngừng thở đột ngột.
+- Ðiện tâm đồ có thể cho thấy ngừng tâm nhĩ, nhịp nút nhĩ - thất, thời gian truyền dẫn nội thất kéo dài, nhịp tim chậm dẫn tới rung tâm thất hoặc ngừng tim.
+
++Ðiều trị:
+- Khi có triệu chứng quá liều, cần gấp rút gây nôn hoặc rửa dạ dày trước khi đưa người bệnh đến bệnh viện.
+- Có thể dùng than hoạt với liều gấp khoảng 5 lần lượng cloroquin người bệnh đã dùng.
+- Nếu xuất hiện co giật, có thể dùng barbiturat tác dụng nhanh.
+- Trong trường hợp thiếu oxy, cần cung cấp oxy hoặc hô hấp nhân tạo, đôi khi phải áp dụng biện pháp mở thông khí quản, đặt ống khí quản, sau đó tiếp tục áp dụng biện pháp rửa dạ dày nếu cần.
+- Trong trường hợp tụt huyết áp, có thể dùng các thuốc nâng huyết áp.
+- Những người bệnh đặc biệt có thể áp dụng phương pháp thẩm tách màng bụng hoặc truyền thay máu để giảm nồng độ thuốc trong máu.
+- Người bệnh qua được cơn cấp tính và không còn triệu chứng vẫn cần theo dõi chặt chẽ ít nhất 6 giờ.
+- Trong trường hợp quá liều và mẫn cảm, truyền nhiều dịch và dùng 8 gam amonium clorid (cho người lớn) hàng ngày, chia nhiều lần để acid hóa nước tiểu, hỗ trợ cho quá trình lợi tiểu.
+
+V.Thông tin qui chế
+Cloroquin có trong danh mục thuốc thiết yếu Việt Nam ban hành lần thứ tư năm 1999.
+Thuốc độc bảng B.
+Ðộ ổn định và bảo quản
+Bảo quản ở nhiệt độ phòng, tốt nhất ở 15 - 30oC trong bao bì kín, tránh ẩm và ánh sáng. Ðể xa tầm với của trẻ em.
+Thành phẩm giảm độc: Thuốc đặt, thuốc viên có hàm lượng tối đa là 300 mg. Siro có nồng độ tối đa là 0,1%..

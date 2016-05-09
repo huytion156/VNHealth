@@ -1,0 +1,88 @@
+﻿1. Nguyên nhân và triệu chứng
+     + Tiểu đường Ketoacidos (DKA - Diabetic ketoacidosis) có thể là biểu thị ban đầu của tiểu-đường typ 1 hay là kết quả từ tăng yêu cầu Insulin trong tiểu-đường typ 1 do truyền nhiễm, chấn thương, nhồi máu cơ tim, hay giải phẫu. Đó là một tình trạng khẩn cấp đe doạ cuộc sống với tỷ lệ tử vong < 5% ở người < 40 tuổi, và chết > 20% với người già.
+     + Tiểu đường typ 2 có thể phát triển ketoacidosis khi bị stress nặng như khi nhiễm trùng máu hay chấn thương.
+     + Yêú tố thuận lợi: Mổ lớn, có stress, không điều trị, nhiễm khuẩn nặng.
+  1.1.Triệu chứng
+   a. Lâm sàng
+     + Hôn mê ketoacidotic do tiểu-đường thường có tiền triệu đi trước vài ngay là triệu chứng đa niệu, khát nhiều, có thể mệt mỏi, buồn nôn và nôn, cuối cùng là tình trạng sững sờ, tiến triển tới hôn mê.
+     + Khám thấy mất nước trên bệnh nhân trong tình trạng typhos, thở sâu và có mùi "ngot" của aceton giúp gợi ý chẩn đoán.
+     + Huyết áp thấp với tim đập nhanh, biểu thị sự mất nước và điện giải nặng nề, và giảm thể nhiệt nhẹ thường có mặt.
+     + Đau bụng và tăng nhạy cảm có thể xuất hiện cho dù không có bệnh trong khoang bụng.
+     + Cần hội chẩn vì viêm túi mật hay viêm tụy có thể xuất hiện với triệu chứng và dấu hiệu tối thiểu.
+  b. Cận lâm sàng
+     +Chìa khóa chẩn đoán, như tên gợi ý, là xeton và nhiễm axit, cùng với tăng đường-huyết (DKA có thể xuất hiện với Glucoza thấp quãng 250-300), tăng kali-huyết (từ nhiễm axit, giảm lượng máu, đa niệu và nôn), tăng bạch cầu với hoặc không có truyền nhiễm.
+     + XN máu:
+        - glucose cao;
+        - bicacbonat thấp;
+        - Acetone.
+     + XN niệu:
+        - glucose ++++;
+        - Acetone ++++
+     + Những công thức Liên quan:
+        - Corrected Na = measured Na + 2.2 (plasma glucose-100)/100
+        - Khoảng trống anion: Na - (Cl + HCO3) (AG bình thường 8-20)
+        - Nồng độ osmol/kg tinh toán: 2 x (Na+K).
+        - Hôn mê xuất hiện khi nồng độ osmol/kg tính toán > 340.  
+  1.2. Tiêu chuẩn chẩn đoán
+   * DKA (Diabetic ketoacidosis):
+     + Tăng đường huyết > 250mg/dL; < 800 mg/dL & có thể bình thường.
+     + Nhiễm axit với pH máu < 7.3.
+     + Bicacbonat huyết thanh HCO3 < 15 mEq/L.
+     + Serum Ketones:< 5 mmol/L
+     + Urine Ketones: ít
+  *Chẩn đoán phân biệt với Hôn mê tăng thẩm thấu
+     + Serum HCO3: bình thường hoặc hơi thấp
+     + pH > 7,3
+     + Blood glucose: thường > 800 mg/dL
+     + Serum Ketones:< 5 mmol/L
+     + Urine Ketones: ít
+
+2. Cách chữa trị thông thường
+  =>Khi glucose máu>19mmol/l + ceton nặng, nhập bệnh viện để sữa chữa hyperosmolality cũng như ketoacidemia. 
+  2.1. Phương châm điều trị
+     + Bước quan trọng nhất trong phác đồ điều trị là liệt kê sinh hiệu và giá trị XN theo thời gian điều trị.
+     + XN bao gồm Glucoza và ceton niệu cũng như do pH máu, Glucoza, aceton, cacbonat axit, nito u-re huyết thanh, và điện giải.
+     + Nồng độ osmol/kg huyết thanh cần được đo hay đánh giá và lập bảng trong thời gian điều trị. (giá trị bình thường là 280-300 mosm/Kg)
+     + Nguyên tắc điều trị: mục đích là thu hẹp khoảng trống anion, không chỉ nhằm giảm bớt tăng đường-huyết. Thông thường, Glucoza huyết thanh sẽ bình thường hóa trước khi khoảng trống được thu hẹp. Chú ý rằng khoảng trống anion là một chỉ tiêu tốt hơn hơn của tình trạng bệnh nhân, hơn là xeton.
+  2.2. Điều trị Insulin
+     + Insulin nhanh là thuốc duy nhất được dùng trong tất cả các trường hợp ketoacidosis, và nó cần phải được cho ngay lập tức sau khi chẩn đoán được thiết lập.
+     + Insulin nhanh có thể cho bolus 0.15dv/Kg sau đó cho 0.1 dv/Kg/h IV liên tục trong nhiều giờ. Nếu trong giờ đầu glucose máu giảm <10% thì cho lập lại liều bolus trên.
+     + Cho Kali clorua 15% x 1ong 5ml hay panalgin x 2 ống vi cho Insulin làm giảm K huyết.
+     + Tinh lai có thể duy trì 10-15UI tiêm dưới da mỗi 4-6 giờ.
+  * Tham khảo cách dùng Insulin (Regular):
+     + Bắt đầu 20đv IV
+     + Tiếp theo 100đv, bơm vào 500ml NaCL 0,45% (20đv/100ml), truyền 50-75 giọt/phút (2,5 - 3,5ml/ph ≈ 200ml/giờ) để đạt 10-15đv insulin/giờ (hoặc IV 10-15đv/giờ).
+     + Sau 2 giờ kể từ phát tiêm đầu tiên, XN đường huyết để đánh giá sự đáp ứng insulin của cơ thể. Sau 2 giờ phải giảm được 75-100mg% so với nồng độ cao lúc đầu - là phù hợp.
+     + Nếu cơ thể không đáp ứng hay đáp ứng chưa đạt yêu cầu đó thì phải tăng liều gấp đôi , gấp ba liều ban đầu...
+     + Nếu đã đáp ứng đạt yêu cầu, cho tiếp tục liều 5-10đv/giờ tiêm bắp.
+     + tổng liều cho một trường hợp cấp cứu thường phải dùng khoảng 150-300đv Insulin.
+  * Cách dùng bơm tiêm điện:
+     + Bắt đầu với 10đv/giờ (thường phải sau khoảng 6 giờ mới có hiệu lực), sau giảm dần đến 5đv/giờ
+     + Lúc nào cũng phải truyền tối thiểu >1đv/giờ để duy trì đường huyết mao mạch khoảng 11mmol/l (2g/l); không để vượt quá 14mmol/l (2,5g/l) để tránh bài niệu thẩm thấu. 
+  2.3. Bổ xung dịch thay thế
+     + Đa số bệnh nhân thiếu 4-5 L dich. Dịch muối 0.9% là giải pháp lựa chọn và cần phải  nhanh chóng cung cấp 1 l/h trong 1-2 giờ đầu tiên.
+     + Sau 2 lit đầu tiên cho truyền tĩnh mạch duy trì 300-400ml/h dd 0.9% (trừ phi natri huyết thanh > 150 meq/l; khi đó loại 0.45% được dùng).
+     + Theo dõi thể tích cần phải rất cẩn thận. Truyền dịch quá mức (hơn 5l trong 8 giờ) có thể dẫn tới ARDS hay phù não cấp. Khi Glucoza máu giảm gần đến 250mg/dL, dịch được thay bởi glucose 5% để duy trì Glucoza huyết thanh trong phạm vi 250-300mg/dL.  Điều này sẽ ngăn ngừa giảm đường huyết và sẽ cũng giúp giảm bớt phù não do hạ gluco máu quá nhanh.
+     + Điều trị Insulin cường độ cao cần phải được tiếp tục cho đến khi ketoacidosis được sữa chữa.
+  2.4. Bicacbonat na-tri
+     Một hay hai ống tiêm bicacbonat na-tri (Một ống tiêm chứa 44 meq/50 mL) cần phải được thêm vào 1 L muối 0.45%. (Ghi chú: Thêm bicacbonat na-tri vào dd 0.9% có thể làm nặng thêm trạng thái hyperosmolar hiện hữu.) Cần phải được sử dụng nhanh chóng (trong giờ đầu tiên) nếu pH là &.0 hay thấp hơn. Có thể được lập lại cho đến khi độ pH máu đạt đến 7.1, Nó không nên cho nếu độ pH là 7.1 hay bicacbonat lớn hơn kể từ khi bổ sung vì tăng nguy cớ của nhiễm kiềm chuyển hóa ... .
+  2.5. Kali
+      Kali mất đường niệu và nôn ra có thể > 200 mEq. ECG có thể trợ giúp trong việc theo dõi tình trạng kali của bệnh nhân : sóng T có đỉnh cao là dấu hiệu của tăng kali-huyết, và T bẹt gợn sóng với sóng U là dấu hiệu của giảm kali-huyết. thức ăn có kali cần phải được chỉ định khi bệnh nhân đã phục hồi một cánh đầy đủ, một quả chuối cung cấp khoảng 10 mEq Kali.
+
+3. Cách phòng tránh
+_Giảm cân.
+_Ăn nhiều rau xanh.
+_Bổ sung ngũ cốc nguyên hạt.
+_Làm bạn với cafe.
+_Không rượu bia.
+_Thăm khám thường xuyên.
+_Tích cực tập thể dục.
+
+4. Thông tin thêm
+*Tai biến:
+     + Tăng glucagon máu, và tăng các hoc mon do stress như catecholamin, coctisol, và Hocmon sinh trưởng.
+     + Tăng đường huyết:  kết quả từ gan sản xuất gia tăng Glucoza.
+     + Ketoacidemia: thiếu Insulin liên quan đến tăng mức của hocmon sinh trưởng, catecholamin, và glucagon dẫn tới tăng phân hủy mô từ mô mỡ và trong tạo chất cetonic gan.
+     + Mất dịch và điện giải: nghiên cứu với typ1 chỉ ra rằng trung bình mất nước là khoảng 5 L; natri 300-500mmol; kali 270-400mmol; clorua 100-400mmol.
+     + Ngủ lơ mơ là thường gặp, hôn mê thực sự chi xuất hiện trong khoảng 10% trong số bệnh nhân.
+

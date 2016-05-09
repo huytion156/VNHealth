@@ -1,0 +1,34 @@
+﻿I.Tổng quan
++ đặc điểm
+- Tất cả các tế bào tạo huyết đều được dẫn xuất ra từ một tế bào gốc đa năng phát triển thành dòng tạo hồng cầu, dòng bạch cầu, và tiểu cầu. Tổn thương tế bào gốc tạo huyết này sẽ dẫn tới giảm toàn thể huyết cầu.
+- Tổn thương tế bào gốc trực tiếp có thể bởi sự bức xạ, hoá chất, độc tố, thuoc. Luput SLE có thể ức chế tế bào gốc tạo huyết boi một tu kháng thể Globulin miễn dịch G được dinh huong độc tố tế bào gốc.
+- Tuy nhiên, đa số bệnh ly hoc chung của thiếu máu không tái tạo có vẻ̀ là do sự ức chế tự miễn dịch với sự tạo máu boi một cơ chế tế bào, được điều đình bởi tế bào T..
+
+
+II.Triệu chứng chẩn đoán
+* Tiêu chuẩn chẩn đoán
++ Giảm toàn thể huyết cầu.
+
+
++ Không tim thay tế bào dị thường.
++ Tuỷ xương giảm số lượng tế bào.
+
+
+1.Lâm sàng
++ Bệnh nhân đến BV vì hệ quả của suy tuỷ. Thiếu máu dẫn tới nhung triệu chứng yếu và mệt mỏi, giảm bạch cầu trung tinh gây ra dễ̉ bị nhiễm vi khuẩn, và giảm số lượng tiểu cầu dẫn đến sự chảy máu niêm mạc và da.
++ Khám có thể để lộ ra những dấu hiệu của vẻ xanh xao, chứng ban và đốm xuât huyết. Các bất thường khác như gan-lach to, Bệnh hạch bạch huyết, hay nhuyễn xương không có mặt, và sự có mặt của chúng cần phải xem lại chẩn đoán.
+
+2.Kết quả XN
++ Đặc trưng là giảm toàn thể huyết cầu. Tuy nhiên, nếu sớm thì chỉ có một hay hai dòng tế bào có thể suy giảm.
++ Thiếu máu nặng luôn phối hợp với giảm HC lưới; MCV bình thường nhưng thỉnh thoảng có thể tăng. BC trung tính và tiểu cầu giảm, và không có những dạng chưa trưởng thành hay dị thường. Tuy có giảm tế bào nhưng không có tế bào di thường.
+
+IV.Điều trị
++ Suy tuỷ nhe - cần truyền HC và Tiêu cầu, và cho KS để chống nhiễm trùng.
+
++ Suy tuỷ nặng được xác định bởi đếm số lượng BC trung tinh < 500/uL, tiểu cầu < 20, 000/uL, HC lưới <1%, và tuỷ xương tế bào ít hơn 20% so với bình thường. Khi có ba trong bốn tiêu chuẩn này, sự tồn tại nếu không điều trị xấp xỉ là 3 tháng, và chi có 20% bệnh nhân sống sót trong 1 năm.
+
++ Cấy tuỷ xương: Điều trị chọn lựa ở người trẻ (<50 tuổi) mà có HLA(-) có anh chi em ruột tương ứng là cấy tuỷ xương.
+
++ Ức chế MD: Số còn lại là ức chế miễn dịch với antithymocyte globulin (ATG) + cyclosporine. ATG dùng cùng sự hỗ trợ kháng sinh. Liều hữu ích là 40mg/Kg /D Trong 4 ngày kết hợp với cyclosporine, 6mg/Kg PO bid. ATG phải kết hợp với corticosteroids (prednisone 1-2mg/Kg /D thoạt tiên, sau đó giảm nhanh) ức chế miễn dịch liều cao với cyclophosphamide, 200mg/Kg, dùng cho trường hợp bất trị.
+
++ Hocmon nam đã được rộng rãi sử dụng trước đây có tỷ lệ đáp ứng thấp. Tuy nhiên, vài bệnh nhân có thể được duy trì một cách thành công cho dùng oxymetholone, 2-3mg/Kg PO qd.

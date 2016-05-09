@@ -1,0 +1,45 @@
+﻿I.Tổng quan - đặc điểm
+- Hội chứng ure huyết tan máu (HUS) là một rối loạn khác thường gồm có thiếu máu huyết tán vi mạch, giảm số lượng tiểu cầu và suy thận vì bệnh vi mạch (với giảm siêu loc, protein niệu và đái máu). Nguyên nhân không rõ ràng.
+- Bệnh tương tự như TTP, chỉ khác ở nền tổn thương mao mạch. Thật ra, hai bệnh có lẽ được xem xét tốt nhất như một dạng rối loạn chung HUS-TTP.
+- Ở trẻ em, HUS thường xuyên xuất hiện sau một bệnh iả chảy thứ phát đối với các truyền nhiễm do Shigella, Samonella, E coli O157:H7, hay  virut.Tỷ lệ chết dạng này là thấp <5%.
+- Ở người lớn, hội chứng này thường do dùng estrogen... HUS có thể là tai biến trễ do khí dung liều cao corticosteroid hay sau truyền tủy, do dùng cyclosporine hay tacrolimus để ức chế miễn dịch sau gép tạng... 
+
+II.Chẩn đoán 5 tiêu chuẩn
+1.Thiếu máu huyết tán vi mạch.
+2.Giảm tiểu cầu.
+3.LDH huyết thanh tăng.
+4.Các XN đông máu bình thường.
+5.Không có bất thường thần kinh.
+
+
+III.Triệu chứng:
++ Lâm sàng
+- Các biểu hiện thiếu máu, chảy máu, hay suy thận. Suy thận có hay có thể không giảm niệu.
+- Khác với TTP, Không có nhưng sự biểu hiện RLTK vì trạng thái ure huyết
+
+
++ Kết quả XN
+- Như TTP, Có thiếu máu huyết tán vi mạch và giảm số lượng tiểu cầu, nhưng sự giảm số lượng tiểu cầu thường it nặng nề hơn.
+- Kính phết máu ngoại vi cho thấy có phân rã hồng cầu, và không thể bảo vệ được chẩn đoán nếu không có kết quả tìm kiếm này.
+
+
+- LDH thông thường tăng lên tỷ lệ với mức độ tan huyết, và test Cooms âm tính.
+- Test đông máu bình thường với ngoại lệ là có sản phẩm phân hủy fibrin cao. Như  TTP, mức ADAMTS13 thường thấp.
+- Sinh thiết Thận sẽ thay có cục huyết tắc ở nơi mô mao quản ở tiểu động mạch hướng tâm và glomeruli. Hoại tử thiếu máu cục bộ vỏ thận có thể xuất hiện với sự tắc nghẽn do cục đông ở trong huyết quản.
+
++ Phân biệt
+- DIC được loại trừ bởi những kết quả XN đông máu bình thường. nhưng nguyên nhân khác của ITP cần được tham khảo. Thỉnh thoảng, viêm mạch hay viêm thận-tiểu-cầu cấp cần được xem xét, và trong sinh thiết thận nhưng trường hợp này có thể cần thiet để thiết lập chẩn đoán nếu số lượng tiểu cầu cho phép làm.
+- HUS được phân biệt với TTP boi sự có mặt chắc chắn của suy thận và thiếu nhưng triệu chứng của RLTK.
+
+IV.Điều trị
++ Trẻ em, HUS gần như luôn luôn tự hạn chế và yêu cầu điều trị duy nhất là suy thận cấp.
+
++ Người lớn
+- Dĩ nhiên nếu không điều trị thì tỷ lệ cao suy thận và chết.
+- Điều trị lựa chọn như ở TTP - là phương pháp điều trị bằng huyết tương đông lạnh tươi đã tinh chế thể tích thay thế lớn (Trên 80 mL/Kg), được lập lại hàng ngày cho đến khi ổn định.
+
+Tiên lượng
++ Tiên lượng ở người lớn không rõ ràng.
++ Không chữa bệnh có hiệu quả thì 40% chết, và 80% suy thận mãn.
++ Điều trị bằng huyết tương đã tinh chế là có hứa hẹn.
++ Để tồn tại thì điều trị những bất thường máu chảy là quy tắc, để phục hồi chức năng thận yêu cầu điều trị phải được bắt đầu sớm.

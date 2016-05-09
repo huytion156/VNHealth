@@ -1,0 +1,414 @@
+﻿I. Đại cương
+*Vi khuẩn Salmonella gây bệnh ở người gồm:
+- nhiễm khuẩn khu trú,
+- viêm dạ dày + ruột cấp tính,
+- nhiễm khuẩn máu,
+- bệnh thương hàn +phó thương hàn.
+
++Ở các nước đang phát triển, hay gặp
+- Viêm dạ dày +ruột cấp
+- thứ đến bệnh thương hàn +phó thương hàn
+
+1.Định nghĩa
+Thương hàn do Salmonella typhi, Salmonella paratyphi A,B,C gây ra.
+Lây theo đường tiêu hóa, có bệnh cảnh lâm sàng phong phú:
+sốt, nhức đầu, thường gây sốt kéo dài nếu không được điều trị, có thể gây biến chứng.
+Là bệnh xảy ra quanh năm, cao điểm vào mùa hè +thu, gây dịch.
+
+2.Tác nhân gây bệnh
++Thuộc nhóm Salmonellae (Salmonella group), trực khuẩn, có lông, di động, ái khí và kỵ khí tùy nghi, nội bào tùy ý, sống lâu trong mật.
+
++Kháng nguyên H (lông vi khuẩn), kháng nguyên O (thân vi khuẩn) là nội độc tố được giải phóng khi vi khuẩn bị phân hủy.
++Vi - kháng nguyên bề mặt, phản ánh độc tính vi khuẩn, cho phép tránh sự thực bào, có ở Salmonella typhi, Salmonella paratyphi C, Salmonella Dublin, gần giống kháng nguyên O.
++Vi khuẩn thương hàn tồn tại lâu môi trường bên ngoài.
+
+3.Dịch tễ học
+a.Thường có dịch xảy ra ở nước ta,
+Bệnh lưu hành nặng ở miền Nam, một số tỉnh miền Trung, miền Bắc.
+Năm 1995: miền Nam 90,9%; miền Trung 5,2%; miền Bắc 3,5%; Tây Nguyên 0,4%.
+Năm 1986 +1995 tỷ lệ mắc chung là 0,01 %. Tỷ lệ chết/mắc 0,3%.
+Trên thế giới tỷ lệ chung 0,36%, các nước đang phát triển 0,5%. 69
+Bệnh hay gặp độ tuổi thanh thiếu niên, lao động (10 +40), càng lớn tuổi bệnh càng ít.
+Người lành mang mầm bệnh gặp ở nữ, tỷ lệ nam / nữ: 1/4, 85% người lành mang mầm bệnh > 50 tuổi.
+
+b.Cách thức lây truyền: có 2 cách lây
++Trực tiếp:
+- do tiếp xúc trực tiếp các chất thải của bệnh nhân có vi khuẩn như phân, nước tiểu,đồ dùng-quần áo;
+- từ người lành mang mầm bệnh hoặc bệnh nhân.
++Gián tiếp:
+- cách lây chủ yếu, thức ăn, nước uống nhiễm khuẩn.
+- Ruồi đóng vai trò lây truyền bệnh;
+- nguồn nước như sông, giếng, ao bị nhiễm khuẩn;
+- thực phẩm như ốc, sò, hến, rau, thịt, trứng, sữa bị nhiễm khuẩn.
+
+
+c.Các yếu tố nguy cơ
+Môi trưòng bị ô nhiễm nặng, cung cấp không đủ nước sạch cho nhân dân.
+Vấn đề vệ sinh thực phẩm không an toàn.
+Tập quán sinh hoạt , vệ sinh kém.
+Tập quán ăn uống của một số bộ phận dân cư còn lạc hậu, dễ làm cho bệnh lây lan.
+Nguyên nhân gây giảm dịch dạ dày: viêm mạn tính, cắt dạ dày, thuốc kháng acid kéo dài.
+Người mang mầm bệnh trong cộng đồng chưa được nghiên cứu và xử lý một cách đầy đủ.
+
+II. Sinh lý bệnh
++Sau khi ăn,
+vi khuẩn vượt qua hàng rào của dạ dày để tới ruột non.
+Salmonella xâm nhập vào máu qua phần trên của ruột non,
+gây nên vi khuẩn huyết không triệu chứng và thoáng qua
+sẽ bắt đầu theo thời kỳ ủ bệnh.
+Các vi khuẩn Salmonella này bị các đại thực bào bắt,
+
++Do chưa có kháng thể đặc hiệu diệt khuẩn,
+các vi khuẩn bị thực bào trong dạng còn sống,
+do đó các vi khuẩn này phát triển và nhân lên trong đại thực bào
+ nhờ vào các yếu tố nội tại của vi khuẩn (kháng nguyên Vi), giúp cho vi khuẩn đề kháng sự thực bào,
+
++Khi lượng vi khuẩn trong đại thực bào đạt mức độ tối đa, chúng làm vở rồi vào máu,
+một số bị ly giải giải phóng nội độc tố thúc đẩy tình trạng miễn dịch qua trung gian tế bào, đặc biệt là hoạt hóa tế bào Lympho T.
+gây ra đáp ứng viêm toàn thân tạo nên tình trạng sốt kéo dài trên lâm sàng.
+ 
++Tiếp đến vi khuẩn xâm nhập vào tổ chức để tạo nên một số triệu chứng: viêm túi mật, chảy máu tiêu hóa, thủng ruột...
+Khi xâm nhập túi mật, các mảng Peyer vi khuẩn lại vào lòng ruột, nên tuần thứ 2 cấy phân dương tính.
+
++Xâm nhập vào thận, cấy nước tiểu dương tính.
++Nội độc tố vi khuẩn lipopolysaccharide (LPS) góp phần gây sốt, hạ BC,
++và các triệu chứng toàn thân khác qua trung gian của cytokin phóng thích ra từ các đơn nhân đại thực bào, khi cơ thể bị nhiễm Salmonella.
++Bệnh có miễn dịch bền ít khi mắc lại lần 2.
+
+III.Cơ thể bệnh
+Bệnh ảnh hưởng đến nhiều cơ quan,
+như gây tổn thương rõ nét ở ruột, hạch mạc treo.
+
+1.Ruột 
+Thường gặp ở đoạn 30 cm cuối hồi tràng, hiếm khi ở đại tràng,
+thương tổn chủ yếu là các nang kín, mảng Peyer, các thương tổn trải qua 3 giai đoạn:
+a. Giai đoạn thâm nhiễm
+Trong giai đoạn khởi phát, niêm mạc bị xung huyết viêm long,
+các nang bạch huyết kín, các mảng Peyer sưng và gồ lên bề mặt của niêm mạc, có màu hồng, lúc đầu còn cứng sau mềm nhũn.
+
+b. Giai đoạn loét
+Từ sau ngày thứ 10, vùng giữa mảng Peyer bắt đầu hoạt tử, loét rộng hình bầu dục,
+ có lúc dày 2 cm, có lúc loét sâu vào lớp thanh mạc dễ gây xuất huyết và thủng ruột.
+
+c. Giai đoạn hóa sẹo
+Thường xảy ra vào tuần thứ 4, tăng sinh và phát triển tổ chức hạt,
+nhưng không bao giờ gây hẹp lòng ruột.
+
+2.Các cơ quan khác
+a.Dạ dày
+Chảy máu khu trú loét rất hiếm khi xảy ra.
+
+b.Lách
+Sưng màu đỏ tía, các tiểu thể Malpighi cũng diễn biến qua 3 giai đọan trên:
+ thâm nhập bạch cầu đa nhân và đại thực bào, các ổ hoại tử khu trú, hóa sẹo.
+
+c.Gan
+Thường sưng, tụ tập tế bào mônô ở chủ mô gan,
+ phản ứng viêm đường mật, có thể có áp xe nhỏ trong gan.
+Viêm túi mật.
+
+d.Tim
+Viêm cơ tim, cơ tim nhạt màu và có chấm xuất huyết rải rác,
+thoái hóa hạt, thoái hóa mỡ, hoặc thoái hóa hyalin.
+
+IV. Lâm sàng
+1.Thể bệnh điển hình
+a.Thời kỳ ủ bệnh
+Thường là 15 ngày, ngắn dài phụ thuộc vào lượng vi khuẩn xâm nhập, không triệu chứng.
+
+b.Thời kỳ khởi phát
+Trung bình 1 tuần, bệnh có tính chất tăng dần.
++Ảnh huởng toàn thân : nhức đầu, mệt mõi, mất ngủ.
++Sốt:
+- lúc đầu nhẹ, tăng dần lên trong vòng 4-7 ngày,
+- sáng thấp chiều cao, chênh 0,5 +10C,
+- sốt nóng có khi kèm theo lạnh run.
++Rối loạn tiêu hóa: chán ăn, táo bón, buồn nôn.
++Chảy máu cam: 1+2 lần.
++Khám lâm sàng:
+- lưỡi đỏ hoặc trắng bẩn, bụng chướng nhẹ, diện lách dục,
+- mạch nhiệt phân ly ( dấu cổ điển) hiện nay ít gặp.
+
+c. Thời kỳ toàn phát
+*Bắt đầu tuần thứ 2, kéo dài 2 +3 tuần.
++Nhức đầu, ù tai, lãng tai.
++Dấu hiệu toàn thân: người rất mệt, mất ngủ.
++Sốt: mức tối đa 39,5 +41oC, liên tục dạng cao nguyên, sáng chiều chênh nhau 0,5oC.
++Rối loạn tiêu hóa: phân lỏng vàng, có khi đen, 2 -3 lần/ngày, có khi tiêu chảy nhiều lần, chán ăn, đau bụng lan tỏa.
++Dấu Typhos:
+- vẻ mặt bất động, ngơ ngác,
+- nhìn chằm chằm mắt không nhấp nháy,
+- thỉnh thoảng nói lảm nhảm, lay gọi không trả lời.
+
+
+*Khám lâm sàng:
+- Mạch nhiệt phân ly (hiếm gặp).
+- Bụng chướng, óc ách hố chậu phải, lách to mềm, gan to nhẹ, ấn đau.
+- Đáy phổi phải gõ đục; hoặc vài ran phế quản, có khi ở cả 2 phổi; ho khan.
+- Hồng ban có thể gặp, 3 dạng:
+. Ban dát: gặp ở lưng, ngực, tay, chân là một đám hồng ban có giới hạn rõ ràng
+. Ban bèo tấm: gặp ở bụng, vùng trước 2 mạng sườn, dưới vú, trên rốn, không bao giờ quá 30 nốt
+. Ban dạng sởi: như sởi, mọc một lúc từ đầu xuống chân.
+- Loét họng Duguet:
+. Ổ loét ở trụ trưóc màn hầu, đối xứng, bầu dục, đáy sạch,
+. nuốt không đau, họng không đỏ, không sưng hạch vệ tinh.
+
+- Mạch nhanh, tim nhanh, có khi tiếng tim mờ (viêm cơ tim).
+- Lưỡi khô bẩn.
+
+d. Thời kỳ lui bệnh
+Bệnh nhân được điều trị kháng sinh
+sau 3 ngày (tối thiểu) +7 ngày (tối đa) nhiệt độ hạ dần, thời kỳ lại sức ngắn.
+Nếu bệnh nhân không được điều trị sẽ thời kỳ lui bệnh kéo dài, hồi phục kéo dài.
+
+2.Thể lâm sàng
+a. Thể khởi phát bất thường
++Khởi phát đột ngột: sốt cao 39 +400C, lạnh run, đau mỏi toàn thân như cúm, do nhiễm một lượng lớn vi khuẩn (phó thương hàn > thương hàn).
++Có khi sốt vài hôm kèm theo rét run, rồi xuất huyết tiêu hóa, hoặc thủng ruột làm cho bệnh cảnh nặng lên.
++Có khi khởi đầu bằng sốt, kèm dấu hiệu viêm phế quản, ruột thừa viêm, viêm đường mật trong gan, dễ làm lệch hướng chẩn đoán.
+
+b. Thể bệnh theo tuổi, cơ địa
++Thương hàn ở phụ nữ có thai: có nguy cơ sảy thai, sinh non, các dấu hiệu ở bụng thường khó giải thích (đau bụng, chướng bụng...)
++Người lớn tuổi: bệnh ít khi gặp, thường là nặng, sốt ít hay có biến chứng trụy tim mạch, biến chứng phổi, hồi phục kéo dài.
++Trẻ nhỏ: hiếm gặp < 6 tháng tuổi, khó chẩn đoán lâm sàng, cấy máu khó, cấy phân thuận lợi.
++Trẻ lớn: mạch nhanh, hiếm có dấu Tuphos, không li bì mê sảng, sốt thất thường, đi lỏng hơn là táo bón, hiếm khi biến chứng giảm. Khó chẩn đoán lâm sàng.
+
+c.Thể phối hợp
++Bệnh thương hàn có thể phối hợp với một bệnh khác, làm cho bệnh cảnh lâm sàng phức tạp thêm, khó chẩn đoán.
++Hay gặp là phối hợp với sốt rét, lỵ trực trùng....
+
+V. Tiến triển và tiên lượng
++Diễn biến tự nhiên không điều trị, bệnh nhân có thể tử vong trong thời kỳ toàn phát do một số thể bệnh nặng,
+nếu tiến triển thuận lợi sau thời kỳ toàn phát các triệu chứng giảm dần, thời kỳ hồi phục kéo dài và có thể xảy ra các biến chứng.
+
++Từ khi có kháng sinh trị liệu (1948, chloramphenicol),
+diễn biến bệnh được rút ngắn nhưng điều trị không đủ liệu trình bệnh sẽ tái phát 7 +15 ngày sau khi ngừng thuốc .
+Trước thời đại kháng sinh tỷ lệ tử vong cao, tùy theo nhóm kinh tế xã hội.
+Khi có Chloram phenicol đến nay tỷ lệ tử vong <1% tại các nước phát triển,
+ở các nước chậm phát triển tỉ lệ này cao hơn. Nước ta, tỷ lệ rất thấp.
+ 
+VI. Biến chứng
+1.Biến chứng tiêu hóa
+a.Xuất huyết tiêu hóa
+Loét các mảng Peyer làm vở mạch máu ; xuất huyết nhẹ đi cầu phân đen ; xuất huyết nặng phân có nhiều máu bầm, máu tươi, người bệnh mệt lả, xanh nhợt, mạch nhanh, huyết áp hạ, có thể tử vong nếu không phát hiện, điều trị kịp thời. Xuất huyết tiêu hóa báo trước dấu hiệu thủng ruột.
+
+b.Thủng ruột
+*Cần phân biệt giả thủng gặp ở thương hàn nặng, điều trị muộn ; do ảnh hưởng thần kinh giao cảm bụng, triệu chứng như thủng ruột, chỉ khác: giả thủng không có liềm hơi.
++Thủng ruột thể kịch liệt (sthenic form)
+- Thường rầm rộ, đau bụng dưới hoặc hố chậu phải, bụng chướng, phản ứng thành bụng (+).
+- Khám: bụng cứng, tuí cùng đau khi thăm trực tràng, bí trung đại tiện, vùng đục trước gan mất,
+- huyết áp tụt, mạch nhanh, nhiệt độ hạ, bệnh nhân rơi vào tình trạng sốc,
+- Xquang: liềm hơi dưới cơ hoành ; xử trí: mổ cấp cứu, hồi sức nội khoa.
+
++Thủng ruột thể âm ỉ (asthenic form)
+- Triệu chứng không rõ, khó phát hiện: bụng chướng nhẹ, đau không nhiều, khu trú không rõ, mạch nhanh-huyết áp hạ.
+- Cần lưu ý tình trạng sốc: mặt mày hốc hác, da lạnh, râm rấp mồ hôi.
+- Phải chụp X quang tìm liềm hơi khi nghi thủng ruột.
+
+c. Các biến chứng tiêu hóa khác và cơ quan kế cận
++Thương hàn thể đại tràng: ỉa chảy nhiều lần, đau bụng, bụng chướng.
++Viêm ruột thừa, viêm phúc mạc.
++Viêm gan nhiễm trùng, viêm đường mật trong gan, viêm túi mật.
+
+2. Biến chứng tim mạch
+a. Viêm cơ tim
+Nhịp tim nhanh, tiếng tim mờ, loạn nhịp, tiếng ngựa phi, viêm cơ tim gây suy tim cấp, tiên lượng xấu,
+ECG: PR kéo dài, T và ST đảo ngược, QRS điện thế thấp.
+
+b. Trụy tim mạch
+Nhiệt độ tụt, huyết áp hạ, mạch nhanh, chân tay lạnh, da nhợt nhạt, vã mồ hôi, mặt mày hốc hác; tiên lượng nặng.
+
+c. Các biến chứng hiếm gặp khác
+Viêm màng ngoài tim, nội tâm mạc; viêm động mạch chi dưới, tĩnh mạch (thường ở chi trái).
+
+3. Biến chứng thần kinh
+a. Não viêm thương hàn
+Biến chứng nặng, ảnh hưởng đến não giữa, thành não thất, các nhân xám trung ương, vùng trán bên hoặc toàn bộ trục thần kinh. Tiên lượng xấu.
+
+b. Viêm màng não thương hàn
+Thường gặp ở trẻ em hơn là người lớn, có khi nước não tủy trong, tăng lymphô hoặc mờ đục,
+có khi cấy Salmonella typhi (+); có khi chỉ là phản ứng màng não.
+
+4. biến chứng hiếm gặp khác
+a. Hô hấp
+Viêm phế quản, viêm phế quản phổi; tràn dịch màng phổi (gặp ở trẻ em).
+b. Viêm xương, viêm khớp.
+c. Viêm thận, viêm đa cơ, viêm dây thần kinh thị giác.
+
+VII.Chẩn đoán
+1. Chẩn đoán lâm sàng
+a. Chẩn đoán lâm sàng giai đoạn sớm (thời kỳ khởi phát):
+Thường khó, dựa vào một số triệu chứng có tính chất định hướng
++Sốt tăng dần, kèm mệt mỏi tăng dần, nhức đầu, mất ngủ, môi khô lưỡi bẩn.
++Táo bón rồi sau đó đi lỏng.
++Khám không thấy biểu hiện nhiễm trùng rõ nét ở một bộ phận cụ thể nào.
++Bệnh nhân sống vùng dịch lưu hành.
++Bạch cầu máu giảm hoặc bình thường, lymphô tăng tương đối.
+
+b. Chẩn đoán lâm sàng ở thời kỳ toàn phát
+Khi triệu chứng của bệnh xuất hiện càng lúc càng rõ nét hơn như đã mô tả ở phần lâm sàng.
+
+c. Chẩn đoán khi có các biến chứng
+Xuất huyêt tiêu hóa, thủng ruột, viêm cơ tim, viêm não. Xảy ra, khi bệnh cảnh lâm sàng kéo dài.
+
+2. Chẩn đoán bằng xét nghiệm
+a. Công thức máu
+Bạch cầu giảm hoặc thường, 4-5 x 109/L, giảm Neutrophile (40-50%), định hướng chẩn đoán.
+
+b. Cấy máu
+Tỷ lệ (+) 80-90% tuần đầu, 50% tuần thứ 2, về sau tỷ lệ thấp (cấy máu trước dùng KS).
+
+c. Cấy phân
+Kết quả (+) cao tuần thứ 2; chẩn đoán bệnh và phát hiện người mang mầm bệnh (sau 1 năm (+)).
+
+d. Cấy tủy xương
+Kết quả (+) cao, thậm chí sau khi đã dùng kháng sinh một thời gian ngắn.
+
+e. Phản ứng Widal
++Tối thiểu xét nghiệm 2 lần để xác định động lực kháng thể.
++Kháng thể O (+) ngày thứ 7-10, tồn tại trong vòng 3 tháng.
++Kháng thể H (+) ngày thứ 12 -14, tồn tại nhiều năm.
+O có giá trị hơn H. Nồng độ kháng thể O = 1/100, H = 1/200 là (+) ở người chưa chủng ngừa.
+Tuy nhiên, có thể (+) và (-) giả, vì có trường hợp cấy máu (+) mà Widal (-) hoặc Widal (+) nhưng không phải thương hàn.
+Widal có thể (+) trong vài bệnh: do các Rickettsia, một số bệnh gan mạn tính, một số nhiễm khuẩn gram (-), nên phản ứng Widal có giá trị định hướng chẩn đoán mà thôi.
+
+*Tóm lại, để chẩn đoán xác định bệnh thương hàn:
+- Bệnh cảnh lâm sàng - Cấy máu hoặc cấy phân hoặc cấy tủy (+).
+- Bệnh cảnh lâm sàng - Widal (+) với động lực kháng thể cao.
+
+3.Một số kỹ thuật chẩn đoán mới (chỉ để tham khảo thêm): chưa dùng phổ biến ở nước ta.
+a. Phương pháp ELISA
++Tìm kháng thể kháng Lipopolysaccharide của Salmonella (typhi-paratyphi A,B,C) và kháng thể kháng Porines.
++Tìm kháng +kháng nguyên bao Vi để phát hiện người mang mầm bệnh mạn tính.
+
+b. Phương pháp ngưng kết hồng cầu thụ động
+Để tìm kháng +kháng nguyên bao Vi.
+
+c. Phương pháp PCR (phản ứng chuổi polymerase)
+Lượng DNA vi khuẩn trong các mẫu nghiệm (mật, máu, phân) sẽ được khuyếch đại để xác định.
+
+4.Chẩn đoán phân biệt
+Trên thực tế có nhiều tình trạng lâm sàng có diễn biến gần giống thương hàn.
+a.Giai đoạn sớm của bệnh (thời kỳ khởiphát)
++Sốt siêu vi:
+Sốt đột ngột, đau mỏi toàn thân, bạch cầu bình thường hoặc giảm, không diễn biến kéo dài.
++Sốt mò (Tsutsugamushi):
+Khởi phát đôt ngột; xung huyết kết mạc, da; phát ban; mệt mỏi; vết loét vùng kín: thắt lưng, bẹn nách....Điều trị bằng tetracycline, chloramphenicol.
++Sốt rét tiên phát:
+Khởi phát đột ngột, sốt liên tục, rối loạn tiêu hóa, tìm KST sốt rét, yếu tố dịch tễ.
++Nhiễm trùng cấp ở các mức khác nhau tại các bộ phận cơ thể.
+
+ b. Giai đoạn toàn phát
+Phân biệt một số trường hợp có thể gây sốt kéo dài.
++Các ở nung mủ sâu (áp xe gan, viêm quanh thận...)
++Các trường hợp nhiễm trùng huyết: cấy máu, ổ nhiễm tiên phát, di bệnh thứ phát, sốc.
++Lao phổi: sốt thất thường, ho kéo dài, X quang phổi, VS, cấy máu (-), IDR. Hoặc lao nơi khác.
++Viêm nội tâm mạc cấp, bán cấp: dễ nhầm với thương hàn nếu không có kết quả cấy máu.
+
+VIII. Điều trị
+1. Thuốc đặc trị
+Ở phòng thí nghiệm vi khuẩn thương hàn nhạy cảm nhiều kháng sinh,
+trên cơ thể vi khuẩn sống nội bào tùy ý, nên thuốc ngấm nội bào tốt mới dùng điều trị.
+
+a.Các thuốc
+Cổ điển như Chloramphenicol, Bactrime, Ampiciline.
+
+Thuốc mới như Cephalosporine thế hệ II (cefuroxim), III (cefotaxim...);
+Tuy nhiên, nước ta một số nơi vi khuẩn thương hàn kháng acid nalixidic,
+Fluoroquinolon rất hiệu quả.
+ khi dùng Fluoroquinolone thời gian cắt sốt dài hơn (7 ngày ; thường 3 ngày).
+Thuốc có hai dạng uống và tiêm, chỉ dùng một thuốc không phối hợp.
+Hiện nay quinolone là loại kháng sinh được ưu tiên chọn sử dụng để điều trị bệnh thương hàn ở người lớn nhất là bệnh nhân cư ngụ ở nhưng nước có tỉ lệ kháng với các loại trước kia thường dùng như chloramphenicol, ampicilline, và trimethoprim-sulfamethoxasole.
+Đối với trẻ em,
+quinolone nên dùng cho trẻ em >= 15 tuổi,
+ceftriaxone (cephalosporine thế hệ thứ 3) thường được sử dụng trước tiên.
+Thời gian điều trị 5 ngày.
+
+
+
+b. Liều lượng
+* Nơi chưa bị kháng thuốc kinh điển: vẫn có thể dùng các thuốc sau (rẽ, dễ kiếm).
++Chloramphenicol:
+- Người lớn: 1 +1,5 g/ngày, uống 2 lần (sáng +chiều).
+- Trẻ em : 50 mg/kg/ngày, uống 2 lần (sáng-chiều).
++Ampiciline hoặc Amoxiciline: 50 +100 mg/kg/ngày /ngày/ 4 lần.
++Co-trimoxazol: (Trimethoprim +Sulfamethoxazol):
+ 50 mgTri. - 10 mg Sulfa. /kg/ngày / uống 4 lần,
+Tất cả các thuốc trên đều dùng liên tục trong 14 ngày.
+
++Péfloxacine (400 mg x 2 / ngày)
++Ofloxavine (200 mg x 2 / ngày) hoặc
++Ciprofloxacine (500 mg x 2 / ngày)
+Thời gian điều trị trung bình 7 ngày.
+
+c. Vùng bị kháng thuốc kinh điển: Dùng thuốc mới
++Pefloxacine 400mg; Ofloxacine 200mg; Ciprofloxacine 500mg.
+ Dùng 1 trong 3 loại trên, ngày 2v x 7 -10 ngày, uống 2 lần (sáng-chiều).
++Cefuroxim 1,5g/ngày x 10 ngày (viên 250mg), uống 3 lần /ngày. 75
++Rocephine 1+2g/ngày hoặc Ceftriaxone 1+2g/ngày x 10 ngày, tiêm bắp 2 lần /ngày.
+Hết sốt sau 3 +4 ngày điều trị.
+
+d. Phụ nữ có thai, trẻ < 15 tuổi,
+Dùng Cephalosporine thế hệ 2 +3. Không dùng Fluoroquinolone.
+Chọn lựa điều trị theo vùng, sự chấp nhận của bệnh nhân theo khả năng chi trả.
+Tuy nhiên, thuốc mới có lợi hơn về kinh tế và chống tình trạng người mang mần bệnh do diệt sạch vi khuẩn
+
+2.Điều trị triệu chứng, chăm sóc và ăn uống
+a. Trụy tim mạch, viêm cơ tim
+Giảm liều KS hoặc ngừng, hồi sức tim mạch, Hydrocortison hemisuccinate 100 mg/ngày x 2-3 ngày.
+
+b. Não viêm hoặc nhiễm độc nặng
+Nhiễm độc nặng dùng Hydrocortison hemisuccinate 100 mg/ngày x 2-3 ngày.
+Não viêm: Dexamethazole 3 mg/kg, sau 30 phút 1mg/kg cứ 6 giờ/lần/ 24 giờ (tiêm tĩnh mạch 1-2 ngày)
+(Harrison 1992), theo một số tác giả nước ngoài thì hiệu quả cứu sống 50% trường hợp não viêm thương hàn.
+
+c. Chảy máu tiêu hóa nặng
+Truyền 1 +2 đơn vị máu, chườm đá ở bụng.
+
+d. Kiệt sức, suy kiệt do ốm lâu
+Huyết tương, đạm thủy phân, polyvitamin.
+Chăm sóc vệ sinh răng miệng hàng ngày.
+
+e. Chế độ ăn
+Đang sốt thì ăn lỏng, xúp nghiền.
+Hết sốt cho ăn nhão, cháo, xúp rồi ăn đặc dần nhưng tránh chất xơ.
+Đủ chất dinh dưỡng.
+
+IX.Phòng bệnh
+a. Khi chưa có bệnh (dự phòng cấp 0)
++Tăng cường giám sát dịch tại các ổ dịch cũ, các vùng có nguy cơ cao
+(đông dân cư; vệ sinh kém, sử dụng nước ao, hồ, sông; vùng bệnh lưu hành).
++Báo cáo đều đặn bệnh trong khu vực theo quy định Bộ Y tế.
++Tăng cường cải thiện cung cấp nước sinh hoạt, xử lý chất thải bệnh viện,
++kiểm tra biện pháp vệ sinh an toàn thực phẩm, vệ sinh môi trường.
++Tăng cường công tác tuyên truyền, giáo dục vệ sinh phòng bệnh cộng đồng,
++ăn chín, uống chín, cộng đồng tham gia phòng bệnh bảo vệ cá nhân-cộng đồng.
+
+b. Với bệnh nhân (dự phòng cấp 1)
++Điều trị dứt điểm, đủ liều thuốc, tránh điều trị dỡ dang dễ thành người mang mầm bệnh.
++Phát hiện, quản lý và điều trị người lành mang mầm bệnh.
+
+c. Khi có dịch
++Biện pháp tổ chức
+- Thành lập ban chỉ đạo chống dịch ccủa tỉnh, thành phố.
+- Tổ chức đội lưu động, trang bị thuốc men, hóa chất, phương tiện, hỗ trợ nơi có dịch.
+
++Biện pháp kỹ thuật:
+- Giám sát phát hiện, điều trị sớm các ca bệnh đầu tiên được phát hiện tại bệnh viện;
+- phát hiện lâm sàng, cấy máu, phân, làm kháng sinh đồ.
+- Thông báo cho cơ quan y tế dự phòng cùng cấp, để có biện pháp chống dịch và hổ trợ.
+
++Các biện pháp vệ sinh môi trường, tham gia chống dịch của cộng đồng .
+- Xử lý phân: xử lý vôi bột hoặc hóa chất phân bệnh nhân trước khi vào hệ thống chung.
+- Khử nước sinh hoạt bằng Chloramin B nồng độ chlore 0,3mg/l, nước giếng cũng vậy.
+- Giải quyết rác: vôi bột, diệt ruồi, xử lý rác công cộng.
+- Vệ sinh thực phẩm ăn uống.
+- Lấy mẫu thực phẩm, nước để phân lập vi khuẩn, đặc biệt, khu vực có bệnh nhân.
+- Kiểm tra, thanh tra vệ sinh thực phẩm thường xuyên, đột xuất.
+- Tuyên truyền ăn chín, uống chín.
+- Xét nghiệm phân các đối tượng: người phục vụ ăn uống, chế biến thực phẩm, cô nuôi dạy trẻ, người tiếp xúc bệnh nhân. Để phát hiện người lành mang mầm bệnh.
+
+d.Vắc xin phòng bệnh:
+Có 2 loại vắc xin phòng bệnh (uống và tiêm).
+Có thể dùng vắc xin cho người tiếp xúc bệnh nhân, các đối tượng ở vùng nguy cơ cao, ổ dịch cũ.
+

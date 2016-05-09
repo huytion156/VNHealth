@@ -1,0 +1,165 @@
+﻿1.Tổng quan & Phân loại
+   a) Định nghĩa: loạn nhịp
+               - 1 loại rối loạn nhịp nhanh, có căn nguyên từ điểm kích thích bột phát ở thất, đặc tính nhịp >120 lần/ph và QRS giãn rộng.
+               - Có thể đơn dạng hoặc đa dạng (do nhiều ổ kích thích).
+               - VT hay ảnh hưởng nặng huyết động và dễ dẫn tới rung thất (VF), nên cần xử trí nhanh để tránh nặng bệnh lên hay tử vong.
+
+   b) Phân loại: 4 loại
+               - Nhịp nhanh thất ngoai tâm thu (khi có ≥ 3 PVC liên tiếp).
+               - Nhịp tự thất tăng nhanh (Accelerated Idioventricular Rhythm) do bộ nối-bó His-mạng Purkinje tạo nhịp tự thất khi nhịp tim chậm lại; it khi quá 30 nhịp liên tiếp. 
+               - Nhịp phó tâm thu - là hội chứng do một ổ kích thích ở nhĩ hoặc ở thất hoạt động với tần số cố định.
+               - Xoắn đỉnh (Torsades de Pointes): dạng sóng QRS dao động  trong 5-20 nhip, sau đó chuyển hướng sóng sang phiá ngược lại (thuốc chống loạn nhịp nhóm I, IMAO, rối loạn do giảm K, Mg..)
+   * Cuồng thất : Khi không phân biệt được QRS với T & ST. Tần số 180-250.
+
+
+   * Rung thất (VF) là khi không thấy QRS mà chỉ có các sóng đơn lẻ kích thước hình dạng không đều, nếu biên độ ≥ 3mm là VT sóng lớn; < 3mm là rung thất sóng nhỏ.
+
+   c) Chẩn đoán:
+   * Triệu chứng cơ năng của thiếu máu tim mạch, tổn thương huyết động, gồm có:
+               - Đau ngực
+               - Tim đập nhanh
+               - Khó thở
+               - Lo âu, bồn chồn
+               - Toát mồ hôi
+               - Buồn nôn
+   * Triệu chứng thực thể:
+          + Tim thấy có dấu hiệu mất ổn định huyết động ở các cấp độ khác nhau, như các triệu chứng của:
+          + Suy tim sung huyết.
+               - Khó thở, giảm O2 máu
+               - Ran do phù phổi
+               - Tĩnh mạch cổ nổi
+               - Giảm huyết áp
+          + Thay đổi trạng thái t.than
+               - Lo âu, bồn chồn
+               - Kích động
+               - Ngủ lịm
+               - Hôn mê
+
+   * Các yếu tố gợi ý c.đoán:
+               - Nhịp >100 l/p(150-200)
+               - QRS rộng (>120 ms)
+               - Biểu hiện phân ly AV
+               - Liền nhịp
+
+2. Điều dưỡng Theo dõi
+          + Theo dõi sinh hiệu: mỗi 30' trong 3 giờ đầu,  60'/lần trong các giờ tiếp 3 h/lần trong 3 ngay đầu.
+          + Hoạt động: Tuy theo mức độ thich nghi. tại giường với ghế đi cầu ngay tại giường.
+          + Chăm sóc: monitor ECG & gắn Oxymeter.
+          + Chế độ ăn: Chất béo ít,  cholesterol thấp, không caffeine.
+          + Bù dịch cơ bản đường tĩnh mạch: Glucosa 5% truyền giữ ven TKO
+          + Gọi BS nếu mạch >140;  10<thở> 30; T >38.5oC;
+ SpO2 < 90%.
+
+3. Điều trị đặc hiệu :
+   a. Nhanh thất, cuồng thất
+          + Có 2 dạng nhanh thất: Ổn định & không ổn định
+   *A1 Khi VT không ổn định
+          + Có đặc điểm biểu hiện của suy cung cấp oxy:
+               - Như đau ngực, khó thở,
+               - Hạ huyết áp
+               - Tthay đổi mức tỉnh táo
+               - Biểu thị của nhip và thể tích nhát bóp không đủ cung lượng tim cần thiết.
+          + Shock điện đồng bộ ngay, (≠ rung thất = shock điện không đồng bộ); vì dùng không đồng bộ có thể dẫn đến VF hầu hết đáp ứng ngay với mức năng lượng thấp (vd 1-50 watt-giay). Shock điện khử rung đồng bộ 200 J, rồi 300 J tiếp đó khẩn trương xử trí đường thở, thở oxy 100% chọc đường truyền, cho thuốc chống loạn nhịp.
+          + Hướng dẫn dùng thuốc trong VT chưa ổn định huyết động của ACLS (Advanced cardiac life support - ACLS) hiện nay là dùng Amiodarone đầu tiên, rồi đến bretylium và procainamide. Có thể bổ xung thêm magnesium hay các điện giải khác trong liệu trình điều trị VT.
+
+   *A2 Khi VT ổn định
+          + BN ổn định không có các triệu chứng của mất bù huyết động. Do VT có xu hướng trơ nên xấu hơn khi chuyển thành dạng không ổn định và các loại loạn nhịp ác tính khác, nên điều trị cũng vẫn là Amiodarone hay Lidocaine, tiếp theo là dung procainamide ở BN có trạng thái trơ it đáp ứng.
+          + Cân nhắc cho shock điện đồng bộ sớm nếu đáp ứng kém với thuốc để nhanh chóng ổn định nhịp, cho dù là trạng thái VT ổn định.
+
+   b. Điều trị Xoắn đỉnh (Torsades De Pointes VT):
+          + Tiêm IV mage sulphat và KCl hoặc panalgin.
+          + Sữa chữa nguyên nhân cơ bản và cân nhắc ứng dụng quinidine, procainamide, Lidocaine,  disopyramide, sotalol, moricizine, Amiodarone,  Ibutilide, phenothiazine, haloperidol, itraconazole tetracyclic, ketoconazole, hypokalemia, tricyclic, bepridil, antidepressants, hypomagnesemia.
+ 
+          + Magnesium sulfate(Mg):
+               - 1-4 g IV bolus trong vòng 5-15 phút hoặc truyền 3-20mg/ph khoảng 7-48h cho tới khi đoạn QT  <0.5 sec.
+               - 1-2 g hoà trong 100 mL D5W trong 1-2' đối với VT dạng kháng thuốc hay nghi ngờ giảm mage máu (Mg+2 <1.4 mEq/L); không cho quá 30-40g/d truyền tối đa <1-2 g/h
+               - Isoproterenol (Isuprel) 2-20 mcg/ph (2mg trong 500 mL GW 5%, 4 mcg/mL) hoặc
+               - Phenytoin (Dilantin) 100-300mg IV mỗi 50mg ước chừng q5phút.
+               - Cân nhắ́c dụ̀ng tạo nhịp hoặc chuyển nhịp.
+ 
+          + Sodium bicarbonate
+               - Liều khởi đầu: 1 mEq/kg
+               - Liều duy trì: 0.5 mEq/kg
+               - q10min hay khi cần chỉ định trong ABGs
+ 
+          + Calcium chloride
+               - Cho dùng khi nghi tăng kali máu (K+ >6 mEq/L):
+               - 2-4mg/kg (10%) IV
+ (*) T.k T.chong loạn nhịp
+
+4.Xét nghiệm: Kiểm tra
+          + Làm các XN phân tích nhiều bộ phận (SMA)
+          + Làm các XN máu (CBC)
+          + Mức thuốc trong máu.
+          + XN phân tích nước tiểu.
+
+I. Bệnh cảnh và chẩn đoán nhịp nhanh thất
+     1.Tổng quan:
+          + Nhịp nhanh thất bền bỉ theo định nghĩa là một cơn nhịp nhanh có tần số trên 100 lần/phút với QRS dãn rộng và cơn kéo dài trên 30 giây.
+          + Ổ phát xung động nằm ở thất nên làm mất thứ tự hoạt hóa bình thường của thất và mất tác dụng của nhát bóp nhĩ, do đó thường gây ra các triệu chứng nặng nề do suy sụp huyết động có thể dẫn dến rung thất, ngừng tim.
+          + Ðại đa số các ca nhịp nhanh thất là do một bệnh tim, rối loạn chuyển hóa, hội chứng QT kéo dài với ổ phát xung gắn liền với một cấu trúc giải phẫu bệnh cố định ở thất.
+Còn nhịp nhanh thất không bền bỉ có cơn ngắn hơn 30 giây và về mọi mặt là nhẹ hơn.
+
+     2.Ðiều trị nhịp nhanh thất
+          + Có kết quả hay không trước hết dựa trên cơ sở một chẩn đoán chính xác mà đấy là một vấn đề khó khăn hạng nhất.
+          + Một nhịp nhanh với tần số thất trên 100 lần/phút, với QRS dãn rộng, nhiều khi là nhịp nhanh thất nhưng cũng có thể là nhịp nhanh trên thất có kèm blốc nhánh hoặc có kèm W-P-W với vòng vào lại có xung động đi xuống thất qua đường cầu phụ, cả 2 trường hợp này có thể chẩn đoán phân biệt với nhịp nhanh thất dựa trên ÐTÐ ngoài cơn.
+
+          + Nhưng vấn đề quan trọng nhất là chẩn đoán phân biệt với nhịp nhanh trên thất dẫn truyền lệch hướng mà về biến chứng và điều trị nó khác hoàn toàn với nhịp nhanh thất.
+
+          + Có thể dựa vào những gợi ý sau đây để chẩn đoán nhịp nhanh thất:
+               - ÐTÐ 12 chuyển đạo ghi ngoài cơn nhịp nhanh (lúc nhịp xoang) cho thấy:
+               - Dấu hiệu của một bệnh tim thực thể, nhất là một bệnh tim thiếu máu cục bộ, nhồi máu cơ tim.
+               - Những ngoại tâm thu thất có hình dạng giống phức bộ QRS trong cơn (theo từng chuyển đạo).
+               - ÐTÐ 12 chuyển đạo trong cơn nhịp nhanh cho thấy:
+               - QRS rộng tới > 0,14 sec. Theo kinh nghiệm của chúng tôi thì QRS > 0,12 sec đã có thể nghi là nhịp nhanh thất. Nhưng nếu lại rộng quá 0,20 sec thì thường là tiền kích thích chứ không phải là nhịp nhanh thất, miễn là không có tác dụng thêm của một thứ thuốc nào.
+               - Phân ly nhĩ thất (thường sóng P không rõ nên phải ghi chuyển đạo thực quản hay trong buồng nhĩ) hay dẫn truyền ngược dòng lên nhĩ (P âm ở D2, D3 a VF và đứng sau QRS).
+               - Nhát bóp hỗn hợp và/hoặc nhát bắt được thất.
+               - QRS của nhịp nhanh thất đồng hướng ở tất cả các chuyển đạo trước tim (đều dương hoặc đều âm). Số này, theo kinh nghiệm riêng của chúng tôi trong rung nhĩ chiếm tới 26,9% các ca và 88% là đồng hướng dương, nhiều gấp 7 lần đồng hướng âm (12%) .
+               - Ðại đa số là nhịp nhanh thất xuất phát từ thất trái: QRS có dạng blốc nhánh phải với V1 có dạng R móc, qR, Rr… (dạng tai thỏ), với trục hướng lên trên, khác hẳn nhịp nhanh thấtT dẫn truyền lệch hướng thường V1 có dạng rsR…, hoặc rR….
+
+   * Chú ý:
+               - Nhịp tim trong nhịp nhanh thất thường là đều hoặc chỉ hơi không đều. Nếu thấy rất không đều thì chắc chắn là rung nhĩ có dẫn truyền nhĩ thất qua một cầu phụ: nguy hiểm, phải xử trí ngay (xem trên).
+               - Tiêm tĩnh mạch adenosine hoặc verapamil có thể giúp chẩn đoán phân biệt nhưng nguy hiểm không nên dùng.
+               - Ghi điện đồ His giúp ích rất nhiều nhưng chúng ta chưa làm phổ biến được vì thiếu phương tiện.
+               - Thăm dò ÐSLH: kích thích thất có chương trình làm tái xuất hiện nhịp nhanh thất (90% các ca) hoặc làm kết thúc nhịp nhanh thất (76% các ca) có thể giúp đánh giá tác dụng và lựa chọn từng loại thuốc điều trị nhịp nhanh thất, kể cả tác dụng của máy chuyển nhịp/phá rung.
+
+II. Ðiều trị nhịp nhanh thất
+     1. Cắt cơn nhịp nhanh
+   a. Cơn nhịp nhanh thất không bền bỉ:
+               - Nếu không kèm bệnh tim thực thể, và không gây triệu chứng đáng kể thì thường tiên lượng tốt và không cần cho thuốc chống LN, chỉ cho an thần.
+               - Nếu có kèm bệnh tim (nhồi máu cơ tim, suy tim, hội chứng QT kéo dài, bệnh tim khác, ngộ độc digitalis,…) nhưng chưa nguy kịch thì có thể lần lượt thử cho các thuốc sau đây, mỗi thuốc cách nhau 15 phút và thường đạt kết quả xóa cơn loạn nhịp ở 50-70% các ca.
+               · Lidocaine: được dùng đầu tiên và nhiều nhất vì rất ít độc tính như giảm lực co cơ tim hay giảm dẫn truyền. Vì nửa đời sống rất ngắn, chỉ 20 phút nên liều tấn công phải tiêm tĩnh mạch nhanh 3 đến 4 lần liên tiếp cách nhau 5 phút, lần đầu 80mg, các lần sau 50mg, tổng liều không quá 230mg. Nếu xóa được nhịp nhanh thất thì chuyển sang liều duy trì từ 1-4mg/phút truyền có thể liên tục nhiều ngày, không quá 4g/ngày. Nếu không xóa được nhịp nhanh thất thì chuyển sang thuốc khác (chư không cho liều duy trì).
+               - Mexiletine: là một chất rất gần Lidocaine. Liều tấn công 250mg tiêm tĩnh mạch trong 15 phút rồi chuyển sang liều duy trì từ 250mg truyền trong 1 giờ sau đó 30-50 mg/h.
+               - Amiodarone: rất ít giảm chức năng cơ tim (chỉ giảm khi tiêm quá nhanh) nên dùng tốt khi tim có chức năng giảm hoặc suy, nghi nhồi máu cơ tim, hay có blốc nhánh. Cần tiêm thẳng vào tĩnh mạch trung tâm và nếu có thể, qua một ống thông (xem mục II,B,2: Rung nhĩ). ống 150mg = 2ml pha thành 10ml tiêm trong 5 phút. Nếu không cắt cơn, nghỉ 10-30 phút rồi tiêm tăng lên 2 ống cũng trong 5 phút như trên. Nếu cơn còn tái phát có thể làm lại như trên cho đến tổng liều 6-8 ống/24h.
+               - Sotalol: có làm giảm chức năng tim nên chỉ dùng ở các ca chức năng tim bình thường hoặc giảm trung bình. Tiêm tĩnh mạch 0,3-0,5mg/kg (có người dùng tới 2,0mg/kg) với tốc độ 5mg/phút. Tiêm 2-3 lần như thế cách nhau 10 phút.
+               - Diphenylhydantoine (DPH) (nếu là do ngộ độ digitalis) liều 50mg/phút tiêm tĩnh mạch trong 5 phút. Nếu chưa xóa được cơn, có thể tiêm nhắc lại cho tới tổng liều 1000mg/24h. Thường đặt 1 giây điện cực vào buồng tim để tạo nhịp tạm thời khi cần. Nếu không có DPH, có thể thay bằng Lidocaine (xem trên).
+
+   b. Cơn nhịp nhanh thất bền bỉ
+               - Nếu không kèm bệnh tim thực tổn. nhịp nhanh thất bền bỉ vẫn gây triệu chứng khó chịu nên vẫn phải cho các thuốc để cắt cơn và thường đáp ứng tốt với chẹn bêta, verapamil.
+               - Nếu có kèm bệnh tim thực tổn mà các triệu chứng chưa quá nặng đến mức cấp cứu thì ta có thể lần lượt thử dùng các thuốc tiêm tĩnh mạch theo thứ tự sau đây để cắt cơn:
+                    Amiodarone(xem trên)
+                    Sotalol (xem trên)
+                    Procainamide: thường có hiệu quả cao nhất. Nó có thể căt cơn hay không cắt cơn nhịp nhanh thất nhưng hầu như bao giờ cũng làm giảm được tần số xuống. Nhưng nó có chống chỉ định trong suy tim và có thể gây một cơn tụt HA nặng nề do dãn mạch đột ngột. Liều đầu là 100mg tiêm tĩnh mạch trong 1 phút rồi tiếp 20mg/phút trong 20 phút. Tổng liều tấn công như vậy là 400-500 mg sau đó chuyển sang liều duy trì từ 2-6 g/24h.
+                    Bretylium tosilate (Bretylate): chưa có phổ biến ở nước ta.
+               · Tạo nhịp vượt tần số qua một dây điện cực vào mỏm thất phải.
+               - Nếu có kèm bệnh tim mà cơn nhịp nhanh thất lại quá nặng, gây tụt HA nặng nề, suy tim nặng nề, có biểu hiện thiếu máu cục bộ ở tim hay thần kinh trung ương thì phải sốc điện cấp cứu ngay không nên trù trừ và thử dùng thuốc nữa.
+     
+     2. Ðiều trị dài hạn ngăn chặn tái phát nhịp nhanh thất mạn tính
+               - Ðối với nhịp nhanh thất không bền bì mà không kèm bệnh tim thì tiên lượng thường tốt và chỉ cần điều trị khi có triệu chứng bằng các chẹn giao cảm bêta và an thần. Nhưng khi là những cơn nhịp nhanh thất bền bỉ gây nhiều triệu chứng nặng nề thì dù không kèm bệnh tim, có thể vẫn phải điều trị như khi có bệnh tim (xem dưới).
+
+               - Ðối với nhịp nhanh thất không bền bỉ mà có kèm bệnh tim thì ta điều trị dài hạn bằng thuốc (sotalol, Amiodarone, quinidine, chẹn bêta) giống như đối với ngoại tâm thu thất mạn tính có bệnh tim (xem trên, mục II.C.1.2).
+
+               - Ðối với nhịp nhanh thất bền bỉ có kèm bệnh tim là loại nguy hiểm nhất nhưng lại khó ngăn chặn nhất. Thường phải thăm dò kích thích có chương trình (xem trên mục II.A.2): trước hết chứng minh là cơn nhịp nhanh thất (giống cơn tự phát) có thể kích thích phát động thành cơn lặp lại đều đặn, sau đó cho dùng lần lượt từng loại thuốc và chọn ra loại nào có thể ngăn chặn được cơn không cho phát ra dù vẫn kích thích cho bệnh nhân phát động như trên, thuốc đó sẽ dùng điều trị dài hạn và thường đạt hiệu quả ngăn chặn tái phát nhịp nhanh thất ở 90% các ca. Tuy nhiên, thường người ta chỉ tìm ra được loại thuốc có hiệu quả như thế ở 50% các ca đưa vào thăm dò.
+
+     * Trong trường hợp bệnh nhân không có điều kiện thăm dò ÐSLH như trên, ta có thể lần lượt thử cho uống dài hạn các thuốc sau đây:
+               - Sotalol, có hiệu quả ở 55-85% các ca (Fitton, 1993)
+               - Amiodarone" style="color: navy; text-decoration:none"> Amiodarone, hiệu quả ở trên 70% các ca
+               -  Quinidine
+               - Mexiletine
+               - Kết hợp với Amiodarone với quinidine nếu một thuốc không kết quả.
+          + Khi bệnh nhân trơ với thuốc hoặc không muốn dùng thuốc dài hạn phiền phức thì có thể dùng các thủ thuật sau đây:
+               - Máy tạo nhịp chống nhịp nhanh kết hợp với máy chuyển nhịp/phá rung cấy (ICD, xem trên). Hiện nay có cả loại máy tạo nhịp dùng tần số radio.
+               - Triệt bỏ bằng tần số radio qua giây thông: chỉ dùng với các loại nhịp nhanh thất không phải do thiếu máu cơ tim cục bộ, thí dụ như nhịp nhanh thất trái đơn độc (thường có QRS tương đối hẹp, với blốc nhánh phải và trục trái) hoặc nhịp nhanh xuất phát từ phần ra thất phải.
+               - Phẫu thuật cắt bỏ nơi có ổ phát sinh của loạn nhịp có thể chữa khỏi hẳn nhịp nhanh thất ở 90% các ca kể cả các ca có bệnh tim thiếu máu cục bộ, bị nhiều động mạch vành với chức năng thất trái suy giảm nặng nề mà tỷ lệ tử vong phẫu thuật chỉ 8-15%. Sau mổ có 1/3 số bệnh nhân còn phải tiếp tục uống thuốc duy trì, với cả các loại thuốc mà trước mổ đã từng không có hiệu quả trên bệnh nhân đó. Tuy nhiên, phẫu thuật đòi hỏi làm được đồ bản điện học thất bằng giây thông điện cực nội tâm mạc hay làm trong khi mổ tim .
+                    TK Ventricular Tachycardia & Management of Ventricular Tachycardia.
+                    Thomas Bump, Pham Quoc Khanh...6th VN NIM Congress.

@@ -1,0 +1,208 @@
+﻿I. Tổng quan:
+* OAP do tim là biểu thị CHF cấp nặng nhất  (OAP - œdème aigu du poumon - có 2 loại: do tim và tổn thương, ở đây chỉ đề cập do tim), phát triển khi sự mất cân bằng này gây ra tăng ứ dịch thứ phát từ mao quản phổi vào khoảng kẽ và trào vào phế nang.
+
+2. Sinh lý bệnh:
++ Bình thường: việc bảo đảm áp suất keo plasma (>25 mmHg) cao hơn áp lực mao mạch phổi (7-12 mmHg), bảo đảm mô liên hợp và hàng rào tế bào không thấm đối với protein huyết thanh, và bảo đảm một hệ bạch huyết thông thoáng là những cơ chế giữ cho khoảng kẽ và phế nang khô ráo.
++ Cơ chế OAP: Khi chất lỏng ở khoảng kẽ tăng và gây sức ép làm tan rã các chỗ nối màng phế nang, sẽ làm ngập lụt phế nang và dẫn tới phù phổi.
+
+3. Bệnh lý học của phù phổi
+* Có thể nằm trong 6 lý do sau:
+a. Do tính thấm mao quản biến đổi: gồm hội chứng suy hô hấp cấp (ARDS), nguyên nhân lây nhiễm, hít phải độc tố, ngoại độc tố lưu thông trong tuần hoàn, đông máu ở trong huyết quản (DIC), phản ứng miễn dịch, urê huyết cao, chết đuối, và hít dị vật.
+b. Do áp lực mao mạch phổi gia tăng: do tim và không do tim (tắc động mạch phổi, quá tải thể tích...)
+c. Do giảm áp suất keo như trong giảm anbumin-huyết.
+d. Do suy hệ thống bạch huyết.
+e. Do áp lực màng phổi quá âm với thể tích cuối thì thở ra quá tăng.
+f. Do những cơ chế chưa biết rõ, như phù phổi độ cao (HAPE), phù phổi thần kinh, shock heroin hay quá liều các thuốc, nghẽn mạch phổi, động kinh, khử rung, chất gây mê...
+
+III. Lâm sàng OAP
+* Thường gặp trong :
+- Suy tim cấp
+- Bệnh tim trái
+- Tăng HA đột ngột
+
+1. Triệu chứng cơ năng :
++ Thở nhanh nông; Khó thở khi nằm (orthopnée) ~ ngồi cạnh giường
++ Ho liên tục, ra 'bọt hồng'
++ Lo lắng; Cảm giác ngộp
++ Vô niệu
++ Xanh xao; Lạnh; Đổ mồ hôi
+
+2. Khám lâm sàng :
+a, Dấu hiệu nặng :
++ Rối loạn tri thức (do giảm thông khí phế nang)
++ Giảm HA
+
+b, Xác định chẩn đoán :
++ Nghe tim :
+- tim nhanh, galop (bên trái),
+- âm thổi tâm thu +/- (tỉ lệ thuận với hở van 2 lá )
++ Nghe phổi : ran nổ 2 phế trường dân từ dưới lên (như thủy triều dân lên)
++ HA:
+- Tăng HA tâm thu & tâm trương : là nguyên nhân chính hoặc nguyên nhân phối hợp
+- Giảm HA và HA kẹp : dấu hiệu nặng
+
+3. Phân loại lâm sàng
+a, Theo triệu chứng :
+ - Dạng Hen tim : không có hoặc có rất ít ran nổ , ran rít (+ + +)
+ - Dạng bán cấp :
+  . Khó thở khi gắng sức
+  . Khó thở khi nằm
+  . Khó thở khi ho
+  .Có tràn dịch màng phổi
+ - Dạng Ho ra máu
+ - Dạng tối cấp: chết đột ngột (~pháp y)
+
+b, Theo nguyên nhân :
++ OAP do rối loạn huyết động
+- CHA :
+ . Cơn CHA do biến chứng tim mạch (do ngưng điều trị hoặc không theo chế độ ăn phù hợp )
+ . Cơn CHA ác tính với tổn thương thần kinh , thận , xuất huyết. . . )
+- Suy động mạch vành: (thường ở người lớn)
+ . Nhồi máu cơ tim
+ . Thiếu máu cơ tim
+- Bệnh van tim :
+ . Bệnh van tim trái
+ . Hep van 2 lá
+ . Hẹp van động mạch chủ
+ . Hở van động mạch chủ
+  (Biến chứng phù phổi cấp là một yếu tố để thay van)
+- Rối loạn nhịp tim kịch phát
+ . Loạn nhịp tim nhanh do rung nhĩ
+ . Cơn nhịp nhanh trên thất
+ . Nhịp nhanh thất
+ . Bloc nhĩ - thất
+- Bệnh cơ tim giãn nở
+- Nguyên nhân khác :
+ . Viêm cơ tim cấp do nhiễm trùng hoặc nhiễm độc : + + +
+ . Bệnh tim bẩm sinh
+
++ OAP do tổn thương tính thấm :
+- Do nhiễm độc :
+. Khí CO
+. Khí độc (chlore), chất độc (dầu hôi , xăng , chì)
+. Quá tải oxy (hyperoxie)
+- Do nhiễm trùng :
+ .Sốc nhiễm trùng
+ .Nhiễm trùng huyết gram âm
+ .Nhiễm virus ác tính
+ .Bệnh phổi nặng (+ + +) với tổn thương phế nang và mô kẻ
+- Nguyên nhân khác :
+ .Đông máu nội mạch rải rác + sốc
+ .Chết đuối
+ .Hội chứng Mendelson
+ .Phù do nguyên nhân thần kinh
+ .Tắc mạch
+ .Quá tải do tiêm truyền quá nhiều dung dịch đại phân tử trong sốc
+
+IV. Xét nghiệm
+1. Beta-natriuretic peptide
++ Cho đến gần đây, phân biệt bệnh hen và bệnh phổi khác còn khó khăn trong tình trạng cấp, đặc biệt ở người triệu chứng cơ năng và thực thể không rõ. Thường chữa theo kiểu "shotgun", tức là xử lý cả CHF lẫn hen, với cả hai thuốc là lợi tiểu lẫn chủ vận bêta.
++ Nghiên cứu gần đây thấy mức Beta-natriuretic peptide (BNP) và BNP precursor, Pro-BNP có thể giúp nhận biết CHF khi có khó thở cấp. nghiên cứu này thấy tính nhạy cảm là 90% với tính đặc hiệu là 76%. Mueller thấy giảm nằm viện 3 ngày khi BNP được dùng và giảm bớt những chi phí nằm viện 15%.
++ BNP có thể cho kết quả trong 15 phút; mức huyết thanh của BNP < 100 pg/ mL không chắc là CHF. Ngang mức 100-500 pg/ mL có thể là CHF. Tuy nhiên, những bệnh khác cũng làm tăng như tắc huyết phổi, tăng áp động mạch phổi; suy thận giai đoạn cuối, bệnh xơ gan, cũng gây ra tăng BNP cao mức trong phạm vi này. Mức BNP > 500 pg/ mL là phù hợp nhất với chẩn đoán CHF.
+
+2. Tăng Nitơ-huyết, hay ALT, AST, và bilirubin cao khêu gợi một bệnh gan xung huyết.
++ Các anzym tim và marker đánh dấu khác của Tim về thiếu máu cục bộ hay nhồi máu có thể hữu ích.
++ Khí máu động mạch (ABG) có thể lợi ích trong đánh giá giảm oxy-huyết, thông khi/tưới máu (V/Q) không thích ứng, tăng cacbon dioxit-huyết và nhiễm axit.
++ Nitơ-huyết tăng nhẹ, tốc độ lắng hồng cầu (ESR) giảm, và protein niệu được thấy trên bệnh mới, nhẹ hay vừa.
++ Tăng creatinin, tăng bilirubin-huyết và giảm natri-huyết thường thấy trên những ca ác tính.
+
+3. Chẩn đoán hình ảnh
+a, Chụp X quang Ngực
++ Mặc dù XN này ít thích hợp trong CHF cấp, chụp X quang ngực vẫn là công cụ hữu ích nhất, cần thực hiện trong mọi trường hợp. Một nghiên cứu gần đây chỉ ra rằng 1 trong 5 bệnh nhân nhập viện với CHF thiếu dấu hiệu của tắc nghẽn trên phim rơn ghen ngực.
++ Các bất thường về tim :
+ - To tim (cardiomégalie) với rốn phổi có bờ mờ (hiles à bords flous), phản ánh suy tâm thất trái, với index cardiothoracique > 0,50.
+ - Dấu chứng này không có trong 30% trường hợp phù phổi cấp.
++ Các bất thường phế mạc và phổi :
+ - Thường xảy ra hai bên, do tái phân bố bất bình thường lưu lượng máu phổi từ các thùy dưới lên đỉnh phổi.
+ - CHF sớm có thể biểu hiện trên mạch máu phổi bằng các bóng nhỏ, phản chiếu một áp lực đm phổi bít (PCWP) khoảng12-18 mmHg. Khi dịch kẽ tích lũy, CHF tăng hơn có thể biểu hiện bằng đường Kerley B (PCWP: 18-25 mmHg).
+ - Hình ảnh phù phổi cấp điển hình nhất là hình ảnh phù hình cánh bướm cổ điển (oedème en ailes de papillon), phản chiếu một PCWP lớn hơn 25 mmHg.
+ - Cũng có thể gặp tràn dịch màng phổi (épanchement pleural), tràn dịch màng phổi có thể hiện hữu hai bên hay một bên và thường là bên phải.
+
+b, Siêu âm tim khẩn cấp
++ Siêu âm tim khẩn cấp có thể giúp xác định những chuyển động bất thường của vách tim cũng như mức suy giảm chức năng của thất trái.
++ Siêu âm cũng hữu ích trong chẩn đoán các bệnh ép tim, co thắt màng ngoài tim và tắc huyết phổi.
++ Siêu âm cũng hữu ích trong việc xác định bệnh van tim, như hẹp hay chảy ngược van hai lá hay van động mạch chủ.
+
+c,Những XN khác:
++ Điện tâm đồ (ECG) là một công cụ không đặc hiệu nhưng có thể hữu ích trong việc chẩn đoán thiếu máu cục bộ tim đang xảy ra, nhồi máu cơ tim trước đó, Những loạn nhịp tim, tăng huyết áp kinh niên và những nguyên nhân khác của phì đại tâm thất trái.
++ Các thủ thuật xâm lấn không đóng vai trò quan trọng do mất nhiều thì giờ...Thông tim chỉ cần thiết cho một đánh giá đầy đủ và định giá của dự đoán
+V. Điều trị OAP
+1. Săn sóc khi nhập viện
++ Thông báo trước cho nhân viên ED khi bệnh nhân cónhững dấu hiệu và triệu chứng của CHF và phù phổi.
++ Bắt đầu điều trị với ABCs. Thở oxi, thoạt tiên 100% mask không hít lai (nonrebreather facemask).
++ Theo dõi kiểm tra tim và định lượng oxi-huyết mạch liên tục.
++ Truy nhập tĩnh mạch, cũng như một lắp ECG, Nếu sẵn có.
++ Cho dùng nitroglyxerin dưới lưỡi hay spray và furosemide IV khi đau ngực cấp ở bệnh nhân không có huyết áp thấp quá mức.
+
+2. Xử trí ở phòng cấp cứu hồi sức
++ Liệu trình điều trị nói chung bắt đầu với những nitrat và thuốc lợi tiểu nếu huyết động ổn định. Nhiều cách điều trị khác có thể có vai trò nào đó trong xử trí trường hợp cấp
++ Bắt đầu điều trị ED bệnh nhân với những dấu hiệu và những triệu chứng của CHF và phù phổi với ABCs. Thở oxi, thoạt tiên 100% mask không hít lai . Theo dõi kiểm tra tim và định lượng oxi-huyết mạch liên tục.Truy nhập tĩnh mạch.
++ Giảm máu tĩnh mạch về, nâng cao đầu giường. Cho bệnh nhân ngồi ở vị trí có thể thoải mái nhất với chân của họ có thể thõng qua cạnh giường, điều này cho phép giảm máu tĩnh mạch về và giảm tiền tải.
++ Điều trị nguyên nhân gây ra. Có thể đánh giá mứcBNP huyết thanh BNP được thì rất hữu ích trong khó thở cấp không điển hình, hay trong tương lai có thể hữu ích để đánh giá thành công trong chữa bệnh. Loại trừ những nhân tố đóng góp khi có thể.
++ Hạn chế dịch và natri.
++ Những cách điều trị khác, bao gồm nesiritide. Nesiritide có thể hữu ích thay vì nitroglyxerin trên những bệnh nhân với suy hô hấp vừa, đặc biệt nếu bệnh nhân sẽ không thích hợp với thông khí không xâm nhập hay với bệnh nhân không thể dùng nitroglyxerin bởi đặc ứng đã ghi nhận.
++ CPAP: Thông khí áp lực dương đường thở liên tục và áp lực đường thở hai mức dương tính liên tục (BiPAP): Dữ liệu gần đây So sánh CPAP qua mui và mask miệng đã chứng tỏ giảm được tỷ lệ đặt NKQ. Nhưng với CHF ác tính được xử lý với CPAP thì không có khác nhau quan trọng. Mặc dù BiPAP có thể cải thiện thông khí và isinh hiệu nhanh hơn CPAP, nhưng tai biến tăng MI liên quan đến BiPAP đã được báo cáo.
++ Garo xen kẽ, trước đây là một biện pháp chính, được sử dụng để giảm bớt tiền tải. Nay ít dùng bởi cách mới hơn như nitroglyxerin và nitroprusside tĩnh mạch.
++ Chích lấy máu loại bỏ 500 mL trước đây cũng là một biện pháp chính, được sử dụng để giảm bớt tiền tải. Nay ít dùng bởi cách mới hơn như nitroglyxerin và nitroprusside tĩnh mạch
+
+PHÁC ĐỒ ĐIỀU TRỊ (tham khảo) :
+* Phù phổi cấp :
+1/ Lasilix : 2 mg / kg TM hoặc TB nếu không có đường tiêm truyền trong vòng 5 phút
+2/ Suy tim : Digoxin 0,25mg/IV (tác dụng nhanh); Liều lượng tổng có thể 1 1.5 mg IV trong 24 giờ đầu tiên
+3/ Tư thế ngồi
+4/ Oxy qua mũi
+5/ Nếu không có thuốc thì dùng phương pháp vật lý : garrot đầu chi (3 chi tại một thời điểm từ 15 tới 20 phút) khi tiên liệu không có sự tắc nghẽn huyết mạch), trích máu 10ml/kg trong 5 - 10 phút (khoảng 500ml) : theo dõi sát HA
+6/ Giúp thở nhân tạo : sớm khi có kèm rối loạn tri giác , trụy mạch , xanh xao hoặc 30 - 60 phút sau điều trị nội thất bại (p CO2 > 50 mmHg , toan chuyển hoá hoặc toan chuyển hoá + toan hô hấp , giảm PaO2 < 50 mmHg)
+Đặt nội khí quản trong trường hợp này rất khó (vì nguy cơ làm tăng thiếu oxy và ngưng tim) nên chuẩn bị kỷ lưỡng bằng thông khí qua mặt nạ , hút đàm nhớt và đặt nội khí quản với cung cấp oxy liên tục
++Cần tìm nguyên nhân và điều trị nguyên nhân
+
+* Phù phổi bán cấp :
+1/ Lasilix : 1 mg / kg . Có thể lập lại . Điều trị cho đến khi giảm 5% của cân nặng
+2/ Theo dõi : lượng nước tiểu , cân mỗi 12 giờ , ion đồ / ngày
+3/ Khi hết phù , tăng lượng cung cấp (TM hoặc đường uống) một cách thận trọng
+4/ Điều trị dự phòng :
+-Theo dõi kỹ nếu truyền đại phân tử (HA , áp suất TM, Xquang phổi)
+-Giảm cung cấp muối
+-Theo dõi sát các bệnh nhân tim và thận
+
+VII. Phân biệt Hen PQ va hen Tim
+Việc phân biệt hen PQ và hen tim (giai đoạn đầu của phù phổi cấp) có ý nghĩa quan trọng vì cách điều trị có khác nhau, và một số thuốc điều trị hen tim lại chống chỉ định trên hen PQ.
+
+* Giống nhau ở các điểm sau:
+- Nằm đầu cao
+- Khó thở thì thở ra
+- Cò cử (wheezing)
+- Dấu tĩnh mạch cổ nổi
+
+* Khác nhau ở các điểm 
++ Hen PQ có những dấu hiệu và triệu chứng gợi ý như sau:
+- tiền căn HPQ
+- khởi phát đột ngột khi tiếp xúc dị nguyên
+- Tĩnh mạch cổ nổi: phồng lên khi hít vào
+
++ Hen tim có những dấu hiệu gợi ý sau:
+- bệnh lý tim mạch cơ bản: bệnh van tim, bệnh tim thiếu máu cục bộ...
+- dấu hiệu suy tim trên lâm sàng: dấu TM cổ nổi, S3 gallop, phù chân, .....
+- dấu tĩnh mạch cổ nổi: hơi xẹp xuống khi hít vào
+
++ Khi LS khó phân biệt giữa hen tim và hen PQ, nên yêu cầu X quang lồng ngực tại giường:
+- hen PQ: phế trường phổi tăng sáng hoặc bình thường, bóng tim bình thường
+- hen tim: thâm nhiễm 2 rốn phổi hình cánh bướm, tái phân bố tuần hoàn phổi, bóng tim to..
+
++ Nếu vẫn không phân biệt được, vẫn có thể điều trị cả hai với:
+- oxy
+- lợi tiểu, nitrate, aminophytline,
+- khí dung thuốc dãn phế quản (beta 2 adrenergic)
+- hạn chế lương nước nhập
+- ngồi thõng chân
+
++ Chống chỉ định trong hen PQ:
+  Morphine, thuốc chẹn thụ thể beta
+
++ Chống chỉ định trong hen tim (tương đối):
+ Corticoid, beta 2 adrenergic
+
+VIII. NIV TRONG ĐIỀU TRỊ PHÙ PHỔI CẤP DO TIM
++ Thông khí áp lực dương đã được áp dụng trong điều trị phù phổi cấp do tim trong nhiều thập kỷ qua. Nghiên cứu đa trung tâm trên 130 bệnh nhân phù phổi cấp do tim cho thấy; NIV cải thiện nhanh hơn về nhịp thở, tỉ lệ PaO2/ FiO2 nhưng không có sự khác biệt về nhu cầu đặt NKQ, thời gian nằm viện.
++ Khi phân tích dưới nhóm (subgroup) thấy rằng những bệnh nhân tăng CO2 máu lúc vào viện có tỉ lệ đặt NKQ thấp hơn ở nhóm NIV so với nhóm chứng (6 so với 29%, p=0,015).
++ BvVĐ đã áp dụng CPAP cho 31 bệnh nhân phù phổi cấp do tim kết quả cho thấy có cải thiện về nhịp thở, PaO2, có 30 bệnh nhân tránh được đặt NKQ, duy nhất một trường hợp phải đặt NKQ do không dung nạp với mask

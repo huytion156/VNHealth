@@ -1,0 +1,138 @@
+﻿Tên chung quốc tế: Isoniazid.
+Mã ATC: J04A C01.
+Loại thuốc: Thuốc chống lao.
+Dạng thuốc và hàm lượng
+Viên nén 300, 150, 100 và 50 mg. Sirô 50 mg/5 ml. ống tiêm 1 g/10 ml.
+
+Dược lý và cơ chế tác dụng
+Isoniazid là một trong những thuốc hóa học đầu tiên được chọn trong điều trị lao.
+Thuốc đặc hiệu cao, có tác dụng chống lại Mycobacterium tuberculosis và các Mycobacterium không điển hình khác như M. bovis, M. kansasii.
+Isoniazid diệt khuẩn phụ thuộc vào nồng độ thuốc ở vị trí tổn thương và mức độ nhạy cảm của vi khuẩn.
+
+Cơ chế tác dụng chính xác của isoniazid vẫn chưa biết, nhưng có thể do thuốc ức chế tổng hợp acid mycolic và phá vỡ thành tế bào vi khuẩn lao.
+Nồng độ tối thiểu ức chế in vitro đối với trực khuẩn lao từ 0,02 - 0,2 microgam/ ml.
+Kháng thuốc mắc phải và tự nhiên của M. tuberculosis đối với isoniazid cả in vivo và in vitro đã được chứng minh diễn ra theo kiểu bậc thang.
+Cơ chế kháng thuốc có thể do vi khuẩn đột biến di truyền kháng thuốc.
+Các chủng kháng thuốc phát triển nhanh, nếu isoniazid dùng đơn độc để điều trị lao, nhưng ít hơn nếu dùng thuốc với mục đích dự phòng.
+Ðể phòng kháng thuốc, phải dùng phối hợp isoniazid với 3 - 4 thuốc điều trị lao khác và không bao giờ được dùng đơn độc.
+Ở Việt Nam, theo nghiên cứu của Viện lao và bệnh phổi thì hiện nay tỷ lệ kháng isoniazid là 20%. Ðây là một tỉ lệ kháng cao báo động, vì vậy cần phải tuân thủ chặt chẽ theo hướng dẫn điều trị chuẩn đối với bệnh lao.
+
+Dược động học
+Isoniazid hấp thu nhanh và hoàn toàn theo đường tiêu hóa và tiêm bắp.
+Sau khi uống liều 5 mg/ kg thể trọng được 1 - 2 giờ thì đạt nồng độ tối đa trong huyết thanh là 3 - 5 microgam/ml.
+Thức ăn làm chậm hấp thu và giảm sinh khả dụng isoniazid.
+Isoniazid phân bố vào tất cả các cơ quan, các mô và dịch cơ thể.
+Nồng độ thuốc trong dịch não tủy bình thường chỉ bằng 20% nồng độ thuốc ở trong huyết tương, nhưng trong viêm màng não nồng độ này tăng lên 65 - 90%.
+Nồng độ thuốc đạt được trong màng phổi bằng 45% nồng độ thuốc trong huyết thanh.
+Thuốc thấm được vào hang lao, dễ dàng qua nhau thai và vào thai nhi.
+Isoniazid chuyển hóa ở gan bằng phản ứng acetyl hóa, chủ yếu tạo thành acetylisoniazid và acid isonicotinic.
+Nửa đời thải trừ của isoniazid ở người bệnh có chức năng gan thận bình thường là từ 1 - 4 giờ phụ thuộc vào loại chuyển hóa thuốc nhanh hoặc chậm và kéo dài hơn ở người bệnh suy giảm chức năng gan hoặc suy thận nặng.
+Trung bình 50% dân số châu Phi và châu Âu thuộc loại chuyển hóa isoniazid chậm, ngược lại, người châu Á chủ yếu thuộc loại chuyển hóa nhanh.
+Hiệu quả điều trị của isoniazid không khác nhau giữa nhóm chuyển hóa nhanh và chậm, nếu isoniazid được dùng hàng ngày hoặc 2 - 3 lần trong tuần. Tuy nhiên hiệu quả điều trị sẽ giảm ở nhóm người bệnh chuyển hóa isoniazid nhanh nếu chỉ dùng isoniazid 1 lần trong tuần.
+Khi chức năng thận giảm, thải trừ isoniazid chỉ hơi chậm lại, nhưng điều này lại ảnh hưởng nhiều đến nhóm người bệnh chuyển hóa chậm. Vì vậy nếu người bệnh suy thận nặng, đặc biệt có độ thanh thải creatinin dưới 25 ml/ phút mà người bệnh này lại thuộc loại chuyển hóa chậm thì nhất thiết phải giảm liều.
+Xấp xỉ 75 - 95% thuốc thải trừ qua thận trong vòng 24 giờ dưới dạng chất chuyển hóa không hoạt tính.
+Một lượng nhỏ thải qua phân. Thuốc có thể được loại khỏi máu bằng thẩm phân thận nhân tạo hay thẩm phân màng bụng.
+
+Chỉ định
+Dự phòng lao:
+Isoniazid được chỉ định dự phòng lao cho các nhóm người bệnh sau:
+Những người trong gia đình và người thường xuyên tiếp xúc với người mới được chẩn đoán bệnh lao (AFB (+)) mà có test Mantoux dương tính và chưa tiêm phòng BCG.
+Những người có test Mantoux dương tính đang được điều trị đặc biệt như điều trị corticosteroid dài ngày, thuốc ức chế miễn dịch, thuốc độc hại với tế bào hoặc điều trị bằng chiếu tia xạ.
+Người nhiễm HIV có test Mantoux dương tính hoặc biết đã có tiếp xúc với người bệnh có khuẩn lao trong đờm, ngay cả khi test Mantoux âm tính.
+
+Ðiều trị lao:
+Isoniazid được chỉ định phối hợp với các thuốc chống lao khác, như rifampicin, pyrazinamid, streptomycin hoặc ethambutol theo các phác đồ điều trị chuẩn. Nếu vi khuẩn kháng isoniazid hoặc người bệnh gặp tác dụng không mong muốn nặng, thì phải ngừng dùng isoniazid thay bằng thuốc khác.
+
+Chống chỉ định
+Người mẫn cảm với isoniazid, suy gan nặng, viêm gan nặng, viêm đa dây thần kinh và người động kinh.
+
+Thận trọng
+Với người suy giảm chức năng thận nặng, có độ thanh thải creatinin dưới 25 ml/phút, phải giảm liều isoniazid, đặc biệt là người chuyển hóa isoniazid chậm.
+Trong thời gian điều trị isoniazid mà uống rượu hoặc phối hợp với rifampicin thì có nguy cơ làm tăng độc tính với gan.
+Thời kỳ mang thai
+Cho tới nay chưa có bằng chứng nguy cơ nào đối với mẹ và thai khi dùng isoniazid cho người mang thai. Nên bổ sung vitamin B6 trong khi dùng isoniazid.
+Thời kỳ cho con bú
+Chưa có tài liệu cũng như dấu hiệu nào về các tác dụng không mong muốn xảy ra với trẻ đang bú mẹ khi các bà mẹ này điều trị isoniazid.
+
+Tác dụng không mong muốn (ADR)
+Thực tế lâm sàng cho thấy tác dụng không mong muốn chiếm khoảng 5% tổng số người bệnh điều trị isoniazid. Tác dụng không mong muốn thường gặp nhất là rối loạn chức năng gan và nguy cơ này tăng lên theo tuổi người bệnh. Ngoài ra, các tác dụng không mong muốn khác như phản ứng mẫn cảm và gây viêm thần kinh ngoại vi cũng thường xảy ra.
+
+Thường gặp, ADR >1 /100
+Toàn thân: Mệt mỏi, chán ăn.
+Tiêu hóa: Buồn nôn, nôn, ỉa chảy, đau vùng thượng vị.
+Gan: Viêm gan (vàng da, vàng mắt, tăng transaminase).
+Thần kinh: Viêm dây thần kinh ngoại vi biểu hiện tê bì tay hoặc chân.
+
+Ít gặp, 1/1000 < ADR < 1/100
+Máu: Giảm tiểu cầu, mất bạch cầu hạt, thiếu máu.
+Mạch: Viêm mạch.
+Xương khớp: Ðau lưng, đau khớp.
+Da: Nổi ngứa rất thường gặp.
+Thần kinh: Co giật, thay đổi tính tình hoặc tâm thần.
+Các tác dụng khác: Mẫn cảm như ban da, methemoglobin huyết, bí đái, tăng cân, đau tại nơi tiêm.
+
+Hướng dẫn cách xử trí ADR
+Nói chung, các tác dụng không mong muốn của isoniazid thường mất đi khi ngừng thuốc.
+Tuy nhiên cũng có những tác dụng không mong muốn kéo dài, ví dụ như trường hợp viêm gan.
+Những yếu tố nguy cơ làm tăng tác dụng không mong muốn của thuốc gồm người cao tuổi, người bị bệnh đái tháo đường, suy thận mạn, suy gan, nghiện rượu, suy dinh dưỡng và người đang dùng thuốc chống động kinh như hydantoin.
+Ðể giảm bớt tác dụng không mong muốn của isoniazid đối với hệ thần kinh, phải thường xuyên dùng thêm vitamin B6 hàng ngày với liều từ 10 mg/ngày.
+
+Liều lượng và cách dùng
+Tốt nhất là trước ăn 1 giờ hoặc sau ăn 2 giờ. Có thể uống thuốc cùng với bữa ăn, nếu bị kích ứng đường tiêu hóa.
+
+Phòng bệnh:
+Trẻ em: Uống 5 mg/kg/24 giờ, tối đa 300 mg/24 giờ, ngày một lần trong 6 - 12 tháng.
+Tiêm bắp, 10 mg/kg thể trọng, cho tới 300 mg mỗi ngày một lần.
+Người lớn: Uống 5 mg/kg/24 giờ (liều thường dùng là 300 mg/24 giờ). Dùng hàng ngày trong 6 - 12 tháng.
+Tiêm bắp, 300 mg mỗi ngày một lần.
+
+Ðiều trị:
+Isoniazid bao giờ cũng phải dùng phối hợp với các thuốc chống lao khác, như streptomycin, rifampicin, pyrazinamid và ethambutol theo các phác đồ điều trị quốc gia.
+
+Liều điều trị thông thường ở người lớn và thiếu niên:
+Phối hợp với các thuốc chống lao khác (dựa vào chương trình quốc gia chống lao).
+Uống 300 mg isoniazid mỗi ngày một lần, trong suốt thời gian điều trị, hoặc 10 mg/kg thể trọng, dùng hàng ngày hoặc mỗi tuần uống 2 hoặc 3 lần theo quy định của phác đồ điều trị.
+Tiêm bắp, 5 mg/kg thể trọng, mỗi ngày một lần, trong suốt thời gian điều trị; hoặc mỗi tuần tiêm 2 hoặc 3 lần theo quy định của phác đồ điều trị.
+Liều điều trị thông thường ở trẻ em:
+Phối hợp với các thuốc chống lao khác (dựa vào chương trình quốc gia chống lao). Uống 10 mg/kg: 3 lần/tuần hoặc 15 mg/kg: 2 lần/tuần.
+Tiêm bắp, 5 mg/kg thể trọng, cho tới 200 mg mỗi ngày một lần.
+
+Tương tác thuốc
+Isoniazid ức chế chuyển hóa một số thuốc. Khi dùng kết hợp isoniazid với các thuốc này có thể làm tăng nồng độ trong huyết thanh và làm tăng độc tính của thuốc phối hợp, nhất là các thuốc chữa động kinh.
+Các thuốc sau đây khi phối hợp với isoniazid phải điều chỉnh liều: alfentanil, các chất chống đông máu dẫn chất coumarin hoặc dẫn chất indandion, các benzodiazepin, carbamazepin, theophylin, phenytoin, enfluran, disulfiram và cycloserin.
+
+Các tương tác khác:
+Dùng đồng thời rifampicin, acetaminophen hoặc rượu với isoniazid có thể làm tăng độc tính với gan, đặc biệt ở người có tiền sử suy gan.
+Dùng đồng thời isoniazid với niridazol có thể làm tăng tác dụng không mong muốn đối với hệ thần kinh, như co giật và rối loạn tâm thần.
+Isoniazid làm giảm nồng độ ketoconazol trong huyết thanh, vì vậy làm giảm tác dụng điều trị nấm của thuốc này.
+Các corticoid làm tăng thải trừ isoniazid, vì vậy làm giảm nồng độ và tác dụng của isoniazid, đặc biệt ở những người bệnh chuyển hóa isoniazid nhanh.
+Các thuốc kháng acid, đặc biệt muối nhôm làm giảm hấp thu isoniazid. Vì vậy 2 thuốc này cần phải uống cách nhau ít nhất 1 giờ.
+Ðộ ổn định và bảo quản
+Isoniazid phải bảo quản ở nhiệt độ dưới 40oC, tốt nhất từ 15 - 30oC trong lọ nút chặt, tránh ánh sáng.
+Ðối với dạng thuốc tiêm isoniazid, phải bảo quản ở chỗ mát, tránh để đông băng.
+
+Quá liều và xử trí
+Dấu hiệu và triệu chứng:
+Buồn nôn, nôn, chóng mặt, nói ngọng, mất định hướng, tăng phản xạ, nhìn mờ, ảo thị giác...
+Các triệu chứng quá liều thường xảy ra trong vòng 30 phút đến 3 giờ sau khi dùng thuốc.
+Nếu ngộ độc nặng, ức chế hô hấp, và ức chế thần kinh trung ương, có thể nhanh chóng chuyển từ sững sờ sang trạng thái hôn mê, co giật kéo dài, toan chuyển hóa, aceton niệu và tăng glucose huyết.
+Nếu người bệnh không được điều trị hoặc điều trị không triệt để, có thể tử vong.
+Isoniazid gây co giật là do liên quan đến giảm nồng độ acid gamma aminobutyric (GABA) trong hệ thống thần kinh trung ương, do isoniazid ức chế hoạt động của pyridoxal - 5 - phosphat trong não.
+
+Xử trí:
+Trong xử trí quá liều isoniazid, việc đầu tiên là phải đảm bảo ngay duy trì hô hấp đầy đủ.
+Co giật có thể xử trí bằng cách tiêm tĩnh mạch diazepam hoặc các barbiturat có thời gian tác dụng ngắn, kết hợp với pyridoxin hydroclorid.
+Liều dùng của pyridoxin hydroclorid ngang với liều isoniazid đã dùng.
+Thường đầu tiên tiêm tĩnh mạch 1 - 4 g pyridoxin hydroclorid, sau đó cứ 30 phút tiêm bắp 1 g cho tới khi toàn bộ liều được dùng.
+Nếu các cơn co giật đã được kiểm soát và quá liều isoniazid mới xảy ra trong vòng 2 - 3 giờ thì cần rửa dạ dày.
+Theo dõi khí/máu, chất điện giải, glucose và urê trong huyết thanh.
+Tiêm truyền natri bicarbonat để chống toan chuyển hóa và nhắc lại nếu cần.
+ 
+Ở một số người bệnh vẫn còn ở trạng thái hôn mê sau khi điều trị co giật bằng diazepam và pyridoxin, thì sau khoảng 36 - 42 giờ hôn mê sẽ tiêm thêm 1 liều từ 3 -5 g pyridoxin hydroclorid nữa, khoảng 30 phút sau, người bệnh sẽ tỉnh hoàn toàn.
+Tuy nhiên, nếu dùng pyridoxin quá liều thì cũng có thể gây các tác dụng không mong muốn về thần kinh. Vì vậy, phải xem xét khi dùng pyridoxin để điều trị co giật hoặc hôn mê do isoniazid.
+Các thuốc lợi tiểu thẩm thấu cũng phải dùng càng sớm càng tốt để giúp thải nhanh thuốc qua thận ra khỏi cơ thể và phải tiếp tục trong nhiều giờ sau khi các triệu chứng lâm sàng đã được cải thiện để đảm bảo thải hết isoniazid và ngăn chặn hiện tượng tái ngộ độc. Theo dõi cân bằng dịch vào và dịch ra.
+Thẩm phân thận nhân tạo và thẩm phân màng bụng cần được dùng kèm với dùng thuốc lợi tiểu. Ngoài ra phải có liệu pháp chống giảm oxy không khí thở vào, hạ huyết áp và viêm phổi do sặc.
+
+Thông tin qui chế
+Isoniazid có trong danh mục thuốc thiết yếu Việt Nam ban hành lần thứ 4 năm 1999.
+Thuốc dạng tiêm phải được kê đơn và bán theo đơn.

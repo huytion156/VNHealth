@@ -1,0 +1,144 @@
+﻿1.Chẩn đoán:
+Đặc điểm
++ P thay bằng f
++ tần số 380-600 nhip/p
++ lăn tăn không đều,
++ kết quả là mạch lộn xộn,
++ dạng sóng thất rất thay đổi từ nhanh đến chậm.
+
++ Rung nhi sóng lon V1 biên độ f >0, 5mm là rung nhĩ sóng lớn, hay gặp trong thấp tim
++ Rung nhi sóng nho V1 biên độ f <0, 5mm là rung nhĩ sóng nhỏ, hay gặp ở người THA, thiểu năng vành, MI, hậu thấp, cường giáp, CTSN và gặp ở người bình thường.
+
+
+
+Triệu chứng cơ năng
+Mạch nhanh, mệt hoặc thích ứng vận động kém,
+loạn thở, ngất, đau ngực (như đau thắt ngực)?
+
+Triệu chứng thực thể
+Mạch bắt không đều, và có/không kẹ̀m biểu hiện nhịp nhanh, H.áp thấp và tưới máu kém;
+Tắc mạch có thể biểu hiện với các dạng của tai biến mạch não hay dấu hiệu tắc mạch ngoại vi (lạnh & mất mạch chi).
+Suy tim sung huyết xuất hiện với tr.chứng ran ở phổi, t.mạch cổ nổi, phu ngoại vi và tiấng ngựa phi ...
+
+
+2.Điều dưỡng theo dõi
+(cơ bản giống với nhóm loạn nhịp nhanh trên thất)
+Theo dõi sinh hiệu: mỗi 30'/3 giờ đầu, mỗi 60'/các giờ tiếp; cứ 3 giờ /3 ngay đầu. Monito ECG, Oxy
+Chế độ ăn: it béo, cholesterol thấp, không caffeine.
+Bù dịch cơ bản: Glucosa 5% IV giữ ven (TKO)
+Hoạt động: tại giường.
+Gọi Bs nếu:
+ 50< mạch >130
+ 90/60<HA>160/90
+ 10< Thở >25
+ Thân nhiệt >38.5
+
+3.Điều trị đặc hiệu:
+Mục tiêu điều trị
+'kiểm soát tỷ số nhịp là mục tiêu của điều trị'.
+Oxy 2-4 lit/phút.
+Hỗ trợ huyết áp.
+
+Điều trị chuyên biệt
++ Dạng không ổn định
+Chuyển nhịp Cardioversion cả bằng điện và thuốc: cần cẩn thận với các dấu hiệu nguy cơ của thuyên tắc mạch.
+Chuyển nhịp bằng điện là phù hợp nhất .
+
++ Khi BN không có H.c tiền kích thích
+hiệu quả nhất là tiêm IV verapamil, diltiazem, hoặc beta-blockers.
+
++ Các thuốc thường dùng
+Metoprolol Lopressor 
+ống 5ml-5mg/5-15mg IV trong 5-15'
+
+Esmolol (Brevibloc)
+ống 10ml-100mg & loại 10ml-2, 5g thuốc lý tưởng để dùng cho BN từng bị tai biến của beta-blocker, đ.biệt với BN có rối loạn CN thất trái nhẹ-vừa & bệnh mạch ngoại vi.
+Do th.gian bán huỷ chi 8' nên dò liều & ngưng thuốc cũng nhanh khi cần .
+Một ph.phap tính nhanh: dựa trên cân nặng bệnh nhân chia cho 2 (vd, 70 kg/2 = 35mg) là liều loading - esmolol.
+Liều duy trì là 0.1 (0.1 x 35=3.5mg) nhỏ giọt.
+ 
+Diltiazem (Cardizem)
+'cho đến 2006, VN chi có vien 30, 60, 90mg'
+khởi đầu tiên tĩnh mạch liều 0.25mg/kg trong 2' có thể nhắc lại với liều 0.35mg/kg nếu chua giảm nhịp sau 15'.
+Liều duy trì có thể IV với liều 5-10mg/gio (tăng lên toi 15mg/gio) trong khoảng 24 giờ.
+ 
+Verapamil Calan, Isoptin, Verelan
+o:2ml-5mg;20ml-50mg tiêm khởi đầu 2.5-5mg có thể nhắc lại đề đạt tổng liều 15mg
+nhip that thường giảm trong vòng 5' và sau do có thể truyền duy trì với liều 0.05-0.2mg/ph.
+
+procainamide (Pronestyl)
+Cho 17mg/kg IV nho giọt 20-30mg/ph với monitor tim can than; ngung truyền nếu QRS dan rong hoặc xay ra ha huyết áp.
+
+Quinidine
+(Cardioquin, Quinora)
+200mg mỗi 2-3 giờ khoảng 5-8 liều, ngay tiếp theo cho tăng dần đến khi ve ̀nhịp xoang ổn định hay xuất hiện tác dụng phụ.
+Trước khi sử dụng, kiểm soát nhịp thất và suy tim sung huyết (nếu có) với digoxin.
+
+Amiodarone (Amiodarone > Cordarone)
+5mg/kg truyền trong 30'; cho tiếp 1, 200mg/24 giờ.
+
+Ibutilide (Corvert) thuốc chống loạn nhịp mới nhất nhóm III;
+Cân nặng > 60 kg: 1mg (mot lo) trong 10?.
+Cân nặng < 60 kg: 0.1 mL/kg (0.01mg/kg
+Nếu loạn nhịp không ngưng trong vòng 10' sau khi ngưng truyền liều đầu, sẽ dùng tiếp liều trên truyền lần 2 trong 10'.
+
+Digoxin (Lanoxin)
+Glycosid tim chủ yếu làm chậm dẫn truyền nút AV do tăng trương lực phế vị.
+Là thuốc dùng đầu tiên với rung nhĩ trên b.n suy tim sung huyết.
+Chống chỉ định với HC tiền kích thích bởi làm ngăn thời ky trơ của cầu Kent, làm xung càng xuống đột ngột hơn.
+Dùng để kiểm soát nhịp trong tinh trang cấp tính ở HS còn nhieu tranh luan.
+Những BN trước đó chưa dùng digital cho một liều khởi đầu 400-600 mcg (0.4-0.6mg) IV có thể thấy tác dụng trong 5-30'. Hiệu quả tối đa 1-4 giờ.
+Thuốc chống đông thường ngừng dùng trước 48 giờ, và dùng 3 tuần trước tới 4 tuần sau khi dùng p.pháp chuyển nhịp.
+
+4.Xét nghiệm: cho làm Chụp XQ ngực di động
+ECG lại nếu đau ngực
+H.chẩn với CK tim mạch.
+Làm XN máu (CBC)
+Làm XN t.hop (SMA)
+Mg, các XN tuyến giáp
+Làm XN nước tiểu.
+
+Rung nhĩ là do có rất nhiều vòng vào lại nhỏ rải rác khắp cơ nhĩ, hình thành nhiều ổ phát xung với tần số 350-600C/phút làm nhĩ "rung" và mất nhát bóp đồng thời dẫn truyền một phần xuống thất làm nhịp thất cũng nhanh và không đều.
+Bệnh viện Bạch Mai đã tiến hành điều trị rung nhĩ bằng sốc điện (và bằng thuốc) lần đầu tiên ở Việt Nam năm 1973. Cho tới nay đã thực hiện trên 6000 ca và đã đúc kết được nhiều kinh nghiệm.
+
+Có 2 phương án điều trị:
+1. Chuyển nhịp rung nhĩ về nhịp xoang dập tắt các ổ vào lại:
+Chỉ định cho các ca rung nhĩ trường diễn (không phải kịch phát) với nguy cơ tái phát thấp và trung bình theo thứ tự ưu tiên như sau:
+- Sốc điện: an toàn và hiệu quả nhất. Trong 6000 ca nói trên (25 năm) đạt tỷ lệ thành công 90% mà không có một tai biến tử vong hay tàn phế nào.
+- Amiodarone tiêm tĩnh mạch hoặc uống liều cao: hiệu quả 65% và an toàn, không bị biến chứng nặng. Chú ý tiêm thẳng vào tĩnh mạch dưới đòn (nếu có thể, qua 1 ống thông) vì thuốc có hàm lượng iốt cao, tiêm ngoại biên có thể gây viêm tĩnh mạch nhất là khi truyền lâu.
+- Disopyramide tiêm tĩnh mạch: chỉ dùng cho những ca chức năng tim còn tốt và nhịp tim chậm (vì có tác dụng giống atropine). Nếu tim nhanh nên cho trước digitalis.
+Nói chung thuốc có thể làm rung nhĩ chuyển qua cuồng nhĩ (tần số tim nhanh vọt lên) trước khi về xoang. Ðể tránh ứng tác bất lợi nguy hiểm đó ta có thể cho digitalis, chẹn bêta hay verapamil trong vài ngày trước để khống chế tần số thất .
+- Quinidine chậm
+- Disopyramide chậm
+- Flecainide
+- Chẹn giao cảm bêta (propranolol, sotalol) nếu rung nhĩ là do cường giao cảm đã được chứng minh bằng nghiệm pháp gắng sức hay phương pháp Holter.
+- Amiodarone : cùng lắm mới phải dùng vì dùng lâu dài như thế này dễ bị các ứng tác bất lợi nặng nề (cường hay suy giáp, xơ phổi, sạm da).
+Tất cả các thuốc trên đều có thể phối hợp digitalis để tăng thêm hiệu lực. Riêng quinidine và Amiodarone có thể làm tăng độc tính của digitalis, vậy khi phối hợp phải giảm liều digitalis xuống một nửa.
+
+2. Ðiều trị lâu dài giảm tần số thất: chỉ định cho những ca không thể chuyển về xoang hoặc có nguy cơ tái phát rung nhĩ cao. Chọn lần lượt:
+- Digitalis dùng ưu tiên số một vì rẻ và đơn giản, nhưng kém tác dụng khống chế tần số khi bệnh nhân ở tư thế đứng hay hoạt động thể lực.
+- Chẹn giao cảm bêta: không bị nhược điểm đó nên sử dụng tốt ở những bệnh nhân cần hoạt động lưu động nhưng phải lưu ý các chống chỉ định.
+- Verapamil hay diltiazem: cũng như thế.
+- Triệt bỏ thân bó His qua dây thông bằng tần số radio, hay tia chớp điện, hoặc phẫu thuật rồi cấy máy tạo nhịp thất.
+
+Khi dùng các phương pháp này, nên cho phối hợp lâu dài thuốc chống động dicoumarol (và phần nào Aspirin) vì rung nhĩ còn đó, có thể có nguy cơ hình thành cục máu đông di chuyển lên nghẽn mạch não, nhất là khi có cả hẹp van hai lá.
+
+Rung nhĩ có kèm hội chứng tiền kích thích tức là có một cầu dẫn truyền nhĩ-thất phụ, cầu này thường là mô cơ nhĩ nên có thời kỳ trơ ngắn (dẫn truyền dễ) hơn nhiều so với nút nhĩ-thất Tawara. Do đó, dễ có nguy cơ chết đột ngột do các xung rất nhanh của rung nhĩ từ nhĩ đi qua cầu phụ xuống gây rối loạn và rung thất.
+Nguy cơ đó càng dễ xảy ra nếu ta cho digitalis vì nó làm rút ngắn thêm thời kỳ trơ của cầu phụ, vì vậy ở đây có chống chỉ định digitalis.
+Các thuốc verapamil hay diltiazem đôi khi cũng có thể gây nguy hiểm như vậy vì chúng làm chậm dẫn truyền qua nút nhĩ thất.
+
+Điều trị rung nhĩ - Thomas Bump - 6th VN NIM Congress.
+
+
+
+Cuồng nhĩ
+
+Cuồng nhĩ là một loạn nhịp rất gần rung nhĩ và đồ bản điện học đã cho thấy là do một vòng vào lại ở phần thấp nhĩ phải, gần tĩnh mạch chủ, tạo nên một nhịp nhĩ đập 250-350 C/phút và dẫn truyền xuống thất thường hay gặp nhất là dạng 2/1 nghĩ là tần số thất khoảng 150 C/phút. Cuồng nhĩ thường tồn tại ngắn hạn (trong vòng 1 tuần) rồi chuyển sang rung nhĩ hoặc về xoang.
+
++ Ðiều trị: bằng cách chuyển nhịp về xoang với các phương pháp sau đây:
+- Sốc điện với dòng điện nhẹ (10-50W/s) do đó chỉ cần cho an thần nhẹ.
+- Các thuốc giống như với rung nhĩ (Amiodarone, quinidine, disopyramide, flecainide, propafenone) với liều tăng dần. Chúng hạ tần số nhĩ (vào vòng lại) xuống cho đến khi tắt hẳn trả lại quyền chủ nhịp cho nút xoang. Nhưng có trường hợp khi tần số nhĩ hạ tới dưới 220C/phút đồng thời thuốc trên lại có tác dụng cắt phế vị, là các điều kiện làm cho nút nhĩ thất có khả năng dẫn truyền 1/1 do đó làm cho tần số thất tăng vọt lên (thí dụ 220C/phút) rất nguy hiểm. Ðể tránh tác dụng phụ này, có thể cho digitalis, chẹn bêta hay chẹn dòng calci (verapamil) trước một vài ngày để chặn bớt dẫn truyền ở nút nhĩ-thất do đó khống chế được tần số thất (giống như trong rung nhĩ - xem trên). Riêng với digitalis cho như thế, cuồng nhĩ có khi chuyển sang rung nhĩ.
+- Tạo nhịp vượt tần số vào nhĩ với tần số xung khoảng 115-130% của tần số cuồng nhĩ thường cũng về xoang nhưng cũng có khi chuyển sang rung nhĩ, nó dễ khống chế tần số thất hơn cuồng nhĩ.
+
++ Ðiều trị lâu dài chống tái phát cũng giống như rung nhĩ.
+Ðiều trị chống đông thường không cần thiết vì ít khi bị tai biến lấp mạch.

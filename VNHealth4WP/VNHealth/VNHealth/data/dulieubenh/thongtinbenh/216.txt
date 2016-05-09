@@ -1,0 +1,53 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1 Định nghĩa và thuật ngữ:
+     a. Là tình trạng viêm cấp tính cuả niêm mạc phế quản ở người trước đó phế quản không có tổn thương.
+     b. Thuật ngữ “đợt cấp" của viêm phế quản mạn và bệnh phổi tắc nghẽn mạn tính hiện nay đang được thay thế bằng “đợt bùng phát" của các bệnh này.
+  1.2. Căn nguyên:
+     a. virus và nhóm vi khuẩn không điển hình:
+        +Chiếm 50 - 90% các trường hợp.
+        +Các virus hay gặp: Rhino virus; Echo virus; Adeno virus; Myxo virus influenza và Herpes virus.Ở trẻ em hay gặp virus hợp bào hô hấp và vi rút á cúm.
+        +Các vi khuẩn không điển hình như: Mycoplasma Pneumonia, Chlamydia.
+     b.Vi khuẩn :
+        +Thường viêm lan từ đường hô hấp trên xuống, các vi khuẩn gồm: liên cầu khuẩn, phế cầu khuẩn,Heamophilus influenzae, Moraxella catarrhalis.
+        +Những vi khuẩn này thường bị bội nhiễm thứ phát sau nhiễm virus.
+        +Ngoài ra viêm phế quản cấp còn có thể gặp trong các bệnh: sởi, thuỷ đậu, ho gà, thương hàn, bạch hầu.
+     c.Các yếu tố hoá, lý:
+        Hơi độc ( Clo, Amoniac) , bụi nghề nghiệp, khói thuốc lá, không khí quá khô, ẩm, lạnh, hoặc quá nóng.
+     d.Dị ứng:
+        Ở trẻ em, người lớn bị dị ứng nặng phù Quink, mề đay.
+     e. Yếu tố thuận lợi:
+        Thay đổi thời tiết, bị nhiễm lạnh, thể địa yếu, mắc bệnh đường hô hấp trên.
+  1.3.Tiến triển và biến chứng:
+     a. Tiến triển:
+        Viêm phế quản cấp tiến triển lành tính, ở người khoẻ mạnh thường tự khỏi sau 2 tuần, không để lại di chứng gì, ở người nghiện thuốc lá thường có bội nhiễm và ho khạc đờm kéo dài.
+    b. Biến chứng;
+        - Viêm phổi, phế quản phế viêm: thường xảy ra ở người già và trẻ em suy dinh dưỡng.
+        - Tăng tính phản ứng của phế quản với lạnh, khói và bụi, kéo dài vài tuần sau viêm phế quản cấp. Biểu hiện bằng ho khan kéo dài hàng tuần lễ.
+
+2. Cách chữa trị thông thường
+     -Dùng thuốc giảm ho như: Tecpin-codein, Paxeladine khi ho khan. Giai đoạn ho khạc đờm dùng thuốc long đờm : ho cam thảo, Mucomyst, Mucitux.
+     - Kháng sinh: khi có bội nhiễm hoặc người có nguy cơ biến chứng: Amoxicilin, Erythromyxin, Cephalexin.
+     - Chốn co thắt phế quản: Theophylin, Salbutamol.
+     - Thuốc an thần, kháng Histamin.
+     - Có thể dùng Prednisolon cho những trường hợp ho kéo dài có co thắt phế quản một đợt ngắn 5 - 10 ngày.
+
+3. Cách phòng tránh
+     - Giữ ấm, tránh lạnh, tránh bụi. Thoáng mát về mùa hè.
+     - Bỏ hút thuốc lá, hoặc bỏ tiếp xúc với các chất lý, hoá gây độc. Nghỉ ngơi.
+
+4. Thông tin thêm
+  Chẩn đoán phân biệt.
+     a. Viêm họng cấp:
+        _Sốt, ho, nhưng nghe phổi bình thường.
+        _Xquang phổi bình thường.
+     b. Các bệnh phổi và phế quản khác:
+        Hen phế quản, ung thư phế quản, phế quản phế viêm, viêm phổi virus...
+     c. Giãn phế quản:
+        _Ho khạc đờm kéo dài mạn tính, có thể có ngón tay dùi trống.
+        _Chụp cắt lớp vi tính có ổ giãn phế quản.
+     d. Viêm phế quản mạn:
+        Ho khạc đờm kéo dài mạn tính 3 tháng / năm, ít nhất 2 năm liên tiếp, không do các bệnh phổi khác như: lao hoặc giãn phế quản.
+     e. Viêm phổi do vi khuẩn:
+        _Có hội chứng nhiễm khuẩn, hội chứng đông đặc.
+        _Xquang có tổn thương nhu mô phổi.
+

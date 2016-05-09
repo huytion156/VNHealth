@@ -1,0 +1,65 @@
+﻿1. Nguyên nhân và triệu chứng
+  1.1. Tổng quan
+     +Bệnh nhược giáp là kết quả cuả một trạng thái lâm sàng cũng như sinh-hóa, trong đó nguồn cung cấp kích thích tố tuyến giáp cho các mô bị thiếu hụt và vì tác dụng cuả kích thích tố trên cơ thể thường đa dạng nên sự thiếu hụt của nó sẽ ảnh hưởng tới nhiều chức năng.
+     +Về phương diện lâm sàng, nhược giáp bao gồm nhiều trạng thái đi từ nhược tuyến giáp nhẹ cho tới hôn mê vì phù niêm (myxedema coma) có thể gây tử vong.
+  1.2.Nguyên nhân
+     +do thiếu hoạt động nguyên thủy của tuyến giáp (primary hypothyroidism),
+     +do thiếu nội tiết tố kích thích tuyến giáp tuyến yên (pituitary thyroid stimulating hormone hoặc TSH),
+     +do thiếu hụt nội tiết tố kích tuyến giáp dưới đồi (hypothalamic thyrotropin-releasing hormone hay TRH).
+     +do nguyên nhân thông thường nhất là viêm tuyến giáp của Hashimoto (Hashimoto's thyroiditis); bệnh này thường xảy ra cho phụ nữ trên 50 tuổi, người bệnh bị bướu cổ và có kháng thể kháng tuyến giáp (anti-thyroid antibodies) trong huyết thanh.
+     +còn có thể là kết quả cuả sự điều trị bệnh cường tuyến giáp bằng quang-tuyến hoặc giải phẫu hoặc dùng những thuốc như lithium và Amiodarone.
+  1.3.Chẩn đoán
+   1.3.1.Lâm sàng
+     +Những triệu chứng cổ điển là mỏi mệt, tóc khô và dễ gẫy, lên cân, táo bón, kém chịu lạnh và giảm thiểu những phản xạ gân gấp (tendons).
+     +Nhược giáp nhẹ thường không có triệu-chứng gì.
+   1.3.2.Xét nghiệm :
+     +Nồng độ TSH sẽ cao
+     +Nồng độ T4 hoặc FTI (free thyroxine index) sẽ thấp trong trường hợp nhược tuyến giáp nhẹ, lượng thyroxine (T4) sẽ bình thường và TSH sẽ cao (dưới 20milliunits/L).
+     +Trong trường hợp nhược giáp phụ thuộc (secondary hypothyroidism), lượng T4 hoặc FTI và TSH đều thấp hoặc ở vào mức thấp của dải bình thường.
+     +Những bệnh nhân bị viêm tuyến giáp của Hashimoto thường có kháng thể kháng tuyến giáp (anti thyroid antibodies, antimicrosomal antibodies hoặc antithyroglobulin antibodies) cao trong huyết thanh.
+
+2. Cách chữa trị thông thường
+  2.1. L-thyroxine (levothyroxine-Synthroid, Levoxyl) là thuốc được sử dụng để chữa trị nhược giáp.
+     +Thuốc chỉ cần uống ngày một lần cũng đủ để thực hiện mức độ quân bình cuả T4 và T3 (triiodothyronine) vì T3 được biến đổi từ T4 ở ngoại biên (peripheral conversion to T3 from T4).
+     +Thuốc có nhiều liều khác nhau để giúp Bác-sĩ điều chỉnh liệu một cách chính xác.
+     +Mục đích của cuộc điều trị là bình thường hóa TSH và sửa đổi các triệu-chứng.
+     +Những bào-chế từ tuyến giáp sấy khô (dessicated thyroid preparation) thường cho những nồng độ hay thay đổi và có thể gây nên những triệu-chứng không mong muốn và làm cho sự theo dõi các thử nghiệm trở thành khó khăn.
+     + Liều 1 grain (65mg) tuyến giáp trạng sấy khô tương đương với 0.1 mg L- thyroxine; tuy nhiên cách thay đổi tốt nhất là căn cứ trên cân nặng của bệnh nhân (xem ở dưới).
+  2.2. Liothyronine (L-T3 - Cytomel)
+     + không nên sử dụng trong việc điều-trị kinh niên;
+     + thường được dùng để điều-trị ngắn hạn cho những bệnh nhân bị ung thư tuyến giáp sau khi giải phẫu để sửa soạn đo rà bằng iodine (I- scanning)
+     + nó có thể hữu dụng trong cơn phù niêm hôn mê (myxedema coma) vì nhược giáp nặng.
+       a.Liều dùng
+          +Trước khi khởi sự điều trị, tphải chú trọng đến tuổi người bệnh và những bệnh khác mà họ mắc phải cũng như mức độ nặng nhẹ và nguyên nhân cuả nhược giáp.
+          + Khởi đầu nên cho dùng L-thyroxine từ 50 đến 75 microgram (mcg) mỗi ngày và tăng dần mỗi lần 25 mcg cho tới khi thực hiện được tình trạng bình thường.
+          + Một liều để thay thế hoàn toàn là khoảng 1.6 mcg cho mỗi kilo mỗi ngày (tức là từ 75-100 mcg cho nữ và 100-150 mcg cho đàn ông mỗi ngày).
+          +Những bệnh nhân bị nhược giáp sau khi được điều trị bệnh Grave (Grave’ s disease) bằng quang tuyến hoặc giải phẫu sẽ cần liều nhẹ hơn vì tuyến giáp của họ hãy còn một phần cơ năng.
+          +Đối với bệnh nhân không có bệnh gì khác tất cả liều L-thyroxine có thể được dùng ngay lúc đầu; một liều thấp độ 25 mcg mỗi ngày nên được dùng đối với những người bị nhược giáp và người già cả thường mắc phải bệnh tim.
+          +Vì thời gian bán hủy trong huyết thanh (serum-half lives) của L-thyroxine là từ 6-7 ngày, tình trạng quân bình (steady state levels) chỉ thực hiện được 6 tuần sau khi bắt đầu điều trị.
+          +Nồng độ TSH sẽ bình thường hóa trong thời gian đó. Bệnh nhân phải được cho biết là những triệu-chứng chỉ sẽ chấm dứt nhiều tháng sau khi các thử nghiệm đã được bình thường.
+       b.Những phản ứng ngoài ý muốn và phản ứng nghịch (side-effects and adverse reactions)
+          +Những phản ứng vì dị ứng thực sự thường không xảy ra trừ trưòng hợp người bệnh bị biến ứng với các chất khác trong viên thuốc thyroxine.
+          +Những phụ nữ bị nhược tuyến giáp và hiếm muộn phải được báo cho biết là điều trị bằng thyroxine có thể làm cho họ dễ thụ thai.
+          +Đối với bệnh nhân bị bệnh tiểu đường, liều insulin cần được gia tăng và những người dùng thuốc kháng đông máu cần phải giảm liều thuốc đông máu đó.
+          +Vì L-thyroxine có thể gia tăng sự biến thể của cortisol, những người bị nghi ngờ mắc phải nhược tuyến thượng thận (adrenal insufficiency) cần phải được khám nghiệm kỹ càng trước khi dùng thyroxine.
+          +Đa số các vấn đề gây nên bởi sựï điều trị bệnh nhược tuyến giáp là do cho thuốc quá liều.
+          +Cường tuyến giáp do liều thyroxine quá cao gây nên những triệu-chứng như lo âu, nhức đầu, run lẩy bẩy và hồi hộp.
+          +Thử nghiệm sẽ cho thấy nồng độ TSH xuống thấp; ta có thể tạm ngưng cho thuốc và cho bệnh nhân uống một liều nhẹ hơn từ vài ngày đến một tuần sau.
+
+3. Thông tin thêm
+  **Điều-trị mạn tính (Chronic therapy):Chỉ dùng L-thyroxine
+     +Mỗi năm nồng độ TSH trong huyết thanh phải được đo một lần.
+     +Thường thì nồng độ T4 hoặc FTI không cần phải theo dõi khi đã thực hiện được sự quân bình trong việc chữa trị  nhược giáp ngoại trừ trường hợp người bệnh bị nhược giáp trung ương (central hypothyroidism).
+     +Vì TSH không thể được sử dụng để làm mục tiêu đối với những bệnh nhân trên, T4 hoặc FTI cần phải được điều chỉnh sao cho chúng ở vào giữa
+khoảng bình thường.
+     +Đôi khi liều thyroxine cần được gia tăng đối với bệnh nhân mắc chứng thiếu hấp thụ (malabsorption) hoặc bệnh nhân nào dùng thuốc làm gia tăng sự biến thể cuả L-thyroxine như phenytoin (Dilantin), carbamazepine (Tegretol) và rifampicin (Rimactane, Rifadine).
+     +Những thuốc khác như cholestyramine (Questran), colestipol (Colestid) và sucralfate (Carafate) có thể cản trở sự hấp thụ của L-thyroxine; trong trường hợp đó phải cho bệnh nhân uống thyroxine cách xa thời gian uống các loại thuốc trên.
+     +Đối với những bệnh nhân mà bịnh nhược giáp không được khả quan sau khi dùng thuốc đầy đủ và sự thiếu hấp thụ cùng như sự tương phản thuốc đã được loại ra ta phải nghĩ tới trường hợp bệnh nhân không theo lời chỉ dẫn cuả Bác-sĩ.
+     +Đôi khi những bệnh nhân dùng thuốc bào chế chủng loại (generic preparations) thường không đạt được kết quả tốt vì bioavailability của chúng quá thấp đối với loại thuốc có tên đặc chế (name brand drugs). Vì lý do đó ta phải cho bệnh nhân dùng thuốc đặc chế.
+     +Tránh không nên dùng thuốc quá liều vì nó sẽ ảnh hưởng tới sự biến thể của xương (gây nên bệnh sốp xương) đặc biệt với phụ nữ trong giai đoạn hậu kinh kỳ và thuốc quá liều cũng làm cho những triệu chứng về tim thêm nặng.
+     +Những bệnh nhân uống thyroxine cần phải được theo dõi kỹ càng bằng cách đo nồng độ TSH, tránh gây nên cường tuyến giáp vì uống thuốc quá liều.
+     +Thử nghiệm TSH nhậy cảm sẽ giúp đo được nồng độ TSH thấp tới 0.05 milliunit /L.
+     +Nồng độ TSH phải được duy trì trong mức bình thường giữa 0.5 và 5 milliunits/L.
+     +Khi bệnh nhân càng già đi, kích thích tố tuyến giáp được sản xuất ra cũng giảm, do đó lượng thyroxine cần thiết cũng giảm.
+     +Với bệnh nhân trên 65 –70 tuổi, liều thuốc thyroxine được giảm từ 10 đến 15%.
+

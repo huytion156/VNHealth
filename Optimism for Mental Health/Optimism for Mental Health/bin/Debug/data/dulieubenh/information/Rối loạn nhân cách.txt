@@ -1,0 +1,216 @@
+﻿I.Đại cương
+1.Khái niệm
+- Các rối loạn nhân cách, là một tập hợp các trạng thái, để biệt định các đối tượng có cách sống, cách cư xữ và cách phản ứng, hoàn toàn khác biệt với “người thường”, nhưng lại không đủ các triệu chứng của một bệnh lý tâm thần đặc trưng.
+- Khái niệm về rối loạn nhân cách (RLNC) là một khái niệm tiến triển, và thay đổi theo sự phát triển của ngành tâm thần.
+- Khoảng 6 tới 11, 1% dân số chung có vấn đề về rối loạn nhân cách.
+
+2.Lịch sử
+-1809 Pinel gọi bệnh là “khùng nhưng không hoang tưởng” (Manie sans délire).
+-1923 Schneider đã mô tả 10 loại RLNC (bùng nổ, trầm cảm, bất định..) dựa trên các quan sát lâm sàng.
+-1975 Viện Sức Khỏe Tâm Thần Hoa Kỳ (NIMH) đã tiến hành một cuộc điều tra sâu rộng về tâm thần trong đó có đưa ra các tiêu chuẩn chẩn đoán trong nghiên cứu đặc biệt là đối với các các RLNC (khí sắc tuần hoàn, bất định, phi xã hội, dạng phân liệt).
+-Từ 1980 Sổ tay chẩn đoán và thống kê các rối loạn tâm thần III (DSM III) của Hiệp hội các Bác sĩ Tâm Thần Hoa Kỳ (APA) rồi tiếp đến các phiên bản IIIR rồi IV và gần đây là DSM IV TR , trên bình diện quốc tế là chương V của Bảng Phân Loại Quốc Tế Bệnh Tật (ICD) lần 9 rồi 10 của OMS dành cho các rối loạn tâm thần là những hệ thống phân loại được thừa nhận toàn cầu, trong đó các RLNC đuợc ghi nhận trong nhóm 301 của DSM và nhóm F 60 của ICD.
+
+II.Định nghĩa
+1.Nhân cách bình thường?
++ Nhân cách bình thường thể hiện ở sự tuân thủ các chuẩn mực đạo đức, các thể chế xã hội hiện hành.
++ Sự bình thường còn được thể hiện ở tính đáp ứng đa dạng với những đòi hỏi của hoàn cảnh xung quanh.
++ Có thể dựa vào 3 yếu tố sau để quy định tính “bình thường” của nhân cách, đó là tính giá trị (la valeur), tính bình quân (la moyenne), và tính thích ứng (l’adaptation).
+- Tính giá trị:
+. sự bình thưòng đi cùng với hình ảnh lý tưởng của một con người, là những gì họ phải phấn đấu để trở thành, sự tuân thủ các chuẩn mực đạo đức hiện hành.
+. từ quan điểm này ta thấy tất cả những hành vi không đáp ứng các quy chuẩn lý tưởng và đạo đức hiện hành đều có thể xem như bất thường.
+- Tính bình quân:
+. sự bình thường đồng hành với tính phổ biến, phù hợp với đại đa số.
+. thiểu số người lệch ra khỏi nhóm bình quân được xem như khác thường.
+- Tính đáp ứng:
+. sự bình thường nằm trong việc đáp ứng linh hoạt đối với các thay đổi tình huống.
+. tất cả những đáp ứng máy móc, thiếu tính linh hoạt và lập đi lập lại đều phải xem xét về tính bất thưòng của chúng.
+
+2.Nhân cách bệnh lý
+- là bệnh lý khi nhân cách được xây dựng trên nền tảng của sự phòng thủ quá đáng của tính lo âu loạn thần kinh
+- hoặc ngược lại đẩy bệnh nhân tới rìa biên giới giữa sự bình thưòng và thế giới phi thực tế của loạn thần.
+
+3.Các định nghĩa phổ biến hiện nay:
+a.Theo Schneider:
+“Nhân cách bệnh lý là những lệch lạc của nhân cách có thể lượng giá được, có tỷ lệ thấp về thống kê và chính thái độ và hành vi của đối tượng gây nên đau khổ cho chính họ cũng như xung quanh ”
+b.Theo DSM IV:
+“RLNC là một dạng bất biến của quá trình sống và cư xử đi lệch ra ngoài nền văn hóa tương quan với người đó, có tính chi phối và cứng nhắc, thường xuất hiện vào đầu tuổi thanh thiếu niên hoặc đầu tuổi trưởng thành, hằng định với thời gian, và là nguồn gốc gây đau khổ hoặc sút giảm chức năng”.
+c.Theo ICD 10:
+“Rối loạn nhân cách bao gồm các dạng hành vi bền vững và ăn sâu, bộc lộ qua sự đáp ứng cứng nhắc trong các hoàn cảnh cá nhân và xã hội khác nhau ”.
+
+4.Các phân loại các RLNC:
++ Kernberg chia RLNC thành 3 nhóm theo bản chất bệnh lý:
+- Nhóm tính cách cao: dạng loạn thần kinh (Hystérie, lệ thuộc, suy nhược thần kinh, nhân cách thời kỳ hậu môn, ám ảnh cưởng chế)
+- Nhóm trung gian: có tính ranh giới phối hợp giữa nhóm loạn thần kinh đa dạng và các rối loạn cư xử (thái nhân cách, nhân cách rang giới)
+- Nhóm tính cách thấp: dạng loạn thần (Paranoiaque, phân liệt, chu kỳ, trầm cảm)
+
++ Cách phân loại quốc tế như DSM và ICD (đều có khuynh hướng tách ra khỏi các lý thuyết bệnh lý, và đặt trọng tâm trên các biểu hiện lâm sàng và tiêu chuẩn chẩn đoán) với các tiêu chí sau về RLNC như sau:
+- Bất thường dai dẳng và hằng định.
+- Gây đau khổ và rối loạn chức năng xã hội.
+- Xuất hiện đầu tuổi thanh thiếu niên hoặc đầu tuổi trưởng thành .
+- Luôn xem xét tính hài hòa với nền văn hóa hiện hành của đối tượng.
+
++ Hiện tại DSM IV chia các RLNC thành 3 nhóm theo các biểu hiện lâm sàng:
+- Nhóm A: Kỳ quái / lập dị (nhân cách Paranoiaque, phân liệt, dạng phân liêt)
+- Nhóm B: Kịch tính/nhiều cảm xúc/bất định (nhân cách ranh giới, phi XH, Hystérie, vị kỷ)
+- Nhóm C: Lo âu (nhân cách tránh né, ám ảnh cưỡng chế, lệ thuộc)
+A.Nhân cách Paranoiaque
+* Các đặc trưng
+- Luôn nghi ngờ người khác có ý xấu đối với mình.
+- Cảnh giác, ngờ vực lòng trung thành kể cả với người thân, tìm kiếm chứng cứ
+
+1.Lịch sử Paranoiaque:
+Thuật ngữ Paranoiaque đã xuất hiện từ buổi đầu của ngành tâm thần.
+Từ nguyên học cho thấy Paranoiaque có nghĩa là nghĩ sai ý, đối đầu.
+Đầu thế kỷ 19 Esquirol đã mô tả những người ”khùng đơn độc nhưng còn lý trí” (Monomanie raisonnante).
+1878 Falret mô tả những người sợ bị hại, gây phương hại người khác với các nét như quá nhậy cảm, lỳ lợm, kiêu ngạo gần như hoang tưỏng.
+1895 Seglas định nghĩa Paranoiaque “người bệnh cứ vơ vào mình các điều họ cho là gây hại cho mình một cách không phê phán, không kiểm tra, tin tuyệt đối nhưng họ vẫn sáng suốt không tới mức hoang tưởng”.Ông còn gọi RLNC này bằng thuật ngữ “Điên một cách hệ thống”(Folie systématique).
+Đầu thế kỷ 20 Krapelin mô tả những người khó chịu không thật (Pseudo- quérulant) với đặc tính phàn nàn, hay gây chuyện nhưng không tới mức hoang tưởng.
+1924 Dupre, Genil-Perrin rồi Montassut coi RLNC này như tiền đề cho tình trạng hoang tưởng sau này.
+1927 Kretschmer rất nổi tiếng với việc phân loại Paranoiaque làm 3 nhóm:
+- Nhóm tấn công: hay gây chuyện, gây hấn, dai dẳng.
+- Nhóm mơ mộng: các tư tưởng gia, vị tha, tính cách khác người.
+- Nhóm nhậy cảm: nhậy cảm, nhút nhát, mềm mỏng, luôn nghĩ rằng mình sẽ thất bại, bị sĩ nhục.
+
+2.Tỷ lệ mắc
+-Có thể chiếm từ 0, 5 tới 2, 5% dân số chung.
+-Tỷ lệ cao ở các gia đình có người thân bị tâm thần phân liệt hoặc rối loạn hoang tưởng.
+-Thường thấy ở nam nhiều hơn
+
+3.Cơ chế sinh bệnh:
+- Nghi yếu tố di truyền, bất ổn gia đình lúc còn bé, bị lạm dụng lúc bé.
+- Các cơ chế tâm lý vô thức: để đáp trả các yếu tố Stress
+- Phóng chiếu: gán cho xung quanh các cảm xúc riêng của mình, các xung động.
+- Chối bỏ: không nhìn nhận thực tại. Đồng hóa mình với kẻ xâm hại.
+
+4.Chẩn đoán của DSM IV:
++ Dựa trên điểm a và b
+a. Sự nghi ngờ xâm chiếm đối với mọi người, mọi thái độ đều bị cho là có ý xấu, thường xuất hiện lúc bắt đầu trưởng thành trong nhiều hoàn cảnh khác nhau và có ít nhất 4 trong các (7) biểu hiện dưới đây:
+- Tin tưởng không hợp lý là mọi người loại trừ, gây hại, hoặc lừa dối mình.
+- Luôn bận tâm từ những nghi ngờ vu vơ về sự trung thành, thủy chung của bạn bè, những người cộng tác.
+- Dè dặt không dám bộc lộ với người khác vì sợ các thổ lộ này có thể bị sử dụng để chống lại mình.
+- Luôn thấy các ẩn ý, đe dọa, sỉ nhục trong các lời nhận xét, sự kiện vô hại.
+- Để bụng, không bao giờ tha thứ khi bị tổn thương, nhục mạ.
+- Đáp trả tức thời hoặc phản ứng cuồng nộ với điều mà mọi người thấy không không có gì, nhưng bệnh nhân cho là gây hại, tồn thương uy tín của mình.
+- Nghi ngờ vô lý và thường xuyên sự chung thủy của người phối ngẩu.
+
+b. Không xuất hiện trong giai đoạn tiến triển của tâm thần phân liệt, rối loạn khí sắc có loạn thần hoặc một loại loạn thần khác, và cũng không phải do một bệnh lý cơ thể gây tác động tâm lý.
+
+5.Chẩn đoán phân biệt:
+- Rối loạn hoang tưởng: hoang tưởng rỏ nét, hằng định, có tổ chức.
+- Tâm thần phân liệt hoang tưởng: kém ảo giác, rối loạn tư duy.
+
+6.Tiên lương và điều trị
+- Tiên lượng đa dạng, các trở ngại về quan hệ-nghề nghiệp luôn có.
+- Trường hợp xấu : trầm cảm, lo âu, rối loạn hoang tưởng, loạn thần.
+- Điều trị chủ yếu là tâm lý liệu pháp nâng đỡ, cần chú trọng trên mối quan hệ bền vững giữa thầy thuốc-bệnh nhân để tạo sự tin cậy.
+- Đồng thời nhấn mạnh thực tế đối với họ, phát huy các mặt mạnh .
+- Thuốc chỉ sử dụng trong các trường hợp lo âu, kích động với Haldol liều thấp, Diazépam.
+B.Nhân cách chống đối xã hội
+* Các đặc trưng của nhân cách:
+- Coi thường mọi chuẩn mực pháp luật, xã hội và đạo đức
+- Xung động, ham muốn phải thỏa mãn ngay bất chấp hậu quả
+
+1.Tổng quan lịch sử
+Esquirol đã mô tả loại nhân cách này dưới cái tên là “Khùng thuần túy bản năng” (Monomanie instinctive) hoặc “Xung động”(Impulsive), theo ông tính cách phạm pháp một cách xung động của bệnh nhân là do sự bệnh lý của ham muốn và cảm xúc, trí năng hoàn toàn bình thường.
+Pritchard gọi họ là “Đạo đức suy đồi” (Moral insanity) do sự khiếm khuyết bẩm sinh về mặt đạo đức.
+Magnsn thì mệnh danh họ là “Suy thoái không quân bình” (Dégénéré déséquilibré)
+Legran thì dùng các khái niệm về tâm lý để mô tả như: bất định, mất khả năng kiểm soát đam mê…
+Dupré nhấn mạnh khía cạnh bất thường về mặt đạo đức và xã hội, ”lệch lạc bản năng” (Perversion instintive).
+Kraepelin và Schneider đã dùng từ “nhân cách bệnh” (Psychopath) để chỉ loại rối loạn này, tuy nhiên sau đó thuật ngữ trên đã bị áp dụng một cách quá rộng rãi để chỉ tất cả các loại rối loạn nhân cách.
+Chính DSM II sau đó DSM III đã biệt định rối loạn nhân cách này bằng nhóm từ “Nhân cách chống đối xã hội”
+Scluloinger, Hutching và Mednick đã nghiên cứu rối loạn này trên bình diện gia đình ở các trẻ được nhận làm con nuôi. Họ cho rằng có một phổ di truyền nhân cách này với các nhân cách hystérie, nghiện rượu và ma túy.
+
+2.Dịch tễ học
+Tỷ lệ 3% ở nam, 1% ở nữ.
+Tần suất cao ở các gia đình có RL nhân cách chống đối xã hội, rối loạn cơ thể hóa, nghiện rượu.
+Ngoài ra các công trình trên trẻ gia đình rối loạn nhân cách được nhận làm con nuôi cũng cho thấy có yếu tố di truyền khá rõ.
+Tần suất cao ở những nhóm dân số kinh tế – xã hội thấp.
+Đặc biệt cảnh báo ở những trẻ từ bé bị rối loạn tăng động / khiếm khuyết chú ý và rối loạn cư xử.
+
+3.Cơ chế bệnh sinh
++ Cơ chế thực thể: di truyền, tổn thương (chấn thương não chu sinh, chấn thương sọ não, viêm não…) Ở một số trường hợp tổn thương vùng trán, thái dương là động cơ của xung động.
++ Cơ chế môi trường: cha mẹ bỏ rơi hoặc lạm dụng, môi trường hà khắc, cha mẹ hung bạo hoặc trừng phạt thường xuyên.
++ Cơ chế theo phân tâm học:
+- Khiếm khuyết việc xây dựng cái siêu tôi (Surmoi), ý thức đạo đức kém phát triển.
+- Không có khả năng xây dựng được những quan hệ khách quan, cảm xúc hời hợt, thiếu sự tin cậy.
+- Nét tính cách bạo dâm / khổ dâm(Sadomasochisme) ái kỷ (narcissisme) và trầm cảm.
+
+4.Chẩn đoán theo DSM IV
+a. Coi thường và xâm phạm quyền lợi tha nhân, thường xuất hiện sớm từ khoảng 15 tuổi và có ít nhất 3 trong các (7) biểu hiện dưới đây:
+- Không có khả năng hòa nhập vào các chuẩn mực xã hội quy định các hành vi hợp pháp, thể hiện qua việc thường xuyên bị tạm giử.
+- Khuynh hướng lừa dối để lợi dụng hay chỉ để bởn cợt (nói dối liên tục, xài tên giả, lừa đảo…).
+- Xung động nhất thời, không có khả năng lường trước hậu quả.
+- Gây hấn thường xuyên.
+- Coi thường sự an toàn chính bản thân và tha nhân.
+- Vô trách nhiệm toàn diện, không có khả năng duy trì bền bỉ một công việc hoặc không có uy tín về tiền bạc.
+- Không hối hận, hoàn toàn lãnh đạm sau khi đã gây thương tổn đến người khác.
+
+b.Tuổi chẩn đoán ít nhất 18 tuổi
+c.Thường trước 15 tuổi đã có các rối loạn cư xử.
+d.Không xuất hiện trong giai đoạn tiến triển của tâm thần phân liệt, hoặc giai đoạn hưng cảm.
+
+5.C.đoán phân biệt
+- Hành vi đối kháng xã hội ở người lớn:
+. Có vài hành vi nhưng không đáp ứng đầy đủ các tiêu chuẩn chẩn đoán.
+- Rối loạn liên quan tới ma túy:
+. Thường thấy trong bối cảnh nghiện-lệ thuộc ma túy,
+. cần thận trọng vì RL nhân cách này thường đi kèm với nghiện chất.
+- Chậm phát triển tâm thần:
+. Khiếm khuyết trí tuệ thường có hành vi chống đối xã hội.
+. Loạn thần
+- Nhân cách ranh giới:
+. Thường kèm theo khuynh hướng tự sát,
+. tự hạ thấp bản thân,
+. khuynh hướng gắn bó quá mức và tính hai chiều.
+- Nhân cách ái kỷ:
+.Tôn trọng luật pháp khi còn có lợi cho mình.
+
+6.Tiên luợng và điều trị
+- Tiên lượng đa dạng, có một số trường hợp cải thiện khi thành niên nhưng đa phần vướng vào nghiện ngập, chấn thương cơ thể, phạm pháp, tự sát..
+- Trị liệu khó khăn,
+. ở một số tình hình có cải thiện khi điều trị các rối loạn đi kèm như nghiện ngập,
+. một số khác đòi hỏi điều trị nội trú lâu dài hoặc quản lý tại cộng đồng.
+. Nói chung trị liệu hiệu quả cao nhất hiện nay là liệu pháp nhận thức hành vi thông qua sự kềm chế về pháp luật, tạo áp lực về sự trừng trị các hành động sai trái.
+C.Nhân cách Narcissique (Nhân cách ái kỷ)
+Các đặc trưng của nhân cách:
+- Cường điệu sự quan trọng của mình, không chấp nhận phê phán
+- Ảo tưởng và tìm mọi cách đạt thành công
+- Thiếu đồng cảm tha nhân
+
+1.Lịch sử bệnh
+- W.Reich là người đầu tiên đã sử dụng thuật ngữ «dương vật ái kỷ« (Phallique-narcissique) để mô tả những người có tính cách phù phiếm, tham vọng, mê quyền lực, không chịu được sự chỉ trích. Ông cho rằng sự phát triển tâm lý của những đối tượng này đã bị ngưng trệ ở giai đoạn dương vật (Stade phallique) với sự đề cao quá đáng giới vật nam, cùng với đó là các phản ứng với nỗi sợ bị hoạn (crainte de castration).
+- Một số tác giả như Bergeret sau này đã pha trộn loại nhân cách này với nhân cách ranh giới. Cách xếp loại này đã không được phần lớn các tác giả đồng tình, chính Kohut và Kernberg đã tách chúng ở hai nhóm nhân cách khác nhau.
+- Bảng phân loại ICD 10 đã không biệt định loại nhân cách này.
+
+2.Dịch tễ học bệnh
+Chiếm khoảng 1% trong dân số chung
+
+3.Mô tả lâm sàng
+- Thái độ tự cao tự đại, thích được mọi người khâm phục.
+- Cảm giác bản thân là kiệt xuất, luôn cho rằng mọi người phải sẵn lòng với mọi mong muốn của mình.
+- Bộc lộ tham vọng thành công chói sáng trong mọi lãnh vực.
+
+4. Tâm sinh lý bệnh
+- Thiếu tình cảm mẹ con lúc bé, chia ly sớm tạo nên một nét tính cách thiếu đồng cảm với tha nhân.
+- Theo quan điểm phân tâm tính cách ái kỷ có thể vừa là sự ngưng trệ ở giai đoạn dương vật vừa là cơ chế phòng vệ tâm lý ngăn ngừa tính gây hấn bẩm sinh.
+
+5.Chẩn đoán DSM IV
+Bộc lộ qua ảo tưởng và hành vi tự cao tự đại, khát vọng được người khác ngưỡng mộ và thiếu sự đồng cảm với tha nhân, thường xuất hiện lúc bắt đầu trưởng thành trong nhiều hoàn cảnh khác nhau và có ít nhất 5 trong các (9) biểu hiện dưới đây:
+- Tự cao tự đại về tầm quan trọng của mình (cường điệu các công việc và khả năng của mình, luôn muốn được xem là bề trên một cách không tương xứng với khả năng bản thân…)
+- Cuốn hút bởi ảo tưởng về sự thành đạt, quyền lực…
+- Tự cho mình là “đặc biệt” và độc nhất vô nhị, chỉ những người ở tầng lớp cao mới đồng cảm được với họ.
+- Thèm muốn mãnh liệt được ngưỡng mộ.
+- Ý nghĩ phải được phục vụ một cách đặc biệt và thỏa mãn một cách vô điều kiện các ước vọng.
+- Tận dụng những mối quan hệ để phục vụ các mục tiêu bản thân.
+- Thiếu sự đồng cảm: không nhận thức và chia xẽ tình cảm, nguyện vọng của tha nhân.
+- Luôn đòi hỏi người khác và cho rằng người khác rất cần mình
+- Thái độ ngạo mạn và bề trên.
+
+6.C.đoán p.biệt
+- Nhân cách Hystérie: Cũng thích được ngưõng mộ nhưng ở người Hystérie cảm xúc cường điệu hóa, bi kịch hóa.
+- Nhân cách chống đối xã hội: cũng muốn thỏa mãn ước vọng vô điều kiện nhưng ở đây kèm thêm sự coi thường mọi chuẩn mực pháp luật và xã hội.
+- Tâm thần phân liệt hoang tưởng: ý tưởng tự cao mang nét hoang tưởng.
+
+7.T.lượng và điều trị
+- Tiến triển mãn tính, khó quản lý, các biến chứng hay gặp: RL khí sắc, lạm dụng chất, RL tâm thể.
+- Liệu pháp tâm lý cá nhân, theo hướng phân tâm hoặc nâng đỡ

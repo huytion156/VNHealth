@@ -1,0 +1,27 @@
+﻿1. Nguyên nhân và triệu chứng
+     _Ung thư phổi được chia làm hai loại chính: ung thư phổi tế bào nhỏ và ung thư phổi không phải tế bào nhỏ, tuỳ thuộc vào hình dạng tế bào dưới kính hiển vi. Mỗi loại ung thư phát triển và lan theo những cách khác nhau và được điều trị khác nhau.
+     _Ung thư phổi không phải tế bào nhỏ thường gặp hơn ung thư phổi tế bào nhỏ (khoảng 80%) và nó thường phát triển và lan chậm hơn. Có ba loại ung thư không phải tế bào nhỏ chủ yếu. Chúng được đặt tên theo loại tế bào từ đó ung thư phát triển: ung thư biểu mô tế bào vẩy (còn được gọi là ung thư dạng biểu bì), ung thư biểu mô tuyến và ung thư biểu mô tế bào lớn.
+     _Triệu chứng:
+        +Ho không khỏi và ngày càng nặng hơn.
+        +Thường xuyên thấy đau ngực.
+        +Ho ra máu.
+        +Khó thở, ngạt mũi, khàn giọng.
+        +Viêm phổi và viêm phế quản tái đi tái lại.
+        +Phù nề vùng mặt và cổ.
+        +Mất cảm giác ngon miệng hoặc giảm cân.
+        +Mệt mỏi.
+
+2. Cách chữa trị thông thường
+     _Với bệnh nhân phát hiện ung thư phổi, sinh thiết khối u là xét nghiệm cần thiết để kiểm tra gen EGFR và gen ALK. Với loại khối u gen EGFR có thể điều trị với thuốc Gefitinib, Erlotinib hoặc Afatinib hoặc với loại khối u có gen ALK thuốc Crizotinib là loại thuốc nhắm đích được sử dụng khống chế khối u với ít tác dụng phụ.
+     _Nếu bệnh nhân không có những loại gen trên, thì phương pháp điều trị hóa trị căn bản truyền thống là tối ưu. Ung thư phổi cũng được chia thành các phân nhóm khác nhau và nghiên cứu đã chứng minh rằng sự kết hợp hóa trị liệu nhất định hiệu quả hơn trong việc trì hoãn sự tiến triển của bệnh ung thư so với sự kết hợp thuốc khác nhau. Vì vậy, một bệnh ung thư phổi tế bào vảy sẽ được điều trị khác với ung thư phổi tế bào không vảy, ung thư phổi tế bào nhỏ điều trị khác với ung thư phổi tế bào lớn. Tất cả bệnh nhân đều được kiểm tra cụ thể trước khi có phác đồ điều trị cho từng cá nhân.
+
+3. Cách phòng tránh
+     _ Cai thuốc lá:
+        +Nếu bạn đang hút, hãy bỏ thuốc ngay lập tức
+        +Nếu không phải là người hút thuốc, đừng bao giờ hút thử.
+        +Tránh cả hút thuốc lá thụ động, hít phải khói thuốc của người hút.
+      _Tập thể dục:
+        +Tập luyện thường xuyên có thể hữu ích trong phòng ngừa ung thư phổi. Nghiên cứu đã gắn hoạt động thể lực trong việc giảm nguy cơ ung thư phổi. Kể cả các hoạt động đơn giản như làm vườn 2 lần 1 tuần có thể giúp bạn giảm nguy cơ mắc ung thư phổi.
+        +Chế độ ăn giàu rau xanh và hoa quả: giúp ngăn ngừa ung thư phổi. Hãy ăn các loại rau đa dạng nhiều màu sắc khác nhau như súp lơ, rau chân vịt, hành, táo, cà chua, cam,...
+        +Tránh môi trường phóng xạ: cần kiểm tra nhà bạn để tránh các yếu tố phóng xạ.
+

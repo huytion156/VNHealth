@@ -1,0 +1,229 @@
+﻿I.Tổng quan
++Là 1 bệnh viêm
+- do l.c.khuẩn huyết tán nhóm A, gây thương tổn ở nhiều bộ phận như khớp, tim, thần kinh, da và để lại di chứng ở van tim.
+- Thuật ngữ thấp tim chứa đựng mối liên quan giữa 2 hội chứng khớp và tim, tuy trong 1 số trường hợp có viêm tim nhưng không có viêm khớp.
+- Những di chứng ở van tim rất nguy hiểm và là nguyên nhân chính của bệnh tim mắc phải gây tàn phế và tử vong cho trẻ em 5 – 15 tuổi.
+
++Nguyên nhân gây bệnh là l.c.khuẩn.
+ 
+- l.c.khuẩn là vk phổ biến, được chia ra làm nhiều nhóm mang tên A, B, C, G.
+- l.c.khuẩn nhóm B trong bệnh nhiễm trùng sơ sinh hoặc nhiễm trùng sản phụ.
+- l.c.khuẩn nhóm C và G có thể gây viêm họng nhưng chỉ gây nhiễm trùng đường hô hấp trên.
+- l.c.khuẩn nhóm A gây bệnh chốc lở và nhiễm trùng ngoài da và viêm cầu thận.
+- Chỉ có l.c.khuẩn huyết tán nhóm A tip M3,5,14,18,24,19 mới gây thấp tim.
+
++Cơ chế bệnh sinh
+- Đó là hiện tượng tự miễn, do thấy có 1 protein trong màng tế bào Lck-A rất giống với protein trong màng tế bào cơ tim và 1 số tổ chức liên kết, khi cơ thể sản xuất ra các kháng thể chống l.c.khuẩn đồng thời chống luôn cơ tim.
+- Còn phát hiện cấu trúc cacbohydrat trong màng tế bào của Lck-A cũng giống mucoprotein ở van tim người.
+- Hiện nay, đa số các nhà y học nêu giả thuyết bệnh thấp tim là bệnh nhiễm độc miễn dịch.
+- Một công trình nghiên cứu ở Ấn Độ cho thấy 82% bệnh nhân thấp tim dương tính với kháng nguyên HLB5 ở tế bào lymph.
+
++ Giải phẫu bệnh :
+-Thương tổn ở nhiều bộ phận : thương tổn ở tim, có thể cả màng ngoài tim, cơ tim và nội tâm mạc hay chỉ 1 trong 3 màng có thương tổn bệnh lý.
+-Nội tâm mạc có thương tổn xuất tiết và xơ. Nếu thương tổn đã tiến triển lâu các van này bị xơ cứng và co lại, nội tâm mạc có màu trắng ngà.
+
+
+II.Triệu chứng lâm sàng
+Thường xuất hiện sau nhiễm trùng họng do Lck-A một thời gian 1 – 5 tuần.
+Các triệu chứng biểu hiện hay gặp nhất ở khớp, tim, thần kinh…
+Bệnh nhân thường ở lứa tuổi 11 – 15 tuổi (64,5%),
+Trẻ 2 – 4 tuổi rất khi mắc bệnh thấp tim (2%).
+
+1.Sốt
+là triệu chứng thường gặp ở giai đoạn đầu, sốt có thể kéo dài trong 2 – 3 tuần.
+
+2.Đau khớp
+- là triệu chứng làm cho người trong gia đình chú ý ngay đến bệnh thấp tim,
+- các khớp sưng nóng, đau, đỏ, di chuyển từ khớp này sang khớp khác mà không để lại di chứng,
+- đại đa số là các khớp lớn như khớp gối, cổ chân, cổ tay, khuỷu tay.
+- Các khớp đau làm cho bệnh nhân không đi lại được,
+- các khớp nhỏ như khớp ngón chân, ngón tay, cột sống rất ít khi bị viêm.
+- Có thể bệnh nhi chỉ kêu đau mà không có khớp bị sưng.
+- Các triệu chứng viêm khớp khỏi nhanh chóng sau 2 – 3 ngày nếu bệnh nhân được chữa bằng aspirine, corticoide nhưng dễ tái phát.
+
+3.Viêm tim
+- Các triệu chứng xuất hiện ngay đợt đầu của bệnh.
+- Trong tuần thứ nhất có thể là triệu chứng chủ yếu trong bệnh cảnh, nếu bệnh nhi là trẻ nhỏ.
+- Khi tim bị viêm, nhịp thở nhanh hơn bình thường ngay cả trong lúc ngủ và không đi đôi với thân nhiệt.
+- Đôi khi nhịp tim lại chậm, trong trường hợp này cần làm điện tâm đồ để phát hiện “bloc”.
+- Bên cạnh rối loạn nhịp tim, một triệu chứng quan trọng và gặp luôn là tiếng thổi tâm thu.
+- Do van 2 lá hay bị viêm trong thấp tim nên tiếng thổi tâm thu thường nghe thấy ở mỏm tim, cường độ khác nhau, lan ra nách.
+- Cần phân biệt tiếng thổi tâm thu với tiếng thổi tâm thu chức năng nhẹ và thay đổi với tư thế bệnh nhi.
+- Trường hợp van động mạch chủ bị hở thì nghe tiếng thổi tâm thu trương ở vùng đáy,
+- ngoài ra tiếng tim T1 mở ở mỏm tim trong viêm nội tâm mạc.
+- Những triệu chứng viêm tim quyết định tiên lượng của bệnh thấp tim.
+ 
+4.Suy tim
++Viêm cơ tim gây suy tim với các triệu chứng :
+- khó thở, tím tái, phù,
+- gan to ấn đau, phản hồi gan - tĩnh mạch cổ dương tính.
+
++X quang, ECG :
+- diện tim to hơn bình thường và rốn phổi bị ứ đọng.
+- Trên điện tâm đồ thường có rối loạn dẫn truyền nhĩ - thất, PQ dài trên 0,20 giây.
+ 
+5.Viêm màng ngoài tim:
++ triệu chứng điển hình :
+- bệnh nhi kêu đau ngực, khó thở.
+- Nghe tim : tiếng tim mờ “xa xăm”.
+
++ECG, X quang :
+- diện tim to, góc tim hoành thù, bờ tim không đập.
+- Điện tâm đồ : giảm điện động, T dẹt và ST chênh.
+
++Khi viêm ngoài màng tim nằm trong bệnh cảnh “viêm tim toàn bộ” người ta thấy cả nội tâm mạc, cơ tim đều bị viêm.
+- Bệnh nhân trong tình trạng nặng : khó thở nhiều, triệu chứng suy tim nặng.
+- Bệnh nhi có thể tử vong nhanh hoặc diễn biến phức tạp sau một thời gian đỡ và để lại di chứng nặng ở van tim.
+
+6.Múa giật (chorée) :
+- đây là biểu hiện ở hệ thần kinh của bệnh thấp tim,
+- thường xuất hiện chậm, nhiều tuần hoặc nhiều tháng sau nhiễm l.c.khuẩn, trẻ em gái hay có biểu hiện này.
+- Bệnh xuất hiện từ từ, mới đầu bệnh nhi hay cáu gắt, lo lắng, sợ sệt,
+- sau đó có những rối loạn về vận động như vận động không do ý muốn, quá mức, vận động phối hợp rối loạn.
+- Các động tác bệnh lý mới đầu nhẹ như viết khó, cầm đũa bát để ăn một cách khó khăn, hay đánh rơi đồ vật, dần dần các động tác mạnh và hỗn độn làm cho sinh hoạt khó khăn.
+- Trương lực cơ bị giảm, múa giật không kèm theo sốt hay viêm khớp nhưng có thể có triệu chứng viêm nội mạc.
+
+7.Những biểu hiện ở da : các biểu hiện ở da trong bệnh thấp tim ít gặp.
+Có thể gặp 2 thể :
++Ban vòng đỏ Besnier là những ban hình tròn,
+
+màu hồng hoặc ở giữa màu nhạt,
+
+
+ thấy ở ngực, bụng, không đau, không ngứa.
+
+
+
+
++Cục Meynet là những cục cứng nổi lên ở khuỷu dưới da, to bằng hạt đỗ, hạt ngô, thường thấy ở vùng gần khớp gối, khuỷu tay, dọc xương sống. Sau mấy ngày các cục mất đi nhưng có thể xuất hiện lại.
+
+
+
+
+III.Xét nghiệm
+Một số xét nghiệm cần thiết để giúp cho chẩn đoán nhất là khi bệnh cảnh không điển hình.
++Tốc độ lắng máu cao trên 600mm/giờ thứ nhất
+
++ protein phản ứng C lưu hành trong máu nên phản ứng dương tính;
+
++ bạch cầu tăng ở máu ngoại biên, fibrin trong máu tăng.
+
++Tìm l.c.khuẩn: Vì các triệu chứng thấp tim xuất hiện sau nhiễm trùng họng nên việc tìm l.c.khuẩn không giúp nhiều cho chẩn đoán mà chỉ có tác dụng phát hiện người mang vk, điều này có liên quan đến phòng bệnh.
+
++ASLO: Xét nghiệm được sử dụng rộng rãi trong các bệnh viện là kháng thể chống liên cầu antistreptolyzin O (ASLO), bình thường ASLO dưới 200 đơn vị Todd, 80% bệnh nhi mắc thấp tim, hiệu giá ASLO trên 500 đơn vị Todd, nếu hiệu giá ASLO bình thường nhưng nghi bị thấp tim, cần làm các xét nghiệm khác nhau : antistreptokinaza, antihyalurodinaza, streptococcal desoxyribonucleaza B hoặc streptococcal diphotphopyridin nucleotidaza.
+
++Điện tâm đồ : khoảng PR kéo dài ra nhưng không phải là dấu hiệu của bệnh, bình thường PR ở các lứa tuổi như sau : dưới 3 tuổi : 0,16 giây; 4 – 12 tuổi : 0,17 giây; trên 12 tuổi : 0,18 giây.
+
++X quang :
+- giúp cho chẩn đoán viêm màng tim, viêm cơ tim,
+- tỷ lệ “tim - ngực” ở trẻ lớn là 50%, tim to độ : 50 – 55%, độ II : 55 – 60%, độ III : 60%.
+IV.Tiến triển
++Nếu không điều trị g.đoạn cấp  thường kéo dài 2 hoặc 3 tuần,
+- các triệu chứng viêm khớp, viêm tim sẽ khỏi, các triệu chứng sinh hóa cũng trở lại bình thường
+- nhưng bệnh nhi hay mắc các đợt tái phát, đặc biệt trong 2 năm đầu sau lần mắc bệnh;
+- mỗi lần tái phát các thương tổn ở van tim lại nặng lên, sau 5 năm khả năng bị tái phát trở nên hiếm.
+
++Thấp tim tiến triển
+- là trường hợp bệnh tiến triển liên tục, các đợt tái phát liên tiếp không ngớt rồi dẫn đến tử vong trong vài năm do các thương tổn ở van tim.
+- Riêng đối với bệnh múa giật có tiến triển khác, các triệu chứng thần kinh, tự khỏi trong vòng 2 – 6 tháng, bệnh có thể để lại di chứng tim, nếu được điều trị cơn cấp phát khỏi nhanh, các cơn tái phát sẽ không xảy ra nếu được phòng bệnh tốt.
+- Nhìn chung viêm tim thường diễn biến như sau : viêm cơ tim, viêm màng tim khỏi hoàn toàn, thương tổn nội tâm mạc có thể khỏi nếu điều trị đúng phương pháp.
+
+V.Chẩn đoán
+1.Chẩn đoán không khó đối với trường hợp điển hình,
+nhưng các biểu hiện lâm sàng nhiều khi giống những bệnh khác và
+không có xét nghiệm lâm sàng đặc hiệu,
+vì vậy có thể chẩn đoán bệnh quá mức hay bỏ sót bệnh.
+vì thế Jone 1944 đề ra tiêu chuẩn chẩn đoán và được các chuyên gia của Hội tim mạch Hoa Kỳ sau này thông qua 1966, 1982, 1986.
+
+2.Tiêu chuẩn chẩn đoán của Jone gồm 5 triệu chứng chính và 7 triệu chứng phụ.
++Năm triệu chứng chính :
+- viêm khớp,
+- viêm tim,
+- múa giật,
+- cục dưới da,
+- ban vòng.
+
++Bảy triệu chứng phụ :
+- sốt,
+- đau khớp,
+- khoảng PR dài
+- C – protein dương tính,
+- tốc độ lắng máu cao,
+- tiền sử có thấp tim,
+- có dấu hiệu nhiễm l.c.khuẩn như hiệu giá ASLO cao một cách đáng kể hoặc trẻ mới mắc bệnh tinh hồng nhiệt thời gian gần đây.
+
++Cũng có mặt hạn chế.
+- Ví dụ : triệu chứng cục dưới da, ban vòng ít gặp, triệu chứng viêm khớp là triệu chứng quan trọng nhất nhưng trong một số trường hợp viêm khớp không có tính chất điển hình.
+- Có trường hợp bệnh nhi mắc viêm tim mà không có triệu chứng viêm khớp.
+- Có trường hợp viêm khớp không điển hình phải loại trừ viêm khớp mủ hoặc trường hợp viêm cơ tim hay viêm màng tim phải loại trừ nguyên nhân do virut. Tóm lại cần phải chẩn đoán bệnh thấp tim một cách thận trọng để điều trị kịp thời.
+
+VI.Điều trị :
+*điều trị nhiễm khuẩn liên cầu gây bệnh và điều trị các triệu chứng lâm sàng.
+
+1.Điều trị nhiễm khuẩn
++cho đến nay pénicilline vẫn là loại KS tốt nhất để diệt l.c.khuẩn.
++Pénicilline với liều lượng
+ - 600.000 đơn vị/ngày cho trẻ < 6 tuổi;
+ - 1.000.000 đơn vị/ngày cho trẻ > 6 tuổi dùng trong 10 ngày.
++Nếu bệnh nhi dị ứng với pénicilline thì thay bằng érythromycine.
+
+2.Điều trị viêm:
++Aspirine và corticoide
+- Cả 2 có tác dụng giống nhau làm giảm viêm chứ không khỏi bệnh.
+- Corticoide có tác dụng tốt hơn đối với hiện tượng viêm xuất tiết trong giai đoạn cấp nên được dùng trong các trường hợp nặng.
+- Trường hợp viêm tim nhẹ chưa có thương tổn tim:
+  aspirine 100mg/kg/ngày trong 7 ngày, sau cho 60mg/kg/ngày trong 3 – 4 tuần.
+- Trường hợp viêm tim nhẹ có tiếng thổi tâm thu rõ:
+  perdnisolone 2mg/kg/ngày trong 10 ngày,
+  tiếp đó thay dần bằng aspirine 100mg/kg/ngày trong 1 – 2 tuần
+  rồi rút 1 xuống 60mg/kg/ngày trong 5 – 7 tuần.
+- Trường hợp viêm tim nặng có triệu chứng suy tim:
+  prednisolone 2mg/kg/ngày trong 2 tuần, cứ 2 tuần giảm liều lượng 1 lần.
+  Sau đó tiếp tục điều trị bằng aspirine 100mg/kg/ngày trong 2 tuần rồi 60mg/kg/ngày.
+- Điều trị suy tim là phần điều trị quan trọng.
+
++Digitalis: có tác dụng làm tăng cường độ và nhịp độ của cơ tim bị suy.
+- Tuỳ theo tình trạng bệnh và tuổi của bệnh nhi mà dùng thuốc.
+- Liều lượng:
+ Thuốc digoxine (coragixine) dùng liều tấn công 0,04 – 0, 06mg/kg.
+ Lần thứ 2 dùng liều duy trì bằng 2/3 – 2/5 liều tấn công (uống),
+ hoặc tiêm tĩnh mạch lanatoside C (cedilanid) liều lượng bằng 2/3 liều digoxine, sau lần tiêm đầu, cho uống digoxine.
+- Thuốc digitalis là thuốc chữa suy tim có hiệu quả cao nhưng cũng dễ ngộ độc vì giữa “liều có hiệu quả” và “liều độc” có một khoảng cách nhỏ.
+- Khi dùng thuốc digitalis phải theo dõi bệnh nhi, để phát hiện các triệu chứng ngộ độc như buồn nôn, nhức đầu, mạch chậm, ngoại tâm thu…
+
++Các thuốc lợi tiểu như
+- furosemide (lasix) 1mg/kg tiêm tĩnh mạch hoặc
+- axit ethacrynic (edecrine viên) 50mg;
+- uống ½ - 1 viên/ngày hoặc hypothiazide 2 – 4mg/kg/ngày.
+
++Nếu bệnh nhân khó thở thì cho thở oxy.
+
++Cần cho bệnh nhân nằm nghỉ tại giường trong một thời gian.
+
++Điều trị múa vờn :
+- để bệnh nhân nằm nghỉ ở nơi yên tĩnh trấn an gia đình bệnh nhân,
+- cho uống gardenal 0,05 – 0,10g/ngày hoặc haloperidol (Sharker và cộng sự) 1973 hoặc tétrabenzine (Hawke và Niarse 1977),
+- tiêm pénicilline 1.200.000 đơn vị/ngày trong 10 ngày.
+
+
+VII.Phòng bệnh
+*có tầm quan trọng đặc biệt để tránh cho bệnh nhi các di chứng nguy hiểm.
+P.pháp phòng bệnh tiên phát (cấp I) : người thầy thuốc điều trị ngay từ đầu tất cả những trường hợp viêm họng do Lck-A.
+P.pháp phòng bệnh thứ phát (cấp II): người thầy thuốc điều trị các đợt tái phát thấp tim vì các đợt tái phát làm cho bệnh tim nặng thêm lên.
+
++Phòng bệnh tiên phát (cấp I)
+dùng benzathine pénicilline thay bằng érythromycine 40mg/kg/ngày chia làm 2 lần nếu trẻ dưới 25 tháng,
+trẻ lớn hơn : érthromycine 250mg x 4 lần một ngày.
+
++Phòng bệnh tái phát (cấp II) :
+-Áp dụng cho tất cả các bệnh nhân có tiền sử thấp tim hoặc đang bị bệnh tim do thấp,
+ khi đã chẩn đoán là thấp tim, cần phải tiến hành phòng tái phát ngay,
+ sau khi đã điều trị nhiễm liên cầu bằng pénicilline 1.000.000 đơn vị/ngày trong 10 ngày.
+-Cho bệnh nhân nhi tiêm benzathine pénicilline (BP) 1.200.000 đơn vị, tiêm 1 lần trong 1 tháng,
+nếu trẻ dưới 30 kg, benzathine pénicilline : 600.000 đơn vị.
+-Một số thầy thuốc chỉ định tiêm 3 tuần 1 lần hoặc uống phenoxyméthyl penicilline (PP) 250mg, 2 lần/ngày, uống hàng ngày.
+
++T.gian p.bệnh là 5 năm, tốt nhất phòng đến năm 18 tuổi, đối với thể có viêm tim, phải phòng tái phát đến 25 tuổi.
+-Trong suốt thời gian phòng bệnh, thầy thuốc phải kiểm tra định kỳ, thuyết phục bệnh nhân và gia đình tiêm phòng đều đặn và giáo dục cách nâng cao sức khỏe toàn thân.
+-Từ năm 1984, Tổ chức y tế thế giới triển khai “chương trình phòng bệnh” trên nhiều nước.
+Việt Nam có tham gia và đạt được kết quả đáng kể.

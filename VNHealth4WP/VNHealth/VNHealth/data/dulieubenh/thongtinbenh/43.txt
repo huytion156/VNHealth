@@ -1,0 +1,67 @@
+﻿1. Nguyên nhân và triệu chứng
+      _Ho ra máu là hiện tượng:
+        +Máu đỏ tươi có bọt, có nguồn gốc từ phổi,
+        +Ra sau một cơn ho (khác với nhổ, nôn ra máu có thể do ng.nhân khác).
+      _Phân biệt (với Nôn):
+        +Máu đỏ tươi, ra ngoài mớ̃i đông, có thể kèm bọ (Nôn: thường đen, cục, lẫn dịch dạ dày)
+        +Nghe phổi có ran ẩm, nổ (Nôn: không ran)
+        +Có đuôi khái huyết (Nôn không có)
+        +Biến chứng nguy hiểm nhất là ngạt thở do sặc máu và trụy mạch do mất máu.
+     _Phân loại:
+        +Mức nhẹ: <100 ml/24h.
+        +Mức vừa: 100-200ml/24h.
+        +Mức nặng:>300ml/24h.
+
+
+2. Cách chữa trị thông thường
+     _Nhẹ:(<100ml/24h)
+        +Siro codein 2% PO 15ml/lần, 1-2 lần/24h
+        +Gardenal 0, 1 PO 1-2v/24h
+        +Glanduytrin 5dv x1ong pha 20ml DW5 IV chậm
+     _Vừa:(100-200ml/24h)
+        +Glanduytrin 10-15dv pha 300ml DW5 truyền IV 30giot/p
+        +Gardenal 0, 1 IM 1-2 ống hay Seduxen 5mg IM 1-2 ong
+        +KS phòng bội nhiễm
+     _Nặng:(>300ml/24h)
+        +D.t như thể vừa, thêm
+        +Truyền máu
+        +Bơm hơi phúc mạc 600ml
+     _Hiện nay thường làm:
+        +Thở Oxy 2-4l/p, tăng SpO2 nhưng tránh kích thích họng hầu làm ho thêm
+        +Diazepam 5mg PO
+        +VitaminK 5mg x 4-8 ống
+        +Transamin 0.25 IV x 2-4 ống
+        +Pitressin (20dv/ml) truyền IV 0, 2-0, 4 dv/p đến khi có đáp ứng
+        +Glypressin (Terlipressin) lọ 1mg, IV 1mg/4 giờ, tăng dần liều lên đến 1, 5mg
+        +Truyền máu 2-4 dv PRBC trong vòng 2-4h.
+        +Giảm ho: Phenergan với codeine 5ml PO q4-6h giảm ho khi cần . Chống chỉ định khi khái huyết mức nặng (>600ml/48h).
+        +Soi p.quản bằng ống cứng hoặc ống mềm để chẩn đoán và xử trí luôn bằng đặt spongel.
+        +Đặt NKQ Carlen khi có chỉ định để phân lập và thông khí riêng từng phổi
+        +Cho KS cân nhắc theo kinh nghiệm nếu nghi viêm phế quản hay nhiễm trùng phối hợp khái huyết. Streptomicin có td diệt khuẩn nhanh nhất, nhưng kháng nhanh nhất. Nên cho khi cấp cứu...
+
+3. Cách phòng tránh
+    Tránh xa các môi trường ô nhiễm, bảo vệ cơ thể trước những tác động như bụi, khí độc, ...
+
+4. Thông tin thêm
+  Điều dưỡng
+     _ T.dõi sinh hiệu: q1-6h. Huyết áp và mạch đo theo tư thế bid.
+     _ Hoạt động:
+        +Tại giường với ghế (bô) đi cầu tại giường.
+        +Cho nằm nghiêng phía xuất huyết ở dưới và tư thế Trendelenburg.
+        +Với khái huyết mức nặng: Bất động tuyệt đối tránh di chuyển.
+    _Chăm sóc:
+        +Xác định lượng đờm-máu khạc nhổ ra, hút khi cần.
+        +Mask O2 100%, oximeter.
+        +An thần & giảm đau.
+        +Chuẩn bị sẵn có để dùng ống NKQ loại có 2 nòng.
+        +Ăn uống: ăn lạnh
+        +Động viên, giải thích: trấn an với cả BN và người nhà.
+        +Truyền dịch: d.d muối 0, 9% 0.5-1 L/h x 1-3 lit (kim_16 gauge), sau đó truyền máu PRBC, tư thế nằm Foley.
+        + Gọi Bác sĩ nếu:
+           *90> H.áp t.thu>160,
+           *60> HA tâm trương >90;
+           *50> Mạch >130,
+           *10> thở >25;
+           *T >38.5C;
+           *O2 Sat <90%
+

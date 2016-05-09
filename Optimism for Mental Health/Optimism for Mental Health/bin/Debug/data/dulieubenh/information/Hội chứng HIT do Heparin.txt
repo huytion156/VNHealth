@@ -1,0 +1,28 @@
+﻿I.Tổng quan
++ Đặc điểm
+- Giảm tiểu cầu do cảm ứng heparin là kiểu cảm ứng thuốc giảm tiểu cầu thường gặp nhất. No gây ra boi một tu kháng thể IgG  phản ứng lai với yếu tố tiểu cầu 4 (PF4) có trên bề mặt tiểu cầu, thường trong một phức chất với heparin.
+Nguy cơ về HIT cao một cách đáng kể với heparin bình thường so với heparin trọng lượng phân tử thấp, và nguyên nhân không rõ ràng, cao hơn trên bệnh nhân phẫu thuật. Sự tương tác của kháng thể với PF4 sinh ra prothrombotic, phong thich vào tuần hoàn.
+
+II.Chẩn đoán
++ 3 tiêu chuẩn
+1. giảm tiểu cầu xuất hiện trong thời gian sử dụng heparin.
+2. Test + tự kháng thể với yếu tố tiểu cầu 4, thường trong một phức chất với heparin.
+3. Tắc động mạch và tĩnh mạch.
+
+III.Triệu chứng:
++ Lâm sàng
+ HIT điển hình phát triển trong thời gian sự sử dụng heparin, nguy cơ tăng lên sau 4 ngày đầu tiên. Thường xuyên nhất, đầu tiên tìm thấy là giảm tiểu cầu không triệu chứng
+. Tuy nhiên, tắc cả động mạch lẫn tĩnh mạch có thể xuất hiện.
+
++ Kết quả XN
+XN có thể xác nhận chẩn đoán, với kết quả tìm thấy tự kháng thể với tiểu cầu đã rửa hoặc với kháng nguyên PF4.
+
++ Phân biệt
+HIT phải được phân biệt với các kiểu giảm tiểu cầu miễn dịch khác, do các thuốc khác. Sự phân tích kháng thể HIT có ich trong việc phân biệt này.
+
+IV.Điều trị
++ Đặc hiệu
+Một khi hội chứng HIT đã được chẩn đoán, heparin phải được dừng lại. Boi vi nguy có về tắc động mạch có thể cao và tỷ lệ chết cao, thay thế loại thuốc chồng đông. Thuốc ức chế trombin trực tiếp như argatroban và lepirudin là có hiệu quả.
+
+Tiên lượng
+Hội chứng HIT thường tự hạn chế, và không có phản ứng kiểủ trí nhớ tới thay đổi xa với heparin. Chià khoá là nhận dạng hội chứng và ngưng heparin. Tuy nhiên, hội chứng là nghiêm trọng với một tỷ lệ chết xấp xỉ 5% vi tắc động mach.

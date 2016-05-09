@@ -1,0 +1,61 @@
+﻿I. Định nghĩa:
+     * AV block độ I, đúng mức hơn gọi là dẫn truyền AV kéo dài, được đặc trưng cổ điển bởi một khoảng PR> 0.20s. Thường không điều trị gì.
+
+
+     *AV block độ II liên quan đến rối loạn hệ thống dẫn truyền của tim, nên một vài sóng P yếu hay thiếu đã không dẫn truyền tới thất để phát sinh hay tạo ra phức hợp QRS.
+
+
+          + Được chia thành hai loại:
+               - Mobitz I AV block độ II hay Wenckebach block, có đặc điểm đoạn PR kéo dài dần làm đoạn RR ngắn dần cho tới khi mất một sóng P để truyền dẫn tới thất.(h1)
+
+
+               - Mobitz II AV block độ II có đặc điểm bất thình lình block sóng P mà không có biến đổi hay kéo dài đoạn PR.(h2)
+
+
+II. Lâm sàng
+     a.Bệnh sử:
+          + TC Mobitz I Block:
+               - Thông thường không triệu chứng
+               - Hiếm hơn, bệnh nhân có thể có kinh nghiệm như chóng mặt, hoa mắt, choáng váng, đầu óc quay cuồng, hay ngất.
+               - Bệnh nhân cũng có thể kết hợp triệu chứng của thiếu máu cơ tim hay viêm cơ tim và một bệnh sử bệnh tim trước đó.
+
+          + TC Mobitz II Block
+               - Có thể không triệu chứng nhưng thường là chóng mặt, hoa mắt, choáng váng, đầu óc quay cuồng, hay ngất.
+               - Bệnh nhân cũng có thể kết hợp triệu chứng của thiếu máu cơ tim và một bệnh sử bệnh tim trước đó.
+
+     b. Triệu chứng thực thể:
+          + Trong AV block độ II sẽ bộc lộ nhịp không đều và thường đi kèm nhịp tim chậm.
+          + Bệnh nhân có thể có dấu hiệu rõ ràng của giảm tưới máu, như hạ huyết áp và thay đổi trạng thái tinh thần.
+          + Bệnh nhân có kèm nhồi máu cơ tim, có thể khám thấy dấu hiệu rõ ràng của MI cấp.
+
+     c. Nguyên nhân: do...
+          + Mobitz I Wenckebach block có thể bởi nhồi máu cơ tim dưới cấp, tinh trang kích thích hay tăng trương lực phó giao cảm, hay quan hệ với độc tính digitalis, beta-blockers hay calcium channel blockers.
+          + Mobitz II block nguyên nhân thông thường nhất do nhồi máu cơ tim cấp (trước hay dưới).
+
+III. Xét nghiệm: kiểm tra...
+          + Có thể kiểm tra điện giải máu và mức digoxin ở bệnh nhân dùng digoxin.
+Enzyme tim chỉ định với bệnh nhân nghi ngờ thiếu máu cơ tim, đặc biệt với loại block độ II.
+          + Chẩn đoán hinh ảnh:
+               - Lẽ thường chẩn đoán hình ảnh không yêu cầu, mặc dầu XQ phổi có thể kết hợp có dấu hiệu và triệu chứng của thiếu máu cơ tim.
+          + XN khác:
+               - ECG và monitoring tim là thích hợp cho bệnh nhân AV block độ II .
+
+IV. Điều tri
+     a. Xử trí trước nhập viện:
+          + AV block độ II hiếm khi yêu cầu trị liệu đặc biệt ngoại trừ trường hợp có triệu chứng do nhịp tim chậm. Trường hợp nay ACLS chuẩn: hướng dẫn dùng atropine và điều nhịp qua da.
+
+     b. Xử trí tại khoa HS:
+          + Mobitz I Block:
+               - Không yêu cầu xử trí HS đặc biệt.
+               - Với bệnh nhân kết hợp thiếu máu cơ tim sẽ điều trị với thuốc chống thiếu máu cơ tim thích hợp.
+               - Những thuốc tác động trên nút AV cần phải tránh.
+               - BN với triệu chứng nhịp tim chậm sẽ điều trị với atropine và điều nhịp qua da, theo như hướng dẫn ACLS chuẩn.
+               - Chú ý khi dùng atropine với BN nghi ngờ nhồi máu cơ tim cấp bởi vi atropine làm tăng VT/VF trong trường hợp này.
+
+          + Mobitz II Block:
+               - Yêu cầu xử trí HS linh hoat hơn.
+               - Những thuốc tác động trên nút AV cần phải tránh và cho thuốc chống thiếu máu thích hợp.
+               - Để ngăn ngừa dẫn đến block tim hoàn toàn các bệnh nhân này cần dùng điều nhịp qua da kể cả khi không triệu chứng.
+               - Những trường hợp có triệu chứng và những trường hợp sử dụng điều nhịp qua da không hiệu quả sẽ phải hội chẩn tim mạch cấp để sử dụng điều nhịp đặt trong mạch máu bằng dây dẫn, một số trường hợp rất có hiệu quả.
+               - Bệnh nhân chua ổn định cung có thể điều trị với atropine, cho du dieu nay không hữu ích lắm trong Mobitz II block và chú ý khi dùng atropine trong trường hợp nghi ngờ nhồi máu cơ tim cấp.
+XQ ngực sẽ làm để xác định vị trí và loại trừ biến chứng của thủ thuật.

@@ -1,0 +1,332 @@
+﻿I.Đại cương
+1.Là bệnh nhiễm khuẩn cấp tính ở ruột
+do trực khuẩn Shigella gây ra,
+
+
+đây là một bệnh tiêu chảy nguy hiểm nhất trong các loại bệnh tiêu chảy
+và là một bệnh phổ biến ở các nước nhiệt đới đang phát triển như nước ta,
+có thể xảy ra các vụ dịch lớn, tỷ lệ tử vong còn cao có nơi lên đến 15%.
+Biểu hiện bệnh lý thay đổi từ thể tiêu chảy nhẹ
+đến các thể bệnh nặng với hội chứng lỵ và hội chứng nhiễm trùng độc.
+
+2.Nguyên nhân
+a.Đặc điểm vi khuẩn
+Shigella là một loại trực khuẩn gram âm,
+không di động, thuộc họ Enterobacteriaceae.
+
+
+Dựa vào đặc điểm kháng nguyên thân O và các đặc tính sinh hóa, người ta chia là 4 nhóm chính A,B,C,D.
+Kháng nguyên O đặc hiệu type, ngoài ra còn có các kháng nguyên K là kháng nguyên bề mặt, mỗi nhóm chính được phân ra nhiều type huyết thanh
+- Nhóm A: S.dysenteriae, nhóm này bao gồm 10 type huyết thanh khác nhau, trong đó S.dysenteriae type 1 ( trực khuẩn Shiga) có một ngoại độc tố hoạt tính mạnh gây bệnh nặng hơn các type khác và có thể gây dịch .
+- Nhóm B : S.flexneri có 8 nhóm huyết thanh
+- Nhóm C: S.boydii, bao gồm 18 type huyết thanh, về mặt sinh hóa nó rất gần với nhóm B, nên tồn tại phản ứng chéo với nhóm B
+- Nhóm D : S.sonnei, chỉ có một type huyết thanh nhưng có nhiều sinh type .
+
+b.Độc tố
+Các loại Shigella có nội độc tố có hoạt tính sinh học giống như nội độc tố của các loại enterobacteriaceae khác
+Ngoài ra S.dysenteriae I ( trực khuẩn Shiga) còn tiết ra ngoại độc tố với một lượng đáng kể gọi là Shigatoxine,
+ngoại độc tố này có khả năng ức chế không phục hồi sự sinh tổng hợp protein của tế bào, có tác dụng như một enterotoxine .
+Shigella flexneri và sonnei cũng sinh ngoại độc tố nhưng số lượng ít hơn . 
+Ngoại độc tố gồm 2 bán đơn vị là phần gắn dính và phần hoạt hóa.
+Sau khi được tiết ra, độc tố sẽ gắn dính vào cảm thụ thể ( có bản chất là glucoprotein ) ở màng tế bào.
+Sau đó phần hoạt hóa được chuyển vào bên trong tế bào và ngăn cản sự tổng hợp protein ở phần 60 S của ribosome trong bào tương .
+
+c.Sức đề kháng
+Số lượng vi khuẩn thải ra trong phân người bị lỵ khoảng106 - 108 vi khuẩn / gram phân.
+Hiện nay, chưa rõ S.dysenterie tồn tại bao lâu ở môi trường bên ngoài.
+Riêng loại S.sonnei có thể sống trong áo quần vấy phân từ 9 - 46 ngày, trong nước đến 6 tháng, trong các thức ăn từ 3 tuần đến 6 tháng.
+Ở nhiệt độ < 25 độ chúng có thể sống lâu hơn.
+Shigella có thể sống trên 30 ngày ở trong sữa, trứng, chúng có thể tồn tại 3 ngày trong nước biển
+
+II.Dịch tễ
+1.Phân bố địa dư và tình hình bệnh tật
+Bệnh do Shigella thấy khắp thế giới,
+hiện nay vẫn còn là bệnh quan trọng tại các nước thiếu vệ sinh
+và có tình trạng suy dinh dưõng phổ biến
+và là bệnh nặng đe dọa tử vong nhiều hơn các loại tiêu chảy khác.
+Trên thế giới hàng năm có khoảng 140 triệu trường hợp mắc bệnh
+và khoảng 600 ngàn trường hợp tử vong .
+
+Ở Việt nam trước năm 1968 chủng S.flexneri là chủng phổ biến,
+từ 1968 đến 1980 là chủng S.dysenteria
+và từ 1980 đến nay S.flexneri trở thành chủng ưu thế,
+lý do tại sao có sự chuyển chủng hiện nay chưa rõ .
+
+2.Phương thức lây truyền 
+Là đường miệng, chỉ cần 10-100 vi khuẩn cũng đủ gây bệnh ở người lớn tình nguyện mạnh khoẻ.
+Nếu 200 vi khuẩn thì có thể gây bệnh ở 25 %, nếu 105 vk thì có thể gây bệnh ở 75 %.
+Điều này cho thấy tính chất lây truyền của lỵ trực trùng rất mạnh .
+Bệnh thường lây truyền trực tiếp từ người sang người qua trung gian tay bẩn hoặc vật dụng bị nhiễm,
+có thể lây gián tiếp qua thức ăn nước uống.
+Ruồi đóng vai trò quan trọng trong cơ chế truyền bệnh
+
+3.Yếu tố nguy cơ
+Tình trạng vệ sinh kém, chỗ ở đông đúc,
+đặc biệt nơi có nhiều trẻ em suy dinh dưỡng,
+sự mệt mỏi, thay đổi thời tiết, thay đổi chế độ ăn ....
+
+4.Nguồn bệnh
+Người là nguồn bệnh duy nhất, có thể người bệnh, người đang thời kỳ hồi phục, người lành mang trùng.
+Nếu không điều trị, người bệnh có thể thải vi khuẩn kéo dài từ 7-12 ngày.
+Tuy vậy ở những trường hợp mãn tính, đặc biệt ở những trẻ suy dinh dưỡng thì thời gian thải khuẩn có thể kéo dài hơn 1 năm
+
+5.Tuổi - giới
+Đối tượng mắc bệnh thường gặp là trẻ em 1- 4 tuổi
+ở người lớn bệnh thường xảy ra ở nữ hơn nam có lẽ do tiếp xúc gần gũi trẻ em .
+
+6.Mùa
+Tại vùng có dịch lưu hành thì bệnh có cao điểm vào mùa hè thu
+
+7.Tình hình kháng thuốc
+S.dysenteria kháng một số kháng sinh như sulfamide, streptomycin, tetracyclin, chloramphenicol.
+Ngoài ra, tỷ lệ đề kháng Ampicilline, cotrimoxazol, acide nalidixic tăng lên.
+
+III.Sinh bệnh học
++Do tính chất đề kháng với acid dạ dày, shigella dễ dàng xâm nhập vào đường tiêu hóa.
+Sau thời gian ủ bệnh 24 - 72 giờ, vi khuẩn vào ruột non và đến xâm nhập vào tế bào thượng bì ruột già, tăng sinh trong nội bào gây nên phản ứng viêm cấp tính lớp niêm mạc đại tràng.
+
++Giai đoạn này tương ứng với thời kỳ khởi phát với các triệu chứng nhiễm trùng không đặc hiệu, đau bụng, ỉa chảy .
+Sau đó lớp tế bào thượng bì chứa vi khuẩn bị huỷ hoại và bong ra tạo nên những ổ loét nông, trên nền lớp niêm mạc viêm lan tỏa chứa nhiều chất nhầy và bạch cầu đa nhân.
+
++Giai đoạn này bệnh nhân thải nhiều vi trùng theo phân ra ngoài, thương tổn gây ra phân có máu .
+Tổn thương lúc đầu khu trú ở đại tràng Sigma và trực tràng sau đó có thể lan lên phần trên của đại tràng, trong trường hợp nặng viêm lan tỏa toàn bộ khung đại tràng, lan đến đoạn cuối của hồi tràng, tiêu chảy do rối loạn hấp thu nước, điện giải do viêm đại tràng và do độc tố ruột gây ra.
+Vai trò đề kháng của cơ thể đối với Shigella hiện nay chưa được rõ.
+
++Acid dạ dầy và mật chưa phải là hàng rào bảo vệ chính, trái lại tăng nhu động ruột trong lúc bị bệnh được xem là cơ chế chính của thải khuẩn.
+Các loại thuốc cầm tiêu chảy, thuốc chống co thắt là những loại thuốc làm cản trở thải khuẩn là nguyên nhân gây ra các biến chứng nghiêm trọng.
+Vi khuẩn chí bình thường của ruột cũng đóng vai trò ức chế sự phát triển của vi khuẩn .
+
++IgA cũng được xem là yếu tố bảo vệ của cơ thể chống lại lỵ.
+Các kháng thể huyết thanh đặc hiệu đối với kháng nguyên O được phát hiện thấy trong huyết thanh 1- 2 tuần sau khi bị bệnh.
+Đáp ứng miễn dịch tế bào trong và sau khi bị bệnh chưa được rõ.Khảo sát trong ống nghiệm cho thấy các Lymphocyte mang bộ phận thụ Fc, các đơn bào và bạch cầu đa nhân có thể tiêu diệt được Shigella với sự hiện diện của kháng huyết thanh Shigella .
+
++Khi bị bệnh, niêm mạc ruột già bị lóet lan rộng với chất xuất tiết chứa tế bào niêm mạc ruột già bị bong, bạch cầu đa nhân, hồng câù.
+Tổn thương lóet trông giống như màng giả.
+Các tế bào nội mạc mao động mạch va mao tĩnh mạch bị phù nề kèm theo bạch cầu đa nhân di chuyển trên thành mạch.
+Vi khuẩn có thể thấy được trong tế bào chất
+
++Ở trẻ em nhiễm S.dysenteria type 1 với viêm đại tràng nặng có thể xuất hiện hội chứng huyết tán ure máu cao ( vỡ hồng cầu và lắng đọng các cục fibrin gây tắc mạch máu cầu thận ).
+Trẻ bú mẹ chống lại lỵ trực trùng tốt hơn nhờ kháng thể có trong sữa mẹ và những yếu tố chống nhiễm trùng.
+
+IV.Lâm sàng 
+1.Thể điển hình
+a.Thời kỳ ủ bệnh :
+Không có triệu chứng lâm sàng,
+thường kéo dài 12- 72 giờ ( trung bình 1- 5 ngày ).
+
+b.Thời kỳ khởi phát :
+ Bệnh khởi phát đột ngột với các triệu chứng không dặc hiệu như sôt cao đột ngột, ớn lạnh,
+ đau nhức toàn thân, nhức đầu, mệt mỏi, biếng ăn, buồn nôn kèm theo tiêu chảy và đau bụng
+
+c.Thời kỳ toàn phát :
+ Bệnh diễn biến thành bệnh cảnh lỵ đầy đủ đi cầu phân nhầy máu
+ với đau bụng quặn dọc khung đại tràng,
+ mót rặn là cảm giác bệnh nhân muốn đi cầu
+ nhưng không đi được, mót rặn do co thắt cơ trơn hậu môn.
+ Mót rặn nhiều có thể làm sa trực tràng và
+ trong những thể nặng gây liệt cơ vòng hậu môn làm hậu môn giãn rộng.
+ Đi cầu nhiều lần trong ngày từ 20-60 lần/ ngày,
+ phân ít, có nhầy máu, về sau không có chất phân.
+Trong thời kỳ này bệnh nhân còn sốt nhưng nhẹ hơn,
+người mệt mỏi, thể trạng suy sụp, mặt hốc hác, môi khô lưỡi vàng bẩn.
+
+d.Thời kỳ lại sức:
+ thường sau 1-2 tuần , nếu không điều trị bệnh cũng có thể tự cải thiện.
+ Ở thể nặng thời kỳ lại sức kéo dài, thể tôí cấp có thể đưa đến hôn mê và tử vong
+
+2.Thể nặng tối cấp
+Xẩy ra với sốt cao run lạnh, lơ mơ, đi cầu ra máu ồ ạt,
+ người suy kiệt, rối loạn nước và điện giải dẫn đến suy tuần hoàn, suy thận,
+ dễ gây tử vong thường do S. dysenteria type 1.
+
+3.Thể lỵ kéo dài hay thể lỵ suy kiệt
+Trong một số vụ dịch, có một số bệnh nhân bị lỵ kéo dài trên 2 tuần, thường là trẻ suy dinh dưỡng hay người già suy kiệt, bị đề kháng thuốc do S.dysenteria type 1.
+ Lúc đầu hội chứng lỵ rất điển hình trẻ đi cầu phân nhầy máu, mót rặn, số lần đi đến vài chục lần, lượng phân ít trẻ mót rặn nhiều đến nỗi sa trực tràng, cơ vòng hậu môn bị liệt và hậu môn nở rộng.
+ Những bệnh nhân này nhanh chóng bị phù thiếu máu và suy kiệt.
+ Sốt trong thể này thất thường lúc cao lúc nhẹ, lúc hạ thân nhiệt.
+ Diễn biến thể này đưa đến các biến chứng như: phản ứng tuỷ gây tăng bạch cầu máu, nhiễm trùng máu và hội chứng huyết tán ure máu cao.
+
+4. Thể không điển hình
+a.Thể ỉa chảy
+Trong thể này, triệu chứng ỉa chảy là chính bệnh khởi với đau bụng quặn, sốt cao > 39 độ C,
+ bệnh nhân nhanh chóng bị nhiễm trùng nhiễm độc,
+ sau đó tiêu chảy xuất hiện, phân không thối, về sau phân có thể ít máu.
+ Thể lâm sàng này thường gặp ở trẻ em và hay co giật với tỷ lệ 10- 45 % nếu kèm theo sốt cao.
+ Tuy vậy cũng có trường hợp trẻ không sốt cao nhưng vẫn co giật.
+ Các biểu hiện thần kinh này có thể khiến nhầm với một số bệnh lý của hệ thần kinh trung ương như viêm màng não mủ, viêm não hay hội chứng não cấp.
+ Triệu chứng co giật đôi khi xảy ra trước khi tiêu chảy hay ỉa phân máu gây khó khăn cho chẩn đoán ban đầu.
+ Trong thể này còn có một số triệu chứng khác như hôn mê, thở không đều hoặc ngừng thở giống như thấy trong hội chứng Reye, hoặc lơ mơ lú lẫn, có cổ cứng và có ảo giác ( lúc này thăm trực tràng có khi gặp nhầy máu giúp hướng tới chẩn đoán )
+Trước đây người ta cho rằng các triệu chứng này là do độc tố của Shigella gây ra, nhưng hiện nay ý kiến này bị bãi bỏ.
+ Trong một số trường hợp người ta ghi nhận có hạ Calci và Natri máu cũng như thấy biến đổi về tế bào và protein trong nước não tủy.
+ Cần lưu ý là viêm màng não do Shigella rất hiếm gặp.
+ Trong thể tiêu chảy có thể kèm theo dấu mất nước.
+
+b.Thể nhẹ (thường do nhiễm S.sonnei)
+Biểu hiện với tiêu chảy nhẹ hoặc không có triệu chứng rõ chỉ đau bụng âm ỉ, ỉa chảy thoáng qua và bệnh tự giới hạn .
+
+V.Cận lâm sàng
+1.Công thức máu
+Ít có giá trị chẩn đoán, bạch cầu tăng với đa nhân trung tính tăng,
+ đôi khi kèm phản ứng tuỷ gây tăng bạch cầu máu > 30.000 bc/mm3 máu ( hiếm gặp)..
+
+2.Xét nghiệm phân
+Tỷ lệ phân lập vi trùng từ phân tươi thấp nên cần cấy phân 3 ngày liên tục,
+ kết quả (+ ) đạt được trong 24 h sau khi bệnh nhân có triệu chứng lâm sàng,
+ tỷ lệ cao nhất là trong 3 ngày đầu của bệnh và kéo dài vài tuần nếu không điều trị kháng sinh.
+
+3.Soi trực tràng
+Thấy hình ảnh viêm lan tỏa cấp tính niêm mạc trực tràng với những ổ loét cạn có xuất huyết.
+
+4 .Huyết thanh chẩn đoán:
+Ít có giá trị chẩn đoán trên thực tế
+- Phản ứng miễn dịch huỳnh quang trực tiếp
+- Phản ứng ngưng kết .
+
+VI.Chẩn đoán phân biệt
+Được đặt ra với những bệnh viêm đại tràng
+ có các triệu chứng sốt, đi cầu phân có máu và có bạch cầu trong phân do:
+
+1.E .Coli:
+ có 1 số nhóm E.coli gây hội chứng lỵ
+- EIEC (E.Coli Entero-invasive) bệnh xảy ra ở trẻ em, người lớn, với hội chứng lỵ tương tự như lỵ trực khuẩn.
+- EHEC (E.Coli Entero Hemorragique colitis): gây iả chảy phân nhầy máu.
+ 
+2.Yersinia
+Yersinia enterolytica hiện diện trong nhiều thức ăn như rau, thịt, sữa...
+Bệnh cảnh lâm sàng gồm một hội chứng tiêu chảy có sốt và đau bụng vùng hố chậu phải,
+có khi có máu trong phân có thể xảy ra vãng khuẩn huyết hay nhiễm khuẩn huyết,
+sau giai đoạn nhiễm trùng có thể phát hiện hồng ban dạng nút hay viêm khớp dạng thấp,
+trong giai đoạn ỉa chảy, chẩn đoán dựa vào cấy phân,
+còn huyết thanh chuẩn đoán có giá trị ở thể ngoài đường tiêu hóa,
+bệnh này gây sưng hạch mạc treo ruột, nhất là vùng hồi manh tràng.
+
+3.Campylobacter jejuni
+Hiện diện trong ống tiêu hóa của nhiều động vật và gia cầm,
+lây sang người qua đường tiêu hóa, gây bệnh cảnh viêm ruột,
+hay gặp ở trẻ em sống trong điều kiện vệ sinh kém.
+Thời gian ủ bệnh 1-3 ngày, lâm sàng biểu hiện iả chảy có sốt,
+phân thường có máu kèm đau bụng.
+Bệnh thường diễn biến lành tính.
+
+4.Viêm đại tràng màng giả (do Clostridium difficile )
+Thường xảy ra trong lúc đang dùng một số kháng sinh kéo dài hay sau khi ngừng kháng sinh.
+Lâm sàng: sốt cao 39 -40 độ C kèm toàn thân suy sụp,
+đau bụng dữ dội và ỉa chảy có khi kèm máu và mảng niêm mạc (màng giả).
+Bạch cầu máu tăng, đa nhân trung tính tăng.
+Chẩn đoán dựa vào: soi đại tràng, có thể quan sát thấy niêm mạc đại tràng xung huyết và phù với sự hiện diện màng giả dưới dạng những mảng nhỏ trắng vàng từ vài mm đến vài cm.
+ 
+5.Lỵ amip
+Do Entamoeba histolytica, không sốt, toàn thân ít thay đổi,
+số lần đi cầu thường < 15 lần / ngày,
+phân thành khuôn kèm nhầy máu bám phân và cuối bãi có vài giọt máu.
+Về lâm sàng đôi khi rất khó phân biệt lỵ trực trùng với các nguyên nhân kể trên,
+tuy vậy phần lớn trường hợp đi cầu phân có máu kèm sốt,
+ở các nước đang phát triển được xem do Shigella (vì bệnh phổ biến hơn ).
+
+VII.Biến chứng
+Thường ít xẩy ra ngay cả trường hợp không điều trị trừ ở trẻ nhỏ và người già .
+1.Biến chứng tại chỗ
+a.Hoại tử ruột: Bệnh nhân đi cầu ra một chất dịch nặng mùi kèm mảng hoại tử màu xám hay mầu đen .
+b.xuất huyết : Bệnh nhân đi cầu ra máu tươi nhiều gây thiếu máu cấp
+c.Thủng đại tràng gây viêm phúc mạc ( ít gặp )
+d.Rối loạn vi khuẩn chí (do lỵ kéo dài hoặc dùng kháng sinh kéo dài ) .
+e.Sa trực tràng
+
+2.Biến chứng ngoài ruột
+a.Suy dinh dưỡng trẻ em,
+ là biến chứng thường gặp của lỵ trực khuẩn,
+ tổn thương lóet trong lỵ trực khuẩn là nguồn gốc mất đạm qua tổn thương,
+ do nhu cầu cơ thể làm lành vết lóet và do chán ăn khi bị bệnh.
+Thường gặp biến chứng này khi có đề kháng thuốc.
+ Lỵ trực khuẩn là bệnh tiêu chảy gây suy dinh dương thiếu đạm nhanh nhất.
+ 
+b.Mất nước và điện giải nhất là hạ Natri máu, có thể gây suy tuần hoàn , suy thận
+
+c.Vãng khuẩn huyết:
+Biến chứng với tỷ lệ 8% ở những bệnh nhân bị lỵ tại Dhaka, Bangladesh,
+vãng khuẩn huyết thường do Shigella dysenteria type 1 hơn các chủng khác và tử vong cao (20-50 %)
+đặc biệt đói với trẻ nhỏ trẻ nhỏ trẻ suy dinh dưỡng và người già.
+
+d.Hội chứng huyết tán ure máu cao.
+Biến chứng này xẩy ra với S.dysenteria typ 1 (cũng có thể với S.flexneri) và thường xuất hiện vào ngày cuối của tuần thứ 1, trong khi hội chứng lỵ bắt đầu ổn định.
+Hội chứng này có liên quan đến vai trò của độc tố shigatoxine (Enterohaemorrhagic E coli cũng có độc tố tương tự như shigatoxine và cũng gây huyết tán ure máu tăng).
+Biểu hiện lâm sàng là tự nhiên bệnh nhân da tái xanh, tiểu ít và dần dần vô niệu gây suy thận, thiếu máu, suy tim, xét nghiệm cho thấy Hct giảm nhanh, công thức bạch cầu có hình ảnh giả bach cầu cấp, tiểu cầu giảm .
+Các biến chứng như viêm phổi, viêm âm đạo, viêm kết giác mạc và phát ban ít gặp.
+Hội chứng Reiter gồm viêm khớp, viêm niệu đạo, viêm kết mạc mắt có thể gặp ở người có kháng nguyên tương hợp HLA - B 270 (hội chứng này do chlamydia, bedsonia chứ không phải shigella nhưng hay xãy ra đồng thời với lỵ trực khuẩn).
+
+VIII.Điều trị
+1.Điều trị đặc hiệu
+Ở người mạnh khỏe, bệnh có thể tự giới hạn.
+Kháng sinh có vai trò rút ngắn thời gian bệnh và thời gian thải khuẩn ra phân, dùng kháng sinh ngấm qua niêm mạc ruột.
+Với các kháng sinh như sulfamide, streptomycin, tetracyclin, chloramphenicol không nên dùng vì tỷ lệ kháng thuốc quá cao, còn ampicilline thì chỉ nhậy ở vài địa phương, có thể dùng cotrimoxazol hay acide nalidixic trong khi đợi kết quả kháng sinh đô.
+Do đặc điểm đề kháng nhanh với kháng sinh đang dùng, người ta tìm kiếm các kháng sinh mới và an toàn hơn.
+Hiện một số kháng sinh mới có hiệu quả tốt trong điều trị lỵ trực khuẩn như nhóm fluoroquinolon (ofloxacin, ciprofloxacin), nhóm cephalosporin thế hệ 3 như ceftriaxone.
+Liều lượng : ở người lớn, dùng 1 trong các lọai sau :
+Ofloxacin 200mmg x 2 viên/ ngày
+Ciprofloxacin 500 mmg x2 -3 viên / ngày
+Các fluoroquinolone điều trị lỵ trực trùng người lớn với hiệu quả tốt,
+nhưng trẻ em chưa được đánh giá vì gây tổn thương sụn xương và chậm tăng trưởng xương ở súc vật thí nghiệm.
+Thời gian điều trị kháng sinh là 5 ngày .
+
+2.Điều trị triệu chứng
+- Bồi hoàn nước và điện giải:
+Trong giai đoạn khởi phát tiêu chảy ồ ạt dễ dẫn đến rối loạn nước và điện giải nên cần thực hiện như các trường hợp tiêu chảy khác với dung dịch ORS uống sớm hoặc chuyền dịch nếu mất nước và điện giải nặng.
+Trong trường hợp suy kiệt nặng cần truyền plasma, alvesin, chuyền máu nếu mất máu nhiều.
+- Không được dùng các thuốc làm giảm nhu động ruột và giảm đau, các loại dẫn xuất từ cây thuốc phiện vì không những chúng làm chậm thải vi khuẩn và kéo dài thời gian bệnh mà còn có thể làm cho bệnh nặng thêm, làm ức chế hô hấp, liệt ruột, chướng bụng.
+Trường hợp bệnh nhân đau bụng nhiều, mót rặn nhiều, đe dọa sa trực tràng có thể cho thuốc an thần như diazepam
+- Hạ nhiệt khi sốt cao , kèm theo thuốc an thần phòng co giật.
+
+3.Chế độ ăn
+Bệnh nhân ăn đủ chất dinh dưỡng,
+giáo dục nhân dân bỏ tập quán ăn kiêng khi bị ỉa chảy nói chung
+và đặc biệt là lỵ trực khuẩn vì là một bệnh gây suy dinh dưỡng nhanh nhất.
+
+IX.Tiên lượng
+Tử vong ít xẩy ra đối với trẻ khỏe mạnh, trẻ lớn hay người lớn
+trái lại trẻ suy dinh dưỡng, trẻ nhỏ, người già suy kiệt, bị hạ thân nhiệt mất nước và rói loạn điện giải nặng, suy thận, vãng khuẩn huyết là những yếu tố tiên lượng nặng .
+
+X .Phòng bệnh
+1.Giáo dục y tế
+Quần chúng phải được đả thông về cách lây truyền và cách phòng chống sự lây truyền đó,
+có thể tuyên truyền giáo dục tại nhà, cơ sở y tế, trường học
+
+2.Rửa tay bằng xà phòng
+Có thể là biện pháp hữu hiệu nhất để phòng chống sự lây nhiễm,
+việc này cần được khuyến khích đến từng gia đình,
+rửa tay sạch sau khi đi cầu, sau khi rửa ráy cho một đứa trẻ khi đi cầu sau khi đổ phân của trẻ,
+trước khi nấu ăn và trước khi ăn, nếu không có xà phòng có thể lấy tro để rửa bàn tay.
+
+3.An toàn thực phẩm
+- Không ăn thức ăn sống trừ những rau quả tươi có thể bóc vỏ và ăn ngay sau khi bóc
+- Đun nấu thức ăn cho đến khi chín
+- Ăn thức ăn khi còn nóng hoặc đun lại hoàn toàn trước khi ăn
+- Giữ thức ăn đã nấu và bát đĩa sạch cách riêng với những thực phẩm sống và những bát đĩa có thể bị ô nhiễm .
+- Rửa kỹ tay bằng xà phòng trước và sau nấu ăn
+- Không để ruồi bâu vào thức ăn bằng cách đậy lồng bàn.
+
+4.Nước uống sạch
+Nước cung cấp bằng hệ thống ống phải được clor hóa cẩn thận với hàm lượng cho phép .
+Khi dùng nước lấy từ sông ngòi hồ ao hoặc giếng khơi chỗ lấy nước đó phải đươc bảo vệ để tránh cho người và súc vật làm ô nhiễm, không được để cho nước mưa chảy vào chỗ lấy nước uống, chỗ phóng uế không được phép gần chỗ lấy nước trong phạm vi 10 m và phải dưới nguồn nước.
+Khi nguồn nước tại chỗ chắc chắn bị ô nhiễm phải cung cấp nươc uống tạm thời bằng xe có téc chở nước.
+Gia đình có thể trữ nước trong các chum vại có nắp đậy không cho súc vật đến gần và dùng 1 gáo giêng có cán dài để múc.
+Nước uống phải đun sôi .
+
+5.Thải phân
+Phải bảo đảm xử lý an toàn các chất thải của người, phải có hệ thống hố xí thích hợp với điều kiện địa phương .
+Giáo dục y tế cần nhấn mạnh đến việc từng người phải sử dụng đúng các hố xí kể cả trẻ con,
+cần phải nhấn mạnh đến việc phóng uế ra đất gần nguồn nước.
+ Ở những nơi không có hố xí việc phóng uế phải thực hiện trong những nơi quy định và phải chôn phân
+
+6.Phòng chống sự lây lan tại các cơ sở y tế
+Cung cấp đầy đủ nước và xà phòng để rửa tay
+Rửa tay bằng xà phòng trước và sau khi khám bệnh.
+Không được phân những nhân viên y tế phục vụ những bệnh nhân lỵ vào việc nấu bếp hay phục vụ việc ăn uống chung.
+Phải đổ phân bệnh nhân vào nhà vệ sinh, thường xuyên giặt giũ và tẩy uế quần áo , đồ vải trải giường của bệnh nhân.
+
+7.Không dùng kháng sinh
+Đểø phòng chống lỵ trực trùng, việc này không tỏ ra có kết quả mà còn làm tăng kháng thuốc và làm cho việc điều tra bệnh trở nên khó khăn.
+
+8.Vaccine
+- Các vaccine chứa vi khuẩn chết thường không có hiệu quả.
+- Người ta đã nghiên cứu 1 loại vaccine chứa vi khuẩn sống giảm khả năng gây bệnh bằng cách làm mất khả năng xâm nhập hay chuyển 1 phần nhiễm sắc thể từ E.coli sang shigella .
+Tuy nhiên các phương pháp này chưa cho kết quả hoàn hảo
