@@ -2,6 +2,7 @@ __VNHEALTH - VIETNAMESE HEALTH SOFTWARE__
 ######The solutions to support health monitoring######
 --------------------------------------------------------------------------------------
 
+![GitHub Logo](https://github.com/huytion156/VNHealth/blob/master/OMH%20thi%20QG/Optimism%20for%20Mental%20Health/Optimism%20for%20Mental%20Health/Resources/VNhealth.jpg)
 
 **What is it?**
 
